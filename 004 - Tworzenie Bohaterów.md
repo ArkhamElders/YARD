@@ -1,0 +1,158 @@
+# Tworzenie Bohaterów
+
+## Atrybuty
+Tworzenie własnej postaci to dla wielu graczy jeden z naistotniejszych elementów rozgrywki. Nic w tym dziwnego, w końcu w tym tkwi spora część piękna RPG. Przejdźmy zatem do sedna! Każdego z Bohaterów opisuje sześć głównych cech, zwanych dalej atrybutami. Każdy z nich wpływa bezpośrednio na umiejętności, zakres ruchu, a także rozwój punktów wytrzymałości oraz mistycznej energii podczas awansów.
+
+### Siła [S]
+
+Reprezentuje tężyznę fizyczną Bohatera, zdolność do podnoszenia przedmiotów i broni. Przekłada się na zdolność zadawania wysokich obrażeń podczas walki wręcz oraz odpierania ataków. Stanowi podstawową cechę wszystkich wojowników.
+
+### Kondycja [KON]
+
+Odpowiada za sprawność i wytrzymałość Twojej postaci. Określa jak długo jest w stanie biec lub jak bardzo jest odporna na zadawane obrażenia. Przydaje się także niestrudzonym wędrowcom i tym, którzy wybrali życie w surowej dziczy.
+
+### Zręczność [ZR]
+Podstawowy atrybut złodziejskiego mistrza i prawdziwego łowcy. Zręczność wymagana jest wszędzie tam, gdzie w grę wchodzą szybkie, precyzyjne uderzenia. W razie kłopotów pomaga też szybko ewaukować się w bezpieczny sposób.
+
+### Inteligencja [INT]
+Siła umysłu i zdolność dedukcji bywają nieocenione, zarówno podczas pertraktacji, jak i walki. Bystry Bohater z łatwością znajdzie wyjście z najtrudniejszej nawet sytuacji.
+
+### Wiedza [WIE]
+Mądrość wynikająca ze studiowania ksiąg, błogosławieństwa bóstw i doświadczenia pozwala sprawnie posługiwać się tym, co niezrozumiałe dla innych. Pozwala tworzyć eliksiry, uczyć się zaklęć i zgłębiać arkana pradawnej magii.
+
+### Charyzma [CHA]
+Odrobina uroku osobistego bywa niezwykle przydatna. Pozwala wywierać wpływ na ludzi, napotkane bestie i zwierzęta. To właśnie dzięki charyzmie zdobędziesz nowych sojuszników i kupisz lepsze uzbrojenie za śmieszną cenę.
+
+Określanie wartości atrybutów jest bardzo proste. Bazową liczbę punktów dla każdego z nich określa się za pomocą rzutu 2d6. Następnie do wartości bazowych gracz przydziela dowolną liczbę z łącznej puli 320 puktów. Wartość żadnego atrybutu nie może jednak przekroczyć 80 punktów ze wględu na dalsze modyfikacje wieku i pochodzenia.
+
+## Wytrzymałość
+
+Określa punkty życia Twojej postaci, czyli ilość obrażeń, jakie jest w stanie wytrzymać, nim jej przygoda się zakończy. Obliczanie wytrzymałości to nic innego jak dodanie do siebie wartości siły i kondycji oraz podzielenie wyniku przez dziesięć, zaokrąglając w dół.
+
+**Przykład:** Bohater posiada 70 punktów siły oraz 65 punktów kondycji, co daje łącznie 135 punktów. Dzieląc przez 10 otrzymujemy wartość 13.5, co po zaokrągleniu daje nam wytrzymałość równą 13 pkt.
+
+## Mistyczna energia
+
+Dobry szaman, czy mag powinien nie tylko znać zaklęcia, ale też mieć wystarczająco sprawny umysł, by móc się nimi posługiwać. Dlatego wartość punktów mistycznej energii stanowi suma punktów wiedzy i inteligencji, podzielona przez 10.
+
+**Przykład:** Wiedza i inteligencja postaci wynoszą odpowiednio 75 oraz 85, łącznie 160. Dzieląc ten wynik przez 10, otrzymamy wartość mistycznej energii równą 16. W tym przypadku nie ma również potrzeby zaokrąglania wyniku.
+
+## Ruch
+
+Jak łatwo się domyślić, określa maksymalną ilość odległość, na jaką może się przemieścić Bohater w trakcie swojej rundy. Ruch wykorzystywany jest podczas walki/pościgu. Standardowa podróż, nie wymaga obliczania każdego metra. Zakres ruchu wylicza się analogicznie do wytrzymałości i mistycznej energii, z tym że wartościami bazowymi są kondycja i zręczność.
+
+
+## Determinacja
+
+Określa silną wolę postaci, jej ambicję i upór w dążeniu do celu. Pozwala forsować nieudane rzuty oraz korzystać z dodatkowych akcji podczas walki. Więcej na temat szczegółowego wykorzystania determinacji znajdziesz w opisach umiejętności. Aby obliczyć początkową wartość determinacji [DET], gracz wykonaj rzut 2d6. Jeśli wyrzuciłeś 4 i 5, to zaczynasz przygodę z dziewięcioma punktami. Determinacja stanowiąca motor napędowy Bohatera, jest niezwykle ważną cechą. Jeśli jej poziom spadnie do zera, postać wykonuje każdy test umiejętności z kością karną [KK]. Stan ten utrzymuje się do momentu odzyskania przynajmniej jednego punktu determinacji. 
+
+Istnieje kilka sposobów przywracania punktów. Pierwszym z nich jest odpoczynek. Bohater może rzucić kością 1d4 by przywrócić określoną liczbę punktów. Regeneracja możliwa jest również po wykonaniu ważnego zadania fabularnego, jak na przykład pokonanie lodowego trolla lub odnalezienie zaginionego kupca. W tym wypadku decyzja o ilości regenerowanych punktów należy do Mistrza Gry. Pozostałe sposoby to rozmaite zaklęcia, eliksiry i pieśni wędrownych bardów. Niektóre pozwalają nie tylko zregenerować punkty, ale też zwiększyć tymczasowo ich maksymalną ilość.
+
+Ponieważ rozgrywka w Yard nastawiona jest na rozwój Bohaterów, istnieje możliwość zwiększania maksymalnej wartości punktów determinacji. Na każde pięć poziomów postaci, Bohaterowi przysługuje jeden dodatkowy punkt. Pierwszy na poziomie piątym, kolejny na dziesiątym itd. Zanotuj na Karcie Bohatera wszystkie wartości atrybutów, wytrzymałości, mistycznej energii, ruchu oraz determinacji. Kartę znajdziesz na końcu tego podręcznika.
+
+## Wiek postaci
+
+### Młodość
+
+Dodatkowe 5 pkt do [KON] oraz [ZR], - 10 pkt do [WIE]
+Jedna dodatkowa umiejętność podstawowa oparta na zręczności lub charyzmie. 
+
+### Dojrzałość
+
+Dodaj 5 pkt do [WIE] oraz [S]
+Standardowa liczba umiejętności podstawowych.
+
+### Starość
+
+Dodatkowe 10 pkt do [WIE], - 5 pkt do [KON] oraz [S]
+Jedna dodatkowa umiejętność bazująca wiedzy.
+
+Mieszkańcy Aleoru starzeją się w różnym tempie. Wszystko zależy od pochodzenia Bohaterów. Najszybciej starość dosięga ludzi. Yardanie, dzięki błogosławieństwu Urune, żyją niemal dwukrotnie dłużej. Kontynent pełen jest także innych, niekiedy niezwykle długowiecznych ludów, dlatego wiek śmiałka określa się za pomocą jednego z trzech etapów: młodość, dojrzałość i starość. Każdy z nich ma odmienny wpływ na atrybuty postaci. Powyżej znajdziesz tabelę zawierającą modyfikacje atrybutów oraz umiejętności bazowych - zapoznaj się z nią. 
+
+Zmodyfikuj statystyki na karcie wedle wybranego wieku swojego Bohatera. Pamiętaj, że wieku nie da się zmienić w trakcie rozgrywki. Zastanów się, jaki wiek będzie najlepiej pasował do Twojej postaci. Choć nic nie stoi na przeszkodzie, by zagrać młodym magiem, najpotężniejsi z nich swoją wiedzę zdobywali latami. Równie trudno wyobrazić sobie, by stary, choć doświadczony złodziej, mógł konkurować z młodym pod względem szybkości ruchów.
+
+## Pochodzenie
+
+Choć w swoim zamyśle gra skupia się przede wszystkim na Yardanach, możesz wybrać dowolne pochodzenie. Poniżej znajdziesz opisy sześciu najliczniejszych ludów Aleoru, wraz z modyfikacjami atrybutów.
+
+### Yardanie
+
+Władcy wilków zamieszkujący północ Aleoru. Od pokoleń żyją w cieniu Wyjących Szczytów i okolicznych lasów, dzięki czemu potrafią poruszać się bezszelestnie i doskonale radzą sobie w dziczy. Ci urodzeni łowcy często atakują z ukrycia, zadając śmiertelny cios, nim przeciwnik zdąży się zorientować.
+
+Silniejsi i bardziej wtrzymali niż elfy, których są bliskimi krewnymi. Podobnie jak ich kuzyni posiadają długie szpiczaste uszy. Są jednak lepiej zbudowani i zaprawieni w boju, a z racji surowego klimatu panującego na północy, twarze yardańskich mężczyzn zwykle porasta długa i gęsta broda. Dzięki bliskim kontaktom z Tascalczykami, nie obce im cięższe zbroje oraz pancerze, choć najczęściej wybierają dyskretniejszy oręż.
+
+W odróżnieniu od elfów, polują chętnie, wykorzystując do tego przede wszystkim wilki, z którymi łączy je szczególna więź. Zwykło się mawiać, że kiedy Yardanin umiera, jego wilk odchodzi do Urune razem z nim. Jako jedyni całkowicie odrzucają nauki magiczne. Ich mistyczna energia bazuje wyłącznie na łasce pochodzącej od Pramatki Urune. Yardanin, chcąc władać magią, może wybrać jedynie drogę szamana.
+
+**Modyfikacje:** Dodatkowe 5 punktów [CHA] oraz [ZR]. Wartość [INT] zmniejszona o 10.
+
+### Ludzie
+
+Jeden z najliczniejszych i jednocześnie najmłodszych ludów zamieszkujących Aleor. Ich miasta oraz mniejsze osady skupiają się przede wszystkim w centralnej części kontynentu. Mimo że nie posiadają żadnych wrodzonych predyspozycji, dość dobrze radzą sobie w większości zawodów.
+
+Co ciekawe, to właśnie ludzie jako pierwsi rozwinęli tajemniczą naukę, która z czasem zaczęła wypierać szamanizm. Nowa moc, znacznie różniła się od czarów znanych szamanom. Przede wszystkim magiczne zaklęcia nie wymagały już łaski kapryśnych bóstw. W swej pysze niektórzy z ludzkich magów obwoływali się nawet nowymi bogami. Nie trudno domyślić się jaki był ich koniec...
+
+Ludzka magia wniosła też wiele dobrego do Aleoru. Przyjęta ochoczo i rozwijana przez inne ludy, przyczyniła się do postępu technologicznego i poprawy jakości życia wielu mieszkańców.
+
+**Modyfikacje:** Ludzie mogą dopisać sobie pięć punktów do dowolnego atrybutu. Muszą jednak odjąć tyle samo od innej, wybranej przez siebie cechy. 
+
+### Krasnoludy
+
+Wywodzący się z Tascal miłośnicy kowalstwa, wojaczki i dobrego piwa. Szczególnie przez wzgląd na to ostatnie, żyją w bardzo dobrych stosunkach z mieszkańcami Yardu. 
+
+Podczas licznych wspólnych biesiad lubią sobie żartować z pochodzenia swoich sąsiadów. Według nich Yardanie są owocem związku tascalskich krasnoludów oraz przybyłych z Wędrującej Puszczy elfów. Siłą Tascalczyka jest jego młot lub topór. Większość z nich szczerze pogardza innym rodzajem oręża. Posiadają też ogromną wiedzę, którą niechętnie dzielą się z innymi.
+
+Prawdziwy krasnolud nie zna strachu i nie cofa się w obliczu największego nawet zagrożenia. Chyba, że chodzi o konie... Jeśli kiedyś spotkasz Tascalczyka jadącego na koniu to wiedz, że albo postradał zmysły, albo jest pijany. Niechęć do popularnych wierzchowców zapewne podyktowana jest niskim wzrostem mistrzów kowalstwa, dlatego też dłuższe podróże odbywają na grzbietach jaków.
+
+Dumne i mądre krasnoludy uważane są za jedną z najstarszych ras, zamieszkujących Aleor. Przynajmniej sami tak twierdzą.
+
+**Modyfikacje:** Dodatkowe 5 punktów [WIE] oraz [S]. Wartość [CHA] zmniejszona o 10.
+
+### Elfy
+
+Długowieczny lud, pierwotnie zamieszkujący Wędrującą Puszczę, dziś spotykany niemal we wszystkich większych miastach. To właśnie elfom Aleor zawdzięcza pokonanie Madhrata i zakończenie jednej z najgorszych wojen magów. Ruiny jego  twierdzy do dziś spoczywają ukryte głęboko w kniei, zapieczętowane potężnymi elfickimi zaklęciami.
+
+Elfy, choć nie tak silne jak pozostali, dysponują ogromną wiedzą, przekazywaną z pokolenia na pokolenie. Dzięki temu mogą jako jedyni posługiwać się jednocześnie zaklęciami szamańskimi oraz magią.
+
+Ich wyjątkowe poszanowanie wszelkiego życia sprawia, że niechętnie polują, a do walki stają wyłącznie przyparte do muru. Co ciekawe, mieszkańcy Puszczy nie budują typowych miast, ponieważ cała knieja stanowi ich dom. Wchodząc do lasu, wędrowiec może być pewien, że jest obserwowany. Elfy żyją bowiem na drzewach i pośród krzewów, chroniąc swoje siedliska przed wzrokiem obcych.
+
+**Modyfikacje:** Dodatkowe 5 punktów [WIE] oraz [INT]. Wartość [S] zmniejszona o 10.
+
+### Niziołki
+
+Mistrzowie kuglarstwa, złodziejskich sztuczek i ataków z ukrycia. Jeśli właśnie oberwałeś kamieniem i nie wiesz skąd, możesz od razu założyć, że gdzieś w pobliżu czai się jeden z tych małych spryciarzy. Mimo to, nizołki zwykle mają pokojowe nastawienie. Cenią sobie przede wszystkim komfort, dobry humor i jeszcze lepsze jadło. Wbrew obiegowej opinii, nie mieszkają pod ziemią. Po prostu ich domy są nieco niższe od budowli wznoszonych przez inne ludy.
+
+Ich ojczyzną jest Cest, ale na przestrzeni dziejów zawędrowali daleko na zachód. Widok niziołka w Ofren nie jest więc niczym dziwnym, szczególnie w Alebornie, słynącym z najprzedniejszej kuchni i rozrywki.
+
+Ci mali mieszkańcy Aleoru nie słyną za to z wyjątkowej mądrości. Można przypuszczać, że ma to związek z wygodnictwem, ponieważ zadowolony z życia niziołek, zwykle nie czuje potrzeby poznawania nowych rzeczy, tym bardziej jeśli wiązałoby się to z mozolnym studiowaniem ksiąg.
+
+**Modyfikacje:** Dodatkowe 5 punktów do [ZR] oraz [CHA]. Wartość [WIE] zmniejszona o 10 punktów.
+
+### Bestiaci
+
+Najmłodszy z ludów zamieszkujących Aleor, choć posiadający niezwykle ciekawą historię. Bestiaci, zwani też mieszańcami, cechują się ogromnym zróżnicowaniem. 
+
+Powstali jako owoc podłych eksperymentów. Rządni władzy pierwsi magowie tworzyli rozmaite hybrydy, będące połączeniem zwierząt, bestii, niekiedy nawet demonów z mieszkańcami kontynentu. Po zakończeniu wojen magów, ocalali Bestiaci osiedlili się na terenie dzisiejszego Bayden, tworząc tam własną społeczność. Wędrując w rejony Zatoki Quashan z pewnością spotkasz wielu przedstawicieli tego ludu.
+
+Ich nadnaturalne pochodzenie sprawia, że Bestiaci potrafią się dostosować do niemal każdych warunków. Chociaż okrutny czas mają już za sobą, niekiedy wciąż można spotkać się z ich nierównym traktowaniem. Możliwe, że właśnie z tego powodu niechętnie opuszczają Bayden.
+
+**Modyfikacje:** Bestiaci mogą rozdysponować dodatkowe 10 punktów między dowolne atrybuty. Muszą jednak pomniejszyć punkty dwóch wybranych przez siebie atrybutów o 5.
+
+## Punkty umiejętności
+
+Kiedy już określisz wiek i pochodzenie swojej postaci, możesz przejść do ustalenia wartości bazowych umiejętności oraz rozdzielania punktów. Ponieważ Yard stawia na wolność rozgrywki, nie znajdziesz tu narzuconych zawodów, czy klas postaci. Innymi słowy, to Ty określasz kim jest Twój Bohater i jak rozwinie się podczas wędrówek po Aleorze. 
+
+
+### Wartości bazowe
+
+Zanim zaczniesz rozdzielać punkty umiejętności, musisz jeszcze ustalić ich wartości bazowe. Standardowo każdy Bohater ma cztery dowolne umiejętności podstawowe. Zależnie od wieku Twojej postaci, może dysponować jedną dodatkową, bazującą na określonym atrybucie. Ta zasada pozwala na odzwierciedlenie naturalnych predyspozycji oraz wrodzonych zdolności Bohaterów. 
+
+Wartość podstawowej umiejętności jest równa połowie atrybutu, na którym bazuje (zaokrąglając w dół). Mówiąc prościej, jeśli jedna z podstawowych umiejętności oparta jest na sile, to jej wartość początkowa będzie równa połowie siły.
+
+Wartość bazowa pozostałych umiejętności równa jest 1/5 atrybutu, na którym bazują (zaokrąglając w dół). Umiejętność oparta na [S] = 80 będzie miała początkową wartość równą 16.
+
+### Podział punktów
+Liczba punktów umiejętności uzależniona jest od Twoich atrybutów. Spójrz na nie, a następnie wybierz, patrząc pod kątem wielkości, pierwszy, trzeci i ostatni. Ich suma, to Twoja liczba punktów umiejętności.
+
+**Przykład:** Twój bohater posiada następujące punkty atrybutów: [S] 83, [KON] 54, [ZR] 37, [INT] 74, [WIE] 68, [CHA] 53. Pierwszy, najwyżej punktowany atrybut to siła, trzecia w kolejności jest wiedza, a ostatnia zręczność. Ich suma wynosi 83 + 68 + 37 = 188.
+
+Punkty możesz przeznaczyć na dowolne umiejętności, dodając je do wartości bazowych.
