@@ -1,0 +1,8 @@
+# Witaj w Yard
+Najbardziej na północ wysuniętej, mroźnej krainie Aleoru, rozciągającej się wzdłuż Wyjących Szczytów, które swoją nazwę zawdzięczają przeraźliwym odgłosom wydawanym przez wiatr. 
+
+Yardanie, mimo swojej gościnności, stanowią dość zamkniętą społeczność, przez co próżno tu szukać przedstawicieli innych ras. Jeśli się jakiś trafi, zwykle wraca na południe jeszcze przed nastaniem zimy. Nie bez znaczenia jest też spora odmienność kulturowa, względem pozostałych mieszkańców kontynentu. Mimo iż uchodzą za wysokorozwiniętych, Yardanie wciąż praktykują szamanizm, oddając cześć Pani Urune, znanej też jako Pramatka. Według podań, to właśnie ona zesłała wilki, które stanowią ważny element życia codziennego i traktowane są na równi z samymi ludźmi. Pomagają w polowaniach, walce oraz obronie domostw przed lodowymi trollami, które ostatnimi czasy wyjątkowo często schodzą z gór.
+
+Ludzie utrzymują się tu w większości z łowiectwa i handlu. Wschodnie trakty zapewniają połączenie z Tascal, południowe zaś wiodą do Ofren i dalej w głąb kontynentu. Tutejsze futra, wyroby ze skóry oraz ciemne, mocne piwo, przyciągają kupców z niemal wszystkich, nawet najodleglejszych państw. Co bardziej przebiegli, próbują zdobyć też wilcze szczenięta - wszak możnowładcy z południa są w stanie wiele za nie zapłacić. Kuszeni łatwym zyskiem przybysze szukają okazji, często posuwając się do kradzieży, która w górach podlega najsurowszej karze. Żaden Yardanin nie złamie bowiem przysięgi, sprzedając swojego wilka obcokrajowcowi.
+
+Zostań obrońcą tych ziem, walcz z górskimi bestiami, poznawaj potęgę pradawnej magii lub ruszaj na południe, gdzie czeka nieznane.
