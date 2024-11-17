@@ -155,7 +155,7 @@ Pierwotny instynkt nakazujący chronić stado przed niebezpieczeństwem. Spadaj�
 
 **Cecha bazowa:** Inteligencja [INT]
 
-Silny umysł potrafi nie tylko biegle władać pradawną magią, ale też skutecznie się jej opierać. Jeśli wierzyć jego słowom, to dzięki tej umiejętności szaman Kwentu przeszedł kiedyś wszystkie próby Pani Urune, która w nagrodę za wysiłek pobłogosławiła go nadnaturalnie długim życiem.
+Silny umysł potrafi nie tylko biegle władać pradawną magią, ale też skutecznie się jej opierać. Jeśli wierzyć jego słowom, to dzięki tej umiejętności szamanka Kwentu przeszła kiedyś wszystkie próby Pani Urune, która w nagrodę za wysiłek pobłogosławiła ją nadnaturalnie długim życiem.
 
 **Podczas walki:** Za cenę punktów [DET], równą połowie poziomu zaklęcia, Bohater może całkowicie zniwelować działanie magicznego ataku.
 
