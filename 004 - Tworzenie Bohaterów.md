@@ -1,7 +1,11 @@
 # Tworzenie Bohaterów
 
 ## Atrybuty
-Tworzenie własnej postaci to dla wielu graczy jeden z naistotniejszych elementów rozgrywki. Nic w tym dziwnego, w końcu w tym tkwi spora część piękna RPG. Przejdźmy zatem do sedna! Każdego z Bohaterów opisuje sześć głównych cech, zwanych dalej atrybutami. Każdy z nich wpływa bezpośrednio na umiejętności, zakres ruchu, a także rozwój punktów wytrzymałości oraz mistycznej energii podczas awansów.
+Tworzenie własnej postaci to dla wielu graczy jeden z najistotniejszych elementów rozgrywki. Nic w tym dziwnego, w końcu w tym tkwi spora część piękna RPG. Przejdźmy zatem do sedna! 
+
+Bohaterów opisuje sześć głównych cech, czyli Atrybuty. Każdy z nich wpływa bezpośrednio na umiejętności, zakres ruchu, a także rozwój punktów wytrzymałości oraz mistycznej energii podczas awansów.
+
+Określanie wartości atrybutów jest bardzo proste. Bazową liczbę punktów dla każdego z nich określa się za pomocą rzutu 2d6. Następnie do wartości bazowych gracz przydziela dowolną liczbę z łącznej puli 320 punktów. Wartość żadnego atrybutu nie może jednak przekroczyć 80 punktów ze względu na dalsze modyfikacje wieku i pochodzenia.
 
 ### Siła [S]
 
@@ -22,8 +26,6 @@ Mądrość wynikająca ze studiowania ksiąg, błogosławieństwa bóstw i dośw
 
 ### Charyzma [CHA]
 Odrobina uroku osobistego bywa niezwykle przydatna. Pozwala wywierać wpływ na ludzi, napotkane bestie i zwierzęta. To właśnie dzięki charyzmie zdobędziesz nowych sojuszników i kupisz lepsze uzbrojenie za śmieszną cenę.
-
-Określanie wartości atrybutów jest bardzo proste. Bazową liczbę punktów dla każdego z nich określa się za pomocą rzutu 2d6. Następnie do wartości bazowych gracz przydziela dowolną liczbę z łącznej puli 320 puktów. Wartość żadnego atrybutu nie może jednak przekroczyć 80 punktów ze wględu na dalsze modyfikacje wieku i pochodzenia.
 
 ## Wytrzymałość
 

@@ -181,7 +181,7 @@ Umiejętność radzenia sobie w dziczy bywa szczególnie przydatna podczas dług
 
 **Cecha bazowa:** Zręczność [ZR]
 
-Prawdziwy łowca zachowuje czujność w każdej sytuacji. Z łatwością dostrzega ukrytego wroga, słyszy delikatny szmer dobiegający zza drzewa i rozpoznaje ślady, które ktoś inny mógłby przeoczyć. Umiejętność ta pozwala także unikać pułapek, co niekiedy może uratować życie. 
+Prawdziwy łowca zachowuje czujność w każdej sytuacji. Z łatwością dostrzega ukrytego wroga, słyszy delikatny szmer dobiegający zza drzewa i rozpoznaje ślady, które ktoś inny mógłby przeoczyć. Umiejętność ta pozwala także wykrywać pułapki, co niekiedy może uratować życie. 
 
 ### Wędrowny bard
 

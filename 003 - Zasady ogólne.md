@@ -4,7 +4,6 @@ Rozgrywka w Yard, jak niemal w każdym RPG, bazuje na wspólnym snuciu historii 
 
 Takie rozwiązanie pozwala miarodajnie i  szybko ocenić rzeczywiste umiejętności Bohatera, a także w wygodny sposób zastosować je w praktyce, bez zbędnych modyfikatorów i przeliczania.
  
-Cechą charakterystyczną systemu jest nieco odmienny sposób forsowania rzutów. Służą do tego specjalne punkty determinacji, które Bohater może wydawać między innymi właśnie na przerzucenie kości w przypadku niepowodzenia w teście. 
-Więcej informacji na temat forsowania znajdziesz w rozdziale dotyczącym Umiejętności. 
+Cechą charakterystyczną systemu jest nieco odmienny sposób forsowania rzutów. Służą do tego specjalne punkty determinacji, które Bohater może wydawać między innymi właśnie na przerzucenie kości w przypadku niepowodzenia w teście. Więcej informacji na temat forsowania znajdziesz w rozdziale dotyczącym Umiejętności. 
 
 Ponieważ mechaniki i zasad najprościej uczyć się przez praktyczne zastosowanie, najwyższy czas stworzyć Twojego pierwszego Bohatera!

@@ -16,10 +16,10 @@ Gdy wreszcie drzwi karczmy otworzyły się z hukiem, wszyscy zamarli. Do środka
 
 W izbie zapanowała cisza. Krasnolud, który jeszcze chwilę wcześniej głośno żartował, odstawił kufel. Stary łowca Yrn, którego śmiech brzmiał jak skrzypiące drzwi, teraz milczał, spoglądając na Kwentu z powagą.
 
-„Jeśli gryfy z gór odlatują, to źle wróży,” mruknął, przeczesując siwe włosy. „Te ptaszyska nie boją się nawet najgorszej zamieci. Co może je wygnać?”
+„Jeśli gryfy z gór odlatują, to źle wróży,” mruknął, przeczesując siwe włosy. „Te ptaszyska nie boją się nawet najgorszej zamieci. Czemuż więc?”
 
-Szamanka podeszła do kominka, otrzepując lód z płaszcza. Wilk kroczył tuż za nią, a jego kroki były bezszelestne. „Nie wiem,” powiedziała, patrząc w ogień. „Ale to, co budzi się w górach, nie jest niczym, co znamy. Wilki śnią o starych czasach, o mrocznej magii i cieniu, który spadł na tę ziemię dawno temu. Pani Urune zsyła ostrzeżenie, a my musimy być gotowi.”
+Szamanka podeszła do kominka, otrzepując lód z płaszcza. Wilk kroczył bezszelestnie tuż za nią. „Nie wiem,” powiedziała, patrząc w ogień. „Ale to, co budzi się w górach, nie jest niczym, co znamy. Wilki śnią o starych czasach, o mrocznej magii i cieniu, który spadł na tę ziemię dawno temu. Pani Urune zsyła ostrzeżenie, a my musimy być gotowi.”
 
-Za oknami wiatr zawył, uderzając w ściany karczmy jak niewidzialne pięści. Płomienie w kominku zatańczyły niespokojnie, jakby nawet ogień czuł nadchodzącą grozę. Kilka osób spojrzało w stronę drzwi, jakby obawiali się, że lada moment coś wpadnie do środka. Coś się zmienia. W tej karczmie, w tym zapomnianym przez bogów zakątku świata, losy północy zaczęły się splatać.
+Za oknami wiatr zawył, uderzając w ściany karczmy niewidzialną pięścią. Płomienie w kominku zatańczyły niespokojnie, jakby nawet ogień czuł nadchodzącą grozę. Kilka osób spojrzało w stronę drzwi, jakby obawiali się, że lada moment coś wpadnie do środka. Coś się zmienia. W tej karczmie, w tym zapomnianym przez bogów zakątku świata, Wasze losy splatają się z cieniami, które niebawem zawisną nie tylko nad Yardem, ale i całym Aleorem...
 
 

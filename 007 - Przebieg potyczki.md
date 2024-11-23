@@ -1,4 +1,4 @@
-# Walka
+# Przebieg potyczki
 
 ## Stany
 
