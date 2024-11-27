@@ -73,6 +73,37 @@ Mieszkańcy Aleoru starzeją się w różnym tempie. Wszystko zależy od pochodz
 
 Zmodyfikuj statystyki na karcie wedle wybranego wieku swojego Bohatera. Pamiętaj, że wieku nie da się zmienić w trakcie rozgrywki. Zastanów się, jaki wiek będzie najlepiej pasował do Twojej postaci. Choć nic nie stoi na przeszkodzie, by zagrać młodym magiem, najpotężniejsi z nich swoją wiedzę zdobywali latami. Równie trudno wyobrazić sobie, by stary, choć doświadczony złodziej, mógł konkurować z młodym pod względem szybkości ruchów.
 
+## Pancerz, atak i modyfikator ataku
+
+Podróżując po krainach Aleoru, Bohaterowie niejednokrotnie będą musieli stanąć do walki, podczas której b
+
+### Pancerz
+
+Pancerz to nic innego jak ilość obrażeń fizycznych, które zaatakowany Bohater może zignorować. Jego wartość określa się za pomocą sumy punktów obrony przypisanych do każdej zbroi, tarczy lub hełmu. Jeśli Bohater posiada zbroję dającą 2 pkt obrony i tarczę dającą 1 pkt, to łącznie posiada 3 pkt pancerza i o tyle zmniejszone zostają jego obrażenia.
+
+Co istotne, standardowy pancerz chroni jedynie przed obrażeniami fizycznymi. Tylko wyjątkowe przedmioty są w stanie zniwelować działanie magicznych ataków.
+
+### Atak
+
+Każda nieuzbrojona postać, bez względu na wiek i pochodzenie posiada podstawowy atak fizyczny w postaci 1 punktu, odpowiadający walce na pięści. Jeśli Bohater wyposaży się w sztylet lub inną broń, jego atak będzie określany przez właściwości przemiotu. Przykładowo sztylet zadaje 1d4 punktów obrażeń, a miecz krótki 1d6. Bohater posiadający więcej niż 70 pkt ZR, może dodatkowo walczy dwiema broniami.
+
+### Modyfikator obrażeń
+
+Im silniejszy Bohater, tym większe obrażenia fizyczne zadaje, bez względu na to, jakiej broni używa.
+
+S < 50 - 0 pkt
+S 51-70 - +1 pkt
+S 71-90 - +2 pkt 
+S > 90 - +3 pkt 
+
+Wartość modyfikatora dodaje się do wartości ataku, otrzymując w ten sposób finalny wynik zadawanych obrażeń. Jeśli postać walczy dwiema broniami, modyfikator ataku stosuje się tylko dla jednej, wiodącej ręki. Słabsza ręka wykonuje atak podstawowy.
+
+Przykład:
+Bohater atakuje trolla mieczem, zadającym 5 pkt obrażeń (rzut 1d6) i dodatkowo posiada modyfikator ataku równy 2. Całkowita wartość jego ataku wynosi więc 7 i takie obrażenia otrzyma troll, jeśli nie posiada żadnego pancerza.
+
+Kwestie związane z walką zostały szerzej omówione w rozdziale Przebieg potyczki.
+
+
 ## Pochodzenie
 
 Choć w swoim zamyśle gra skupia się przede wszystkim na Yardanach, możesz wybrać dowolne pochodzenie. Poniżej znajdziesz opisy sześciu najliczniejszych ludów Aleoru, wraz z modyfikacjami atrybutów.

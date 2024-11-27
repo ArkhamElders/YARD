@@ -93,7 +93,7 @@ Sztuka dyplomacji uratowała niejednego śmiałka przed poważnymi konsekwencjam
 
 Ostatnią, szczególnie dla Yardan, istotną umiejętnością, jest rozumienie zwierząt. Stanowi swoiste połączenie empatii, jasnych komunikatów oraz zachowań pozwalających na budowanie więzi np. z wilkiem lub sokołem.
 
-**Podczas walki:** Bohater posiadający zwierzęcego towarzysza oraz wysoki poziom tej umiejętności (pow. 65%), może wykonać dodatkową akcję w rundzie, w ramach ruchów dostępnych dla danego zwierzęcia. 
+**Podczas walki:** Bohater posiadający zwierzęcego towarzysza oraz wysoki poziom tej umiejętności (pow. 70%), może wykonać dodatkową akcję w rundzie, w ramach ruchów dostępnych dla danego zwierzęcia. 
 
 ## Ogólne
 
@@ -103,7 +103,7 @@ Najszersza grupa określająca faktyczne umiejętności Bohatera, stosowane podc
 
 **Cecha bazowa:** Siła [S]
 
-Stanowi praktyczne zastosowanie siły Bohatera. Pozwala przeciągać, podnosić i rzucać na znaczną odległość ciężkie przedmioty. Rozwinięta odpowiednio (pow. 65%) stanowi kość premiową [KP] podczas korzystania z Furii.
+Stanowi praktyczne zastosowanie siły Bohatera. Pozwala przeciągać, podnosić i rzucać na znaczną odległość ciężkie przedmioty. Rozwinięta odpowiednio (pow. 70%) stanowi kość premiową [KP] podczas korzystania z Furii.
 
 **Podczas walki:** Prawdziwy atleta potrafi odpychać głazy, kawałki drewna i wszelką improwizowaną broń miotaną. Co więcej, równie dobrze potrafi z niej korzystać - wystarczy, że poświęci 1 pkt [DET] i zda test. Obrażenia zależą od użytego przedmiotu i zwykle określane są przez MG.
 
@@ -113,7 +113,7 @@ Stanowi praktyczne zastosowanie siły Bohatera. Pozwala przeciągać, podnosić 
 
 **Cecha bazowa:** Kondycja [KON]
 
-Wieloletnie treningi pod okiem wybitnych mistrzów pozwalają Bohaterom przeć naprzód, bez oglądania się za siebie. Wszystko jedno, czy przyjdzie im się wspinać, skakać nad rozpadlinami, pokonywać wpław jeziora, czy jechać konno bez postoju. Rozwinięcie umiejętności pow. 65% pozwala także ignorować 1d4 obrażeń od zimna.
+Wieloletnie treningi pod okiem wybitnych mistrzów pozwalają Bohaterom przeć naprzód, bez oglądania się za siebie. Wszystko jedno, czy przyjdzie im się wspinać, skakać nad rozpadlinami, pokonywać wpław jeziora, czy jechać konno bez postoju. Rozwinięcie umiejętności pow. 70% pozwala także ignorować 1d4 obrażeń od zimna.
 
 ### Coś z niczego
 
@@ -137,7 +137,7 @@ Tam, gdzie nie wystarcza zwykła siła, pojawia się furia. Bohater, który wpad
 
 Zaglądanie do trudnodostępnych miejsc, skradanie i unikanie ciosów wymaga umiejętności. Kocia zwinność przydaje się również, gdy sakiewka napotkanego barona musi nagle zmienić właściciela. W razie kłopotów może również służyć do ratowania się ucieczką.
 
-**Podczas walki:** Po zdanym przez przeciwnika teście ataku (ale przed rzutem na obrażenia), gracz może zadeklarować unik. Bohater z umiejętnością rozwiniętą pow. 65% może automatycznie uniknąć ciosu, poświęcając liczbę punktów [DET], równą poziomowi sukcesu atakującego. Zdany test Kociej zwinności przed walką działa jak atak z ukrycia i daje Bohaterowi kość premowią do ataku [KP].
+**Podczas walki:** Po zdanym przez przeciwnika teście ataku (ale przed rzutem na obrażenia), gracz może zadeklarować unik. Bohater z umiejętnością rozwiniętą pow. 70% może automatycznie uniknąć ciosu, poświęcając liczbę punktów [DET], równą poziomowi sukcesu atakującego. Zdany test Kociej zwinności przed walką działa jak atak z ukrycia i daje Bohaterowi kość premowią do ataku [KP].
 
 *Niepowodzenie skutkuje utratą dodatkowego punktu determinacji.*
 
