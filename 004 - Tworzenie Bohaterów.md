@@ -73,37 +73,6 @@ Mieszkańcy Aleoru starzeją się w różnym tempie. Wszystko zależy od pochodz
 
 Zmodyfikuj statystyki na karcie wedle wybranego wieku swojego Bohatera. Pamiętaj, że wieku nie da się zmienić w trakcie rozgrywki. Zastanów się, jaki wiek będzie najlepiej pasował do Twojej postaci. Choć nic nie stoi na przeszkodzie, by zagrać młodym magiem, najpotężniejsi z nich swoją wiedzę zdobywali latami. Równie trudno wyobrazić sobie, by stary, choć doświadczony złodziej, mógł konkurować z młodym pod względem szybkości ruchów.
 
-## Pancerz, atak i modyfikator ataku
-
-Podróżując po krainach Aleoru, Bohaterowie niejednokrotnie będą musieli stanąć do walki, podczas której b
-
-### Pancerz
-
-Pancerz to nic innego jak ilość obrażeń fizycznych, które zaatakowany Bohater może zignorować. Jego wartość określa się za pomocą sumy punktów obrony przypisanych do każdej zbroi, tarczy lub hełmu. Jeśli Bohater posiada zbroję dającą 2 pkt obrony i tarczę dającą 1 pkt, to łącznie posiada 3 pkt pancerza i o tyle zmniejszone zostają jego obrażenia.
-
-Co istotne, standardowy pancerz chroni jedynie przed obrażeniami fizycznymi. Tylko wyjątkowe przedmioty są w stanie zniwelować działanie magicznych ataków.
-
-### Atak
-
-Każda nieuzbrojona postać, bez względu na wiek i pochodzenie posiada podstawowy atak fizyczny w postaci 1 punktu, odpowiadający walce na pięści. Jeśli Bohater wyposaży się w sztylet lub inną broń, jego atak będzie określany przez właściwości przemiotu. Przykładowo sztylet zadaje 1d4 punktów obrażeń, a miecz krótki 1d6. Bohater posiadający więcej niż 70 pkt ZR, może dodatkowo walczy dwiema broniami.
-
-### Modyfikator obrażeń
-
-Im silniejszy Bohater, tym większe obrażenia fizyczne zadaje, bez względu na to, jakiej broni używa.
-
-S < 50 - 0 pkt
-S 51-70 - +1 pkt
-S 71-90 - +2 pkt 
-S > 90 - +3 pkt 
-
-Wartość modyfikatora dodaje się do wartości ataku, otrzymując w ten sposób finalny wynik zadawanych obrażeń. Jeśli postać walczy dwiema broniami, modyfikator ataku stosuje się tylko dla jednej, wiodącej ręki. Słabsza ręka wykonuje atak podstawowy.
-
-Przykład:
-Bohater atakuje trolla mieczem, zadającym 5 pkt obrażeń (rzut 1d6) i dodatkowo posiada modyfikator ataku równy 2. Całkowita wartość jego ataku wynosi więc 7 i takie obrażenia otrzyma troll, jeśli nie posiada żadnego pancerza.
-
-Kwestie związane z walką zostały szerzej omówione w rozdziale Przebieg potyczki.
-
-
 ## Pochodzenie
 
 Choć w swoim zamyśle gra skupia się przede wszystkim na Yardanach, możesz wybrać dowolne pochodzenie. Poniżej znajdziesz opisy sześciu najliczniejszych ludów Aleoru, wraz z modyfikacjami atrybutów.
@@ -170,6 +139,34 @@ Ich nadnaturalne pochodzenie sprawia, że Bestiaci potrafią się dostosować do
 
 **Modyfikacje:** Bestiaci mogą rozdysponować dodatkowe 10 punktów między dowolne atrybuty. Muszą jednak pomniejszyć punkty dwóch wybranych przez siebie atrybutów o 5.
 
+## Pancerz, atak i modyfikator ataku
+
+### Pancerz
+
+Pancerz to nic innego jak ilość obrażeń fizycznych, które zaatakowany Bohater może zignorować. Jego wartość określa się za pomocą sumy punktów obrony przypisanych do każdej zbroi, tarczy lub hełmu. Jeśli Bohater posiada zbroję dającą 2 pkt obrony i tarczę dającą 1 pkt, to łącznie posiada 3 pkt pancerza i o tyle zmniejszone zostają jego obrażenia.
+
+Co istotne, standardowy pancerz chroni jedynie przed obrażeniami fizycznymi. Tylko wyjątkowe przedmioty są w stanie zniwelować działanie magicznych ataków.
+
+### Atak
+
+Każda nieuzbrojona postać, bez względu na wiek i pochodzenie posiada podstawowy atak fizyczny w postaci 1 punktu, odpowiadający walce na pięści. Jeśli Bohater wyposaży się w sztylet lub inną broń, jego atak będzie określany przez właściwości przemiotu. Przykładowo sztylet zadaje 1d4 punktów obrażeń, a miecz krótki 1d6. Bohater posiadający więcej niż 70 pkt ZR, może dodatkowo walczy dwiema broniami.
+
+### Modyfikator obrażeń
+
+Im silniejszy Bohater, tym większe obrażenia fizyczne zadaje, bez względu na to, jakiej broni używa.
+
+S < 60 - 0 pkt
+S 61-75 - +1 pkt
+S 76-90 - +2 pkt 
+S > 90 - +3 pkt 
+
+Wartość modyfikatora dodaje się do wartości ataku, otrzymując w ten sposób finalny wynik zadawanych obrażeń. Jeśli postać walczy dwiema broniami, modyfikator ataku stosuje się tylko dla jednej, wiodącej ręki. Słabsza ręka wykonuje atak podstawowy.
+
+Przykład:
+Bohater atakuje trolla mieczem, zadającym 5 pkt obrażeń (rzut 1d6) i dodatkowo posiada modyfikator ataku równy 2. Całkowita wartość jego ataku wynosi więc 7 i takie obrażenia otrzyma troll, jeśli nie posiada żadnego pancerza.
+
+Kwestie związane z walką zostały szerzej omówione w rozdziale Przebieg potyczki.
+
 ## Punkty umiejętności
 
 Kiedy już określisz wiek i pochodzenie swojej postaci, możesz przejść do ustalenia wartości bazowych umiejętności oraz rozdzielania punktów. Ponieważ Yard stawia na wolność rozgrywki, nie znajdziesz tu narzuconych zawodów, czy klas postaci. Innymi słowy, to Ty określasz kim jest Twój Bohater i jak rozwinie się podczas wędrówek po Aleorze. 
@@ -184,8 +181,5 @@ Wartość podstawowej umiejętności jest równa połowie atrybutu, na którym b
 Wartość bazowa pozostałych umiejętności równa jest 1/5 atrybutu, na którym bazują (zaokrąglając w dół). Umiejętność oparta na [S] = 80 będzie miała początkową wartość równą 16.
 
 ### Podział punktów
-Liczba punktów umiejętności uzależniona jest od Twoich atrybutów. Spójrz na nie, a następnie wybierz, patrząc pod kątem wielkości, pierwszy, trzeci i ostatni. Ich suma, to Twoja liczba punktów umiejętności.
 
-**Przykład:** Twój bohater posiada następujące punkty atrybutów: [S] 83, [KON] 54, [ZR] 37, [INT] 74, [WIE] 68, [CHA] 53. Pierwszy, najwyżej punktowany atrybut to siła, trzecia w kolejności jest wiedza, a ostatnia zręczność. Ich suma wynosi 83 + 68 + 37 = 188.
-
-Punkty możesz przeznaczyć na dowolne umiejętności, dodając je do wartości bazowych.
+Liczba punktów umiejętności, podobnie jak liczba punktów atrybutów, jest wartością stałą. Każdy Bohater ma do dyspozycji 160 pkt, które może przeznaczyć na dowolne umiejętności, dodając je do wartości bazowych. Stała wartość puli punktów zapewnia wszystkim graczom równe szanse na starcie, jednocześnie skłaniając ich do przemyślanego tworzenia postaci.
