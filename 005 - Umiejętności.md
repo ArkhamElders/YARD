@@ -7,11 +7,22 @@ Zdolności yardańskich Bohaterów zostały dobrane tak, by odzwierciedlać fakt
 
 Wyższy poziom sukcesu oznacza zwykle korzyści dla Bohaterów. W przypadku krytycznej porażki, muszą oni liczyć się z przykrymi konsekwencjami.
 
+### Testy łączone
+
 W szczególnych sytuacjach, Mistrz Gry może poprosić gracza o wykonanie testu łączonego. Najprościej mówiąc, są to dwa, następujące po sobie testy umiejętności i wyłącznie zdanie obu gwarantuje udane przeprowadzenie zaplanowanej akcji. 
+
+### Wsparcie w testach
 
 Bohaterowie mogą wesprzeć rzucającego w teście jego umiejętności, dając mu tym samą kość premowią. Muszą jednak sami posiadać testowaną umiejętność na odpowiednim poziomie, zbliżonym (niższym maksymalnie o 10 pkt) do poziomu rzucającego. Dodatkowo wspierający poświęcają też jeden punkt determinacji na każdy poziom trudności testu: 1 pkt - normalny, 2 pkt - trudny, 3 pkt - krytyczny. Wsparcie w testach umiejętności możliwe jest jedynie poza walką.
 
 **Przykład:** Jeden z Bohaterów próbuje rozpalić ognisko. Pozostali pomagają mu, znosząc drewno na opał lub osłaniając palenisko przed porywistym wiatrem.
+
+### Testy przeciwstawne
+
+Ten specyficzny rodzaj testów to nic innego jak porównanie umiejętności dwóch postaci. Przypomina swego rodzaju siłowanie na rękę, choć oczywiście, zależnie od sytuacji można testować w ten sposób odmienne umiejętności. W rzutach przeciwstawnych porównywane są poziomu sukcesu: krytyczny sukces wygrywa z trudnym, a trudny ze zwykłym. Podobnie sytuacja ma się w przypadku zwykłej i krytycznej porażki. W przypadku, gdy poziom sukcesu jest identyczny, wygrywa niższy wynik na kościach.
+
+**Przykład**
+Bohater próbuje ukryć się przed przeciwnikiem w zaroślach, korzystając z Kociej zwinności i w ten sposób uniknąć walki. Przeciwnik jest jednak doświadczonym łowcą, który próbuje wyśledzić ofiarę przy pomocy Tropienia. W wyniku testu umiejętności Bohater wyrzuca trudny sukces Kociej zwinności, a łowca jedynie zwykły na Tropienie. Bohaterowi udaje się schować przed zagrożeniem.
 
 ## Forsowanie rzutu
 

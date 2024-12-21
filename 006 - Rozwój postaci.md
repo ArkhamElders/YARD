@@ -50,8 +50,10 @@ KON / WIE > 75 - +3 pkt
 Przykład:
 Postać posiadająca 60 pkt kondycji i 35 pkt wiedzy co poziom zdobywa 2 pkt wytrzymałości oraz 1 pkt mistycznej energii.
 
+Dodatkowo, każdy awans to szansa na poznanie nowego zaklęcia. Bohaterowie mają pełną dowolność wyboru, muszą jednak pamiętać, że na użycie niektórych zaklęć mogą być jeszcze zbyt słabi (niewystarczająca ilość punktów ME). Więcej na temat korzystania z magii i szamanizmu znajdziesz w dalszej części podręcznika.
+
 ### Duży awans
 
-Co pięć poziomów Bohater może rozwinąć jeden, wybrany przez siebie atrybut o 1d6 oraz zwiększyć całkowitą liczbę punktów determinacji o 1. Warto zauważyć, że rozwój atrybutów wpływa na bazowy poziom umiejętności oraz, w przypadku Siły, na udźwig. Pozwala także korzystać z potęzniejszych broni i zaklęć, które mają podstawowy wymagany poziom Siły / Zręczności / Inteligencji.
+Co pięć poziomów Bohater może rozwinąć jeden, wybrany przez siebie atrybut o 1d6 oraz zwiększyć całkowitą liczbę punktów determinacji o 1. Warto zauważyć, że rozwój atrybutów wpływa na bazowy poziom umiejętności oraz, w przypadku Siły, na udźwig. Pozwala także korzystać z potężniejszych broni i zaklęć, które mają podstawowy wymagany poziom Siły / Zręczności / Inteligencji.
 
 Oczywiście podczas dużego awansu wykonywane jest także standardowe rozwinięcie postaci z małego awansu.

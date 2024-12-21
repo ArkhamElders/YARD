@@ -1,8 +1,47 @@
 # Przebieg potyczki
 
+Choć czasy Wojen Magów minęły, walka nadal jest powszechnym zjawiskiem w Aleorze. Świat pełen jest bestii, magicznych istot i bandyckich szajek, czychających na zbłąkanych wędrowców. Jeśli chcesz zostać prawdziwym Bohaterem, musisz wiedzieć jak sobie radzić podczas potyczki.
+
+Na początku każdej walki należy ustalić kolejność, według której postaci będą atakować. Aby to zrobić, porównuje się wartość Determinacji wszystkich Bohaterów oraz przeciwników biorących udział w starciu. Postać z najwyższą liczbą punktów [DET] atakuje jako pierwsza, a postać z najniższą - ostatnia. W przypadku, gdy dwie lub więcej postaci posiada taką samą liczbę punktów [DET], o kolejności między nimi decyduje dodatkowy rzut 2d6 - postać z wyższym wynikiem atakuje pierwsza. Co istotne, rzut ten nie wpływa w żaden sposób na ilość posiadanych przez Bohatera punktów Determinacji.
+
+Zdarzają się sytuacje, w których dochodzi do ataku z zaskoczenia. Ukryty w cieniu łotrzyk pozostaje może zaatakować przeciwnika jeszcze przed rozpoczęciem walki i ustaleniem kolejności. W ramach przewagi, przysługuje mu także kość premiowa do ataku.
+
+## Atak
+
+Atak to nic innego jak test umiejętności określający, czy Bohaterowi udało się trafić przeciwnika. Zależnie od rodzaju ataku i posiadanego uzbrojenia, Bohater testuje Arkana, Precyzyjne uderzenie lub Walkę w zwarciu. Poziom sukcesu testu określa także dodatkowy skutek ataku:
+
+- Zwykły sukces - Bohater przeprowadza normalny atak
+- Trudny sukces - Standardowe obrażenia + przeciwnik otrzymuje Stan odpowiedni dla broni/zaklęcia
+- Krytyczny sukces - Podwójne obrażenia + Permanentny stan
+- Porażka - Bohater chybia
+- Krytyczna porażka - Próba ataku kończy się niepowodzeniem, a bohater musi zmierzyć się z dodatkowymi konsekwencjami (np. uszkadza broń, rani towarzysza lub siebie).
+
+Testów podczas walki nie można forsować.
+
+## Unik i kontratak
+
+Zaatakowana postać może próbować uniknąć ciosu lub wyprowadzić kontratak. Obie akcje to nic innego jak rzuty przeciwstawne, które dotyczą zarówno Bohaterów, jak i napotkanych przeciwników. By unik był skuteczny, poziom sukcesu Kociej zwinności musi być wyższy niż poziom sukcesu ataku. Analogicznie, w przypadku kontrataku porównuje się poziom sukcesu umiejętności bojowych obu postaci. 
+
+Warto pamiętać, że standardowy unik z wykorzystaniem Kociej zwinności dotyczy jedynie obrażeń fizycznych. Precyzyjnych ataków magicznych nie sposób uniknąć, choć wyjątkowo silne umysły będą w stanie się im oprzeć. 
+
+Kontratak w YARD przebiega bardzo prosto: 
+- na atak z bliska można odpowiadać wyłącznie innym, bezpośrednim atakiem
+- ataki dystansowe wymagają dystansowego kontrataku i dotyczą wyłącznie magii (magią można kontratakować strzały i magię, nie można strzałami kontratakować magii)
+
+## Fortel
+
+Poza standardowymi akcjami, możliwa jest również improwizacja, określana mianem fortelu. Bohater może próbować ogłuszyć przeciwnika, zepchnąć go w przepaść lub wykonać w trakcie swojej tury inną, nietypową akcję. Ze względu na szeroki wachlarz możliwości, jaki daje ta akcja, Mistrz Gry powinien każdorazowo rozważyć warunki fortelu.
+
+**Przykład**
+W trakcie walki, stojący na wyższym piętrze bohater chiałby zepchnąć na znajdujących się poniżej przeciwników, ciężką beczkę. Mistrz gry warunkuje powodzenie fortelu udanym testem Siły. Jeśli test się powiedzie, a wrogowie nie wykonają uniku, otrzymają 1d10 pkt obrażeń oraz Stan: Powalenie.
+
+## Ucieczki i pościgi
+
+Jednym z możliwych do zastosowania forteli, jest ucieczka z pola bitwy. Niezbyt to chwalebny czyn, jednak lepszy tchórzliwy bohater, niźli martwy. Chcąc uciec, postać musi przede wszystkim zdać test Zręczności. Następnie, zaczyna biec zgodnie z posiadaną ilością punktów ruchu. By ucieczka się powiodła, różnica między nią, a ścigającym musi wynieść przynajmniej 5 pkt. Bohater w każdej turze może poświęcić 1 pkt Determinacji, by wykonać dodatkową akcję, mającą na celu utrudnienie pościgu - zatrzaśnięcie drzwi, przewrócenie stojących koszy z owocami itp. Analogicznie, goniący poświęca punkt [DET], by pokonać przeszkodę, zdając stosowny test (z reguły Atletyki, bądź Kociej zwinności). Porażka podczas omijania przeszkody zwiększa dodatkowo odległość między postaciami o jeden, zapewniając tym samym przewagę uciekającemu.
+
 ## Stany
 
-Wędrując po yardańskich bezdrożach Bohater będzie narażony na rozmaite, negatywne efekty. Czy to spowodowane siłami natury, czy wynikające ze starciaz potężnym przeciwnikiem. Chociaż większość stanów mija wraz z upływem czasu (1d6 rund), niektóre z nich mogą mieć efekt trwały lub wymagać użycia konkretnego remedium. Poniżej znajdziesz opis każdego z efektów.
+Wędrując po yardańskich bezdrożach Bohater będzie narażony na rozmaite, negatywne efekty. Czy to spowodowane siłami natury, czy wynikające ze starcia z potężnym przeciwnikiem. Chociaż większość stanów mija wraz z upływem czasu (1d6 rund), niektóre z nich mogą mieć efekt trwały lub wymagać użycia konkretnego remedium. Poniżej znajdziesz opis każdego z efektów.
 
 ### Powalenie
 
