@@ -27,31 +27,6 @@ Mądrość wynikająca ze studiowania ksiąg, błogosławieństwa bóstw i dośw
 ### Charyzma [CHA]
 Odrobina uroku osobistego bywa niezwykle przydatna. Pozwala wywierać wpływ na ludzi, napotkane bestie i zwierzęta. To właśnie dzięki charyzmie zdobędziesz nowych sojuszników i kupisz lepsze uzbrojenie za śmieszną cenę.
 
-## Wytrzymałość
-
-Określa punkty życia Twojej postaci, czyli ilość obrażeń, jakie jest w stanie wytrzymać, nim jej przygoda się zakończy. Obliczanie wytrzymałości to nic innego jak dodanie do siebie wartości siły i kondycji oraz podzielenie wyniku przez dziesięć, zaokrąglając w dół.
-
-**Przykład:** Bohater posiada 70 punktów siły oraz 65 punktów kondycji, co daje łącznie 135 punktów. Dzieląc przez 10 otrzymujemy wartość 13.5, co po zaokrągleniu daje nam wytrzymałość równą 13 pkt.
-
-## Mistyczna energia
-
-Dobry szaman, czy mag powinien nie tylko znać zaklęcia, ale też mieć wystarczająco sprawny umysł, by móc się nimi posługiwać. Dlatego wartość punktów mistycznej energii stanowi suma punktów wiedzy i inteligencji, podzielona przez 10.
-
-**Przykład:** Wiedza i inteligencja postaci wynoszą odpowiednio 75 oraz 85, łącznie 160. Dzieląc ten wynik przez 10, otrzymamy wartość mistycznej energii równą 16. W tym przypadku nie ma również potrzeby zaokrąglania wyniku.
-
-## Ruch
-
-Jak łatwo się domyślić, określa maksymalną ilość odległość, na jaką może się przemieścić Bohater w trakcie swojej rundy. Ruch wykorzystywany jest podczas walki/pościgu. Standardowa podróż, nie wymaga obliczania każdego metra. Zakres ruchu wylicza się analogicznie do wytrzymałości i mistycznej energii, z tym że wartościami bazowymi są kondycja i zręczność.
-
-
-## Determinacja
-
-Określa silną wolę postaci, jej ambicję i upór w dążeniu do celu. Pozwala forsować nieudane rzuty oraz korzystać z dodatkowych akcji podczas walki. Więcej na temat szczegółowego wykorzystania determinacji znajdziesz w opisach umiejętności. Aby obliczyć początkową wartość determinacji [DET], gracz wykonaj rzut 2d6. Jeśli wyrzuciłeś 4 i 5, to zaczynasz przygodę z dziewięcioma punktami. Determinacja stanowiąca motor napędowy Bohatera, jest niezwykle ważną cechą. Jeśli jej poziom spadnie do zera, postać wykonuje każdy test umiejętności z kością karną [KK]. Stan ten utrzymuje się do momentu odzyskania przynajmniej jednego punktu determinacji. 
-
-Istnieje kilka sposobów przywracania punktów. Pierwszym z nich jest odpoczynek. Bohater może rzucić kością 1d4 by przywrócić określoną liczbę punktów. Regeneracja możliwa jest również po wykonaniu ważnego zadania fabularnego, jak na przykład pokonanie lodowego trolla lub odnalezienie zaginionego kupca. W tym wypadku decyzja o ilości regenerowanych punktów należy do Mistrza Gry. Pozostałe sposoby to rozmaite zaklęcia, eliksiry i pieśni wędrownych bardów. Niektóre pozwalają nie tylko zregenerować punkty, ale też zwiększyć tymczasowo ich maksymalną ilość.
-
-Ponieważ rozgrywka w Yard nastawiona jest na rozwój Bohaterów, istnieje możliwość zwiększania maksymalnej wartości punktów determinacji. Na każde pięć poziomów postaci, Bohaterowi przysługuje jeden dodatkowy punkt. Pierwszy na poziomie piątym, kolejny na dziesiątym itd. Zanotuj na Karcie Bohatera wszystkie wartości atrybutów, wytrzymałości, mistycznej energii, ruchu oraz determinacji. Kartę znajdziesz na końcu tego podręcznika.
-
 ## Wiek postaci
 
 ### Młodość
@@ -71,7 +46,7 @@ Jedna dodatkowa umiejętność bazująca wiedzy.
 
 Mieszkańcy Aleoru starzeją się w różnym tempie. Wszystko zależy od pochodzenia Bohaterów. Najszybciej starość dosięga ludzi. Yardanie, dzięki błogosławieństwu Urune, żyją niemal dwukrotnie dłużej. Kontynent pełen jest także innych, niekiedy niezwykle długowiecznych ludów, dlatego wiek śmiałka określa się za pomocą jednego z trzech etapów: młodość, dojrzałość i starość. Każdy z nich ma odmienny wpływ na atrybuty postaci. Powyżej znajdziesz tabelę zawierającą modyfikacje atrybutów oraz umiejętności bazowych - zapoznaj się z nią. 
 
-Zmodyfikuj statystyki na karcie wedle wybranego wieku swojego Bohatera. Pamiętaj, że wieku nie da się zmienić w trakcie rozgrywki. Zastanów się, jaki wiek będzie najlepiej pasował do Twojej postaci. Choć nic nie stoi na przeszkodzie, by zagrać młodym magiem, najpotężniejsi z nich swoją wiedzę zdobywali latami. Równie trudno wyobrazić sobie, by stary, choć doświadczony złodziej, mógł konkurować z młodym pod względem szybkości ruchów.
+Zmodyfikuj statystyki na karcie wedle wybranego wieku swojego Bohatera. Pamiętaj, że wieku nie da się zmienić w trakcie rozgrywki. Zastanów się, jaki wiek będzie najlepiej pasował do Twojej postaci. Choć nic nie stoi na przeszkodzie, by zagrać młodym magiem, najpotężniejsi z nich swoją wiedzę zdobywali latami. Równie trudno wyobrazić sobie, by stary, choć doświadczony złodziej, mógł konkurować z młodym pod względem szybkości ruchów
 
 ## Pochodzenie
 
@@ -138,6 +113,31 @@ Powstali jako owoc podłych eksperymentów. Rządni władzy pierwsi magowie twor
 Ich nadnaturalne pochodzenie sprawia, że Bestiaci potrafią się dostosować do niemal każdych warunków. Chociaż okrutny czas mają już za sobą, niekiedy wciąż można spotkać się z ich nierównym traktowaniem. Możliwe, że właśnie z tego powodu niechętnie opuszczają Bayden.
 
 **Modyfikacje:** Bestiaci mogą rozdysponować dodatkowe 10 punktów między dowolne atrybuty. Muszą jednak pomniejszyć punkty dwóch wybranych przez siebie atrybutów o 5.
+
+## Wytrzymałość
+
+Określa punkty życia Twojej postaci, czyli ilość obrażeń, jakie jest w stanie wytrzymać, nim jej przygoda się zakończy. Obliczanie wytrzymałości to nic innego jak dodanie do siebie wartości siły i kondycji oraz podzielenie wyniku przez dziesięć, zaokrąglając w dół.
+
+**Przykład:** Bohater posiada 70 punktów siły oraz 65 punktów kondycji, co daje łącznie 135 punktów. Dzieląc przez 10 otrzymujemy wartość 13.5, co po zaokrągleniu daje nam wytrzymałość równą 13 pkt.
+
+## Mistyczna energia
+
+Dobry szaman, czy mag powinien nie tylko znać zaklęcia, ale też mieć wystarczająco sprawny umysł, by móc się nimi posługiwać. Dlatego wartość punktów mistycznej energii stanowi suma punktów wiedzy i inteligencji, podzielona przez 10.
+
+**Przykład:** Wiedza i inteligencja postaci wynoszą odpowiednio 75 oraz 85, łącznie 160. Dzieląc ten wynik przez 10, otrzymamy wartość mistycznej energii równą 16. W tym przypadku nie ma również potrzeby zaokrąglania wyniku.
+
+## Ruch
+
+Jak łatwo się domyślić, określa maksymalną ilość odległość, na jaką może się przemieścić Bohater w trakcie swojej rundy. Ruch wykorzystywany jest podczas walki/pościgu. Standardowa podróż, nie wymaga obliczania każdego metra. Zakres ruchu wylicza się analogicznie do wytrzymałości i mistycznej energii, z tym że wartościami bazowymi są kondycja i zręczność.
+
+
+## Determinacja
+
+Określa silną wolę postaci, jej ambicję i upór w dążeniu do celu. Pozwala forsować nieudane rzuty oraz korzystać z dodatkowych akcji podczas walki. Więcej na temat szczegółowego wykorzystania determinacji znajdziesz w opisach umiejętności. Aby obliczyć początkową wartość determinacji [DET], gracz wykonaj rzut 2d6. Jeśli wyrzuciłeś 4 i 5, to zaczynasz przygodę z dziewięcioma punktami. Determinacja stanowiąca motor napędowy Bohatera, jest niezwykle ważną cechą. Jeśli jej poziom spadnie do zera, postać wykonuje każdy test umiejętności z kością karną [KK]. Stan ten utrzymuje się do momentu odzyskania przynajmniej jednego punktu determinacji. 
+
+Istnieje kilka sposobów przywracania punktów. Pierwszym z nich jest odpoczynek. Bohater może rzucić kością 1d4 by przywrócić określoną liczbę punktów. Regeneracja możliwa jest również po wykonaniu ważnego zadania fabularnego, jak na przykład pokonanie lodowego trolla lub odnalezienie zaginionego kupca. W tym wypadku decyzja o ilości regenerowanych punktów należy do Mistrza Gry. Pozostałe sposoby to rozmaite zaklęcia, eliksiry i pieśni wędrownych bardów. Niektóre pozwalają nie tylko zregenerować punkty, ale też zwiększyć tymczasowo ich maksymalną ilość.
+
+Ponieważ rozgrywka w YARD nastawiona jest na rozwój Bohaterów, istnieje możliwość zwiększania maksymalnej wartości punktów determinacji. Na każde pięć poziomów postaci, Bohaterowi przysługuje jeden dodatkowy punkt. Pierwszy na poziomie piątym, kolejny na dziesiątym itd. Zanotuj na Karcie Bohatera wszystkie wartości atrybutów, wytrzymałości, mistycznej energii, ruchu oraz determinacji. Kartę znajdziesz na końcu tego podręcznika.
 
 ## Pancerz, atak i modyfikator ataku
 

@@ -1,6 +1,6 @@
 # Przebieg potyczki
 
-Choć czasy Wojen Magów minęły, walka nadal jest powszechnym zjawiskiem w Aleorze. Świat pełen jest bestii, magicznych istot i bandyckich szajek, czychających na zbłąkanych wędrowców. Jeśli chcesz zostać prawdziwym Bohaterem, musisz wiedzieć jak sobie radzić podczas potyczki.
+Choć czasy Wojen Magów minęły, walka nadal jest powszechnym zjawiskiem w Aleorze. Świat pełen jest bestii, magicznych istot i bandyckich szajek, czyhających na zbłąkanych wędrowców. Jeśli chcesz zostać prawdziwym Bohaterem, musisz wiedzieć jak sobie radzić podczas potyczki.
 
 Na początku każdej walki należy ustalić kolejność, według której postaci będą atakować. Aby to zrobić, porównuje się wartość Determinacji wszystkich Bohaterów oraz przeciwników biorących udział w starciu. Postać z najwyższą liczbą punktów [DET] atakuje jako pierwsza, a postać z najniższą - ostatnia. W przypadku, gdy dwie lub więcej postaci posiada taką samą liczbę punktów [DET], o kolejności między nimi decyduje dodatkowy rzut 2d6 - postać z wyższym wynikiem atakuje pierwsza. Co istotne, rzut ten nie wpływa w żaden sposób na ilość posiadanych przez Bohatera punktów Determinacji.
 
@@ -15,6 +15,10 @@ Atak to nic innego jak test umiejętności określający, czy Bohaterowi udało 
 - Krytyczny sukces - Podwójne obrażenia + Permanentny stan
 - Porażka - Bohater chybia
 - Krytyczna porażka - Próba ataku kończy się niepowodzeniem, a bohater musi zmierzyć się z dodatkowymi konsekwencjami (np. uszkadza broń, rani towarzysza lub siebie).
+
+Walka z użyciem dwóch broni wymaga oddzielnego rzutu na każdą rękę oraz odpowiedniego poziomu Zręczności (powyżej 70 pkt) - w przeciwnym wypadku atak drugą ręką odbywa się z Kością Karną.
+
+W przypadku ataków przeprowadzanych z użyciem broni dystansowej, należy pamiętać, że broń dystansowa wymaga pocisków i sama z siebie stanowi jedynie modyfikator ataku. Lepszy łuk z pewnością pomoże, ale to strzały są nośnikiem obrażeń.
 
 Testów podczas walki nie można forsować.
 
@@ -33,11 +37,19 @@ Kontratak w YARD przebiega bardzo prosto:
 Poza standardowymi akcjami, możliwa jest również improwizacja, określana mianem fortelu. Bohater może próbować ogłuszyć przeciwnika, zepchnąć go w przepaść lub wykonać w trakcie swojej tury inną, nietypową akcję. Ze względu na szeroki wachlarz możliwości, jaki daje ta akcja, Mistrz Gry powinien każdorazowo rozważyć warunki fortelu.
 
 **Przykład**
-W trakcie walki, stojący na wyższym piętrze bohater chiałby zepchnąć na znajdujących się poniżej przeciwników, ciężką beczkę. Mistrz gry warunkuje powodzenie fortelu udanym testem Siły. Jeśli test się powiedzie, a wrogowie nie wykonają uniku, otrzymają 1d10 pkt obrażeń oraz Stan: Powalenie.
+W trakcie walki, stojący na wyższym piętrze bohater chiałby zepchnąć na znajdujących się poniżej przeciwników, ciężką beczkę. Mistrz gry warunkuje powodzenie fortelu udanym testem Atletyki. Jeśli test się powiedzie, a wrogowie nie wykonają uniku, otrzymają 1d10 pkt obrażeń oraz Stan: Powalenie.
+
+Innymi słowy, fortel to skorzystanie z wybranej umiejętności w trakcie walki.
 
 ## Ucieczki i pościgi
 
 Jednym z możliwych do zastosowania forteli, jest ucieczka z pola bitwy. Niezbyt to chwalebny czyn, jednak lepszy tchórzliwy bohater, niźli martwy. Chcąc uciec, postać musi przede wszystkim zdać test Zręczności. Następnie, zaczyna biec zgodnie z posiadaną ilością punktów ruchu. By ucieczka się powiodła, różnica między nią, a ścigającym musi wynieść przynajmniej 5 pkt. Bohater w każdej turze może poświęcić 1 pkt Determinacji, by wykonać dodatkową akcję, mającą na celu utrudnienie pościgu - zatrzaśnięcie drzwi, przewrócenie stojących koszy z owocami itp. Analogicznie, goniący poświęca punkt [DET], by pokonać przeszkodę, zdając stosowny test (z reguły Atletyki, bądź Kociej zwinności). Porażka podczas omijania przeszkody zwiększa dodatkowo odległość między postaciami o jeden, zapewniając tym samym przewagę uciekającemu.
+
+## Używanie magii
+
+Rzucanie zaklęć odbywa się na zasadach bardzo podobnych do korzystania z broni. Każde zaklęcie, zarówno szamańskie, jak i to pochodzące z mocy kryształów, wymaga jednak odpowiedniej ilości Mistycznej Energii. Dodatkowo należy wziąć pod uwagę dystans i czas rzucania każdego z nich.
+
+Więcej informacji znajdziesz w rozdziale poświęconym magii.
 
 ## Stany
 
@@ -59,15 +71,20 @@ Wyjątkowo paskudny stan, mogący prowadzić nawet do trwałej utraty wzroku. Os
  
 ### Unieruchomienie
 
-Rozmaite zaklęcia, pułapki, czy choćby dzikie pnącza potrafią ograniczyć swobodę ruchów Bohatera, prowadząc niekiedy do jego całkowitego unieruchomienia. Choć zwykle stan ten ogranicza się do braku możliwości przemieszczania, w skrajnych przypadkach postać może utracić także możliwość poruszania całym ciałem. Co za tym idzie, na skutek krytycznego wyniku testu, staje się niezdolna do jakiejkolwiek interakcji.
+Rozmaite zaklęcia, pułapki, czy choćby dzikie pnącza potrafią ograniczyć swobodę ruchów Bohatera. Choć zwykle stan ten ogranicza się do spowolnienia postaci (redukcja zasięgu ruchu o połowę), w skrajnych przypadkach może prowadzić do czasowego lub trwałego unieruchomienia.
 
 ### Zatrucie
 
-Stan ten w swoim działaniu przypomina nieco krwawienie, jednak jego zniwelowanie wymaga użycia antidotum. Standardowa utrata punktów wytrzymałości wynosi 1 pkt na rundę, chyba że Mistrz Gry zdecyduje inaczej.
+Stan ten w swoim działaniu przypomina nieco krwawienie, jednak jego zniwelowanie wymaga użycia antidotum. Standardowa utrata punktów wytrzymałości wynosi 1 pkt na rundę, chyba że Mistrz Gry zdecyduje inaczej. Dodatkowo wpływa na testy oparte na Sile, dodając do Kość Karną,
 
 ### Podpalenie
 
 Standardowe obrażenia od ognia powodują utratę 1 pkt wytrzymałości na rundę, chyba że podpalenie jest wynikiem wybuchu lub większego pożaru (1d4 / rundę). Mistrz Gry powinien każdorazowo rozpatrzyć obrażenia, w zależności od sytuacji.
 
-Przemarznięcie
-Porażenie
+### Przemarznięcie
+
+Kiedy temperatura ciała spada, Bohater traci jeden dodatkowy punkt wytrzymałości co rundę. W skrajnych przypadkach (np. potężna śnieżyca, wpadnięcie do lodowatej wody) obrażenia od zimna w każdej rundzie mogą wynieść 1d4. Przemarznięcie wpływa negatywnie na testy oparte na Zręczności, dodając do nich Kość Karną.
+
+### Porażenie
+
+Porażenie błyskawicą zadaje dodatkowy 1 pkt obrażeń w każdej rundzie (w wyjątkowych sytuacjach 1d4) i wpływa negatywnie na rzucanie czarów oraz inne umiejętności oparte na wiedzy. Postać nie jest w stanie skoncentrować się wystarczająco, przez co każdy rzut wykonuje z Kością Karną.
