@@ -1,4 +1,4 @@
-Nawet najdzielniejsi Bohaterowie potrzebują odpoczynku, w przeciwnym razie nie będą w stanie efektywnie walczyć. To czas w którym mogą się w spokoju posilić lub zwyczajnie odsapnąć, przed kolejnym wyzwaniem. 
+Nawet najdzielniejsi Bohaterowie potrzebują odpoczynku, w przeciwnym razie nie będą w stanie efektywnie walczyć. To czas w którym mogą się w spokoju posilić lub zwyczajnie odsapnąć, przed kolejnym wyzwaniem. Nocując w dziczy bez jakiegokolwiek namiotu, Bohaterowie muszą zdać test Sztuki przetrwania, w przeciwnym wypadku regeneracja nie będzie możliwa.
 
 Wyróżniamy dwa rodzaje odpoczynku:
 

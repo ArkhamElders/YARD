@@ -212,4 +212,4 @@ Zdolność służy przede wszystkim uczeniu się magii ze zwojów, pojmowaniu st
 
 ## Więcej umiejętności
 
-Podręcznik zawiera  jedynie najważniejsze umiejętności, pozwalające na swobodną, możliwie prostą rozgrywkę. Jeśli uznasz za konieczne dodanie nowych, bardziej wyspecjalizowanych zdolności, nic nie stoi na przeszkodzie. To Twoja gra i możesz ją prowadzić jak tylko zechcesz. Pamiętaj tylko, że nadmiar umiejętności wprowadza niekiedy zbędne zamieszanie, a prostota sprzyja kreatywności Bohaterów.
+Podręcznik zawiera jedynie najważniejsze umiejętności, pozwalające na swobodną, możliwie prostą rozgrywkę. Jeśli uznasz za konieczne dodanie nowych, bardziej wyspecjalizowanych zdolności, nic nie stoi na przeszkodzie. To Twoja gra i możesz ją prowadzić jak tylko zechcesz. Pamiętaj tylko, że nadmiar umiejętności wprowadza niekiedy zbędne zamieszanie, a prostota sprzyja kreatywności Bohaterów.

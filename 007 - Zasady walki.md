@@ -22,6 +22,12 @@ W przypadku ataków przeprowadzanych z użyciem broni dystansowej, należy pami�
 
 Testów podczas walki nie można forsować.
 
+## Modyfikatory
+
+W YARD występują dwa modyfikatory związane z prowadzeniem potyczek. Pierwszy z nich, to oparty na sile modyfikator obrażeń, drugi natomiast - modyfikator pancerza, zwany w skrócie pancerzem.
+
+Podczas walki zarówno atakujący, jak i atakowany rozpatrują odpowiednie modyfikatory. Więcej na ten temat znajdziesz w rozdziale Pancerz, atak, modyfikator ataku.
+
 ## Unik i kontratak
 
 Zaatakowana postać może próbować uniknąć ciosu lub wyprowadzić kontratak. Obie akcje to nic innego jak rzuty przeciwstawne, które dotyczą zarówno Bohaterów, jak i napotkanych przeciwników. By unik był skuteczny, poziom sukcesu Kociej zwinności musi być wyższy niż poziom sukcesu ataku. Analogicznie, w przypadku kontrataku porównuje się poziom sukcesu umiejętności bojowych obu postaci. 

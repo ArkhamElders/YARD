@@ -10,7 +10,7 @@ Bard przy szynkwasie przygrywał na lutni, a jedna z dziewcząt tańczyła w tak
 
 Kilku starszych mężczyzn, zamiast uczestniczyć w zabawie, siedziało cicho, spoglądając na okna. Ich zmarszczone czoła i usta zaciśnięte w wąskie kreski sugerowały, że coś ich trapi. Nawet wilki, zwykle z zadowoleniem wylegujące się przy kominku, teraz unosiły łby, nasłuchując czegoś, czego ludzkie uszy nie były w stanie wychwycić.
 
-Gdy wreszcie drzwi karczmy otworzyły się z hukiem, wszyscy zamarli. Do środka wdarł się podmuch lodowatego wiatru, a wraz z nim drobinki śniegu tańczące w świetle ognia. W progu stała Kwentu, stara szamanka, która, jeśli wierzyć karmczmianym opowieściom, pamięta jeszcze wojny magów. Za nią kroczył ogromny wilk o czarnym jak noc, poszarpanym futrze i złocistych oczach, które wpatrywały się w zgromadzonych z przenikliwością. Szamanka odrzuciła kaptur i rozglądając się po izbie, rzekła:
+Gdy wreszcie drzwi karczmy otworzyły się z hukiem, wszyscy zamarli. Do środka wdarł się podmuch lodowatego wiatru, a wraz z nim drobinki śniegu tańczące w świetle ognia. W progu stała Kwentu, stara szamanka, która, jeśli wierzyć karczmianym opowieściom, pamięta jeszcze wojny magów. Za nią kroczył ogromny wilk o czarnym jak noc, poszarpanym futrze i złocistych oczach, które wpatrywały się w zgromadzonych z przenikliwością. Szamanka odrzuciła kaptur i rozglądając się po izbie, rzekła:
 
 „Wiatr w górach niesie zapach krwi. Wilki zawodzą do Pani Urune, a gryfy opuszczają swoje gniazda.”
 
