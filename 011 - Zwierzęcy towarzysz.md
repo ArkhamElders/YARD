@@ -1,3 +1,5 @@
+# Zwierzęcy towarzysz
+
 Posiadanie psów, kotów, czy nawet sokołów jest w Aleorze dość powszechne. Na szczególną uwagę zasługuje jednak yardańska więź z wilkami. Gdy świat był jeszcze młody, Pramatka zesłała wilki, by służyły ludziom z gór, przypominając jednocześnie o jej potędze.
 
 Żaden wilk, czy nawet wściekły warg nie zaatakuje Yardanina i odwrotnie - jeśli człowiek północy spróbuje choćby podnieść rękę na to zwierzę, spotka go kara w postaci gniewu Pani Urune (natychmiastowe 2d10 obrażeń pomijających wszelkie pancerze i bariery ochronne).

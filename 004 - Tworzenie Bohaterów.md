@@ -86,7 +86,7 @@ Dumne i mądre krasnoludy uważane są za jedną z najstarszych ras, zamieszkuj�
 
 ### Elfy
 
-Długowieczny lud, pierwotnie zamieszkujący Wędrującą Puszczę, dziś spotykany niemal we wszystkich większych miastach. To właśnie elfom Aleor zawdzięcza pokonanie Madhrata i zakończenie jednej z najgorszych wojen magów. Ruiny jego  twierdzy do dziś spoczywają ukryte głęboko w kniei, zapieczętowane potężnymi elfickimi zaklęciami.
+Długowieczny lud, pierwotnie zamieszkujący Wędrującą Puszczę, dziś spotykany niemal we wszystkich większych miastach. To właśnie elfom Aleor zawdzięcza pokonanie Madhrata i zakończenie jednej z najgorszych wojen magów. Ruiny jego twierdzy do dziś spoczywają ukryte głęboko w kniei, zapieczętowane potężnymi elfickimi zaklęciami.
 
 Elfy, choć nie tak silne jak pozostali, dysponują ogromną wiedzą, przekazywaną z pokolenia na pokolenie. Dzięki temu mogą jako jedyni posługiwać się jednocześnie zaklęciami szamańskimi oraz magią.
 

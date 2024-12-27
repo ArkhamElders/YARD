@@ -1,3 +1,5 @@
+# Wyposażenie
+
 Każdy Bohater potrzebuje solidnego wyposażenia, by móc mierzyć się z potworami. W tym rozdziale znajdziesz zasady opisujące zarządzanie miejscem w ekwipunku, walutą, a także listę dostępnych broni, pancerzy i zaklęć.
 
 Dowiesz się także w jaki sposób zwiększać ilość przenoszonego bagażu, poznasz ryzyko z tym związane oraz do czego służy Domostwo.

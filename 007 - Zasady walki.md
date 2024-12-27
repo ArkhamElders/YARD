@@ -1,4 +1,4 @@
-# Przebieg potyczki
+# Zasady walki
 
 Choć czasy Wojen Magów minęły, walka nadal jest powszechnym zjawiskiem w Aleorze. Świat pełen jest bestii, magicznych istot i bandyckich szajek, czyhających na zbłąkanych wędrowców. Jeśli chcesz zostać prawdziwym Bohaterem, musisz wiedzieć jak sobie radzić podczas potyczki.
 
