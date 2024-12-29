@@ -54,6 +54,8 @@ Dodatkowo, każdy awans to szansa na poznanie nowego zaklęcia. Bohaterowie maj�
 
 ### Duży awans
 
-Co pięć poziomów Bohater może rozwinąć jeden, wybrany przez siebie atrybut o 1d6 oraz zwiększyć całkowitą liczbę punktów determinacji o 1. Warto zauważyć, że rozwój atrybutów wpływa na bazowy poziom umiejętności oraz, w przypadku Siły, na udźwig. Pozwala także korzystać z potężniejszych broni i zaklęć, które mają podstawowy wymagany poziom Siły / Zręczności / Inteligencji.
+Co pięć poziomów Bohater może rozwinąć jeden, wybrany przez siebie atrybut o 1d6 oraz zwiększyć całkowitą liczbę punktów determinacji o 2. Warto zauważyć, że rozwój atrybutów wpływa na bazowy poziom umiejętności oraz, w przypadku Siły, na udźwig. Pozwala także korzystać z potężniejszych broni, które mają podstawowy wymagany poziom Siły / Zręczności / Wiedzy.
 
 Oczywiście podczas dużego awansu wykonywane jest także standardowe rozwinięcie postaci z małego awansu.
+
+Niewielu Bohaterów przekracza granice ludzkich możliwości, niemniej zwiększenie atrybutów powyżej 95 pkt jest możliwe, zarówno poprzez duży awans, jak i czasowo, przez specjalne mikstury magów. 

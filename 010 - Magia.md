@@ -31,11 +31,11 @@ Dotykając ziemi, zaklinacz wabi gigantycznego kreta - Talpara, który przekopuj
 
 Zaklęcie może zranić również członków drużyny, a do rzucenia wymagane jest ziemiste lub piaskowe podłoże (nie działa na bagnach i skałach). 
 
-### Naturalny porządek | ME: 6 | Czas rzucania: natychmiastowy
+### Naturalny porządek | ME: 8 | Czas rzucania: natychmiastowy
 
 Każda żywa istota jest częścią natury, a ta... czasem upomina się o swoje. Po rzuceniu zaklęcia, cel zaczyna ulegać powolnemu rozpadowi, oddając naturze część swojej energii życiowej. Atak powoduje 1d6 obrażeń na każde 5 poziomów szamana. Rozpad zadaje obrażenia przez 1d4 rundy.
 
-Rzucając to potężne zaklęcie, szaman musi złożyć ofiarę z własnej krwi (jednorazowe 1d4 obrażeń).
+Rzucając to potężne zaklęcie, szaman musi złożyć ofiarę z własnej krwi (1d4 obrażeń na każde 5 poziomów).
 
 ### Lawomrówki | ME: 4 | Czas rzucania: natychmiastowy
 
@@ -43,11 +43,11 @@ Z ziemi zaczynają wychodzić niezliczone ilości rozgrzanych do czerwoności la
 
 Niepowodzenie w rzucie może sprawić, że mrówki zaatakują szamana lub innego, będącego najbliżej sojusznika.
 
-### Pieśń wilków | ME: 4 | Czas rzucania: 1 runda
+### Pieśń wilków | ME: 6 | Czas rzucania: 1 runda
 
-Szaman pogrąża się w transie, śpiewając przy tym swoją przedziwną pieśń, przypominającą wycie wilków do księżyca. Jej dźwięk budzi w towarzyszach pierwotne instynkty, dzięki czemu przez kolejne 1d4 rundy zyskują kość premiową do ataku.
+Szaman pogrąża się w transie, śpiewając przy tym swoją przedziwną pieśń, przypominającą wycie wilków do księżyca. Jej dźwięk budzi w towarzyszach pierwotne instynkty, dzięki czemu przez kolejne 1d4 rundy umiejętności wymagające punktów determinacji nie powodują jej utraty.
 
-W przypadku niepowodzenia, Bohaterowie zyskują kość karną.
+W przypadku niepowodzenia, Bohaterowie tracą 2 pkt determinacji.
 
 ## Magia katalizowana
 
