@@ -32,7 +32,7 @@ Jeśli Bohater zechce dodatkowo jechać na obładowanym koniu, należy odjąć 3
 
 ## Sakiewka
 
-Nowa zbroja, pokój w gospodzie, czy kufel yardańskiego piwa - wszystko ma swoją cenę, dlatego warto mieć przy sobie trochę brzęczących monet. Choć sakiewka nie wlicza się do miejsca w ekwipunku, ze względów bezpieczeństwa lepiej nie nosić przy sobie całego majątku. 
+Nowa zbroja, pokój w gospodzie, czy kufel yardańskiego piwa - wszystko ma swoją cenę, dlatego warto mieć przy sobie trochę brzęczących monet. Choć sakiewka nie wlicza się do miejsca w ekwipunku, ze względów bezpieczeństwa lepiej nie nosić przy sobie całego majątku. Każdy bohater zaczyna z ***2d6** x10 sztuk srebra w sakiewce i dokładnie drugie tyle może wydać na wyposażenie.
 
 W grze możemy wyróżnić następujące środki płatnicze:
 
@@ -75,10 +75,10 @@ Istotnym elementem jest również standardowy Stan, jaki powoduje krytyczne traf
 
 |Nazwa            |Dystans  |Obrażenia  |Atrybut|Stan       |Cena K/S   |
 |---    	      |---	    |---	    |---	|---	    |---	    |
-|Krótki łuk       |40 m     |1  	    |ZR 	|-   	    |10/5     	|
-|Długi łuk        |80 m	    |2      	|S  	|-   	    |30/15     	|
+|Krótki łuk       |40 m     |1  	    |[ZR] 	|-   	    |10/5     	|
+|Długi łuk        |80 m	    |2      	|[S]  	|-   	    |30/15     	|
 |Zwykła strzała   |-  	    |1d4    	|-   	|Krwawienie	|2/1       	|
-|Kusza            |20 m	    |2      	|ZR   	|-   	    |30/15      |
+|Kusza            |20 m	    |2      	|[ZR]  	|-   	    |30/15      |
 |Zwykły bełt   	  |-  	    |1d4	    |-   	|Krwawienie |2/1        |
 
 Po wygranej potyczce strzelec ma 1d4 szans na odzyskanie pocisków z ciał poległych.
@@ -90,14 +90,14 @@ Zapis `- / S/10` oznacza, że broń poza walką wręcz może również służyć
 Niektóre rodzaje broni wymagają też konkretnego poziomu siły, by móc jej swobodnie używać.
 
 |Nazwa          |Dystans    |Obrażenia  |Atrybut|Stan       |Cena K/S   |
-|---        	|---	    |---	    |---	|---	    |---	    |
-|Kij            |-  	    |1d4  	    |ZR	    |Powalenie  |4/2     	|
-|Włócznia       |- / S/10   |1d6      	|S > 40	|Krwawienie |10/5     	|
-|Pałka*         |-  	    |1d4    	|S   	|Powalenie	|4/2      	|
-|Sztylet*       |- / ZR/10  |1d4      	|ZR   	|Krwawienie |10/5       |
-|Krótki miecz* 	|-  	    |1d6	    |ZR > 50|Krwawienie |20/10      |
-|Długi miecz   	|-  	    |1d8	    |S > 60	|Krwawienie |30/15      |
-|Młot bojowy   	|-  	    |2d4	    |S > 70	|Powalenie  |40/20      |
+|---        	|---	    |---	    |---    	|---	    |---	    |
+|Kij            |-  	    |1d4  	    |[ZR]	    |Powalenie  |4/2     	|
+|Włócznia       |- / S/10   |1d6      	|[S] > 40	|Krwawienie |10/5     	|
+|Pałka*         |-  	    |1d4    	|[S]    	|Powalenie	|4/2      	|
+|Sztylet*       |- / ZR/10  |1d4      	|[ZR]   	|Krwawienie |10/5       |
+|Krótki miecz* 	|-  	    |1d6	    |[ZR] > 50  |Krwawienie |20/10      |
+|Długi miecz   	|-  	    |1d8	    |[S] > 60	|Krwawienie |30/15      |
+|Młot bojowy   	|-  	    |2d4	    |[S] > 70	|Powalenie  |40/20      |
 
 *Możliwa walka z wykorzystaniem dwóch broni.
 
@@ -109,13 +109,13 @@ Poza bronią dobrze jeszcze mieć zbroję lub tarczę, które przynajmniej czę�
 
 |Nazwa              |Pkt. pancerza  |Min. Siła  |Cena K/S   |
 |---        	    |---	        |---	    |---	    |
-|Zwykły hełm        |1  	        |S > 40     |4/2        |
-|Drewniana tarcza   |2              |S > 50    	|10/5	    |
-|Zbroja skórzana    |2  	        |S > 50    	|20/10   	|
-|Kolczuga           |4              |S > 70    	|100/50   	|
-|Zbroja płytowa 	|6  	        |S > 80	    |600/300    |
+|Zwykły hełm*       |1  	        |[S] > 40   |4/2        |
+|Drewniana tarcza   |2              |[S] > 50  	|10/5	    |
+|Zbroja skórzana    |2  	        |[S] > 50   |20/10   	|
+|Kolczuga*          |4              |[S] > 70  	|100/50   	|
+|Zbroja płytowa*	|6  	        |[S] > 80   |600/300    |
 
-*Ciężkie zbroje i hełmy utrudniają skradanie i rzucanie zaklęć, dając kość karną do testów Umiejętności, których podstawowym atrybutem jest Zręczność lub Wiedza. 
+*Ciężkie zbroje i hełmy utrudniają skradanie i rzucanie zaklęć, dając kość karną do testów umiejętności, których podstawowym atrybutem jest Zręczność lub Inteligencja. 
 
 ## Inne przedmioty
 
@@ -135,8 +135,8 @@ Broń i pancerze to nie wszystko - Bohaterowie mogą i powinni zabrać na każd�
 
 |Nazwa                  |Działanie                                                                  |Cena K/S  |
 |---            	    |---	                                                                    |---	   |
-|Mikstura wytrzymałości |Regeneruje maks. 8 PW                                                      |10/5      |
-|Mikstura mistycyzmu    |Regeneruje maks. 8 ME                                                      |10/5      |
+|Mikstura wytrzymałości |Regeneruje maks. 8 [PW]                                                    |10/5      |
+|Mikstura mistycyzmu    |Regeneruje maks. 8 [ME]                                                    |10/5      |
 |Antidotum              |Usuwają truciznę.   	                                                    |8/4       |
 |Pijawki [M]            |Usuwają truciznę. Wielokrotnego użytku. Nie można korzystać podczas walki. |12/6      |
 |Lecznicze jagody	    |Regenerują 1d4 pkt [PW]  	                                                |4/2       |

@@ -1,10 +1,10 @@
 # Zasady walki
 
-Choć czasy Wojen Magów minęły, walka nadal jest powszechnym zjawiskiem w Aleorze. Świat pełen jest bestii, magicznych istot i bandyckich szajek, czyhających na zbłąkanych wędrowców. Jeśli chcesz zostać prawdziwym Bohaterem, musisz wiedzieć jak sobie radzić podczas potyczki.
+Choć czasy wojen magów minęły, walka nadal jest powszechnym zjawiskiem w Aleorze. Świat pełen jest bestii, magicznych istot i bandyckich szajek, czyhających na zbłąkanych wędrowców. Jeśli chcesz zostać prawdziwym Bohaterem, musisz wiedzieć jak sobie radzić podczas potyczki.
 
-Na początku każdej walki należy ustalić kolejność, według której postaci będą atakować. Aby to zrobić, porównuje się wartość Determinacji wszystkich Bohaterów oraz przeciwników biorących udział w starciu. Postać z najwyższą liczbą punktów [DET] atakuje jako pierwsza, a postać z najniższą - ostatnia. W przypadku, gdy dwie lub więcej postaci posiada taką samą liczbę punktów [DET], o kolejności między nimi decyduje dodatkowy rzut 2d6 - postać z wyższym wynikiem atakuje pierwsza. Co istotne, rzut ten nie wpływa w żaden sposób na ilość posiadanych przez Bohatera punktów Determinacji.
+Na początku każdej walki należy ustalić kolejność, według której postaci będą atakować. Aby to zrobić, porównuje się wartość Determinacji wszystkich Bohaterów oraz przeciwników biorących udział w starciu. Postać z najwyższą liczbą punktów **[DET]** atakuje jako pierwsza, a postać z najniższą - ostatnia. W przypadku, gdy dwie lub więcej postaci posiada taką samą liczbę punktów **[DET]**, o kolejności między nimi decyduje dodatkowy rzut **2d6** - postać z wyższym wynikiem atakuje pierwsza. Co istotne, rzut ten nie wpływa w żaden sposób na ilość posiadanych przez Bohatera punktów Determinacji.
 
-Zdarzają się sytuacje, w których dochodzi do ataku z zaskoczenia. Ukryty w cieniu łotrzyk pozostaje może zaatakować przeciwnika jeszcze przed rozpoczęciem walki i ustaleniem kolejności. W ramach przewagi, przysługuje mu także kość premiowa do ataku.
+Zdarzają się sytuacje, w których dochodzi do ataku z zaskoczenia. Ukryty w cieniu łotrzyk może zaatakować przeciwnika jeszcze przed rozpoczęciem walki i ustaleniem kolejności. W ramach przewagi, przysługuje mu także kość premiowa do ataku.
 
 ## Atak
 
@@ -16,7 +16,7 @@ Atak to nic innego jak test umiejętności określający, czy Bohaterowi udało 
 - Porażka - Bohater chybia
 - Krytyczna porażka - Próba ataku kończy się niepowodzeniem, a bohater musi zmierzyć się z dodatkowymi konsekwencjami (np. uszkadza broń, rani towarzysza lub siebie).
 
-Walka z użyciem dwóch broni wymaga oddzielnego rzutu na każdą rękę oraz odpowiedniego poziomu Zręczności (powyżej 70 pkt) - w przeciwnym wypadku atak drugą ręką odbywa się z Kością Karną.
+Walka z użyciem dwóch broni wymaga oddzielnego rzutu na każdą rękę oraz odpowiedniego poziomu Kociej Zwinności (powyżej 70 pkt) - w przeciwnym wypadku atak drugą ręką odbywa się z Kością Karną.
 
 W przypadku ataków przeprowadzanych z użyciem broni dystansowej, należy pamiętać, że broń dystansowa wymaga pocisków i sama z siebie stanowi jedynie modyfikator ataku. Lepszy łuk z pewnością pomoże, ale to strzały są nośnikiem obrażeń.
 
@@ -43,13 +43,13 @@ Kontratak w YARD przebiega bardzo prosto:
 Poza standardowymi akcjami, możliwa jest również improwizacja, określana mianem fortelu. Bohater może próbować ogłuszyć przeciwnika, zepchnąć go w przepaść lub wykonać w trakcie swojej tury inną, nietypową akcję. Ze względu na szeroki wachlarz możliwości, jaki daje ta akcja, Mistrz Gry powinien każdorazowo rozważyć warunki fortelu.
 
 **Przykład**
-W trakcie walki, stojący na wyższym piętrze bohater chiałby zepchnąć na znajdujących się poniżej przeciwników, ciężką beczkę. Mistrz gry warunkuje powodzenie fortelu udanym testem Atletyki. Jeśli test się powiedzie, a wrogowie nie wykonają uniku, otrzymają 1d10 pkt obrażeń oraz Stan: Powalenie.
+W trakcie walki, stojący na wyższym piętrze bohater chiałby zepchnąć na znajdujących się poniżej przeciwników, ciężką beczkę. Mistrz gry warunkuje powodzenie fortelu udanym testem Atletyki. Jeśli test się powiedzie, a wrogowie nie wykonają uniku, otrzymają **1d10** pkt obrażeń oraz Stan: Powalenie.
 
 Innymi słowy, fortel to skorzystanie z wybranej umiejętności w trakcie walki.
 
 ## Ucieczki i pościgi
 
-Jednym z możliwych do zastosowania forteli, jest ucieczka z pola bitwy. Niezbyt to chwalebny czyn, jednak lepszy tchórzliwy bohater, niźli martwy. Chcąc uciec, postać musi przede wszystkim zdać test Zręczności. Następnie, zaczyna biec zgodnie z posiadaną ilością punktów ruchu. By ucieczka się powiodła, różnica między nią, a ścigającym musi wynieść przynajmniej 5 pkt. Bohater w każdej turze może poświęcić 1 pkt Determinacji, by wykonać dodatkową akcję, mającą na celu utrudnienie pościgu - zatrzaśnięcie drzwi, przewrócenie stojących koszy z owocami itp. Analogicznie, goniący poświęca punkt [DET], by pokonać przeszkodę, zdając stosowny test (z reguły Atletyki, bądź Kociej zwinności). Porażka podczas omijania przeszkody zwiększa dodatkowo odległość między postaciami o jeden, zapewniając tym samym przewagę uciekającemu.
+Jednym z możliwych do zastosowania forteli, jest ucieczka z pola bitwy. Niezbyt to chwalebny czyn, jednak lepszy tchórzliwy bohater, niźli martwy. Chcąc uciec, postać musi przede wszystkim zdać test Kociej zwinności. Następnie, zaczyna biec zgodnie z posiadaną ilością punktów ruchu. By ucieczka się powiodła, różnica między nią, a ścigającym musi wynieść przynajmniej 5 pkt. Bohater w każdej turze może poświęcić 1 pkt Determinacji, by wykonać dodatkową akcję, mającą na celu utrudnienie pościgu - zatrzaśnięcie drzwi, przewrócenie stojących koszy z owocami itp. Analogicznie, goniący poświęca punkt **[DET]**, by pokonać przeszkodę, zdając stosowny test (z reguły Atletyki, bądź Kociej zwinności). Porażka podczas omijania przeszkody zwiększa dodatkowo odległość między postaciami o jeden, zapewniając tym samym przewagę uciekającemu.
 
 ## Używanie magii
 
@@ -59,11 +59,11 @@ Więcej informacji znajdziesz w rozdziale poświęconym magii.
 
 ## Stany
 
-Wędrując po yardańskich bezdrożach Bohater będzie narażony na rozmaite, negatywne efekty. Czy to spowodowane siłami natury, czy wynikające ze starcia z potężnym przeciwnikiem. Chociaż większość stanów mija wraz z upływem czasu (1d6 rund), niektóre z nich mogą mieć efekt trwały lub wymagać użycia konkretnego remedium. Poniżej znajdziesz opis każdego z efektów.
+Wędrując po yardańskich bezdrożach Bohater będzie narażony na rozmaite, negatywne efekty. Czy to spowodowane siłami natury, czy wynikające ze starcia z potężnym przeciwnikiem. Chociaż większość stanów mija wraz z upływem czasu (**1d6** rund), niektóre z nich mogą mieć efekt trwały lub wymagać użycia konkretnego remedium. Poniżej znajdziesz opis każdego z efektów.
 
 ### Powalenie
 
-Silny cios młotem lub inną bronią obuchową powalił na ziemię niejednego śmiałka. Bohater może spróbować wstać w trakcie trwania stanu, zdając test kondycji [KON]. Po upływie rund powalenia, postać wstaje automatycznie. W obu przypadkach należy jednak poświęcić jedną akcję z rundy. Jeżeli w wyniku powalenia Bohater został przygnieciony np. fragmentem skały lub ciężkimi meblami, niezbędny jest dodatkowy test atletyki. W skrajnych przypadkach (np. przygniecenie nogi olbrzymim drzewem) Bohater będzie potrzebował pomocy towarzyszy. Ocena sytuacji należy do Mistrza Gry.
+Silny cios młotem lub inną bronią obuchową powalił na ziemię niejednego śmiałka. Bohater może spróbować wstać w trakcie trwania stanu, zdając Atletyki. Po upływie rund powalenia, postać wstaje automatycznie. W obu przypadkach należy jednak poświęcić jedną akcję z rundy. Jeżeli w wyniku powalenia Bohater został przygnieciony np. fragmentem skały lub ciężkimi meblami, niezbędny jest trudny test atletyki. W skrajnych przypadkach (np. przygniecenie nogi olbrzymim drzewem) Bohater będzie potrzebował pomocy towarzyszy lub czeka go krytyczny test. Ocena sytuacji należy do Mistrza Gry.
 
 ### Krwawienie
 
@@ -73,11 +73,11 @@ Broń sieczna i kłuta może powodować krwawiące rany, które prowadzą do pow
 
 ### Oślepienie
 
-Wyjątkowo paskudny stan, mogący prowadzić nawet do trwałej utraty wzroku. Osoba czasowo lub trwale niewidoma wszystkie testy wykonuje ze zwiększoną o jeden poziom trudnością lub dodatkową [KK]. Jeżeli, w przypadku krytycznego ataku lub innego testu, Bohater oślepnie całkowicie, przywrócenie wzroku będzie wymagało interwencji szamana lub wysokiego rangą maga.
+Wyjątkowo paskudny stan, mogący prowadzić nawet do trwałej utraty wzroku. Osoba czasowo lub trwale niewidoma wszystkie testy wykonuje ze zwiększoną o jeden poziom trudnością lub dodatkową **[KK]**. Jeżeli, w przypadku krytycznego ataku lub innego testu, Bohater oślepnie całkowicie, przywrócenie wzroku będzie wymagało interwencji szamana lub wysokiego rangą maga.
  
 ### Unieruchomienie
 
-Rozmaite zaklęcia, pułapki, czy choćby dzikie pnącza potrafią ograniczyć swobodę ruchów Bohatera. Choć zwykle stan ten ogranicza się do spowolnienia postaci (redukcja zasięgu ruchu o połowę), w skrajnych przypadkach może prowadzić do czasowego lub trwałego unieruchomienia.
+Rozmaite zaklęcia, pułapki, czy choćby dzikie pnącza potrafią ograniczyć swobodę ruchów Bohatera. Choć zwykle stan ten ogranicza się do spowolnienia postaci (redukcja zasięgu ruchu o połowę), w skrajnych przypadkach może prowadzić do czasowego lub trwałego unieruchomienia. Można się z nich wydostać wcześniej, zdając test Kociej zwinności.
 
 ### Zatrucie
 
@@ -85,12 +85,12 @@ Stan ten w swoim działaniu przypomina nieco krwawienie, jednak jego zniwelowani
 
 ### Podpalenie
 
-Standardowe obrażenia od ognia powodują utratę 1 pkt wytrzymałości na rundę, chyba że podpalenie jest wynikiem wybuchu lub większego pożaru (1d4 / rundę). Mistrz Gry powinien każdorazowo rozpatrzyć obrażenia, w zależności od sytuacji.
+Standardowe obrażenia od ognia powodują utratę 1 pkt wytrzymałości na rundę, chyba że podpalenie jest wynikiem wybuchu lub większego pożaru (**1d4** / rundę). Mistrz Gry powinien każdorazowo rozpatrzyć obrażenia, w zależności od sytuacji.
 
 ### Przemarznięcie
 
-Kiedy temperatura ciała spada, Bohater traci jeden dodatkowy punkt wytrzymałości co rundę. W skrajnych przypadkach (np. potężna śnieżyca, wpadnięcie do lodowatej wody) obrażenia od zimna w każdej rundzie mogą wynieść 1d4. Przemarznięcie wpływa negatywnie na testy oparte na Zręczności, dodając do nich Kość Karną.
+Kiedy temperatura ciała spada, Bohater traci jeden dodatkowy punkt wytrzymałości co rundę. W skrajnych przypadkach (np. potężna śnieżyca, wpadnięcie do lodowatej wody) obrażenia od zimna w każdej rundzie mogą wynieść **1d4**. Przemarznięcie wpływa negatywnie na testy oparte na Zręczności, dodając do nich Kość Karną.
 
 ### Porażenie
 
-Porażenie błyskawicą zadaje dodatkowy 1 pkt obrażeń w każdej rundzie (w wyjątkowych sytuacjach 1d4) i wpływa negatywnie na rzucanie czarów oraz inne umiejętności oparte na wiedzy. Postać nie jest w stanie skoncentrować się wystarczająco, przez co każdy rzut wykonuje z Kością Karną.
+Porażenie błyskawicą zadaje dodatkowy 1 pkt obrażeń w każdej rundzie (w wyjątkowych sytuacjach **1d4**) i wpływa negatywnie na rzucanie czarów oraz inne umiejętności oparte na Inteligencji. Postać nie jest w stanie skoncentrować się wystarczająco, przez co każdy rzut wykonuje z Kością Karną.
