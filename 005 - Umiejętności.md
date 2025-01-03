@@ -7,6 +7,8 @@ Zdolności yardańskich Bohaterów zostały dobrane tak, by odzwierciedlać fakt
 
 Wyższy poziom sukcesu oznacza zwykle korzyści dla Bohaterów. W przypadku krytycznej porażki, muszą oni liczyć się z przykrymi konsekwencjami.
 
+Podczas wędrówek Bohaterowie spotkają wiele istot, których atrybuty będą przekraczały 100 pkt. Nie trudno się domyślić, że w takim wypadku ciężko mówić o porażce przy rzucie d100. Bez względu jednak na wysokość atrybutu, występuje krytyczna porażka, określana przez wynik 96-100.
+
 ### Testy łączone
 
 W szczególnych sytuacjach, Mistrz Gry może poprosić gracza o wykonanie testu łączonego. Najprościej mówiąc, są to dwa, następujące po sobie testy umiejętności i wyłącznie zdanie obu gwarantuje udane przeprowadzenie zaplanowanej akcji. 

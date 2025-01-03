@@ -50,7 +50,11 @@ Obok umiejętności na kartach postaci znajdują się kropki, służące do zazn
 Przykład:
 Postać posiadająca 60 pkt kondycji i 35 pkt wiedzy co poziom zdobywa 2 pkt wytrzymałości oraz 1 pkt mistycznej energii.
 
-Dodatkowo, każdy awans to szansa na poznanie nowego zaklęcia. Bohaterowie mają pełną dowolność wyboru, muszą jednak pamiętać, że na użycie niektórych zaklęć mogą być jeszcze zbyt słabi (niewystarczająca ilość punktów **[ME]**). Więcej na temat korzystania z magii i szamanizmu znajdziesz w dalszej części podręcznika.
+Dodatkowo, każdy awans to szansa na poznanie nowego zaklęcia. Bohaterowie mają pełną dowolność wyboru, muszą jednak pamiętać, że na użycie niektórych zaklęć mogą być jeszcze zbyt słabi (niewystarczająca ilość punktów **[ME]**). 
+
+Elfy, jeśli zdecydują się rozwijać jednocześnie magię szamańską i katalizowaną, wybierają podczas awansu po jednym z zaklęć każdego rodzaju.
+
+Więcej na temat korzystania z magii i szamanizmu znajdziesz w dalszej części podręcznika.
 
 ### Duży awans
 

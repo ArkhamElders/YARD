@@ -12,11 +12,11 @@ Atak to nic innego jak test umiejętności określający, czy Bohaterowi udało 
 
 - Zwykły sukces - Bohater przeprowadza normalny atak
 - Trudny sukces - Standardowe obrażenia + przeciwnik otrzymuje Stan odpowiedni dla broni/zaklęcia
-- Krytyczny sukces - Podwójne obrażenia + Permanentny stan
+- Krytyczny sukces - Podwójne obrażenia + Permanentny stan (wymagający specjalisty do usunięcia)
 - Porażka - Bohater chybia
 - Krytyczna porażka - Próba ataku kończy się niepowodzeniem, a bohater musi zmierzyć się z dodatkowymi konsekwencjami (np. uszkadza broń, rani towarzysza lub siebie).
 
-Walka z użyciem dwóch broni wymaga oddzielnego rzutu na każdą rękę oraz odpowiedniego poziomu Kociej Zwinności (powyżej 70 pkt) - w przeciwnym wypadku atak drugą ręką odbywa się z Kością Karną.
+Walka z użyciem dwóch broni wymaga oddzielnego rzutu na każdą rękę oraz odpowiedniego poziomu Kociej zwinności (powyżej 70 pkt) - w przeciwnym wypadku atak drugą ręką odbywa się z Kością Karną.
 
 W przypadku ataków przeprowadzanych z użyciem broni dystansowej, należy pamiętać, że broń dystansowa wymaga pocisków i sama z siebie stanowi jedynie modyfikator ataku. Lepszy łuk z pewnością pomoże, ale to strzały są nośnikiem obrażeń.
 
@@ -49,7 +49,11 @@ Innymi słowy, fortel to skorzystanie z wybranej umiejętności w trakcie walki.
 
 ## Ucieczki i pościgi
 
-Jednym z możliwych do zastosowania forteli, jest ucieczka z pola bitwy. Niezbyt to chwalebny czyn, jednak lepszy tchórzliwy bohater, niźli martwy. Chcąc uciec, postać musi przede wszystkim zdać test Kociej zwinności. Następnie, zaczyna biec zgodnie z posiadaną ilością punktów ruchu. By ucieczka się powiodła, różnica między nią, a ścigającym musi wynieść przynajmniej 5 pkt. Bohater w każdej turze może poświęcić 1 pkt Determinacji, by wykonać dodatkową akcję, mającą na celu utrudnienie pościgu - zatrzaśnięcie drzwi, przewrócenie stojących koszy z owocami itp. Analogicznie, goniący poświęca punkt **[DET]**, by pokonać przeszkodę, zdając stosowny test (z reguły Atletyki, bądź Kociej zwinności). Porażka podczas omijania przeszkody zwiększa dodatkowo odległość między postaciami o jeden, zapewniając tym samym przewagę uciekającemu.
+Jednym z możliwych do zastosowania forteli, jest ucieczka z pola bitwy. Niezbyt to chwalebny czyn, jednak lepszy tchórzliwy bohater, niźli martwy. Chcąc uciec, postać musi przede wszystkim zdać test Kociej zwinności. Następnie, zaczyna biec zgodnie z posiadaną ilością punktów ruchu. By ucieczka się powiodła, różnica między nią, a ścigającym musi wynieść więcej niż 5 pkt. Jeśli jest mniejsza, mamy do czynienia z pościgiem.
+
+Poza ruchem uciekający może wykonać jedną dodatkową akcję (zwykle test Atletyki lub Kociej zwinności) na utrudnienie pościgu - przewrócić kosze z owocami, odciąć linę itp. Goniący musi pokonać tę przeszkodę zdając odpowiedni test. W przeciwnym wypadku odległość między nim, a uciekającym zwiększy się o dodatkowy 1 pkt. Rzuty na utrudnienia mogą być standardowo forsowane z wykorzystaniem determinacji.
+
+Pościg / ucieczka nie zachodzą, jeśli różnica w ruchu między uciekającym, a goniącym jest większa niż 5. W takim przypadku Bohater (lub przeciwnik) po prostu ucieka już w pierwszej turze.
 
 ## Używanie magii
 

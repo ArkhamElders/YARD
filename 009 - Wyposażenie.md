@@ -145,13 +145,13 @@ Broń i pancerze to nie wszystko - Bohaterowie mogą i powinni zabrać na każd�
 
 ### Jedzenie i napoje
 
-|Nazwa                          |Pojemność  |Cena K/S  |
-|---            	            |---	    |---	   |
-|Chleb [M]                      |1          |2/1       |
-|Suszone mięso [M]              |2          |8/4       |
-|Pieczona dziczyzna [M]         |2  	    |12/6      |
-|Yardańskie ciemne piwo* [M]    |4          |6/3       |
-|Wino z Tascal* [M]             |6  	    |4/2       |
+|Nazwa                          |Działanie             |Cena K/S  |
+|---            	            |---	               |---	      |
+|Chleb [M]                      |Przywraca 1d4 [PW]    |2/1       |
+|Suszone mięso [M]              |Przywraca 1d6 [PW]    |6/3       |
+|Pieczona dziczyzna [M]         |Przywraca 1d8 [PW]    |10/5      |
+|Yardańskie ciemne piwo* [M]    |Przywraca 1d4 [DET]   |4/2       |
+|Wino z Tascal* [M]             |Przywraca 1d4 [DET]   |4/2       |
 
 *Spożycie więcej niż jednej porcji alkoholu pozwala zregenerować dodatkowe punkty Determinacji, ale skutkuje dodaniem kości karnej (jedna za każdą kolejną porcję) do wszystkich testów, aż do kolejnego pełnego odpoczynku.
 
@@ -161,7 +161,7 @@ Broń i pancerze to nie wszystko - Bohaterowie mogą i powinni zabrać na każd�
 |---           |---	                                                                                                        |---	   |
 |Lina [M]      |10 m wytrzymałej liny - przydatna podczas wspinaczki w trudnodostępne miejsca.                              |4/2       |
 |Pochodnia [M] |Rozświetla mrok, opcjonalnie może też służyć do walki, zadając 1d4 obrażeń +1 od ognia. Wystarcza na ok 4h. |2/1       |
-|Wytrychy [M]  |Pomagają otworzyć wszelakie zamki i rozbroić pułapki, dając kość premiową do testu.  	                    |10/5      |
+|Wytrychy [M]  |Pomagają otworzyć wszelakie zamki i rozbroić pułapki, dając kość premiową do testu. Wielokrotnego użytku.   |10/5      |
 |Namiot [D]    |Umożliwia odpoczynek bez rzutu na Sztukę przetrwania podczas nocowania w dziczy. Pomieści 3 osoby.          |20/10     |
 |Lutnia [D]    |Podstawowy instrument większości bardów.  	                                                                |20/10     |
 |Bandaże [M]   |5 szt. Pozwalają zatrzymać krwawienie.   	                                                                |4/2       |

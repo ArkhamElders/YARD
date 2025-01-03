@@ -3,9 +3,11 @@
 ## Atrybuty
 Tworzenie własnej postaci to dla wielu graczy jeden z najistotniejszych elementów rozgrywki. Nic w tym dziwnego, w końcu w tym tkwi spora część piękna RPG. Przejdźmy zatem do sedna.
 
-Bohaterów opisuje sześć głównych cech, zwanych dalej atrybutami. Każdy z nich wpływa bezpośrednio na umiejętności, zakres ruchu, a także rozwój punktów wytrzymałości oraz mistycznej energii podczas awansów.
+Bohaterów opisuje sześć głównych cech, opisywanych dalej jako Atrybuty. Każdy z nich wpływa bezpośrednio na umiejętności, zakres ruchu, a także rozwój punktów wytrzymałości oraz mistycznej energii podczas awansów.
 
-Określanie wartości atrybutów jest bardzo proste. Bazową liczbę punktów dla każdego z nich ustala się za pomocą rzutu **2d6**. Następnie do wartości bazowych gracz przydziela dowolną liczbę z **łącznej puli 320 punktów**. Wartość żadnego atrybutu nie może jednak przekroczyć 80 punktów ze względu na dalsze modyfikacje wieku i pochodzenia. Po ich uwzględnieniu najwyższa możliwa wartość atrybutu nie może przekroczyć 95 pkt, co jest związane z granicami ludzkich (pozostałych ras także) możliwości.
+Określanie wartości atrybutów jest bardzo proste. Bazową liczbę punktów dla każdego z nich ustala się za pomocą rzutu **2d6**. Następnie do wartości bazowych gracz przydziela dowolną liczbę z **łącznej puli 300 punktów**. 
+
+Wartość żadnego atrybutu nie może jednak przekroczyć 80 punktów ze względu na dalsze modyfikacje wieku i pochodzenia. Po ich uwzględnieniu najwyższa możliwa wartość atrybutu nie może przekroczyć 95 pkt, co jest związane z granicami ludzkich (pozostałych grywalnych ras także) możliwości.
 
 ### Siła [S]
 
@@ -16,7 +18,7 @@ Reprezentuje tężyznę fizyczną Bohatera, zdolność do podnoszenia przedmiot�
 Odpowiada za sprawność i wytrzymałość Twojej postaci. Określa jak długo jest w stanie biec lub jak bardzo jest odporna na zadawane obrażenia. Przydaje się także niestrudzonym wędrowcom i tym, którzy wybrali życie w surowej dziczy.
 
 ### Zręczność [ZR]
-Podstawowy atrybut złodziejskiego mistrza i prawdziwego łowcy. Zręczność wymagana jest wszędzie tam, gdzie w grę wchodzą szybkie, precyzyjne uderzenia. W razie kłopotów pomaga też szybko ewaukować się w bezpieczny sposób.
+Podstawowy atrybut złodziejskiego mistrza i prawdziwego łowcy. Zręczność wymagana jest wszędzie tam, gdzie w grę wchodzą szybkie, precyzyjne uderzenia. W razie kłopotów pomaga też szybko ewakuować się w bezpieczny sposób.
 
 ### Inteligencja [INT]
 Siła umysłu i zdolność dedukcji bywają nieocenione, zarówno podczas pertraktacji, jak i walki. Bystry Bohater z łatwością znajdzie wyjście z najtrudniejszej nawet sytuacji. To także główna cecha osób parających się magią.
@@ -46,7 +48,7 @@ Standardowa liczba umiejętności podstawowych.
 Dodatkowe 10 pkt do [WIE], - 5 pkt do [KON] oraz [S]
 Jedna dodatkowa umiejętność bazująca wiedzy.
 
-Zmodyfikuj statystyki na karcie wedle wybranego wieku swojego Bohatera. Pamiętaj, że wieku nie da się zmienić w trakcie rozgrywki. Zastanów się, jaki wiek będzie najlepiej pasował do Twojej postaci. Choć nic nie stoi na przeszkodzie, by zagrać młodym magiem, najpotężniejsi z nich swoją wiedzę zdobywali latami. Równie trudno wyobrazić sobie, by stary, choć doświadczony złodziej, mógł konkurować z młodym pod względem szybkości ruchów
+Zmodyfikuj statystyki na karcie wedle wybranego wieku swojego Bohatera. Pamiętaj, że wieku nie da się zmienić w trakcie rozgrywki. Zastanów się, jaki wiek będzie najlepiej pasował do Twojej postaci. Choć nic nie stoi na przeszkodzie, by zagrać młodym magiem, najpotężniejsi z nich swoją wiedzę zdobywali latami. Równie trudno wyobrazić sobie, by stary, choć doświadczony złodziej, mógł konkurować z młodym pod względem szybkości ruchów.
 
 ## Pochodzenie
 
@@ -56,9 +58,11 @@ Co prawda w swoim zamyśle gra skupia się przede wszystkim na Yardanach, ale mo
 
 Władcy wilków zamieszkujący północ Aleoru. Od pokoleń żyją w cieniu Wyjących Szczytów i okolicznych lasów, dzięki czemu potrafią poruszać się bezszelestnie i doskonale radzą sobie w dziczy. Ci urodzeni łowcy często atakują z ukrycia, zadając śmiertelny cios, nim przeciwnik zdąży się zorientować.
 
-Silniejsi i bardziej wtrzymali niż elfy, których są bliskimi krewnymi. Podobnie jak ich kuzyni posiadają długie szpiczaste uszy. Są jednak lepiej zbudowani i zaprawieni w boju, a z racji surowego klimatu panującego na północy, twarze yardańskich mężczyzn zwykle porasta długa i gęsta broda. Dzięki bliskim kontaktom z Tascalczykami, nie obca im cięższa broń oraz pancerze, choć najczęściej wybierają dyskretniejszy oręż.
+Silniejsi i bardziej wytrzymali niż elfy, których są bliskimi krewnymi. Podobnie jak ich kuzyni posiadają długie szpiczaste uszy. Są jednak lepiej zbudowani i zaprawieni w boju, a z racji surowego klimatu panującego na północy, twarze yardańskich mężczyzn zwykle porasta długa i gęsta broda. Dzięki bliskim kontaktom z Tascalczykami, nie obca im cięższa broń oraz pancerze, choć najczęściej wybierają dyskretniejszy oręż.
 
 W odróżnieniu od elfów, polują chętnie, wykorzystując do tego przede wszystkim wilki, z którymi łączy je szczególna więź. Zwykło się mawiać, że kiedy Yardanin umiera, jego wilk odchodzi do Urune razem z nim. Jako jedyni całkowicie odrzucają nauki magiczne. Ich mistyczna energia bazuje wyłącznie na łasce pochodzącej od Pramatki. Yardanin, chcąc władać magią, może wybrać jedynie drogę szamana.
+
+Kolejną rzeczą, która odróżnia Yardan od pozostałych mieszkańców Aleoru, jest ich relacja z wilkami. Więcej informacji na ten temat znajdziesz w rozdziale Zwierzęcy towarzysz. 
 
 **Modyfikacje:** Dodatkowe 5 punktów [CHA] oraz [ZR]. Wartość [INT] zmniejszona o 10.
 
@@ -78,7 +82,7 @@ Wywodzący się z Tascal miłośnicy kowalstwa, wojaczki, dobrego wina i piwa. S
 
 Podczas licznych wspólnych biesiad lubią żartować z pochodzenia swoich sąsiadów. Według nich Yardanie są owocem związku tascalskich krasnoludów oraz przybyłych z Wędrującej Puszczy elfów. Siłą Tascalczyka jest jego młot lub topór. Większość z nich szczerze pogardza innym rodzajem oręża. Posiadają też ogromną wiedzę, którą jednak niechętnie dzielą się z innymi.
 
-Prawdziwy krasnolud nie zna strachu i nie cofa się w obliczu największego nawet zagrożenia. NO... Chyba, że chodzi o konie... Jeśli kiedyś spotkasz Tascalczyka jadącego na koniu to wiedz, że albo postradał zmysły, albo jest pijany. Niechęć do popularnych wierzchowców zapewne podyktowana jest niskim wzrostem mistrzów kowalstwa, dlatego też dłuższe podróże odbywają na grzbietach jaków.
+Prawdziwy krasnolud nie zna strachu i nie cofa się w obliczu największego nawet zagrożenia. No... Chyba, że chodzi o konie... Jeśli kiedyś spotkasz Tascalczyka jadącego na koniu to wiedz, że albo postradał zmysły, albo jest pijany. Niechęć do popularnych wierzchowców zapewne podyktowana jest niskim wzrostem mistrzów kowalstwa, dlatego też dłuższe podróże odbywają na grzbietach jaków.
 
 Dumne i mądre krasnoludy uważane są za jedną z najstarszych ras, zamieszkujących Aleor. Przynajmniej same tak twierdzą.
 
@@ -182,4 +186,4 @@ Wartość bazowa pozostałych umiejętności równa jest 1/5 atrybutu, na który
 
 ### Podział punktów
 
-Liczba punktów umiejętności, podobnie jak liczba punktów atrybutów, jest wartością stałą. Każdy Bohater ma do dyspozycji 160 pkt, które może przeznaczyć na dowolne umiejętności, dodając je do wartości bazowych. Stała wartość puli punktów zapewnia wszystkim graczom równe szanse na starcie, jednocześnie skłaniając ich do przemyślanego tworzenia postaci. Pamiętaj, że wartość umiejętności nie może przekroczyć 95 punktów.
+Liczba punktów umiejętności, podobnie jak liczba punktów atrybutów, jest wartością stałą. Każdy Bohater ma do dyspozycji 150 pkt, które może przeznaczyć na dowolne umiejętności, dodając je do wartości bazowych. Stała wartość puli punktów zapewnia wszystkim graczom równe szanse na starcie, jednocześnie skłaniając ich do przemyślanego tworzenia postaci. Pamiętaj, że wartość umiejętności nie może przekroczyć 95 punktów.

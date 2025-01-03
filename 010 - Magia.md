@@ -6,7 +6,7 @@ Pierwsza jest znacznie starsza i pochodzi od bogów, którzy obdarowali szamanó
 
 Magia katalizowana to dziedzina nauki odkryta przez ludzi, którzy mieli dość podporządkowania się woli bogów. Opracowali oni sposób, wykorzystujący kryształy ametystu do katalizowania energii świata w magiczną energię. Odkrycie to pozwoliło uniezależnić się od bogów i z czasem zaczęło wypierać szamanizm, przyspieszając jednocześnie rozwój cywilizacyjny w krainach. Kryształy jednak potrzebują energii, by działać i czerpią ją z sił witalnych czarodzieja.
 
-Każdy Bohater może posługiwać się wyłącznie jedną, wybraną przez siebie ścieżką magii. Tylko Yardanie nie mają wyboru - wilczy pakt wymusza na nich posłuszeństwo wobec Pani Urune. Ze wszystkich ludów jedynie elfy mogą władać dwoma rodzajami magii, ponieważ od czasu pokonania Madhrata są one strażnikami równowagi.
+Każdy Bohater może posługiwać się wyłącznie jedną, wybraną przez siebie ścieżką magii. Tylko Yardanie nie mają wyboru - wilczy pakt wymusza na nich posłuszeństwo wobec Pani Urune. Ze wszystkich ludów jedynie elfy mogą władać dwoma rodzajami magii, ponieważ od czasu pokonania Madhrata są one strażnikami równowagi. Z tego tytułu zarówno na początku, jak i podczas awansów mogą wybrać po jednym zaklęciu z każdego rodzaju.
 
 Dla wszystkich (poza Yardanami) ludów możliwe jest jednak zrzeczenie się boskiej mocy lub nawrócenie - przejście z szamanizmu na magię katalizowaną i odwrotnie. Bohater musi jedynie zrzec się całej swojej dotychczasowej mocy i przetrwać boską próbę w postaci 1d10 boskich obrażeń na każdy poziom postaci.
 
@@ -67,7 +67,7 @@ Bariera uniemożliwia także atak z zaskoczenia podczas snu - Bohaterowie będą
 
 ### Klatka energetyczna | ME: 6 | Czas rzucania: natychmiastowy
 
-Mag zamyka przeciwnika w energetycznej klatce, która wędruje wraz z nim, powodujący **1d6** obrażeń przy każdym ruchu. Dodatkowo istnieje 1d4 szans na spowodowanie porażenia.
+Mag zamyka przeciwnika w energetycznej klatce, która wędruje wraz z nim, powodujący **1d6** obrażeń przy każdym ruchu. Dodatkowo istnieje **1d4** szans na spowodowanie porażenia.
 
 ### Lekcja spadania | ME: 8 | Czas rzucania: 1 runda
 
