@@ -6,6 +6,14 @@ Na początku każdej walki należy ustalić kolejność, według której postaci
 
 Zdarzają się sytuacje, w których dochodzi do ataku z zaskoczenia. Ukryty w cieniu łotrzyk może zaatakować przeciwnika jeszcze przed rozpoczęciem walki i ustaleniem kolejności. W ramach przewagi, przysługuje mu także kość premiowa do ataku.
 
+W każdej turze Bohater może wykonać dwie dowolne akcje:
+- ruch
+- atak
+- unik lub kontratak
+- fortel
+
+Jeśli na początku tury wykona tylko jedną akcję, może podczas trwania rundy wykonać unik lub kontratak.
+
 ## Atak
 
 Atak to nic innego jak test umiejętności określający, czy Bohaterowi udało się trafić przeciwnika. Zależnie od rodzaju ataku i posiadanego uzbrojenia, Bohater testuje Arkana, Precyzyjne uderzenie lub Walkę w zwarciu. Poziom sukcesu testu określa także dodatkowy skutek ataku:

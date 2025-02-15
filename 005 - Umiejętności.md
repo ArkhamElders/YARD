@@ -68,7 +68,7 @@ Różne style walki wymagają odmiennych umiejętności. Przykładowo strzelanie
 
 ### Arkana
 
-**Cecha bazowa:** Wiedza **[INT]**
+**Cecha bazowa:** Inteligencja **[INT]**
 
 Sama znajomość zaklęć i rytuałów nikogo nie uczyni magiem. Można przestudiować wszystkie zwoje świata, a mimo to nadal mieć umysł zbyt wątły, by sprawnie posługiwać się czarami. Arkana to umiejętność kontroli wypowiadanych słów i płynącej z nich mocy. 
 
@@ -130,7 +130,7 @@ Wieloletnie treningi pod okiem wybitnych mistrzów pozwalają Bohaterom przeć n
 
 ### Coś z niczego
 
-**Cecha bazowa:** Inteligencja **[WIE]**
+**Cecha bazowa:** Wiedza **[WIE]**
 
 Umiejętność konstruowania pułapek, prowizorycznych narzędzi i innego rodzaju sprzętu bywa nieoceniona, szczególnie w dziczy. Choć często wymaga zgromadzenia niezbędnych materiałów, najlepsi adepci tej nieco pogardzanej sztuki, potrafią dosłownie na poczekaniu zmajstrować coś, co może pomóc drużynie bardziej, niż się tego spodziewa.
 

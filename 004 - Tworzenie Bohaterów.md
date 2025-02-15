@@ -52,7 +52,7 @@ Zmodyfikuj statystyki na karcie wedle wybranego wieku swojego Bohatera. Pamięta
 
 ## Pochodzenie
 
-Co prawda w swoim zamyśle gra skupia się przede wszystkim na Yardanach, ale możesz wybrać inne, dowolne pochodzenie. Poniżej znajdziesz opisy sześciu najliczniejszych ludów Aleoru, wraz z modyfikacjami atrybutów.
+Co prawda w swoim zamyśle gra skupia się przede wszystkim na Yardanach, ale możesz wybrać inne, dowolne pochodzenie. Poniżej znajdziesz opisy sześciu najliczniejszych ludów Aleoru, wraz z modyfikacjami atrybutów. Choć różnice między poszczególnymi rasami nie są aż tak wielkie, każda z nich posiada swoje indywidualne korzyści, zwykle niedostępne dla pozostałych. Warto to uwzględnić, by stworzyć możliwie ciekawą postać.
 
 ### Yardanie
 
@@ -62,7 +62,7 @@ Silniejsi i bardziej wytrzymali niż elfy, których są bliskimi krewnymi. Podob
 
 W odróżnieniu od elfów, polują chętnie, wykorzystując do tego przede wszystkim wilki, z którymi łączy je szczególna więź. Zwykło się mawiać, że kiedy Yardanin umiera, jego wilk odchodzi do Urune razem z nim. Jako jedyni całkowicie odrzucają nauki magiczne. Ich mistyczna energia bazuje wyłącznie na łasce pochodzącej od Pramatki. Yardanin, chcąc władać magią, może wybrać jedynie drogę szamana.
 
-Kolejną rzeczą, która odróżnia Yardan od pozostałych mieszkańców Aleoru, jest ich relacja z wilkami. Więcej informacji na ten temat znajdziesz w rozdziale Zwierzęcy towarzysz. 
+Kolejną rzeczą, która odróżnia Yardan od pozostałych mieszkańców Aleoru, jest ich relacja z wilkowatymi. Więcej informacji na ten temat znajdziesz w rozdziale Zwierzęcy towarzysz. 
 
 **Modyfikacje:** Dodatkowe 5 punktów [CHA] oraz [ZR]. Wartość [INT] zmniejszona o 10.
 
@@ -72,7 +72,7 @@ Jeden z najliczniejszych i jednocześnie najmłodszych ludów zamieszkujących A
 
 Co ciekawe, to właśnie ludzie jako pierwsi rozwinęli tajemniczą naukę, która z czasem zaczęła wypierać szamanizm. Nowa moc, znacznie różniła się od czarów znanych szamanom. Przede wszystkim magiczne zaklęcia nie wymagały już łaski kapryśnych bóstw. W swej pysze niektórzy z ludzkich magów obwoływali się nawet nowymi bogami. Nie trudno domyślić się jaki był ich koniec...
 
-Ludzka magia wniosła też wiele dobrego do Aleoru. Przyjęta ochoczo i rozwijana przez inne ludy, przyczyniła się do postępu technologicznego i poprawy jakości życia wielu mieszkańców.
+Ludzka magia wniosła też wiele dobrego do Aleoru. Przyjęta ochoczo i rozwijana przez inne ludy, przyczyniła się do postępu technologicznego i poprawy jakości życia wielu mieszkańców. Na uwagę zasługuje fakt, że ludzie są w jakiś sposób odporniejsi na działanie kryształów, dzięki czemu podczas korzystania z magii tracą tylko połowę punktów wytrzymałości.
 
 **Modyfikacje:** Ludzie mogą dopisać sobie pięć punktów do dowolnego atrybutu. Muszą jednak odjąć tyle samo od innej, wybranej przez siebie cechy. 
 
@@ -83,6 +83,8 @@ Wywodzący się z Tascal miłośnicy kowalstwa, wojaczki, dobrego wina i piwa. S
 Podczas licznych wspólnych biesiad lubią żartować z pochodzenia swoich sąsiadów. Według nich Yardanie są owocem związku tascalskich krasnoludów oraz przybyłych z Wędrującej Puszczy elfów. Siłą Tascalczyka jest jego młot lub topór. Większość z nich szczerze pogardza innym rodzajem oręża. Posiadają też ogromną wiedzę, którą jednak niechętnie dzielą się z innymi.
 
 Prawdziwy krasnolud nie zna strachu i nie cofa się w obliczu największego nawet zagrożenia. No... Chyba, że chodzi o konie... Jeśli kiedyś spotkasz Tascalczyka jadącego na koniu to wiedz, że albo postradał zmysły, albo jest pijany. Niechęć do popularnych wierzchowców zapewne podyktowana jest niskim wzrostem mistrzów kowalstwa, dlatego też dłuższe podróże odbywają na grzbietach jaków.
+
+Ci krzepcy mistrzowie kowalstwa słyną także z mocnej głowy, dzięki czemu są w stanie wypić dodatkową porcję alkoholu i tym samym zregenerować większą ilość punktów determinacji.
 
 Dumne i mądre krasnoludy uważane są za jedną z najstarszych ras, zamieszkujących Aleor. Przynajmniej same tak twierdzą.
 
@@ -106,6 +108,8 @@ Ich ojczyzną jest Cest, ale na przestrzeni dziejów zawędrowali daleko na zach
 
 Ci mali mieszkańcy Aleoru nie słyną za to z wyjątkowej mądrości. Można przypuszczać, że ma to związek z wygodnictwem, ponieważ zadowolony z życia niziołek, zwykle nie czuje potrzeby poznawania nowych rzeczy, tym bardziej jeśli wiązałoby się to z mozolnym studiowaniem ksiąg.
 
+Ze względu na swój wzrost posiadają też wrodzone predyspozycje do unikania zagrożenia, dzięki czemu każdą próbę ukrycia lub uniku wykonują z Kością Premiową.
+
 **Modyfikacje:** Dodatkowe 5 punktów do [ZR] oraz [INT]. Wartość [WIE] zmniejszona o 10 punktów.
 
 ### Bestiaci
@@ -114,7 +118,9 @@ Najmłodszy z ludów zamieszkujących Aleor, choć posiadający niezwykle ciekaw
 
 Powstali jako owoc podłych eksperymentów. Rządni władzy pierwsi magowie tworzyli rozmaite hybrydy, będące połączeniem zwierząt, bestii, niekiedy nawet demonów z mieszkańcami kontynentu. Po zakończeniu wojen magów, ocalali Bestiaci osiedlili się na terenie dzisiejszego Bayden, tworząc tam własną społeczność. Wędrując w rejony Zatoki Quashan z pewnością spotkasz wielu przedstawicieli tego ludu.
 
-Ich nadnaturalne pochodzenie sprawia, że Bestiaci potrafią się dostosować do niemal każdych warunków. Chociaż okrutny czas mają już za sobą, niekiedy wciąż można spotkać się z ich nierównym traktowaniem. Możliwe, że właśnie z tego powodu niechętnie opuszczają Bayden.
+Ich nadnaturalne pochodzenie sprawia, że Bestiaci potrafią się dostosować do niemal każdych warunków. Wrodzona więź z magią sprawia, że co 5 poziomów przysługuje im jedno dodatkowe zaklęcie, a wszystkie obrażenia magiczne zmniejszone są o **1d4**.
+
+Chociaż okrutny czas mają już za sobą, niekiedy wciąż można spotkać się z ich nierównym traktowaniem. Możliwe, że właśnie z tego powodu niechętnie opuszczają Bayden.
 
 **Modyfikacje:** Bestiaci mogą rozdysponować dodatkowe 10 punktów między dowolne atrybuty, odejmując jedynie 5 z innego wybranego.
 
@@ -186,4 +192,4 @@ Wartość bazowa pozostałych umiejętności równa jest 1/5 atrybutu, na który
 
 ### Podział punktów
 
-Liczba punktów umiejętności, podobnie jak liczba punktów atrybutów, jest wartością stałą. Każdy Bohater ma do dyspozycji 150 pkt, które może przeznaczyć na dowolne umiejętności, dodając je do wartości bazowych. Stała wartość puli punktów zapewnia wszystkim graczom równe szanse na starcie, jednocześnie skłaniając ich do przemyślanego tworzenia postaci. Pamiętaj, że wartość umiejętności nie może przekroczyć 95 punktów.
+Liczba punktów umiejętności, podobnie jak liczba punktów atrybutów, jest wartością stałą. **Każdy Bohater ma do dyspozycji 150 pkt**, które może przeznaczyć na dowolne umiejętności, dodając je do wartości bazowych. Stała wartość puli punktów zapewnia wszystkim graczom równe szanse na starcie, jednocześnie skłaniając ich do przemyślanego tworzenia postaci. Pamiętaj, że wartość umiejętności nie może przekroczyć 95 punktów.

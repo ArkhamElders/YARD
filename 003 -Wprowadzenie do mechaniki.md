@@ -1,0 +1,9 @@
+# Wprowadzenie do mechaniki
+
+Nieodłącznym elementem każdej gry RPG są kości. Małe cudeńka, decydujące o losach świata, stworzone przez Panią Urune z pradawnej magii. Zastosowana mechanika inspirowana jest takimi klasykami jak Basic Roleplaying, wydane przez Chaosium oraz Hack100 autorstwa Joe Carruthers'a. W dużym skrócie opiera się na procentowym określaniu statystyk oraz umiejętności Bohaterów i rozpatrywaniu testów przy pomocy rzutów  **1d100**. W systemie występują również krytyczne wyniki testów umiejętności. Wynik 5 i mniejszy to zawsze krytyczny sukces. Wynik powyżej 95 oznacza natomiast krytyczną porażkę.
+
+Takie rozwiązanie pozwala miarodajnie i szybko ocenić rzeczywiste umiejętności Bohatera, a także w wygodny sposób zastosować je w praktyce, bez zbędnych modyfikatorów i przeliczania. Nie znajdziesz tu również szczegółowych tabeli i matematyki dotyczącej celowania, czy atakowania konkretnej części ciała lub używania broni improwizowanej. Dlaczego? Odpowiedź jest bardzo prosta - te elementy są zbędne i powinny być rozpatrywane przez Mistrza Gry w czasie rzeczywistym. W końcu chodzi o swobodę i radość z rozgrywki, a nie zabawę w księgowego.
+ 
+Cechą charakterystyczną systemu jest nieco odmienny sposób forsowania rzutów. Służą do tego specjalne punkty determinacji, które Bohater może wydawać między innymi właśnie na przerzucenie kości w przypadku niepowodzenia w teście. Więcej informacji na temat forsowania znajdziesz w rozdziale dotyczącym Umiejętności. 
+
+Ponieważ mechaniki i zasad najprościej uczyć się przez praktyczne zastosowanie, najwyższy czas stworzyć Twojego pierwszego Bohatera!

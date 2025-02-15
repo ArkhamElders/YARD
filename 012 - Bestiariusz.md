@@ -69,6 +69,9 @@ Atletyka (80), Furia (50), Kocia zwinność (45), Odparcie magii (70)
 
 MOD: 3   PANCERZ: 2 punkty grubej skóry + 1 pkt jeśli zasłania się dodatkowo skrzydłem
 
+Ekwipunek: 
+Trudność oswajania: 
+
 ### Jak     |     12 / 6 PD
 
 Choć w lasach północy wciąż jeszcze można spotkać dziko żyjące jaki, większość z nich została udomowiona, szczególnie przez tascalskie krasnoludy. Wielkie, owłosione woły zdolne do przenoszenia sporych ładunków, cenione nie tylko ze względu na swoją siłę, ale i wyborne mleko oraz pierwszorzędne futra.

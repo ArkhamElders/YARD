@@ -125,11 +125,11 @@ Broń i pancerze to nie wszystko - Bohaterowie mogą i powinni zabrać na każd�
 
 |Nazwa                  |Pojemność  |Cena K/S  |
 |---            	    |---	    |---	   |
-|Kołczan [M]            |1          |6/3       |
-|Kołczan [D]            |2          |10/5      |
-|Pas na mikstury [M]    |2  	    |10/5      |
-|Sakwa na zioła [M]     |4          |4/2       |
-|Tuba na zwoje [M]	    |6  	    |6/3       |
+|Kołczan [M]            |10         |6/3       |
+|Kołczan [D]            |20         |10/5      |
+|Pas na mikstury [M]    |5  	    |10/5      |
+|Sakwa na zioła [M]     |10         |4/2       |
+|Tuba na zwoje [M]	    |10  	    |6/3       |
 
 ### Mikstury i zioła
 
