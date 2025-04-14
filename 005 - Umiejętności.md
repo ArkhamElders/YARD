@@ -33,7 +33,9 @@ W przypadku nieudanej próby testu umiejętności, Bohater może forsować rzut,
 W przypadku niepowodzenia, Bohater traci jeden dodatkowy punkt determinacji, bez względu na poziom trudności testu, a Mistrz Gry informuje go o negatywnych skutkach forsowania rzutu. Może to być przykładowo uszkodzenie cennego artefaktu lub rozgniewanie napotkanej osoby.
 
 ## Lista umiejętności
-Umiejętności zostały podzielone wedle użyteczności na trzy odrębnę grupy. Pierwsza z nich dotyczy różnych sposobów walki. Kolejna odpowiada za umiejętności interpersonalne, a ostatnia stanowi zbiór ogólnych umiejętności, przydatnych podczas wędrówek po ziemiach Aleoru.
+Umiejętności zostały podzielone wedle użyteczności na trzy odrębnę grupy. Pierwsza z nich dotyczy różnych sposobów walki. Kolejna odpowiada za umiejętności interpersonalne, a ostatnia stanowi zbiór ogólnych umiejętności, przydatnych podczas wędrówek po ziemiach Aleoru. 
+
+Podczas rozgrywki bohaterowie powinni przede wszystkim skupić się na opisaniu tego, co i w jaki sposób chcą zrobić. Dobór ewentualnego testu umiejętności winien być zawsze rozpatrywany przez Mistrza Gry - może się bowiem zdarzyć, że postać zechce uciec się do podstępu w rozmowie, choć nie jest typowym łotrem. Mistrz Gry może w takim wypadku poprosić o test Negocjacji, ewentualnie zwiększając poziom trudności testu. Innym razem, biorąc pod uwagę wysokie wyspecjalizowanie Bohatera w danej dziedzinie, może natomiast całkowicie zrezygnować z testu.
 
 ### Walka
 
@@ -43,7 +45,7 @@ Umiejętności zostały podzielone wedle użyteczności na trzy odrębnę grupy.
 
 ### Wpływ
 
-- Blef
+- Łotrostwo
 - Negocjacje
 - Rozumienie zwierząt
 
@@ -88,11 +90,11 @@ Jak mawiają lokalni mistrzowie rzemiosła... *„Z młota ŁUP, goblin trup!”
 
 Słowa niejednokrotnie bywają skuteczniejsze od stali, dlatego każdy Bohater powinien równie biegle władać językiem, co mieczem. Poniżej znajdują się trzy najważniejsze umiejętności wykorzystywane podczas komunikacji z napotkanymi istotami.
 
-### Blef
+### Łotrostwo
 
-**Cecha bazowa:** Inteligencja **[INT]**
+**Cecha bazowa:** Zręczność **[ZR]**
 
-Choć niezbyt szlachetne i niekiedy zgubne w skutkach, dobre kłamstwo potrafi zdziałać naprawdę wiele. Wszak cała polityka Aleoru opiera się na grze pozorów oraz intrygach. Wprawiony kanciarz potrafi też rozpoznać, czy jego rozmówca próbuje go oszukać.
+Dotyczy nie tylko kradzieży, czy fałszerstwa ale także blefowania. Choć większość mieszkańców Aleoru nie pochwala tego typu zachowań, można dzięki nim uniknąć wielu problemów... Przynajmniej dopóki nikt Cię nie złapie za rękę.
 
 ### Negocjacje
 
@@ -192,7 +194,7 @@ Umiejętność radzenia sobie w dziczy bywa szczególnie przydatna podczas dług
 
 ### Tropiciel
 
-**Cecha bazowa:** Zręczność **[ZR]**
+**Cecha bazowa:** Inteligencja **[INT]**
 
 Prawdziwy łowca zachowuje czujność w każdej sytuacji. Z łatwością dostrzega ukrytego wroga, słyszy delikatny szmer dobiegający zza drzewa i rozpoznaje ślady, które ktoś inny mógłby przeoczyć. Umiejętność ta pozwala także wykrywać pułapki, co niekiedy może uratować życie. 
 

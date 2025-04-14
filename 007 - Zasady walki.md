@@ -57,11 +57,7 @@ Innymi słowy, fortel to skorzystanie z wybranej umiejętności w trakcie walki.
 
 ## Ucieczki i pościgi
 
-Jednym z możliwych do zastosowania forteli, jest ucieczka z pola bitwy. Niezbyt to chwalebny czyn, jednak lepszy tchórzliwy bohater, niźli martwy. Chcąc uciec, postać musi przede wszystkim zdać test Kociej zwinności. Następnie, zaczyna biec zgodnie z posiadaną ilością punktów ruchu. By ucieczka się powiodła, różnica między nią, a ścigającym musi wynieść więcej niż 5 pkt. Jeśli jest mniejsza, mamy do czynienia z pościgiem.
-
-Poza ruchem uciekający może wykonać jedną dodatkową akcję (zwykle test Atletyki lub Kociej zwinności) na utrudnienie pościgu - przewrócić kosze z owocami, odciąć linę itp. Goniący musi pokonać tę przeszkodę zdając odpowiedni test. W przeciwnym wypadku odległość między nim, a uciekającym zwiększy się o dodatkowy 1 pkt. Rzuty na utrudnienia mogą być standardowo forsowane z wykorzystaniem determinacji.
-
-Pościg / ucieczka nie zachodzą, jeśli różnica w ruchu między uciekającym, a goniącym jest większa niż 5. W takim przypadku Bohater (lub przeciwnik) po prostu ucieka już w pierwszej turze.
+Jednym z możliwych do zastosowania forteli, jest ucieczka z pola bitwy. Niezbyt to chwalebny czyn, jednak lepszy tchórzliwy bohater, niźli martwy. Zarówno ucieczkę, jak i pościg rozpatruje się przy pomocy przeciwstawnego testu Kociej zwinności. Dodatkowo, jeśli różnica wartości ruchu między postaciami wynosi 3 lub więcej, posiadacz wyższej wartości rzuca z dodatkową kością premiową.
 
 ## Używanie magii
 
