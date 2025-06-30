@@ -5,9 +5,21 @@ Tworzenie własnej postaci to dla wielu graczy jeden z najistotniejszych element
 
 Bohaterów opisuje sześć głównych cech, opisywanych dalej jako Atrybuty. Każdy z nich wpływa bezpośrednio na umiejętności, zakres ruchu, a także rozwój punktów wytrzymałości oraz mistycznej energii podczas awansów.
 
-Określanie wartości atrybutów jest bardzo proste. Bazową liczbę punktów dla każdego z nich ustala się za pomocą rzutu **2d6**. Następnie do wartości bazowych gracz przydziela dowolną liczbę z **łącznej puli 300 punktów**. 
+Określanie wartości atrybutów jest bardzo proste. Każdy z nich ustala się za pomocą rzutu trzech rzutów **3d6** i wybiera najwyższy wynik.
 
-Wartość żadnego atrybutu nie może jednak przekroczyć 80 punktów ze względu na dalsze modyfikacje wieku i pochodzenia. Po ich uwzględnieniu najwyższa możliwa wartość atrybutu nie może przekroczyć 95 pkt, co jest związane z granicami ludzkich (pozostałych grywalnych ras także) możliwości.
+**Przykład:**
+Gracz losuje wartość Siły, wykonując trzy serie rzutów trzema kostkami d6:
+- Pierwsza seria: 2 + 4 + 6 = 12
+- Druga seria: 1 + 5 + 2 = 8
+- Trzecia seria 3 + 5 + 6 = 14
+
+Najwyższym wynikiem jest 14 i taka też jest bazowa wartość jego siły.
+
+Bywa tak, że gracze chcą ręcznie dostosować wartości poszczególnych atrybutów, odejmując punkty od jednej cechy i dodając do drugiej, bardziej zgodnej z profilem postaci, którą chcą zagrać. Oczywiście jest to możliwe, o ile suma punktów wszystkich cech pozostanie niezmieniona. Istotne jest również, by minimalna wartość każdego atrybutu mieściła się w przedziale 3-18. Jest to podyktowane dalszymi modyfikacjami atrybutów, opierającymi się o wiek oraz pochodzenia bohatera.
+
+**Przykład:**
+S - 14, KON - 15, ZR - 7, INT - 10, WIE - 12, CHA - 6
+Łącznie 64 punkty. Gracz decyduje się odjąć 2 pkt od Wiedzy i dołożyć po jednym do Siły oraz Kondycji. Suma to nadal 64 pkt. więc taki zabieg jest dozwolony.
 
 ### Siła [S]
 
@@ -35,17 +47,17 @@ Mieszkańcy Aleoru starzeją się w różnym tempie. Wszystko zależy od pochodz
 
 ### Młodość
 
-Dodatkowe 5 pkt do [KON] oraz [ZR], - 10 pkt do [WIE]
+Dodatkowy 1 pkt do [KON] oraz [ZR], - 2 pkt do [WIE]
 Jedna dodatkowa umiejętność podstawowa oparta na zręczności lub charyzmie. 
 
 ### Dojrzałość
 
-Dodaj 5 pkt do [WIE] oraz [S]
+Dodaj 1 pkt do [WIE] oraz [S]
 Standardowa liczba umiejętności podstawowych.
 
 ### Starość
 
-Dodatkowe 10 pkt do [WIE], - 5 pkt do [KON] oraz [S]
+Dodatkowe 2 pkt do [WIE], - 1 pkt do [KON] oraz [S]
 Jedna dodatkowa umiejętność bazująca wiedzy.
 
 Zmodyfikuj statystyki na karcie wedle wybranego wieku swojego Bohatera. Pamiętaj, że wieku nie da się zmienić w trakcie rozgrywki. Zastanów się, jaki wiek będzie najlepiej pasował do Twojej postaci. Choć nic nie stoi na przeszkodzie, by zagrać młodym magiem, najpotężniejsi z nich swoją wiedzę zdobywali latami. Równie trudno wyobrazić sobie, by stary, choć doświadczony złodziej, mógł konkurować z młodym pod względem szybkości ruchów.
@@ -64,7 +76,7 @@ W odróżnieniu od elfów, polują chętnie, wykorzystując do tego przede wszys
 
 Kolejną rzeczą, która odróżnia Yardan od pozostałych mieszkańców Aleoru, jest ich relacja z wilkowatymi. Więcej informacji na ten temat znajdziesz w rozdziale Zwierzęcy towarzysz. 
 
-**Modyfikacje:** Dodatkowe 5 punktów [CHA] oraz [ZR]. Wartość [INT] zmniejszona o 10.
+**Modyfikacje:** Dodatkowy 1 punkt [CHA] oraz [ZR]. Wartość [INT] zmniejszona o 2.
 
 ### Ludzie
 
@@ -74,7 +86,7 @@ Co ciekawe, to właśnie ludzie jako pierwsi rozwinęli tajemniczą naukę, któ
 
 Ludzka magia wniosła też wiele dobrego do Aleoru. Przyjęta ochoczo i rozwijana przez inne ludy, przyczyniła się do postępu technologicznego i poprawy jakości życia wielu mieszkańców. Na uwagę zasługuje fakt, że ludzie są w jakiś sposób odporniejsi na działanie kryształów, dzięki czemu podczas korzystania z magii tracą tylko połowę punktów wytrzymałości.
 
-**Modyfikacje:** Ludzie mogą dopisać sobie pięć punktów do dowolnego atrybutu. Muszą jednak odjąć tyle samo od innej, wybranej przez siebie cechy. 
+**Modyfikacje:** Ludzie mogą dopisać sobie 1 punkt do dowolnego atrybutu. Muszą jednak odjąć tyle samo od innej, wybranej przez siebie cechy. 
 
 ### Krasnoludy
 
@@ -88,7 +100,7 @@ Ci krzepcy mistrzowie kowalstwa słyną także z mocnej głowy, dzięki czemu s�
 
 Dumne i mądre krasnoludy uważane są za jedną z najstarszych ras, zamieszkujących Aleor. Przynajmniej same tak twierdzą.
 
-**Modyfikacje:** Dodatkowe 5 punktów [WIE] oraz [S]. Wartość [CHA] zmniejszona o 10.
+**Modyfikacje:** Dodatkow 1 punkt [WIE] oraz [S]. Wartość [CHA] zmniejszona o 2.
 
 ### Elfy
 
@@ -98,7 +110,7 @@ Elfy, choć nie tak silne jak pozostali, dysponują ogromną wiedzą, przekazywa
 
 Ich wyjątkowe poszanowanie wszelkiego życia sprawia, że niechętnie polują, a do walki stają wyłącznie przyparte do muru. Co ciekawe, mieszkańcy Puszczy nie budują typowych miast, ponieważ cała knieja stanowi ich dom. Wchodząc do lasu, wędrowiec może być pewien, że jest obserwowany. Elfy żyją bowiem na drzewach i pośród krzewów, chroniąc swoje siedliska przed wzrokiem obcych.
 
-**Modyfikacje:** Dodatkowe 5 punktów [WIE] oraz [INT]. Wartość [S] zmniejszona o 10.
+**Modyfikacje:** Dodatkowy 1 punkt [WIE] oraz [INT]. Wartość [S] zmniejszona o 2.
 
 ### Niziołki
 
@@ -110,7 +122,7 @@ Ci mali mieszkańcy Aleoru nie słyną za to z wyjątkowej mądrości. Można pr
 
 Ze względu na swój wzrost posiadają też wrodzone predyspozycje do unikania zagrożenia, dzięki czemu każdą próbę ukrycia lub uniku wykonują z Kością Premiową.
 
-**Modyfikacje:** Dodatkowe 5 punktów do [ZR] oraz [INT]. Wartość [WIE] zmniejszona o 10 punktów.
+**Modyfikacje:** Dodatkowy 1 punktów do [ZR] oraz [INT]. Wartość [WIE] zmniejszona o 2 punktów.
 
 ### Bestiaci
 
@@ -118,23 +130,23 @@ Najmłodszy z ludów zamieszkujących Aleor, choć posiadający niezwykle ciekaw
 
 Powstali jako owoc podłych eksperymentów. Rządni władzy pierwsi magowie tworzyli rozmaite hybrydy, będące połączeniem zwierząt, bestii, niekiedy nawet demonów z mieszkańcami kontynentu. Po zakończeniu wojen magów, ocalali Bestiaci osiedlili się na terenie dzisiejszego Bayden, tworząc tam własną społeczność. Wędrując w rejony Zatoki Quashan z pewnością spotkasz wielu przedstawicieli tego ludu.
 
-Ich nadnaturalne pochodzenie sprawia, że Bestiaci potrafią się dostosować do niemal każdych warunków. Wrodzona więź z magią sprawia, że co 5 poziomów przysługuje im jedno dodatkowe zaklęcie, a wszystkie obrażenia magiczne zmniejszone są o **1d4**.
+Ich nadnaturalne pochodzenie sprawia, że Bestiaci potrafią się dostosować do niemal każdych warunków. Wrodzona więź z magią sprawia, że co 5 poziomów przysługuje im jedno dodatkowe zaklęcie, a **wszystkie obrażenia magiczne zmniejszone są o 1**.
 
 Chociaż okrutny czas mają już za sobą, niekiedy wciąż można spotkać się z ich nierównym traktowaniem. Możliwe, że właśnie z tego powodu niechętnie opuszczają Bayden.
 
-**Modyfikacje:** Bestiaci mogą rozdysponować dodatkowe 10 punktów między dowolne atrybuty, odejmując jedynie 5 z innego wybranego.
+**Modyfikacje:** Bestiaci mogą rozdysponować dodatkowe 2 punktów między dowolne atrybuty, odejmując jedynie 1 z innego wybranego.
 
 ## Wytrzymałość
 
-Określa punkty życia Twojej postaci, czyli ilość obrażeń, jakie jest w stanie wytrzymać, nim jej przygoda się zakończy. Obliczanie wytrzymałości to nic innego jak dodanie do siebie wartości siły i kondycji oraz podzielenie wyniku przez dziesięć, zaokrąglając w dół.
+Określa punkty życia Twojej postaci, czyli ilość obrażeń, jakie jest w stanie wytrzymać, nim jej przygoda się zakończy. Obliczanie wytrzymałości to nic innego jak dodanie do siebie wartości Siły i Kondycji oraz podzielenie wyniku przez dwa, zaokrąglając w dół.
 
-**Przykład:** Bohater posiada 70 punktów siły oraz 65 punktów kondycji, co daje łącznie 135 punktów. Dzieląc przez 10 otrzymujemy wartość 13.5, co po zaokrągleniu daje nam wytrzymałość równą 13 pkt.
+**Przykład:** Bohater posiada 14 punktów Siły oraz 15 punktów Kondycji, co daje łącznie 29 punktów. Dzieląc przez 2 otrzymujemy wartość 14.5, co po zaokrągleniu daje nam wytrzymałość równą 14 pkt.
 
 ## Mistyczna energia
 
-Dobry szaman, czy mag powinien nie tylko znać zaklęcia, ale też mieć wystarczająco sprawny umysł i odpowiednie umiejętności, by móc się nimi posługiwać. Dlatego wartość punktów mistycznej energii stanowi suma wiedzy i inteligencji podzielona przez 10.
+Dobry szaman, czy mag powinien nie tylko znać zaklęcia, ale też mieć wystarczająco sprawny umysł i odpowiednie umiejętności, by móc się nimi posługiwać. Dlatego wartość punktów mistycznej energii stanowi suma wiedzy i inteligencji podzielona przez 2.
 
-**Przykład:** Wiedza i inteligencja postaci wynoszą odpowiednio 75 oraz 85, łącznie 160. Dzieląc ten wynik przez 10, otrzymamy wartość mistycznej energii równą 16. W tym przypadku nie ma również potrzeby zaokrąglania wyniku.
+**Przykład:** Wiedza i inteligencja postaci wynoszą odpowiednio 16 oraz 12, łącznie 28. Dzieląc ten wynik przez 2, otrzymamy wartość mistycznej energii równą 14. W tym przypadku nie ma również potrzeby zaokrąglania wyniku.
 
 ## Ruch
 
@@ -143,7 +155,7 @@ Jak łatwo się domyślić, określa maksymalną odległość, na jaką może si
 
 ## Determinacja
 
-Określa silną wolę postaci, jej ambicję i upór w dążeniu do celu. Pozwala forsować nieudane rzuty oraz korzystać z dodatkowych akcji podczas walki. Więcej na temat szczegółowego wykorzystania determinacji znajdziesz w opisach umiejętności. Aby obliczyć początkową wartość determinacji [DET], wykonaj rzut **2d6**. Jeśli wyrzuciłeś 4 i 5, to zaczynasz przygodę z dziewięcioma punktami. Determinacja stanowiąca motor napędowy Bohatera, jest niezwykle ważną cechą. Jeśli jej poziom spadnie do zera, postać wykonuje każdy test umiejętności z kością karną [KK]. Stan ten utrzymuje się do momentu odzyskania przynajmniej jednego punktu determinacji. 
+Określa silną wolę postaci, jej ambicję i upór w dążeniu do celu. Pozwala forsować nieudane rzuty oraz korzystać z dodatkowych akcji podczas walki. Więcej na temat szczegółowego wykorzystania determinacji znajdziesz w opisach umiejętności. Aby obliczyć początkową wartość determinacji [DET], wykonaj rzut **3d6**. Jeśli wyrzuciłeś 4, 4 i 5, to zaczynasz przygodę z 13 punktami. Determinacja stanowiąca motor napędowy Bohatera, jest niezwykle ważną cechą. Jeśli jej poziom spadnie do zera, postać wykonuje każdy test umiejętności z Pechową Kością [PK]. Stan ten utrzymuje się do momentu odzyskania przynajmniej jednego punktu determinacji. 
 
 Istnieje kilka sposobów przywracania punktów. Pierwszym z nich jest odpoczynek. Bohater może rzucić kością **1d4** by przywrócić określoną liczbę punktów. Regeneracja możliwa jest również po wykonaniu ważnego zadania fabularnego, jak na przykład pokonanie lodowego trolla lub odnalezienie zaginionego kupca. W tym wypadku decyzja o ilości regenerowanych punktów należy do Mistrza Gry. Pozostałe sposoby to rozmaite zaklęcia, eliksiry i pieśni wędrownych bardów. Niektóre pozwalają nie tylko zregenerować punkty, ale też zwiększyć tymczasowo ich maksymalną ilość.
 
