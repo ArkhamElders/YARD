@@ -2,7 +2,7 @@
 
 Choć czasy wojen magów minęły, walka nadal jest powszechnym zjawiskiem w Aleorze. Świat pełen jest bestii, magicznych istot i bandyckich szajek, czyhających na zbłąkanych wędrowców. Jeśli chcesz zostać prawdziwym Bohaterem, musisz wiedzieć jak sobie radzić podczas potyczki.
 
-Na początku każdej walki należy ustalić kolejność, według której postaci będą atakować. Aby to zrobić, porównuje się wartość Determinacji wszystkich Bohaterów oraz przeciwników biorących udział w starciu. Postać z najwyższą liczbą punktów **[DET]** atakuje jako pierwsza, a postać z najniższą - ostatnia. W przypadku, gdy dwie lub więcej postaci posiada taką samą liczbę punktów **[DET]**, o kolejności między nimi decyduje dodatkowy rzut **2d6** - postać z wyższym wynikiem atakuje pierwsza. Co istotne, rzut ten nie wpływa w żaden sposób na ilość posiadanych przez Bohatera punktów Determinacji.
+Na początku każdej walki należy ustalić kolejność, według której postaci będą atakować. Aby to zrobić, porównuje się wartość Determinacji wszystkich Bohaterów oraz przeciwników biorących udział w starciu. Postać z najwyższą liczbą punktów **[DET]** atakuje jako pierwsza, a postać z najniższą - ostatnia. W przypadku, gdy dwie lub więcej postaci posiada taką samą liczbę punktów **[DET]**, o kolejności między nimi decyduje dodatkowy rzut **3d6** - postać z wyższym wynikiem atakuje pierwsza. Co istotne, rzut ten nie wpływa w żaden sposób na ilość posiadanych przez Bohatera punktów Determinacji.
 
 Zdarzają się sytuacje, w których dochodzi do ataku z zaskoczenia. Ukryty w cieniu łotrzyk może zaatakować przeciwnika jeszcze przed rozpoczęciem walki i ustaleniem kolejności. W ramach przewagi, przysługuje mu także kość premiowa do ataku.
 
@@ -24,9 +24,20 @@ Atak to nic innego jak test umiejętności określający, czy Bohaterowi udało 
 - Porażka - Bohater chybia
 - Krytyczna porażka - Próba ataku kończy się niepowodzeniem, a bohater musi zmierzyć się z dodatkowymi konsekwencjami (np. uszkadza broń, rani towarzysza lub siebie).
 
-Walka z użyciem dwóch broni wymaga oddzielnego rzutu na każdą rękę oraz odpowiedniego poziomu Kociej zwinności (powyżej 70 pkt) - w przeciwnym wypadku atak drugą ręką odbywa się z Kością Karną.
+Walka z użyciem dwóch broni wymaga oddzielnego rzutu na każdą rękę oraz odpowiedniego poziomu Kociej zwinności (powyżej 14 pkt) - w przeciwnym wypadku atak drugą ręką odbywa się z Kością Karną.
 
 W przypadku ataków przeprowadzanych z użyciem broni dystansowej, należy pamiętać, że broń dystansowa wymaga pocisków i sama z siebie stanowi jedynie modyfikator ataku. Lepszy łuk z pewnością pomoże, ale to strzały są nośnikiem obrażeń.
+
+### Łańcuch ataku
+
+Zdarza się tak, że gracz w ramach jednego ataku chciałby zaatakować kilku przeciwników jednocześnie lub wyprowadzić serię ciosów. Umożliwia mu to łańcuch ataku, czyli sekwencja następujących po sobie uderzeń. Jak to wygląda w praktyce?
+
+Bohater wykonuje podstawowy test ataku. Jeśli zdał, może poświęcić **1 pkt [DET]** by wykonać drugi atak. Jeśli i ten zakończy się sukcesem, może kontynuować, płacąc każdorazowo wyższą cenę punktów determinacji.
+
+**Przykład:**
+Atak podstawowy >> Drugi atak - 1 pkt [DET] >> Trzeci atak - 2 pkt [DET] >> Czwarty atak - 3 pkt [DET] itd.
+
+Łańcuch może zostać zakończony dobrowolnie lub przez porażkę w teście. W tym drugim przypadku postać musi się liczyć z konsekwencjami, które rosną z każdym kolejnym atakiem - od wystawienia się na bezpośredni kontratak, przez uszkodzenie broni, aż po... cóż, zostawmy to decyzji Mistrza Gry.
 
 Testów podczas walki nie można forsować.
 
@@ -48,7 +59,7 @@ Kontratak w YARD przebiega bardzo prosto:
 
 ## Fortel
 
-Poza standardowymi akcjami, możliwa jest również improwizacja, określana mianem fortelu. Bohater może próbować ogłuszyć przeciwnika, zepchnąć go w przepaść lub wykonać w trakcie swojej tury inną, nietypową akcję. Ze względu na szeroki wachlarz możliwości, jaki daje ta akcja, Mistrz Gry powinien każdorazowo rozważyć warunki fortelu.
+Poza standardowymi akcjami, możliwa jest również improwizacja, określana mianem fortelu. Bohater może próbować ogłuszyć przeciwnika, zepchnąć go w przepaść lub wykonać w trakcie swojej tury inną, nietypową akcję. Ze względu na szeroki wachlarz możliwości, jaki daje ta akcja, Mistrz Gry powinien każdorazowo rozważyć warunki fortelu. Przykłady takich niestandardowych akcji znajdziesz w opisach niektórych umiejętności.
 
 **Przykład**
 W trakcie walki, stojący na wyższym piętrze bohater chiałby zepchnąć na znajdujących się poniżej przeciwników, ciężką beczkę. Mistrz gry warunkuje powodzenie fortelu udanym testem Atletyki. Jeśli test się powiedzie, a wrogowie nie wykonają uniku, otrzymają **1d10** pkt obrażeń oraz Stan: Powalenie.

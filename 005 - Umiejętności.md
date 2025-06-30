@@ -1,13 +1,14 @@
 # Umiejętności
 
-Zdolności yardańskich Bohaterów zostały dobrane tak, by odzwierciedlać faktyczne umiejętności postaci. Zastosowanie procentowego wskaźnika znacznie ułatwia określenie poziomu specjalizacji, bez zbędnego przeliczania wartości. Jak już wspomniano na początku podręcznika, testy umiejętności rozpatruje się za pomocą rzutu **1d100**. Służą do tego dwie kości **1d10**, z których pierwsza odpowiada za dziesiątki, a druga za jednostki. Aby wynik testu uznać za sukces, należy wyrzucić wartość równą lub niższą od aktualnego poziomu umiejętności. Jeśli wynik na kościach jest wyższy niż aktualne punkty umiejętności, test kończy się porażką. Wyróżniamy też trzy wyniki specjalne:
-- trudny sukces: mniej niż połowa wartości umiejętności, ale więcej niż 5 punktów
-- krytyczny sukces: wynik rzutu to 5 lub mniej
-- krytyczna porażka: powyżej 95 punktów
+Zdolności yardańskich Bohaterów zostały dobrane tak, by odzwierciedlać faktyczne umiejętności postaci. Zastosowanie procentowego wskaźnika znacznie ułatwia określenie poziomu specjalizacji, bez zbędnego przeliczania wartości. Jak już wspomniano na początku podręcznika, testy umiejętności rozpatruje się za pomocą rzutu **d20**. Aby wynik testu uznać za sukces, należy wyrzucić wartość równą lub niższą od aktualnego poziomu umiejętności. Jeśli wynik na kościach jest wyższy niż aktualne punkty umiejętności, test kończy się porażką. Wyróżniamy też trzy wyniki specjalne:
+
+- trudny sukces: połowa wartości umiejętności lub mniej, ale więcej niż 1
+- krytyczny sukces: wynik rzutu to 1
+- krytyczna porażka: 20 punktów
 
 Wyższy poziom sukcesu oznacza zwykle korzyści dla Bohaterów. W przypadku krytycznej porażki, muszą oni liczyć się z przykrymi konsekwencjami.
 
-Podczas wędrówek Bohaterowie spotkają wiele istot, których atrybuty będą przekraczały 100 pkt. Nie trudno się domyślić, że w takim wypadku ciężko mówić o porażce przy rzucie d100. Bez względu jednak na wysokość atrybutu, występuje krytyczna porażka, określana przez wynik 96-100.
+Podczas wędrówek Bohaterowie spotkają wiele istot, których atrybuty i umiejętności będą przekraczały wartość 20 pkt. Nie trudno się domyślić, że w takim wypadku ciężko mówić o porażce. Bez względu jednak na tę wartość, występuje krytyczna porażka, określana przez wynik rzutu równy 20.
 
 ### Testy łączone
 
@@ -15,7 +16,7 @@ W szczególnych sytuacjach, Mistrz Gry może poprosić gracza o wykonanie testu 
 
 ### Wsparcie w testach
 
-Bohaterowie mogą wesprzeć rzucającego w teście jego umiejętności, dając mu tym samą kość premowią. Muszą jednak sami posiadać testowaną umiejętność na odpowiednim poziomie, zbliżonym (niższym maksymalnie o 10 pkt) do poziomu rzucającego. Dodatkowo wspierający poświęcają też jeden punkt determinacji na każdy poziom trudności testu: 1 pkt - normalny, 2 pkt - trudny, 3 pkt - krytyczny. Wsparcie w testach umiejętności możliwe jest jedynie poza walką.
+Bohaterowie mogą wesprzeć rzucającego w teście jego umiejętności, dając mu tym samą kość premowią. Muszą jednak sami posiadać testowaną umiejętność na odpowiednim poziomie, zbliżonym (niższym maksymalnie o 2 pkt) do poziomu rzucającego. Dodatkowo wspierający poświęcają też jeden punkt determinacji na każdy poziom trudności testu: 1 pkt - normalny, 2 pkt - trudny, 3 pkt - krytyczny. Wsparcie w testach umiejętności możliwe jest jedynie poza walką.
 
 **Przykład:** Jeden z Bohaterów próbuje rozpalić ognisko. Pozostali pomagają mu, znosząc drewno na opał lub osłaniając palenisko przed porywistym wiatrem.
 
@@ -37,11 +38,13 @@ Umiejętności zostały podzielone wedle użyteczności na trzy odrębnę grupy.
 
 Podczas rozgrywki bohaterowie powinni przede wszystkim skupić się na opisaniu tego, co i w jaki sposób chcą zrobić. Dobór ewentualnego testu umiejętności winien być zawsze rozpatrywany przez Mistrza Gry - może się bowiem zdarzyć, że postać zechce uciec się do podstępu w rozmowie, choć nie jest typowym łotrem. Mistrz Gry może w takim wypadku poprosić o test Negocjacji, ewentualnie zwiększając poziom trudności testu. Innym razem, biorąc pod uwagę wysokie wyspecjalizowanie Bohatera w danej dziedzinie, może natomiast całkowicie zrezygnować z testu.
 
+Przy niektórych umiejętnościach znajdziesz dodatkowy zapis informujący o zastosowaniu podczas walki. Są to jedynie PRZYKŁADOWE AKCJE, obrazujące możliwości niestandardowego zastosowania umiejętności. To gracze decydują co chcą zrobić, a Mistrz Gry określa warunki. Podobnie sytuacja wygląda poza walką - jeśli Twoja postać specjalizuje się w magii ognia, nie musi rozpalać ogniska ręcznie - proste zaklęcie załatwi sprawę.
+
 ### Walka
 
-- Arkana
-- Precyzyjne uderzenie
-- Walka w zwarciu
+- Arkana [INT]
+- Precyzyjne uderzenie [ZR]
+- Walka bezpośrednia [S]
 
 ### Wpływ
 
@@ -80,11 +83,11 @@ Sama znajomość zaklęć i rytuałów nikogo nie uczyni magiem. Można przestud
 
 To poniekąd umiejętność kończenia walki nim ta na dobre się zacznie. Celny strzał lub cios pod żebro potrafi wykluczyć z pojedynku nawet największego śmiałka. Choć większość ludzi uważa takie metody za domenę łotrów, yardańscy myśliwi mają zgoła odmienne zdanie. Zapewne ta właśnie umiejętność czyni ich najlepszymi łowcami w całych krainach.
 
-### Walka w zwarciu
+### Walka bezpośrednia
 
 **Cecha bazowa:** Siła **[S]**
 
-Jak mawiają lokalni mistrzowie rzemiosła... *„Z młota ŁUP, goblin trup!”*  Trzeba przyznać, że jest w tym stwierdzeniu sporo prawdy. Umiejętność walki wręcz jest ceniona na całym kontynencie, a dobry wojownik zawsze może liczyć na sowitą zapłatę.
+Jak mawiają lokalni mistrzowie rzemiosła... *„Z młota ŁUP, goblin trup!”*  Trzeba przyznać, że jest w tym stwierdzeniu sporo prawdy. Umiejętność walki wręcz jest ceniona na całym kontynencie, a dobry wojownik zawsze może liczyć na sowitą zapłatę. Niekiedy przydaje się również podczas szczególnie zaciętych negocjacji.
 
 ## Wpływ
 
@@ -94,7 +97,7 @@ Słowa niejednokrotnie bywają skuteczniejsze od stali, dlatego każdy Bohater p
 
 **Cecha bazowa:** Zręczność **[ZR]**
 
-Dotyczy nie tylko kradzieży, czy fałszerstwa ale także blefowania. Choć większość mieszkańców Aleoru nie pochwala tego typu zachowań, można dzięki nim uniknąć wielu problemów... Przynajmniej dopóki nikt Cię nie złapie za rękę.
+Dotyczy nie tylko kradzieży, czy fałszerstwa ale także blefowania. Nie każdy pochwala tego typu zachowanie, ale można dzięki niemu uniknąć wielu problemów... Przynajmniej dopóki nikt Cię nie złapie za rękę.
 
 ### Negocjacje
 
@@ -128,7 +131,7 @@ Stanowi praktyczne zastosowanie siły Bohatera. Pozwala przeciągać, podnosić 
 
 **Cecha bazowa:** Kondycja **[KON]**
 
-Wieloletnie treningi pod okiem wybitnych mistrzów pozwalają Bohaterom przeć naprzód, bez oglądania się za siebie. Wszystko jedno, czy przyjdzie im się wspinać, skakać nad rozpadlinami, pokonywać wpław jeziora, czy jechać konno bez postoju. Rozwinięcie umiejętności pow. 70% pozwala także ignorować **1d4** obrażeń od zimna podczas wędrówki (nie w walce).
+Wieloletnie treningi pod okiem wybitnych mistrzów pozwalają Bohaterom przeć naprzód, bez oglądania się za siebie. Wszystko jedno, czy przyjdzie im się wspinać, skakać nad rozpadlinami, pokonywać wpław jeziora, czy jechać konno bez postoju. Rozwinięcie umiejętności pow. 70% pozwala także ignorować **1 pkt** obrażeń od żywiołów podczas wędrówki (nie w walce).
 
 ### Coś z niczego
 
@@ -150,9 +153,9 @@ Tam, gdzie nie wystarcza zwykła siła, pojawia się furia. Bohater, który wpad
 
 **Cecha bazowa:** Zręczność **[ZR]**
 
-Zaglądanie do trudnodostępnych miejsc, skradanie i unikanie ciosów wymaga umiejętności. Kocia zwinność przydaje się również, gdy sakiewka napotkanego barona musi nagle zmienić właściciela. W razie kłopotów może również służyć do ratowania się ucieczką.
+Zaglądanie do trudnodostępnych miejsc, skradanie i unikanie ciosów wymaga umiejętności. Kocia zwinność może niekiedy stanowić zastępstwo dla klasycznego łotrostwa, szczególnie gdy sakiewka napotkanego barona musi nagle zmienić właściciela. W razie kłopotów może również służyć do ratowania się ucieczką.
 
-**Podczas walki:** Po zdanym przez przeciwnika teście ataku (ale przed rzutem na obrażenia), gracz może zadeklarować unik. Bohater z umiejętnością rozwiniętą pow. 70% może automatycznie uniknąć ciosu, poświęcając liczbę punktów **[DET]**, równą poziomowi sukcesu atakującego. Zdany test Kociej zwinności przed walką działa jak atak z ukrycia i daje Bohaterowi kość premowią do ataku **[KP]**.
+**Podczas walki:** Zaatakowany gracz może zadeklarować unik. Bohater z umiejętnością rozwiniętą pow. 70% może automatycznie uniknąć ciosu, poświęcając liczbę punktów **[DET]**, równą poziomowi sukcesu atakującego. Zdany test Kociej zwinności przed walką działa jak atak z ukrycia i daje Bohaterowi kość premowią do ataku **[KP]**.
 
 *Niepowodzenie skutkuje utratą dodatkowego punktu determinacji.*
 

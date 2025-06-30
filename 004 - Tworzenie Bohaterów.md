@@ -5,15 +5,14 @@ Tworzenie własnej postaci to dla wielu graczy jeden z najistotniejszych element
 
 Bohaterów opisuje sześć głównych cech, opisywanych dalej jako Atrybuty. Każdy z nich wpływa bezpośrednio na umiejętności, zakres ruchu, a także rozwój punktów wytrzymałości oraz mistycznej energii podczas awansów.
 
-Określanie wartości atrybutów jest bardzo proste. Każdy z nich ustala się za pomocą rzutu trzech rzutów **3d6** i wybiera najwyższy wynik.
+Określanie wartości atrybutów jest bardzo proste. Każdy z nich ustala się za pomocą dwóch rzutów **3d6**, wybierając wyższy wynik. Oczywiście Mistrz Gry może zezwolić na dodatkowe przerzucenie szczególnie niskich (poniżej 9) wyników, by zachować odpowiedni balans postaci w drużynie.
 
 **Przykład:**
-Gracz losuje wartość Siły, wykonując trzy serie rzutów trzema kostkami d6:
-- Pierwsza seria: 2 + 4 + 6 = 12
-- Druga seria: 1 + 5 + 2 = 8
-- Trzecia seria 3 + 5 + 6 = 14
+Gracz losuje wartość Siły, wykonując dwie serie rzutów trzema kostkami d6:
+- Pierwsza seria: 1 + 5 + 2 = 8
+- Druga seria 3 + 5 + 6 = 14
 
-Najwyższym wynikiem jest 14 i taka też jest bazowa wartość jego siły.
+Najwyższym wynikiem jest 14 i taka też jest bazowa wartość jego siły. 
 
 Bywa tak, że gracze chcą ręcznie dostosować wartości poszczególnych atrybutów, odejmując punkty od jednej cechy i dodając do drugiej, bardziej zgodnej z profilem postaci, którą chcą zagrać. Oczywiście jest to możliwe, o ile suma punktów wszystkich cech pozostanie niezmieniona. Istotne jest również, by minimalna wartość każdego atrybutu mieściła się w przedziale 3-18. Jest to podyktowane dalszymi modyfikacjami atrybutów, opierającymi się o wiek oraz pochodzenia bohatera.
 
@@ -157,7 +156,7 @@ Jak łatwo się domyślić, określa maksymalną odległość, na jaką może si
 
 Określa silną wolę postaci, jej ambicję i upór w dążeniu do celu. Pozwala forsować nieudane rzuty oraz korzystać z dodatkowych akcji podczas walki. Więcej na temat szczegółowego wykorzystania determinacji znajdziesz w opisach umiejętności. Aby obliczyć początkową wartość determinacji [DET], wykonaj rzut **3d6**. Jeśli wyrzuciłeś 4, 4 i 5, to zaczynasz przygodę z 13 punktami. Determinacja stanowiąca motor napędowy Bohatera, jest niezwykle ważną cechą. Jeśli jej poziom spadnie do zera, postać wykonuje każdy test umiejętności z Pechową Kością [PK]. Stan ten utrzymuje się do momentu odzyskania przynajmniej jednego punktu determinacji. 
 
-Istnieje kilka sposobów przywracania punktów. Pierwszym z nich jest odpoczynek. Bohater może rzucić kością **1d4** by przywrócić określoną liczbę punktów. Regeneracja możliwa jest również po wykonaniu ważnego zadania fabularnego, jak na przykład pokonanie lodowego trolla lub odnalezienie zaginionego kupca. W tym wypadku decyzja o ilości regenerowanych punktów należy do Mistrza Gry. Pozostałe sposoby to rozmaite zaklęcia, eliksiry i pieśni wędrownych bardów. Niektóre pozwalają nie tylko zregenerować punkty, ale też zwiększyć tymczasowo ich maksymalną ilość.
+Istnieje kilka sposobów przywracania punktów. Pierwszym z nich jest odpoczynek. Regeneracja możliwa jest również po wykonaniu ważnego zadania fabularnego, jak na przykład pokonanie lodowego trolla lub odnalezienie zaginionego kupca. W tym wypadku decyzja o ilości regenerowanych punktów należy do Mistrza Gry. Pozostałe sposoby to rozmaite zaklęcia, eliksiry i pieśni wędrownych bardów. Niektóre pozwalają nie tylko zregenerować punkty, ale też zwiększyć tymczasowo ich maksymalną ilość.
 
 Ponieważ rozgrywka w YARD nastawiona jest na rozwój Bohaterów, istnieje możliwość zwiększania maksymalnej wartości punktów determinacji. Na każde pięć poziomów postaci, Bohaterowi przysługują dwa dodatkowe punkty. Pierwsze na poziomie piątym, kolejne na dziesiątym itd. Zanotuj na Karcie Bohatera wszystkie wartości atrybutów, wytrzymałości, mistycznej energii, ruchu oraz determinacji. Kartę znajdziesz na końcu tego podręcznika.
 
@@ -171,23 +170,40 @@ Co istotne, standardowy pancerz chroni jedynie przed obrażeniami fizycznymi. Ty
 
 ### Atak
 
-Każda nieuzbrojona postać, bez względu na wiek i pochodzenie posiada podstawowy atak fizyczny w postaci 1 punktu, odpowiadający walce na pięści. Jeśli Bohater wyposaży się w sztylet lub inną broń, jego atak będzie określany przez właściwości przemiotu. Przykładowo sztylet zadaje **1d4** punktów obrażeń, a miecz krótki **1d6**. Bohater posiadający więcej niż 70 pkt Kociej zwinności, może dodatkowo walczy dwiema broniami.
+Każda nieuzbrojona postać, bez względu na wiek i pochodzenie posiada podstawowy atak fizyczny w postaci 1 punktu, odpowiadający walce na pięści. Jeśli Bohater wyposaży się w sztylet lub inną broń, jego atak będzie określany przez właściwości przemiotu. Przykładowo sztylet zadaje 1 punkt obrażeń, a miecz krótki 2. Bohater posiadający więcej niż 70 pkt Kociej zwinności, może dodatkowo walczy dwiema broniami.
 
 ### Modyfikator obrażeń
 
 Im silniejszy Bohater, tym większe obrażenia fizyczne zadaje, bez względu na to, jakiej broni używa.
 
-**[S]** < 60 - 0 pkt
-**[S]** 61-75 - +1 pkt
-**[S]** 76-90 - +2 pkt 
-**[S]** > 90 - +3 pkt 
+**Siła 1-2:** -3 do ataku (Skrajnie słaby, bardzo utrudnione zadawanie ciosów).
+
+---
+
+**Siła 3-5:** -2 do ataku (Słabeusz, problemy z efektywnym uderzeniem).
+
+**Siła 6-8:** -1 do ataku (Poniżej przeciętnej, lekka przewaga nad najsłabszymi).
+
+**Siła 9-12:** +0 do ataku (Przeciętna siła, typowa dla większości postaci bez specjalizacji).
+
+**Siła 13-15:** +1 do ataku (Silny, widoczne mięśnie, lepszy w walce wręcz).
+
+**Siła 16-18:** +2 do ataku (Bardzo silny, imponująca moc, prawdziwy wojownik).
+
+**Siła 19-20:** +3 do ataku (Nadludzko silny, budzący respekt).
+
+---
+
+**Siła 21-23:** +4 do ataku (Heroiczna siła, potężne uderzenia).
+
+**Siła 23+:** +5 do ataku (Mityczna/legendarna siła, niszczycielska moc). 
 
 Wartość modyfikatora dodaje się do wartości ataku, otrzymując w ten sposób finalny wynik zadawanych obrażeń. Jeśli postać walczy dwiema broniami, modyfikator ataku stosuje się tylko dla jednej, wiodącej ręki. Słabsza ręka wykonuje atak podstawowy.
 
 **Przykład:**
-Bohater atakuje trolla mieczem, zadającym 5 pkt obrażeń (rzut **1d6**) i dodatkowo posiada modyfikator ataku równy 2. Całkowita wartość jego ataku wynosi więc 7 i takie obrażenia otrzyma troll, jeśli nie posiada żadnego pancerza.
+Bohater atakuje trolla mieczem, zadającym 2 pkt obrażeń i dodatkowo posiada modyfikator ataku równy 2. Całkowita wartość jego ataku wynosi więc 4 i takie obrażenia otrzyma troll, jeśli nie posiada żadnego pancerza.
 
-Kwestie związane z walką zostały szerzej omówione w rozdziale Przebieg potyczki.
+Kwestie związane z walką zostały szerzej omówione w dalszej części podręcznika.
 
 ## Punkty umiejętności
 
@@ -200,8 +216,8 @@ Zanim zaczniesz rozdzielać punkty umiejętności, musisz jeszcze ustalić ich w
 
 Wartość podstawowej umiejętności jest równa połowie atrybutu, na którym bazuje (zaokrąglając w dół). Mówiąc prościej, jeśli jedna z podstawowych umiejętności oparta jest na sile, to jej wartość początkowa będzie równa połowie siły.
 
-Wartość bazowa pozostałych umiejętności równa jest 1/5 atrybutu, na którym bazują (zaokrąglając w dół). Umiejętność oparta na **[S]** = 80 będzie miała początkową wartość równą 16.
+Wartość bazowa pozostałych umiejętności równa jest 1.
 
 ### Podział punktów
 
-Liczba punktów umiejętności, podobnie jak liczba punktów atrybutów, jest wartością stałą. **Każdy Bohater ma do dyspozycji 150 pkt**, które może przeznaczyć na dowolne umiejętności, dodając je do wartości bazowych. Stała wartość puli punktów zapewnia wszystkim graczom równe szanse na starcie, jednocześnie skłaniając ich do przemyślanego tworzenia postaci. Pamiętaj, że wartość umiejętności nie może przekroczyć 95 punktów.
+Liczba punktów umiejętności, podobnie jak liczba punktów atrybutów, jest wartością stałą. **Każdy Bohater ma do dyspozycji 18 pkt**, które może przeznaczyć na dowolne umiejętności, dodając je do wartości bazowych. Stała wartość puli punktów zapewnia wszystkim graczom równe szanse na starcie, jednocześnie skłaniając ich do przemyślanego tworzenia postaci. Pamiętaj, że wartość umiejętności nie może przekroczyć 20 punktów.
