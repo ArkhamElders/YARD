@@ -4,7 +4,7 @@ Posiadanie psów, kotów, czy nawet sokołów jest w Aleorze dość powszechne. 
 
 Żaden wilk, czy nawet gobliński bargest nie zaatakuje Yardanina i odwrotnie - jeśli człowiek północy spróbuje choćby podnieść rękę na to zwierzę, spotka go kara w postaci gniewu Pani Urune (natychmiastowe **2d10** obrażeń pomijających wszelkie pancerze i bariery ochronne).
 
-Oczywiście pozostali mieszkańcy Aleoru również mogą oswajać zwierzęta, a nawet wykorzystywać je w walce, jeśli tylko posiadają odpowiedni poziom Rozumienia zwierząt (70+). Nie mają jednak pewności, czy dzikie zwierzę nie zechce ich zaatakować. Oswajanie wymaga zdania testu o konkretnej trudności.
+Oczywiście pozostali mieszkańcy Aleoru również mogą oswajać zwierzęta, a nawet wykorzystywać je w walce, jeśli tylko posiadają odpowiedni poziom Rozumienia zwierząt (>14). Nie mają jednak pewności, czy dzikie zwierzę nie zechce ich zaatakować. Oswajanie wymaga zdania testu o konkretnej trudności.
 
 W danym momencie Bohater może posiadać wyłącznie jednego zwierzęcego towarzysza. Może podjąć próbę oswojenia innego zwierzęcia, dopiero po uwolnieniu poprzedniego.
 
@@ -31,7 +31,7 @@ Karta Postaci Twojego Bohatera zawiera specjalną sekcję, dedykowaną statystyk
 
 Oswojenie zwierzęcia wymaga jednorazowego zdania testu Rozumienia zwierząt, na poziomie wskazanym przez Bestiariusz. 
 
-To jednak dopiero połowa sukcesu - by zwierzę chciało dla Ciebie walczyć, potrzebna jest wyjątkowo silna więź. Innymi słowy, Twój Bohater musi posiadać więcej niż 70 pkt Rozumienia zwierząt.
+To jednak dopiero połowa sukcesu - by zwierzę chciało dla Ciebie walczyć, potrzebna jest wyjątkowo silna więź. Innymi słowy, Twój Bohater musi posiadać więcej niż 14 pkt Rozumienia zwierząt.
 
 W momencie utworzenia więzi ze zwierzęciem, jego punkty **[DET]** zrównują się z punktami opiekuna. Dzieje się tak ponieważ zwierzęcy towarzysz wiernie wykonuje rozkazy swojego pana. Atakuje jak dodatkowy członek drużyny, bezpośrednio przed lub po Bohaterze - decyzję podejmuje gracz.
 
@@ -41,7 +41,7 @@ Towarzysze, podobnie jak Bohaterowie, nie mogą forsować rzutów w walce.
 
 ### Odpoczynek
 
-Towarzysze odzyskują wytrzymałość i determinację na podobnych zasadach jak Bohaterowie. Podczas krótkiego odpoczynku mogą przywrócić 1d4 punktów wytrzymałości, a w trakcie pełnego **2d4** wytrzymałości i **1d4** determinacji. Dla zwierząt nie mają jednak zastosowania udogodnienia - wychowały się w dziczy i to ona jest ich domem.
+Towarzysze odzyskują wytrzymałość i determinację na podobnych zasadach jak Bohaterowie. Podczas krótkiego odpoczynku mogą przywrócić 3 punkty wytrzymałości, a w trakcie pełnego połowę wytrzymałości i determinacji. Dla zwierząt nie mają jednak zastosowania udogodnienia - wychowały się w dziczy i to ona jest ich domem. Podobnie jak w przypadku Bohaterów, skrajnie wyczerpane zwierzę, również może potrzebować nieco dłuższego odpoczynku, by w pełni wrócić do zdrowia.
 
 ### Rozwój
 

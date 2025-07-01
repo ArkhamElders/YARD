@@ -6,13 +6,13 @@ Wyróżniamy dwa rodzaje odpoczynku:
 
 ### Krótki odpoczynek
 
-Krótka pauza pozwalająca złapać oddech na szlaku. Nie jest najlepszym z możliwych rozwiązań, ale... lepsze to niż nic. Podczas krótkiego odpoczynku Bohaterowie mogą zregenerować **1d4** punktów wytrzymałości.
+Krótka pauza pozwalająca złapać oddech na szlaku. Nie jest najlepszym z możliwych rozwiązań, ale... lepsze to niż nic. Podczas krótkiego odpoczynku Bohaterowie mogą zregenerować 3 punkty wytrzymałości.
 
 ### Pełny odpoczynek
 
-Kilka godzin wytchnienia lub po prostu przespana noc. Pozwala zregenerować **2d4** punktów wytrzymałości i tyle samo punktów mistycznej energii. Podczas długiego odpoczynku Bohaterowie odzyskują również **1d4** determinacji.
+Kilka godzin wytchnienia lub po prostu przespana noc. Pozwala zregenerować połowę punktów wytrzymałości i tyle samo punktów mistycznej energii. Podczas długiego odpoczynku Bohaterowie odzyskują również całość determinacji.
 
-Ze względu na możliwy Przerwany odpoczynek, rzuty regeneracyjne wykonywane są dopiero po jego zakończeniu. 
+Mistrz Gry powinien wziąć jednak pod uwagę stan szczególnie wyczerpanych Bohaterów, znajdujących się na skraju śmierci. Ich pełna regeneracja może być nieco bardziej wymagająca. Należy też pamiętać, że utracone kończyny zwykle nie odrastają samoczynnie.
 
 ## Udogodnienia
 

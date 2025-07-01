@@ -48,24 +48,24 @@ Przy niektórych umiejętnościach znajdziesz dodatkowy zapis informujący o zas
 
 ### Wpływ
 
-- Łotrostwo
-- Negocjacje
-- Rozumienie zwierząt
+- Łotrostwo [ZR]
+- Negocjacje [CHA]
+- Rozumienie zwierząt [CHA]
 
 ### Umiejętności ogólne
 
-- Atletyka
-- Byle do przodu
-- Coś z niczego
-- Furia
-- Kocia zwinność
-- Obrońca
-- Odparcie magii
-- Szamański krąg
-- Sztuka przetrwania
-- Tropiciel
-- Wędrowny bard
-- Wiedza tajemna
+- Atletyka [S]
+- Byle do przodu [KON]
+- Coś z niczego [WIE]
+- Furia [S]
+- Kocia zwinność [ZR]
+- Obrońca [KON]
+- Odparcie magii [INT]
+- Szamański krąg [WIE]
+- Sztuka przetrwania [KON]
+- Tropiciel [ZR]
+- Wędrowny bard [CHA]
+- Wiedza tajemna [WIE]
 
 ## Walka
 
@@ -121,7 +121,7 @@ Najszersza grupa określająca faktyczne umiejętności Bohatera, stosowane podc
 
 **Cecha bazowa:** Siła **[S]**
 
-Stanowi praktyczne zastosowanie siły Bohatera. Pozwala przeciągać, podnosić i rzucać na znaczną odległość ciężkie przedmioty. Rozwinięta odpowiednio (pow. 70%) stanowi kość premiową **[KP]** podczas korzystania z Furii.
+Stanowi praktyczne zastosowanie siły Bohatera. Pozwala przeciągać, podnosić i rzucać na znaczną odległość ciężkie przedmioty. Rozwinięta odpowiednio (pow. 14 pkt) stanowi kość premiową **[KP]** podczas korzystania z Furii.
 
 **Podczas walki:** Prawdziwy atleta potrafi odpychać głazy, kawałki drewna i wszelką improwizowaną broń miotaną. Co więcej, równie dobrze potrafi z niej korzystać - wystarczy, że poświęci 1 pkt **[DET]** i zda test. Obrażenia zależą od użytego przedmiotu i zwykle określane są przez MG.
 
@@ -193,7 +193,7 @@ W odróżnieniu od magów, szamani nie muszą uczyć się zaklęć z ksiąg lub 
 
 **Cecha bazowa:** Kondycja **[KON]**
 
-Umiejętność radzenia sobie w dziczy bywa szczególnie przydatna podczas długich wędrówek. Pozwala z łatwością rozbić obóz, bez potrzeby posiadania namiotu, a także rozpalić ognisko w mniej sprzyjających warunkach. W odróżnieniu od umiejętności Byle do przodu, nie ma tu wymaganego poziomu podczas redukcji obrażeń (**1d4**) pochodzących od skrajnej temperatury. Zakończony sukcesem test pozwala także na regenerację dodatkowych **1d4** punktów zdrowia poza walką.
+Umiejętność radzenia sobie w dziczy bywa szczególnie przydatna podczas długich wędrówek. Pozwala z łatwością rozbić obóz, bez potrzeby posiadania namiotu, a także rozpalić ognisko w mniej sprzyjających warunkach. W odróżnieniu od umiejętności Byle do przodu, nie ma tu wymaganego poziomu podczas redukcji obrażeń (1 pkt) pochodzących od skrajnej temperatury. Zakończony sukcesem test pozwala także na regenerację dodatkowych 3 punktów zdrowia poza walką.
 
 ### Tropiciel
 
@@ -205,7 +205,7 @@ Prawdziwy łowca zachowuje czujność w każdej sytuacji. Z łatwością dostrze
 
 **Cecha bazowa:** Charyzma **[CHA]**
 
-Któż z nas nie kocha karczmianych przyśpiewek i bohaterskich historii snutych przez złotoustych bardów? Umiejętność grania na instrumencie lub śpiewu może stanowić doskonały sposób na zarobek, szczególnie w obcym mieście. Odpowiednia melodia może też dodać otuchy, regenerując dodatkowe **1d4** pkt. determinacji. 
+Któż z nas nie kocha karczmianych przyśpiewek i bohaterskich historii snutych przez złotoustych bardów? Umiejętność grania na instrumencie lub śpiewu może stanowić doskonały sposób na zarobek, szczególnie w obcym mieście. Odpowiednia melodia może też dodać otuchy, regenerując dodatkowe 2 pkt. determinacji. 
 
 **Podczas walki:** Podstawowa pieśń barda może zagrzewać towarzyszy do boju, dając im kość premiową. Może także skutecznie utrudniać koncentrację przeciwnikom drużyny (kość karna). Prawdziwy wirtuoz potrafi jednak znacznie więcej - wystarczy, że Bohater zadeklaruje konkretną pieśń i poświęci 1 pkt **[DET]**, aby wspomóc towarzyszy lub osłabić wroga.
 
