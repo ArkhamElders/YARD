@@ -1,5 +1,5 @@
 {
-  "id": "yard-fvtt",
+  "id": "yard-testing",
   "title": "YARD - Yet Another RPG that Died",
   "description": "Sumthing about a system that died",
   "version": "0.0.1",
@@ -45,6 +45,6 @@
   "primaryTokenAttribute": "resources.health",
   "secondaryTokenAttribute": "resources.power",
   "url": "https://github.com/ArkhamElders/YARD",
-  "manifest": "https://raw.githubusercontent.com/ArkhamElders/YARD/refs/heads/main/yard-fvtt/system.json",
-  "download": "https://github.com/ArkhamElders/YARD/raw/refs/heads/main/yard-fvtt/release/yard-fvtt.zip"
+  "manifest": "https://raw.githubusercontent.com/ArkhamElders/YARD/refs/heads/main/yard-testing/system.json",
+  "download": "https://github.com/ArkhamElders/YARD/raw/refs/heads/main/yard-testing/release/yard-testing.zip"
 }
