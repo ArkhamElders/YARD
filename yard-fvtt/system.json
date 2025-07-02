@@ -50,5 +50,5 @@
   "secondaryTokenAttribute": "resources.power",
   "url": "https://github.com/ArkhamElders/YARD",
   "manifest": "https://raw.githubusercontent.com/ArkhamElders/YARD/refs/heads/main/yard-fvtt/system.json",
-  "download": "https://your/packaged/download/archive.zip"
+  "download": "https://github.com/ArkhamElders/YARD/raw/refs/heads/main/yard-fvtt/release/yard-fvtt.zip"
 }
