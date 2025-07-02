@@ -48,7 +48,7 @@
   },
   "primaryTokenAttribute": "resources.health",
   "secondaryTokenAttribute": "resources.power",
-  "url": "https://your/hosted/system/repo/",
-  "manifest": "https://your/hosted/system/repo/system.json",
+  "url": "https://github.com/ArkhamElders/YARD",
+  "manifest": "https://raw.githubusercontent.com/ArkhamElders/YARD/refs/heads/main/yard-fvtt/system.json",
   "download": "https://your/packaged/download/archive.zip"
 }
