@@ -24,9 +24,6 @@
     "type": "Item"
   }],
   "languages": [{
-    "lang": "en",
-    "name": "English",
-    "path": "lang/en.json"
   }],
   "documentTypes": {
     "Actor": {
@@ -43,7 +40,7 @@
   "initiative": "1d20",
   "grid": {
     "distance": 10,
-    "units": "ft"
+    "units": "m"
   },
   "primaryTokenAttribute": "resources.health",
   "secondaryTokenAttribute": "resources.power",
