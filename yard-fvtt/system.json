@@ -12,7 +12,6 @@
     "url": "https://www.arkhamelders.com",
     "email": "hello@arkhamelders.com"
   }],
-  "esmodules": ["mysystem.mjs"],
   "styles": ["styles/system-styles.css"],
   "packs": [{
     "name": "monsters",
