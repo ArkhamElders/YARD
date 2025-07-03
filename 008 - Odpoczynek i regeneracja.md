@@ -22,7 +22,7 @@ Zależnie od jakości udogodnień, Mistrz Gry może przyznać bohaterom 1-3 doda
 
 **Przykład:**
 
-Bohaterowie rozbijają obóz w lesie. Niezbyt wygodny, ponieważ nie są w żaden sposób przygotowani - śpią pod gołym niebem. Udaje im się jednak znaleźć suchą, osłoniętą od wiatru jaskinię (+ 1 pkt) oraz upolować dzika, który spokojnie napełni im brzuchy (+1 pkt). Dzięki temu zregenerują o dwa punkty **[PW]** i **[ME]** więcej.
+Bohaterowie rozbijają obóz w lesie. Niezbyt wygodny, ponieważ nie są w żaden sposób przygotowani - śpią pod gołym niebem. Udaje im się jednak znaleźć suchą, osłoniętą od wiatru jaskinię (+ 1 pkt) oraz upolować dzika, który spokojnie napełni im brzuchy (+6 pkt). Dzięki temu zregenerują więcej **[PW]** i **[ME]**.
 
 Oczywiście, nic nie stoi na przeszkodzie by dodatkowo skorzystali z mikstur lub zaklęć, które zwiększą ilość odzyskiwanych punktów.
 

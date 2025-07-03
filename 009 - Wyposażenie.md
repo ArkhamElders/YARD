@@ -6,11 +6,11 @@ Dowiesz się także w jaki sposób zwiększać ilość przenoszonego bagażu, po
 
 ## Ekwipunek podróżny
 
-Tobołek podróżny posiada ograniczoną ilość miejsca na ekwipunek, który Bohater może zabrać ze sobą na kolejną wyprawę. Im postać silniejsza, tym więcej może nieść, dlatego też ilość miejsca w ekwipunku oblicza się, dzieląc wartość Siły przez 10 i zaokrąglając w dół.
+Tobołek podróżny posiada ograniczoną ilość miejsca na ekwipunek, który Bohater może zabrać ze sobą na kolejną wyprawę. Im postać silniejsza, tym więcej może nieść, dlatego też ilość miejsca w ekwipunku oblicza się, dzieląc wartość Siły przez 2 i zaokrąglając w dół.
 
 **Przykład:**
 
-Bohater posiada 76 pkt Siły - dzieląc tę wartość przez 10, otrzymamy wynik 7.6, co daje 7 miejsc w ekwipunku na duże przedmioty.
+Bohater posiada 15 pkt Siły - dzieląc tę wartość przez 2, otrzymamy wynik 7.5, co daje 7 miejsc w ekwipunku na duże przedmioty.
 
 Niezbyt wiele, prawda? Cóż... człowiek to nie wóz kupiecki, nie udźwignie czterech zbroi płytowych, piętnastu par butów i dwóch dzików. 
 
@@ -26,13 +26,13 @@ Choć nie ma możliwości, by Bohaterowie nosili przy sobie więcej niż są w s
 
 Oczywiście nie zalecamy używania wierzchowca w walce z oczywistych względów - w przypadku jego śmierci nie będzie komu nieść wyposażenia. Dlatego też domyślnie wierzchowiec nie jest traktowany w YARD jako Zwierzęcy towarzysz, choć nic nie stoi na przeszkodzie by nim był.
 
-Udźwig wierzchowca oblicza się podobnie jak w przypadku ludzi, dzieląc wartość Siły przez 10. 
+Udźwig wierzchowca oblicza się podobnie jak w przypadku ludzi, dzieląc wartość Siły przez 2. 
 
 Jeśli Bohater zechce dodatkowo jechać na obładowanym koniu, należy odjąć 3 punkty. W końcu swoje waży i zajmuje całkiem sporo miejsca.
 
 ## Sakiewka
 
-Nowa zbroja, pokój w gospodzie, czy kufel yardańskiego piwa - wszystko ma swoją cenę, dlatego warto mieć przy sobie trochę brzęczących monet. Choć sakiewka nie wlicza się do miejsca w ekwipunku, ze względów bezpieczeństwa lepiej nie nosić przy sobie całego majątku. Każdy bohater zaczyna z ***2d6** x10 sztuk srebra w sakiewce i dokładnie drugie tyle może wydać na wyposażenie.
+Nowa zbroja, pokój w gospodzie, czy kufel yardańskiego piwa - wszystko ma swoją cenę, dlatego warto mieć przy sobie trochę brzęczących monet. Choć sakiewka nie wlicza się do miejsca w ekwipunku, ze względów bezpieczeństwa lepiej nie nosić przy sobie całego majątku. Każdy bohater zaczyna z ***3d6** x10 sztuk srebra w sakiewce i dokładnie drugie tyle może wydać na wyposażenie.
 
 W grze możemy wyróżnić następujące środki płatnicze:
 
@@ -77,27 +77,27 @@ Istotnym elementem jest również standardowy Stan, jaki powoduje krytyczne traf
 |---    	      |---	    |---	    |---	|---	    |---	    |
 |Krótki łuk       |40 m     |1  	    |[ZR] 	|-   	    |10/5     	|
 |Długi łuk        |80 m	    |2      	|[S]  	|-   	    |30/15     	|
-|Zwykła strzała   |-  	    |1d4    	|-   	|Krwawienie	|2/1       	|
+|Zwykła strzała   |-  	    |2      	|-   	|Krwawienie	|2/1       	|
 |Kusza            |20 m	    |2      	|[ZR]  	|-   	    |30/15      |
-|Zwykły bełt   	  |-  	    |1d4	    |-   	|Krwawienie |2/1        |
+|Zwykły bełt   	  |-  	    |2	        |-   	|Krwawienie |2/1        |
 
-Po wygranej potyczce strzelec ma 1d4 szans na odzyskanie pocisków z ciał poległych.
+Po wygranej potyczce strzelec ma 1d4 szans (rzut Mistrza Gry) na odzyskanie pocisków z ciał poległych.
 
 ### Broń do walki wręcz
 
-Zapis `- / S/10` oznacza, że broń poza walką wręcz może również służyć jako miotana o zasięgu równym punktom siły podzielonym przez 10 (wartość należy zaokrąglić w dół). Miotanie bronią wykorzystuje ten sam atrybut co walka wręcz danego przedmiotu.
+Zapis `- / S` oznacza, że broń poza walką wręcz może również służyć jako miotana o zasięgu równym punktom siły. Miotanie bronią wykorzystuje ten sam atrybut co walka wręcz danego przedmiotu.
 
 Niektóre rodzaje broni wymagają też konkretnego poziomu siły, by móc jej swobodnie używać.
 
 |Nazwa          |Dystans    |Obrażenia  |Atrybut|Stan       |Cena K/S   |
 |---        	|---	    |---	    |---    	|---	    |---	    |
-|Kij            |-  	    |1d4  	    |[ZR]	    |Powalenie  |4/2     	|
-|Włócznia       |- / S/10   |1d6      	|[S] > 40	|Krwawienie |10/5     	|
-|Pałka*         |-  	    |1d4    	|[S]    	|Powalenie	|4/2      	|
-|Sztylet*       |- / ZR/10  |1d4      	|[ZR]   	|Krwawienie |10/5       |
-|Krótki miecz* 	|-  	    |1d6	    |[ZR] > 50  |Krwawienie |20/10      |
-|Długi miecz   	|-  	    |1d8	    |[S] > 60	|Krwawienie |30/15      |
-|Młot bojowy   	|-  	    |2d4	    |[S] > 70	|Powalenie  |40/20      |
+|Kij            |-  	    |2  	    |[ZR]	    |Powalenie  |4/2     	|
+|Włócznia       |- / S      |3      	|[S] > 8	|Krwawienie |10/5     	|
+|Pałka*         |-  	    |2      	|[S]    	|Powalenie	|4/2      	|
+|Sztylet*       |- / ZR     |2      	|[ZR]   	|Krwawienie |10/5       |
+|Krótki miecz* 	|-  	    |3	        |[ZR] > 10  |Krwawienie |20/10      |
+|Długi miecz   	|-  	    |4	        |[S] > 12	|Krwawienie |30/15      |
+|Młot bojowy   	|-  	    |4	        |[S] > 14	|Powalenie  |40/20      |
 
 *Możliwa walka z wykorzystaniem dwóch broni.
 
@@ -109,11 +109,11 @@ Poza bronią dobrze jeszcze mieć zbroję lub tarczę, które przynajmniej czę�
 
 |Nazwa              |Pkt. pancerza  |Min. Siła  |Cena K/S   |
 |---        	    |---	        |---	    |---	    |
-|Zwykły hełm*       |1  	        |[S] > 40   |4/2        |
-|Drewniana tarcza   |2              |[S] > 50  	|10/5	    |
-|Zbroja skórzana    |2  	        |[S] > 50   |20/10   	|
-|Kolczuga*          |4              |[S] > 70  	|100/50   	|
-|Zbroja płytowa*	|6  	        |[S] > 80   |600/300    |
+|Zwykły hełm*       |1  	        |[S] > 8    |4/2        |
+|Drewniana tarcza   |2              |[S] > 10  	|10/5	    |
+|Zbroja skórzana    |2  	        |[S] > 10   |20/10   	|
+|Kolczuga*          |4              |[S] > 14  	|100/50   	|
+|Zbroja płytowa*	|6  	        |[S] > 16   |600/300    |
 
 *Ciężkie zbroje i hełmy utrudniają skradanie i rzucanie zaklęć, dając kość karną do testów umiejętności, których podstawowym atrybutem jest Zręczność lub Inteligencja. 
 
@@ -139,29 +139,29 @@ Broń i pancerze to nie wszystko - Bohaterowie mogą i powinni zabrać na każd�
 |Mikstura mistycyzmu    |Regeneruje maks. 8 [ME]                                                    |10/5      |
 |Antidotum              |Usuwają truciznę.   	                                                    |8/4       |
 |Pijawki [M]            |Usuwają truciznę. Wielokrotnego użytku. Nie można korzystać podczas walki. |12/6      |
-|Lecznicze jagody	    |Regenerują 1d4 pkt [PW]  	                                                |4/2       |
-|Szałwia wieszcza       |Regenerują 1d4 pkt [ME]  	                                                |4/2       |
-|Piołun	                |Regenerują 1d4 pkt [DET]  	                                                |6/3       |
+|Lecznicze jagody	    |Regenerują 2 pkt [PW]  	                                                |4/2       |
+|Szałwia wieszcza       |Regenerują 2 pkt [ME]  	                                                |4/2       |
+|Piołun	                |Regenerują 2 pkt [DET]  	                                                |6/3       |
 
 ### Jedzenie i napoje
 
 |Nazwa                          |Działanie             |Cena K/S  |
 |---            	            |---	               |---	      |
-|Chleb [M]                      |Przywraca 1d4 [PW]    |2/1       |
-|Suszone mięso [M]              |Przywraca 1d6 [PW]    |6/3       |
-|Pieczona dziczyzna [M]         |Przywraca 1d8 [PW]    |10/5      |
-|Yardańskie ciemne piwo* [M]    |Przywraca 1d4 [DET]   |4/2       |
-|Wino z Tascal* [M]             |Przywraca 1d4 [DET]   |4/2       |
+|Chleb [M]                      |Przywraca 2 pkt  [PW]    |2/1       |
+|Suszone mięso [M]              |Przywraca 4 pkt  [PW]    |6/3       |
+|Pieczona dziczyzna [M]         |Przywraca 6 pkt  [PW]    |10/5      |
+|Yardańskie ciemne piwo* [M]    |Przywraca 2 pkt  [DET]   |4/2       |
+|Wino z Tascal* [M]             |Przywraca 2 pkt  [DET]   |4/2       |
 
-*Spożycie więcej niż jednej porcji alkoholu pozwala zregenerować dodatkowe punkty Determinacji, ale skutkuje dodaniem kości karnej (jedna za każdą kolejną porcję) do wszystkich testów, aż do kolejnego pełnego odpoczynku.
+*Spożycie więcej niż dwóch porcji alkoholu pozwala zregenerować dodatkowe punkty Determinacji, ale skutkuje dodaniem kości karnej (jedna za każdą kolejną porcję) do wszystkich testów, aż do kolejnego pełnego odpoczynku.
 
 ### Pozostałe
 
-|Nazwa         |Opis                                                                                                        |Cena K/S  |
-|---           |---	                                                                                                        |---	   |
-|Lina [M]      |10 m wytrzymałej liny - przydatna podczas wspinaczki w trudnodostępne miejsca.                              |4/2       |
-|Pochodnia [M] |Rozświetla mrok, opcjonalnie może też służyć do walki, zadając 1d4 obrażeń +1 od ognia. Wystarcza na ok 4h. |2/1       |
-|Wytrychy [M]  |Pomagają otworzyć wszelakie zamki i rozbroić pułapki, dając kość premiową do testu. Wielokrotnego użytku.   |10/5      |
-|Namiot [D]    |Umożliwia odpoczynek bez rzutu na Sztukę przetrwania podczas nocowania w dziczy. Pomieści 3 osoby.          |20/10     |
-|Lutnia [D]    |Podstawowy instrument większości bardów.  	                                                                |20/10     |
-|Bandaże [M]   |5 szt. Pozwalają zatrzymać krwawienie.   	                                                                |4/2       |
+|Nazwa         |Opis                                                                                                          |Cena K/S  |
+|---           |---	                                                                                                          |---	     |
+|Lina [M]      |10 m wytrzymałej liny - przydatna podczas wspinaczki w trudnodostępne miejsca.                                |4/2       |
+|Pochodnia [M] |Rozświetla mrok, opcjonalnie może też służyć do walki, zadając 2 pkt obrażeń +1 od ognia. Wystarcza na ok 4h. |2/1       |
+|Wytrychy [M]  |Pomagają otworzyć wszelakie zamki i rozbroić pułapki, dając kość premiową do testu. Wielokrotnego użytku.     |10/5      |
+|Namiot [D]    |Umożliwia odpoczynek bez rzutu na Sztukę przetrwania podczas nocowania w dziczy. Pomieści 3 osoby.            |20/10     |
+|Lutnia [D]    |Podstawowy instrument większości bardów.  	                                                                  |20/10     |
+|Bandaże [M]   |5 szt. Pozwalają zatrzymać krwawienie.   	                                                                  |4/2       |

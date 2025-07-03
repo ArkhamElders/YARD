@@ -62,7 +62,7 @@ Kontratak w YARD przebiega bardzo prosto:
 Poza standardowymi akcjami, możliwa jest również improwizacja, określana mianem fortelu. Bohater może próbować ogłuszyć przeciwnika, zepchnąć go w przepaść lub wykonać w trakcie swojej tury inną, nietypową akcję. Ze względu na szeroki wachlarz możliwości, jaki daje ta akcja, Mistrz Gry powinien każdorazowo rozważyć warunki fortelu. Przykłady takich niestandardowych akcji znajdziesz w opisach niektórych umiejętności.
 
 **Przykład**
-W trakcie walki, stojący na wyższym piętrze bohater chiałby zepchnąć na znajdujących się poniżej przeciwników, ciężką beczkę. Mistrz gry warunkuje powodzenie fortelu udanym testem Atletyki. Jeśli test się powiedzie, a wrogowie nie wykonają uniku, otrzymają **1d10** pkt obrażeń oraz Stan: Powalenie.
+W trakcie walki, stojący na wyższym piętrze bohater chciałby zepchnąć na znajdujących się poniżej przeciwników, ciężką beczkę. Mistrz gry warunkuje powodzenie fortelu udanym testem Atletyki. Jeśli test się powiedzie, a wrogowie nie wykonają uniku, otrzymają 4 pkt obrażeń oraz Stan: Powalenie.
 
 Innymi słowy, fortel to skorzystanie z wybranej umiejętności w trakcie walki.
 
@@ -72,13 +72,13 @@ Jednym z możliwych do zastosowania forteli, jest ucieczka z pola bitwy. Niezbyt
 
 ## Używanie magii
 
-Rzucanie zaklęć odbywa się na zasadach bardzo podobnych do korzystania z broni. Każde zaklęcie, zarówno szamańskie, jak i to pochodzące z mocy kryształów, wymaga jednak odpowiedniej ilości Mistycznej Energii. Dodatkowo należy wziąć pod uwagę dystans i czas rzucania każdego z nich.
+Rzucanie zaklęć odbywa się na zasadach bardzo podobnych do korzystania z broni. Bohater deklaruje, co chce zrobić, a następnie wykonuje test umiejętności Arkana. Każde zaklęcie, zarówno szamańskie, jak i to pochodzące z mocy kryształów, wymaga jednak odpowiedniej ilości Mistycznej Energii. 
 
 Więcej informacji znajdziesz w rozdziale poświęconym magii.
 
 ## Stany
 
-Wędrując po yardańskich bezdrożach Bohater będzie narażony na rozmaite, negatywne efekty. Czy to spowodowane siłami natury, czy wynikające ze starcia z potężnym przeciwnikiem. Chociaż większość stanów mija wraz z upływem czasu (**1d6** rund), niektóre z nich mogą mieć efekt trwały lub wymagać użycia konkretnego remedium. Poniżej znajdziesz opis każdego z efektów.
+Wędrując po yardańskich bezdrożach Bohater będzie narażony na rozmaite, negatywne efekty. Czy to spowodowane siłami natury, czy wynikające ze starcia z potężnym przeciwnikiem. Chociaż większość stanów mija wraz z upływem czasu (ok. 3 rund), niektóre z nich mogą mieć efekt trwały lub wymagać użycia konkretnego remedium. Poniżej znajdziesz opis każdego z efektów.
 
 ### Powalenie
 
@@ -88,7 +88,7 @@ Silny cios młotem lub inną bronią obuchową powalił na ziemię niejednego ś
 
 Broń sieczna i kłuta może powodować krwawiące rany, które prowadzą do powolnej utraty punktów wytrzymałości, a niekiedy nawet do śmierci. W większości przypadków krwawiący Bohater traci 1 pkt wytrzymałości na rundę. Żeby zatrzymać ubytek krwi, ranę należy opatrzyć.
 
-**Przykład:** Ork zadaje Bohaterowi 8 pkt. obrażeń, powodując jednocześnie krwawienie, przez 4 rundy. Jeśli postaci gracza zostanie udzielona pomoc, ubytek krwi zakończy się przed upływem 4 rund. W przypadku wyjątkowo paskudnych ran krwawienie ma charakter ciągły i założenie opatrunku jest konieczne do jego zatrzymania.
+**Przykład:** Ork zadaje Bohaterowi 8 pkt. obrażeń, powodując jednocześnie krwawienie. Jeśli postaci gracza zostanie udzielona pomoc, ubytek krwi zakończy się przed upływem 3 rund. W przypadku wyjątkowo paskudnych ran krwawienie ma charakter ciągły i założenie opatrunku jest konieczne do jego zatrzymania.
 
 ### Oślepienie
 
@@ -104,12 +104,14 @@ Stan ten w swoim działaniu przypomina nieco krwawienie, jednak jego zniwelowani
 
 ### Podpalenie
 
-Standardowe obrażenia od ognia powodują utratę 1 pkt wytrzymałości na rundę, chyba że podpalenie jest wynikiem wybuchu lub większego pożaru (**1d4** / rundę). Mistrz Gry powinien każdorazowo rozpatrzyć obrażenia, w zależności od sytuacji.
+Standardowe obrażenia od ognia powodują utratę 1 pkt wytrzymałości na rundę, chyba że podpalenie jest wynikiem wybuchu lub większego pożaru (2-3 / rundę). Mistrz Gry powinien każdorazowo rozpatrzyć obrażenia, w zależności od sytuacji.
 
 ### Przemarznięcie
 
-Kiedy temperatura ciała spada, Bohater traci jeden dodatkowy punkt wytrzymałości co rundę. W skrajnych przypadkach (np. potężna śnieżyca, wpadnięcie do lodowatej wody) obrażenia od zimna w każdej rundzie mogą wynieść **1d4**. Przemarznięcie wpływa negatywnie na testy oparte na Zręczności, dodając do nich Kość Karną.
+Kiedy temperatura ciała spada, Bohater traci jeden dodatkowy punkt wytrzymałości co rundę. W skrajnych przypadkach (np. potężna śnieżyca, wpadnięcie do lodowatej wody) obrażenia od zimna w każdej rundzie mogą wynieść 1-3. Przemarznięcie wpływa negatywnie na testy oparte na Zręczności, dodając do nich Kość Karną.
 
 ### Porażenie
 
-Porażenie błyskawicą zadaje dodatkowy 1 pkt obrażeń w każdej rundzie (w wyjątkowych sytuacjach **1d4**) i wpływa negatywnie na rzucanie czarów oraz inne umiejętności oparte na Inteligencji. Postać nie jest w stanie skoncentrować się wystarczająco, przez co każdy rzut wykonuje z Kością Karną.
+Porażenie błyskawicą zadaje dodatkowy 1 pkt obrażeń w każdej rundzie (w wyjątkowych sytuacjach 2-3) i wpływa negatywnie na rzucanie czarów oraz inne umiejętności oparte na Inteligencji. Postać nie jest w stanie skoncentrować się wystarczająco, przez co każdy rzut wykonuje z Kością Karną.
+
+To oczywiście tylko przykładowe stany - nic nie stoi na przeszkodzie, by Mistrz Gry lub sami gracze, dodali własne.

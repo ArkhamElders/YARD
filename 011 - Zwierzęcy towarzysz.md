@@ -2,7 +2,7 @@
 
 Posiadanie psów, kotów, czy nawet sokołów jest w Aleorze dość powszechne. Na szczególną uwagę zasługuje jednak yardańska więź z wilkami. Gdy świat był jeszcze młody, Pramatka zesłała wilki, by służyły ludziom z gór, przypominając jednocześnie o jej potędze.
 
-Żaden wilk, czy nawet gobliński bargest nie zaatakuje Yardanina i odwrotnie - jeśli człowiek północy spróbuje choćby podnieść rękę na to zwierzę, spotka go kara w postaci gniewu Pani Urune (natychmiastowe **2d10** obrażeń pomijających wszelkie pancerze i bariery ochronne).
+Żaden wilk, czy nawet gobliński bargest nie zaatakuje Yardanina i odwrotnie - jeśli człowiek północy spróbuje choćby podnieść rękę na to zwierzę, spotka go kara w postaci gniewu Pani Urune (natychmiastowe 20 pkt obrażeń pomijających wszelkie pancerze i bariery ochronne).
 
 Oczywiście pozostali mieszkańcy Aleoru również mogą oswajać zwierzęta, a nawet wykorzystywać je w walce, jeśli tylko posiadają odpowiedni poziom Rozumienia zwierząt (>14). Nie mają jednak pewności, czy dzikie zwierzę nie zechce ich zaatakować. Oswajanie wymaga zdania testu o konkretnej trudności.
 
@@ -49,6 +49,6 @@ Zwierzęta mają ograniczone zdolności nauki, dlatego też ich rozwój przebieg
 
 Przysługuje mu również zwiększenie punktów wytrzymałości, wedle posiadanej kondycji.
 
-- **[KON]** < 40 --> +1 pkt 
-- **[KON]** 41-75 --> +2 pkt 
-- **[KON]** > 75 --> +3 pkt   
+- **[KON]** < 8 --> +1 pkt 
+- **[KON]** 8-15 --> +2 pkt 
+- **[KON]** > 15 --> +3 pkt   

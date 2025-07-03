@@ -41,14 +41,14 @@ Wyróżniamy dwa rodzaje awansów - mały i duży. Małe awanse dotyczą standar
 
 ### Mały awans
 
-Obok umiejętności na kartach postaci znajdują się kropki, służące do zaznaczania sukcesu w teście. Podczas awansu na kolejny poziom, Bohater może zwiększyć poziom jednej z tych umiejętności o **1d6**. Każdy awans to także wzrost punktów wytrzymałości i mistycznej energii. Zależnie od wartości atrybutów **[KON]** (dla wytrzymałości) i **[WIE]** (dla mistycznej energii), ich wartość zwiększa się następująco:
+Obok umiejętności na kartach postaci znajdują się kropki, służące do zaznaczania sukcesu w teście. Podczas awansu na kolejny poziom, Bohater może zwiększyć poziom jednej z tych umiejętności o **1 pkt**. Każdy awans to także wzrost punktów wytrzymałości i mistycznej energii. Zależnie od wartości atrybutów **[KON]** (dla wytrzymałości) i **[WIE]** (dla mistycznej energii), ich wartość zwiększa się następująco:
 
-**[KON]** / **[WIE]** < 40 - +1 pkt
-**[KON]** / **[WIE]** 41-75 - +2 pkt
-**[KON]** / **[WIE]** > 75 - +3 pkt 
+**[KON]** / **[WIE]** < 8 - +1 pkt
+**[KON]** / **[WIE]** 8-15 - +2 pkt
+**[KON]** / **[WIE]** > 15 - +3 pkt 
 
-Przykład:
-Postać posiadająca 60 pkt kondycji i 35 pkt wiedzy co poziom zdobywa 2 pkt wytrzymałości oraz 1 pkt mistycznej energii.
+**Przykład:**
+Postać posiadająca 12 pkt kondycji i 6 pkt wiedzy co poziom zdobywa 2 pkt wytrzymałości oraz 1 pkt mistycznej energii.
 
 Dodatkowo, każdy awans to szansa na poznanie nowego zaklęcia. Bohaterowie mają pełną dowolność wyboru, muszą jednak pamiętać, że na użycie niektórych zaklęć mogą być jeszcze zbyt słabi (niewystarczająca ilość punktów **[ME]**). 
 
@@ -58,7 +58,7 @@ Więcej na temat korzystania z magii i szamanizmu znajdziesz w dalszej części 
 
 ### Duży awans
 
-Co pięć poziomów Bohater może rozwinąć jeden, wybrany przez siebie atrybut o **1d6** oraz zwiększyć całkowitą liczbę punktów determinacji o 2. Warto zauważyć, że rozwój atrybutów wpływa na bazowy poziom umiejętności oraz, w przypadku Siły, na udźwig. Pozwala także korzystać z potężniejszych broni, które mają podstawowy wymagany poziom Siły / Zręczności / Inteligencji.
+Co pięć poziomów Bohater może rozwinąć jeden, wybrany przez siebie atrybut o **1 pkt** oraz zwiększyć całkowitą liczbę punktów determinacji o 2. Warto zauważyć, że rozwój atrybutów wpływa na bazowy poziom umiejętności podstawowych oraz, w przypadku Siły, na udźwig. Pozwala także korzystać z potężniejszych broni, które mają podstawowy wymagany poziom Siły / Zręczności / Inteligencji.
 
 Oczywiście podczas dużego awansu wykonywane jest także standardowe rozwinięcie postaci z małego awansu.
 
