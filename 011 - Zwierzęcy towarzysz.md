@@ -45,7 +45,7 @@ Towarzysze odzyskują wytrzymałość i determinację na podobnych zasadach jak 
 
 ### Rozwój
 
-Zwierzęta mają ograniczone zdolności nauki, dlatego też ich rozwój przebiega nieco inaczej i jest ściśle powiązany z pracą przewodnika. Towarzysz sam nie zdobywa punktów doświadczenia, natomiast na każde 5 poziomów Bohatera może rozwinąć wybrany atrybut i jedną umiejętność o **1d6** punktów.
+Zwierzęta mają ograniczone zdolności nauki, dlatego też ich rozwój przebiega nieco inaczej i jest ściśle powiązany z pracą przewodnika. Towarzysz sam nie zdobywa punktów doświadczenia, natomiast na każde 5 poziomów Bohatera może rozwinąć wybrany atrybut i jedną umiejętność o 1 punkt.
 
 Przysługuje mu również zwiększenie punktów wytrzymałości, wedle posiadanej kondycji.
 

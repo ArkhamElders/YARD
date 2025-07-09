@@ -38,7 +38,7 @@ Umiejętności zostały podzielone wedle użyteczności na trzy odrębnę grupy.
 
 Podczas rozgrywki bohaterowie powinni przede wszystkim skupić się na opisaniu tego, co i w jaki sposób chcą zrobić. Dobór ewentualnego testu umiejętności winien być zawsze rozpatrywany przez Mistrza Gry - może się bowiem zdarzyć, że postać zechce uciec się do podstępu w rozmowie, choć nie jest typowym łotrem. Mistrz Gry może w takim wypadku poprosić o test Negocjacji, ewentualnie zwiększając poziom trudności testu. Innym razem, biorąc pod uwagę wysokie wyspecjalizowanie Bohatera w danej dziedzinie, może natomiast całkowicie zrezygnować z testu.
 
-Przy niektórych umiejętnościach znajdziesz dodatkowy zapis informujący o zastosowaniu podczas walki. Są to jedynie PRZYKŁADOWE AKCJE, obrazujące możliwości niestandardowego zastosowania umiejętności. To gracze decydują co chcą zrobić, a Mistrz Gry określa warunki. Podobnie sytuacja wygląda poza walką - jeśli Twoja postać specjalizuje się w magii ognia, nie musi rozpalać ogniska ręcznie - proste zaklęcie załatwi sprawę.
+Przy niektórych umiejętnościach znajdziesz dodatkowy zapis informujący o zastosowaniu podczas walki oraz konsekwencji, w przypadku niepowodzenia. Są to jedynie PRZYKŁADOWE AKCJE, obrazujące możliwości niestandardowego zastosowania umiejętności. To gracze decydują co chcą zrobić, a Mistrz Gry określa warunki. Podobnie sytuacja wygląda poza walką - jeśli Twoja postać specjalizuje się w magii ognia, nie musi rozpalać ogniska ręcznie - proste zaklęcie załatwi sprawę.
 
 ### Walka
 
@@ -145,7 +145,7 @@ Umiejętność konstruowania pułapek, prowizorycznych narzędzi i innego rodzaj
 
 Tam, gdzie nie wystarcza zwykła siła, pojawia się furia. Bohater, który wpada w szał, może zniszczyć każdą przeszkodę, jaka stanie mu na drodze. Przez krótki czas jest również w stanie biec dwukrotnie szybciej i dalej, by dopaść swojego wroga.
 
-**Podczas walki:** Po otrzymaniu obrażeń, Bohater może wpaść w furię, by zaatakować przeciwnika ze zdwojoną mocą. Aby to zrobić, poświęca 1 pkt **[DET]** i deklaruje furię przed wyprowadzeniem ataku. Wynik rzutu obrażeń mnożony jest x2 i dotyczy wyłącznie ataków fizycznych.*
+**Podczas walki:** Po otrzymaniu obrażeń, Bohater może wpaść w furię, by zaatakować przeciwnika ze zdwojoną mocą. Aby to zrobić, poświęca 1 pkt **[DET]** i deklaruje furię przed wyprowadzeniem ataku. Obrażenia mnożonone są x2 i dotyczą wyłącznie ataków fizycznych.
 
 *Niepowodzenie rzutu zarówno podczas walki, jak i poza nią, może skutkować zaatakowaniem postaci znajdującej się najbliżej Bohatera (nieparzysty wynik na kości).*
 
