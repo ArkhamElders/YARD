@@ -10,7 +10,7 @@ Każdy Bohater może posługiwać się wyłącznie jedną, wybraną przez siebie
 
 Dla wszystkich ludów poza Yardanami możliwa jest rezygnacja z boskiej mocy lub... nawrócenie - przejście z szamanizmu na magię katalizowaną i odwrotnie. Bohater musi jedynie zrzec się całej swojej dotychczasowej magii i przetrwać boską próbę. Jaką? Niewiele o niej wiadomo poza jednym - nieliczni, którzy ją przetrwali, w większości postradali rozum i zdrowie.
 
-Rzucanie zaklęć w YARD jest bardzo proste. Bohater deklaruje co chce zrobić i ile punktów mistycznej energii wydać. Dla pojedynczego celu każdy wydany punkt **[ME]** oznacza 1 pkt obrażeń. Dla ataków obszarowych są to 2 pkt **[ME]**. Podobnie jak w przypadku walki standardową bronią, stany nakładane są przy trudnym sukcesie. Tu także możliwe jest tworzenie łańcucha ataku.
+Rzucanie zaklęć w YARD jest bardzo proste. Bohater deklaruje co chce zrobić i ile punktów mistycznej energii wydać. Dla pojedynczego celu każdy wydany punkt **[ME]** oznacza 1 pkt obrażeń. Dla ataków obszarowych to 2 pkt **[ME]** na każde 10 m. Podobnie jak w przypadku walki standardową bronią, stany nakładane są przy trudnym sukcesie. Tu także możliwe jest tworzenie łańcucha ataku.
 
 W przypadku zaklęć poza walką, ocenę kosztu mistycznej energii zostawiamy Mistrzowi Gry. W końcu nie ma potrzeby rozliczania się z każdej podpalonej pochodni.
 
