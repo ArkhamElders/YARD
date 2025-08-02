@@ -6,11 +6,25 @@ Pierwsza jest znacznie starsza i pochodzi od bogów, którzy obdarowali szamanó
 
 Magia katalizowana to dziedzina nauki odkryta przez ludzi, którzy mieli dość podporządkowania się woli bogów. Opracowali oni sposób, wykorzystujący kryształy ametystu do katalizowania energii świata w magiczną energię. Odkrycie to pozwoliło uniezależnić się od bogów i z czasem zaczęło wypierać szamanizm, przyspieszając jednocześnie rozwój cywilizacyjny w krainach. Kryształy jednak potrzebują energii, by działać i czerpią ją z sił witalnych czarodzieja.
 
-Każdy Bohater może posługiwać się wyłącznie jedną, wybraną przez siebie ścieżką magii. Tylko Yardanie nie mają wyboru - wilczy pakt wymusza na nich posłuszeństwo wobec Pani Urune. Ze wszystkich ludów jedynie elfy mogą władać dwoma rodzajami magii, ponieważ od czasu pokonania Madhrata są one strażnikami równowagi. Z tego tytułu zarówno na początku, jak i podczas awansów mogą wybrać po jednym zaklęciu z każdego rodzaju.
+Każdy Bohater może posługiwać się wyłącznie jedną, wybraną przez siebie ścieżką magii. Tylko Yardanie nie mają wyboru - wilczy pakt wymusza na nich posłuszeństwo wobec Pani Urune. Ze wszystkich ludów jedynie elfy mogą władać dwoma rodzajami magii, ponieważ od czasu pokonania Madhrata są one strażnikami równowagi. Z tego tytułu zarówno na początku, jak i podczas awansów mogą wybrać po jednej domenie z każdego rodzaju.
 
 Dla wszystkich ludów poza Yardanami możliwa jest rezygnacja z boskiej mocy lub... nawrócenie - przejście z szamanizmu na magię katalizowaną i odwrotnie. Bohater musi jedynie zrzec się całej swojej dotychczasowej magii i przetrwać boską próbę. Jaką? Niewiele o niej wiadomo poza jednym - nieliczni, którzy ją przetrwali, w większości postradali rozum i zdrowie.
 
-Rzucanie zaklęć w YARD jest bardzo proste. Bohater deklaruje co chce zrobić i ile punktów mistycznej energii wydać. Dla pojedynczego celu każdy wydany punkt **[ME]** oznacza 1 pkt obrażeń. Dla ataków obszarowych to 2 pkt **[ME]** na każde 10 m. Podobnie jak w przypadku walki standardową bronią, stany nakładane są przy trudnym sukcesie. Tu także możliwe jest tworzenie łańcucha ataku.
+Mag lub szaman posiadający już wszystkie domeny w obrębie danego rodzaju magii nadal rośnie w siłę, choć nie odkrywa już nowych dziedzin. Jego zaklecią stają się bardziej efektywne - każdy wydany punkt **[ME]** (lub 2 pkt w przypadku zaklęć obszarowych) to 1 dodatkowy punkt obrażeń / leczenia / runda przyzwania.
+
+## Koszt zaklęć
+
+Rzucanie zaklęć ofensywnych w YARD jest bardzo proste. Bohater deklaruje co chce zrobić i ile punktów mistycznej energii wydać. Dla pojedynczego celu każdy punkt obrażeń oznacza jeden wydany punkt **[ME]**. Dla ataków obszarowych to 2 pkt **[ME]** na każde 10 m. Podobnie jak w przypadku walki standardową bronią, stany nakładane są przy trudnym sukcesie. Tu także możliwe jest tworzenie łańcucha ataku.
+
+Bardzo podobnie wygląda rzucanie zaawansowanych zaklęć obronnych i leczniczych (znacznie bardziej efektywnych niż ziołolecznictwo i mikstury). Za 1 pkt **[ME]** rzucający może uleczyć 1 PW. Leczenie grupowe kosztuje go 2 punkty Mistycznej Energii.
+
+Nieco inaczej wygląda przywoływania i kontroli rozmaitych istot. Każda z nich ma przypisany poziom trudności oswajania i kontroli. O ile oswajanie pozwala na budowanie trwałej więzi, o tyle kontrola pozwala czasowo przyzwać daną istotę. Koszt przyzwania danego stworzenia na jedną rundę wygląda następująco, w zależności od trudności kontroli:
+
+- łatwa - 1 pkt **[ME]**
+- trudna - 2 pkt **[ME]**
+- krytyczna - 3 pkt **[ME]**
+
+Co istotne, rzucający musi być zaznajomiony z tym stworzeniem i choć raz pokonać je w walce lub przekonać żywe, by mu pomogło, bez użycia magii. Czarownik lub szaman może przywołać jednocześnie do 5 sojuszników, wydając na każdego z nich odpowiednią ilość energii. 
 
 W przypadku zaklęć poza walką, ocenę kosztu mistycznej energii zostawiamy Mistrzowi Gry. W końcu nie ma potrzeby rozliczania się z każdej podpalonej pochodni.
 
@@ -22,6 +36,15 @@ Bohater chcący wybrać drogę szamana musi odprawić rytuał, w którym podporz
 
 Rzucając szamańskie zaklęcia, Bohater musi liczyć się z karą w przypadku choćby najmniejszego niepowodzenia. Krytyczna porażka w teście dodatkowo spotęguje gniew bóstwa.
 
+### Domeny magii szamanów:
+- Ogień - najstarsza dziedzina, dająca kontrolę nad płomieniami
+- Woda - a gdyby tak sprowadzić deszcz lub... wyssać całą wodę z ciała wroga?
+- Ziemia - skały, roślinność i sama ziemia są do Twojej dyspozycji
+- Powietrze - od delikatnego podmuchu, po niszczycielskie cyklony
+- Lód - mówią, że śmierć przez zamarznięcie jest piękna, bo kiedy człowiek zamarza, to na moment robi mu się tak ciepło...
+- Przyzywanie bestii - moc kontrolowania zwierząt i bestii, by służyły szamanowi
+- Łaska bogów - swoisty rodzaj modlitwy, mogącej zapewnić zaawansowane leczenie ran i rozmaite odporności
+
 
 ## Magia katalizowana
 
@@ -30,3 +53,12 @@ Jak już wspomniano, magia katalizowana działa w oparciu o kryształy, które d
 Każdorazowe rzucenie zaklęcia kosztuje czarodzieja nie tylko odpowiednią liczbę punktów mistycznej energii, ale też zdrowie w postaci 2 PW na każde 5 poziomów rzucającego. Mag może jednak zignorować głód kryształu, poświęcając liczbę punktów determinacji, równą swojemu poziomowi.
 
 W odróżnieniu od szamanów, czarodzieje muszą przyrządzić z ziół mikstury, by móc ich używać. Zajmuje to trochę czasu, ale ekstrakt jest mocniejszy i ma lepsze działanie (1h / miksturę). Muszą też sukcesywnie pogłębiać swoją wiedzę, studiując księgi i zwoje lub eksperymentując. Zbyt długa przerwa w nauce może bowiem doprowadzić do tego, że nie będą w stanie zwiększyć swojej mocy (brak modyfikatora obrażeń związanego z poziomem rzucającego).
+
+### Specjalizacje magii kryształów:
+- Iluzje - manipulacja umysłami i zmiana postrzegania rzeczywistości 
+- Nekromancja - magia śmierci, pozwalająca kontrolować tych, którzy odeszli
+- Magia ognia - bliźniacza do tej znanej szamanom, jednak bardziej przewidywalna
+- Esencja - uwalnia prawdziwą moc kryształów, niektórzy twierdzą, że zbliżoną do błyskawic
+- Mrok - podła dziedzina, przepełniona zgnilizną i strachem
+- Międzyświat - pozwala otwierać wrota do innych, niezbadanych wymiarów
+- Formowanie - daje moc konstruowania magicznych przedmiotów, budowli i istot

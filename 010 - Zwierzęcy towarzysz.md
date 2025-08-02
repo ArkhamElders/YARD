@@ -41,11 +41,11 @@ Towarzysze, podobnie jak Bohaterowie, nie mogą forsować rzutów w walce.
 
 ### Odpoczynek
 
-Towarzysze odzyskują wytrzymałość i determinację na podobnych zasadach jak Bohaterowie. Podczas krótkiego odpoczynku mogą przywrócić 3 punkty wytrzymałości, a w trakcie pełnego połowę wytrzymałości i determinacji. Dla zwierząt nie mają jednak zastosowania udogodnienia - wychowały się w dziczy i to ona jest ich domem. Podobnie jak w przypadku Bohaterów, skrajnie wyczerpane zwierzę, również może potrzebować nieco dłuższego odpoczynku, by w pełni wrócić do zdrowia.
+Towarzysze odzyskują wytrzymałość i determinację na podobnych zasadach jak Bohaterowie. Podczas krótkiego odpoczynku mogą przywrócić 3 punkty wytrzymałości, a w trakcie pełnego połowę wytrzymałości i pełnię determinacji. Dla zwierząt nie mają jednak zastosowania udogodnienia - wychowały się w dziczy i to ona jest ich domem. Podobnie jak w przypadku Bohaterów, skrajnie wyczerpane zwierzę, również może potrzebować nieco dłuższego odpoczynku, by w pełni wrócić do zdrowia.
 
 ### Rozwój
 
-Zwierzęta mają ograniczone zdolności nauki, dlatego też ich rozwój przebiega nieco inaczej i jest ściśle powiązany z pracą przewodnika. Towarzysz sam nie zdobywa punktów doświadczenia, natomiast na każde 5 poziomów Bohatera może rozwinąć wybrany atrybut i jedną umiejętność o 1 punkt.
+Zwierzęta mają ograniczone zdolności nauki, dlatego też ich rozwój przebiega nieco inaczej i jest ściśle powiązany z pracą przewodnika. Towarzysz sam nie zdobywa doświadczenia, natomiast na każde 5 poziomów Bohatera może rozwinąć wybrany atrybut i jedną umiejętność o 1 punkt.
 
 Przysługuje mu również zwiększenie punktów wytrzymałości, wedle posiadanej kondycji.
 

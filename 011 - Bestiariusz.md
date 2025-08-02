@@ -8,7 +8,7 @@ Statystyki zwierząt i potworów są jedynie wzorcem, rodzajem wskazówki. Mistr
 
 ## Zwierzęta i bestie
 
-### Bargest     |     40 / 25 PD
+### Bargest
 
 Zwierzęta te były kiedyś wilkami. Podstępnie schwytane przez gobliny i zmuszone do posłuszeństwa, wkrótce upodobniły się do swoich panów, nie tylko charakterem, ale i wyglądem. Długie, szpiczaste i pozbawione futra uszy oraz krótszy, zadarty ku górze pysk sprawiają, że głowa bargesta przypomina bardziej ogromny łeb nietoperza. Wilcze, nieco zdeformowane lecz muskularne ciało pokryte jest długą, szorstką sierścią w kolorze skał.
 
@@ -26,9 +26,9 @@ Atletyka (11), Furia (8), Kocia zwinność (11), Tropiciel (14)
 
 Ekwipunek: 2 dodatkowe miejsca
 
-Trudność oswajania: krytyczna (dla Yardan trudna)
+Trudność oswajania/kontroli: krytyczna (dla Yardan trudna)
 
-### Dzik     |     10 / 5 PD
+### Dzik
 
 Powszechne w lasach całego Aleoru, cenione za wybitne mięso i wytrzymałą skórę, szczególnie na północy. Zwykle trzymają się z dala od ludzi, ale w obliczu zagrożenia atakują niemal natychmiast. Choć pojedynczy dzik nie stanowi zagrożenia, w grupie potrafią być niebezpieczne. Niejeden Bohater spędził już przez nie noc na drzewie, chroniąc w konarach swoje cztery litery.
 
@@ -48,9 +48,9 @@ Atletyka (13), Furia (14)
 
 Ekwipunek: 2 dodatkowe miejsca
 
-Trudność oswajania: trudna
+Trudność oswajania/kontroli: trudna
 
-### Gryf     |     100 / 50 PD
+### Gryf
 
 Piękne, dostojne stworzenia, będące symbolem pradawnej mądrości yardańskich przodków. Wiją gniazda w jaskiniach, wysoko wśród Wyjących Szczytów. Te wyjątkowe istoty, będące połączeniem orła i lwa doskonale rozumieją ludzką mowę, choć same nie potrafią się nią posługiwać. Zwykle nie atakują bez potrzeby, choć lepiej nie wchodzić im w drogę.
 
@@ -70,9 +70,9 @@ Atletyka (16), Furia (10), Kocia zwinność (9), Odparcie magii (14)
 MOD: 3   PANCERZ: 2 punkty grubej skóry
 
 Ekwipunek: 4 dodatkowe miejsca
-Trudność oswajania: krytyczna
+Trudność oswajania/kontroli: krytyczna
 
-### Jak     |     12 / 6 PD
+### Jak
 
 Choć w lasach północy wciąż jeszcze można spotkać dziko żyjące jaki, większość z nich została udomowiona, szczególnie przez tascalskie krasnoludy. Wielkie, owłosione woły zdolne do przenoszenia sporych ładunków, cenione nie tylko ze względu na swoją siłę, ale i wyborne mleko oraz pierwszorzędne futra.
 
@@ -91,9 +91,9 @@ Atletyka (14)
 
 Ekwipunek: 8 dodatkowych miejsc
 
-Trudność oswajania: zwykła
+Trudność oswajania/kontroli: zwykła
 
-### Koglak     |     80 / 40 PD
+### Koglak
 
 Ogromne sześcionożne stworzenia, przypominające białe niedźwiedzie. Ich legendarna odporność na mróz sprawia, że wśród mieszkańców północy krążą legendy, jakoby zbroja z ich skóry dawała odporność również na magię zimna. Zwykle poruszają się parami (samiec i samica), choć widywane też były w stadach liczących do 10 osobników. Te skrajnie niebezpieczne bestie atakują bez ostrzeżenia. 
 
@@ -110,9 +110,9 @@ Atletyka (15), Furia (14), Kocia zwinność (9), Tropiciel (12)
 
 Ekwipunek: 10 dodatkowych miejsc
 
-Trudność oswajania: krytyczna
+Trudność oswajania/kontroli: krytyczna
 
-### Wilk     |     30 / 15 PD
+### Wilk
 
 Święte zwierzęta Yardan, występujące licznie w północnych lasach. Zwykle trzymają się na uboczu, choć w wyjątkowych sytuacjach podchodzą bliżej ludzi, zwykle starając się im coś przekazać. Raz oswojone, stają się wiernymi towarzyszami, niejednokrotnie stając w obronie swojego przewodnika.
 
@@ -130,11 +130,11 @@ Atletyka (9), Furia (7), Kocia zwinność (16), Tropiciel (16)
 
 Ekwipunek: 1 dodatkowe miejsce
 
-Trudność oswajania: trudna (dla Yardan zwykła)
+Trudność oswajania/kontroli: trudna (dla Yardan zwykła)
 
 ## Potwory i humanoidy
 
-### Deogin     |     60 / 30 PD
+### Deogin
 
 Niosące śmierć zjawy, pojawiające się wraz z mgłą. Mówi się, że te bezcielesne upiory to dusze wędrowców, którzy zgubili drogę. Nie posiadają ciała, więc żaden fizyczny atak nie może ich zranić, choć zdają się unikać ognia.
 
@@ -150,7 +150,7 @@ MOD: -   PANCERZ: Brak cielesnej powłoki. Odporność na wszelkie fizyczne atak
 Umiejętności:
 Furia (13), Odparcie magii (10), Wiedza tajemna (14)
 
-### Digder     |     90 / 45 PD
+### Digder
 
 Opancerzone monstra wielkości konia, poruszające się na czterech grubych, pajęczych nogach. Zupełnie ślepe, lokalizują swoją ofiarę wykrywając drgania i źródło ciepła. Tuż przy głowie posiadają dodatkową parę silnych kończyn, służącą do drążenia tuneli i... zabijania swojej zdobyczy. Ich ciała zdają się być zrobione z mieszaniny skał i rudy - ponoć kiedyś pewien krasnolud wykuł z jednego Digdera niezwykle wytrzymałą zbroję.
 
@@ -165,8 +165,10 @@ MOD: -   PANCERZ: 6 pkt pancerza
 Umiejętności:
 Atletyka (16), Furia (13), Odparcie magii (8)
 
+Trudność kontroli: trudna
 
-### Górski goblin     |     20 / 10 PD
+
+### Górski goblin
 
 Podstępne, zgarbione humanoidy o szarej skórze, nieco silniejsze od swoich pobratymców zamieszkujących niziny. Choć rozumne, niezbyt inteligentne, ale mogą znać podstawy szamańskiej magii. Zwykle kryją się w jaskiniach, gdzie gromadzą wątpliwej jakości skarby i z lubością torturują swoje ofiary. Walcząc z goblinem, zapomnij o uczciwym pojedynku - albo zastawiły gdzieś pułapkę, albo ich broń jest zatruta.
 
@@ -181,7 +183,9 @@ MOD: -   PANCERZ: 2 punkty pancerza za skórzaną zbroję
 Umiejętności:
 Atletyka (8), Coś z niczego (12), Kocia zwinność (13)
 
-### Lodowy troll     |     100 / 50 PD
+Trudność kontroli: łatwa
+
+### Lodowy troll
 
 Mierzące niemal 3 metry stwory, znane ze swojej żarłoczności i okrucieństwa. Jeśli wierzyć legendom, dawniej byli Yrminami, którzy jednak sprzeciwili się swojemu ojcu, za co ten zesłał na nich karę, zamieniając nieposłusznych w lodowe szkarady, skazane na wieczne potępienie. Ich plecy i twarze pokryte są gęstym futrem, a żółte, wściekłe oczy świecą złowrogo w ciemnościach. Ze skóry wyrastają lodowe rogi i kolce, które stanowią dodatkową ochronę. Zjedzą wszystko, co zdołają pochwycić, nawet jeśli będzie to paskudny goblin. 
 
@@ -195,6 +199,8 @@ MOD: 3   PANCERZ: 4 punkty lodowego pancerza
 
 Umiejętności:
 Atletyka (17), Furia (14)
+
+Trudność kontroli: trudna
 
 ### Talpar
 
@@ -212,7 +218,9 @@ MOD: 3   PANCERZ: 4 pkt pancerza
 Umiejętności:
 Atletyka (16), Furia (13), Odparcie magii (8)
 
-### Ymirn     |     80 / 40 PD
+Trudność kontroli: łatwa
+
+### Ymirn
 
 Ymirni, znani również jako lodowe olbrzymy to według legend dzieci samego Ymira - jednego z pierwszych bogów zrodzonych z Pramatki, będącego uosobieniem zimna bezkresnej północy. Choć okrutni, nie wtrącają się zwykle w sprawy mieszkańców Aleoru, żyjąc w niewielkich skupiskach, wysoko w górach.
 
@@ -226,3 +234,5 @@ MOD: 3   PANCERZ: 2 punkty skórzanego pancerza, niekiedy dodatkowe 2 za korzyst
 
 Umiejętności:
 Atletyka (17), Furia (14), Wiedza tajemna (9)
+
+Trudność kontroli: trudna

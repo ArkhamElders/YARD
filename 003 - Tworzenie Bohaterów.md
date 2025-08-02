@@ -129,7 +129,7 @@ Najmłodszy z ludów zamieszkujących Aleor, choć posiadający niezwykle ciekaw
 
 Powstali jako owoc podłych eksperymentów. Rządni władzy pierwsi magowie tworzyli rozmaite hybrydy, będące połączeniem zwierząt, bestii, niekiedy nawet demonów z mieszkańcami kontynentu. Po zakończeniu wojen magów, ocalali Bestiaci osiedlili się na terenie dzisiejszego Bayden, tworząc tam własną społeczność. Wędrując w rejony Zatoki Quashan z pewnością spotkasz wielu przedstawicieli tego ludu.
 
-Ich nadnaturalne pochodzenie sprawia, że Bestiaci potrafią się dostosować do niemal każdych warunków. Wrodzona więź z magią sprawia, że co 5 poziomów przysługuje im jedno dodatkowe zaklęcie, a **wszystkie obrażenia magiczne zmniejszone są o 1**.
+Ich nadnaturalne pochodzenie sprawia, że Bestiaci potrafią się dostosować do niemal każdych warunków. Wrodzona więź z magią sprawia, że już na początku swojej drogi mogą władać dwiema dziedzinami magii w obrębie wybranego przez siebie rodzaju - przykładowo bestiacki szaman na początku rozgrywki może wybrać zarówno żywioł ognia, jak i wody. Dodatkowo **wszystkie obrażenia magiczne zmniejszone są o 1**, ze względu na pewien stopień odporności.
 
 Chociaż okrutny czas mają już za sobą, niekiedy wciąż można spotkać się z ich nierównym traktowaniem. Możliwe, że właśnie z tego powodu niechętnie opuszczają Bayden.
 
