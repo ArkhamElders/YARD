@@ -1,6 +1,6 @@
 # Umiejętności
 
-Zdolności yardańskich Bohaterów zostały dobrane tak, by odzwierciedlać faktyczne umiejętności postaci. Zastosowanie procentowego wskaźnika znacznie ułatwia określenie poziomu specjalizacji, bez zbędnego przeliczania wartości. Jak już wspomniano na początku podręcznika, testy umiejętności rozpatruje się za pomocą rzutu **d20**. Aby wynik testu uznać za sukces, należy wyrzucić wartość równą lub niższą od aktualnego poziomu umiejętności. Jeśli wynik na kościach jest wyższy niż aktualne punkty umiejętności, test kończy się porażką. Wyróżniamy też trzy wyniki specjalne:
+Zdolności yardańskich Bohaterów zostały dobrane tak, by odzwierciedlać faktyczne umiejętności postaci. Jak już wspomniano na początku podręcznika, testy umiejętności rozpatruje się za pomocą rzutu **d20**. Aby wynik testu uznać za sukces, należy wyrzucić wartość równą lub niższą od aktualnego poziomu umiejętności. Jeśli wynik na kościach jest wyższy niż aktualne punkty umiejętności, test kończy się porażką. Wyróżniamy też trzy wyniki specjalne:
 
 - trudny sukces: połowa wartości umiejętności lub mniej, ale więcej niż 1
 - krytyczny sukces: wynik rzutu to 1

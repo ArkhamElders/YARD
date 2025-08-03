@@ -9,10 +9,11 @@ Określanie wartości atrybutów jest bardzo proste. Każdy z nich ustala się z
 
 **Przykład:**
 Gracz losuje wartość Siły, wykonując dwie serie rzutów trzema kostkami d6:
+
 - Pierwsza seria: 1 + 5 + 2 = 8
 - Druga seria 3 + 5 + 6 = 14
 
-Najwyższym wynikiem jest 14 i taka też jest bazowa wartość jego siły. 
+Wyższym wynikiem jest 14 i taka też jest bazowa wartość jego siły. 
 
 Bywa tak, że gracze chcą ręcznie dostosować wartości poszczególnych atrybutów, odejmując punkty od jednej cechy i dodając do drugiej, bardziej zgodnej z profilem postaci, którą chcą zagrać. Oczywiście jest to możliwe, o ile suma punktów wszystkich cech pozostanie niezmieniona. Istotne jest również, by minimalna wartość każdego atrybutu mieściła się w przedziale 3-18. Jest to podyktowane dalszymi modyfikacjami atrybutów, opierającymi się o wiek oraz pochodzenia bohatera.
 
