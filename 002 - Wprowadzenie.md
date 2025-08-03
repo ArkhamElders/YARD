@@ -9,6 +9,8 @@ Ok, w takim wypadku mogłem przecież założyć jedną tylko zasadę - "róbcie
 
 Chciałem też, by YARD nie był kolejną grą z podręcznikiem, mówiącym CO wolno, a czego nie. Takim, w którym 50% zawartości stanowią tabelki, i rozmaite wyliczenia. To by oznaczało ograniczenie inwencji twórczej, a przecież nie o to chodzi. Zamiast tego starałem się pokazać JAK przy pomocy intuicyjnej, łatwiej do zapamiętania mechaniki, prowadzić rozgrywkę. Dzięki temu, mam nadzieję, udało się zachować balans pomiędzy kreatywnością Graczy, a potrzebą naturalnej kontroli sytuacji przez Mistrza Gry. Ponieważ jednak najprościej tłumaczyć wszystko na konkretnych przykładach, potrzebowałem własnego świata. Potrzebowałem Aleoru i jego mieszkańców.
 
+Wreszcie... YARD, to coś więcej niż gra fantasy z motywem drogi o awanturniczym zabarwieniu. To świat, w którym tradycja i wiara ścierają się z nauką i nowoczesnością. Świat pełen konfliktów, uprzedzeń oraz intryg, sięgających wyżej niźli wpływy władców. Nic, co tu spotkasz, nie jest czarno-białe, a pojęcie dobra i zła jest względne. Przekonasz się o tym grając w dołączony scenariusz.
+
 Ah tak... Wspomnę jeszcze tylko krótko o determinacji. Stanowi ona kluczowy zasób, dający możliwość wykonywania niestandardowych akcji, powtarzania rzutów i ustalania kolejności w walce. Innymi słowy, determinacja jest wszystkim tym, co faktycznie napędza Bohaterów, zupełnie jak w prawdziwym życiu. Więcej o jej zaastosowaniu dowiesz się oczywiście w dalszej części podręcznika. Jest to jednak coś, na co warto zwrócić szczególną uwagę, ponieważ umiejętne wykorzystanie punktów determinacji pozwoli Ci na znacznie ciekawszą rozgrywkę.
 
-Dość jednak pisania o niczym i zanudzania Cię wstępem - najwyższy czas stworzyć Twojego pierwszego Bohatera!
+Dość jednak zanudzania Cię wstępem - najwyższy czas stworzyć Twojego pierwszego Wędrowca. Jak mawiają na północy: "Komu w drogę, temu kopa!".
