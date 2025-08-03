@@ -2,7 +2,7 @@
 
 Autor: Ian Dash
 Wersja: 0.9.250803
-Licencja:
+Licencja: CC BY-NC-SA 4.0
 
 YARD to klasyczna gra fabularna fantasy osadzona w fikcyjnym świecie Aleor, skupiająca się na opowiadaniu historii w starym stylu. Intuicyjna mechanika i proste zasady pozwalają zarówno początkującym, jak i zaawansowanym graczom na szybkie rozpoczęcie gry. Elastyczny system rozwoju postaci bez predefiniowanych klas i limitu doświadczenia uwolni twoją kreatywność.
 
