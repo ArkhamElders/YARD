@@ -1,10 +1,10 @@
 # Bestiariusz 
 
-Aleor zamieszkany jest nie tylko przez zwykłe zwierzęta, ale też fantastyczne, często przerażające istoty. Tylko od Bohaterów zależy, jak będzie przebiegała interakcja z tymi stworzeniami - nie każde spotkanie musi się bowiem kończyć walką.
+Aleor zamieszkany jest nie tylko przez zwykłe zwierzęta, ale też fantastyczne, często przerażające istoty. Tylko od Wędrowców zależy, jak będzie przebiegała interakcja z tymi stworzeniami - nie każde spotkanie musi się bowiem kończyć walką.
 
-W dalszej części znajdziesz przykładowe istoty, wykorzystane przede wszystkim w pierwszym, wprowadzającym scenariuszu. Z oczywistych względów, nie ma tu statystyk ludzi, elfów i innych grywalnych ras - te postaci tworzy się analogicznie do Bohaterów.
+W dalszej części znajdziesz przykładowe istoty, wykorzystane przede wszystkim w pierwszym, wprowadzającym scenariuszu. Z oczywistych względów, nie ma tu statystyk ludzi, elfów i innych grywalnych ras - te postaci tworzy się analogicznie do Wędrowców.
 
-Statystyki zwierząt i potworów są jedynie wzorcem, rodzajem wskazówki. Mistrz gry może je zmodyfikować na własne potrzeby, jeśli uzna to za stosowne. Niektóre bestie mają też zmodyfikowany udźwig. Wilk, czy dzik, choć silny, nie nadaje się do bycia zwierzęciem jucznym. 
+Statystyki zwierząt i potworów są jedynie wzorcem, rodzajem wskazówki. Los może je zmodyfikować na własne potrzeby, jeśli uzna to za stosowne. Niektóre bestie mają też zmodyfikowany udźwig. Wilk, czy dzik, choć silny, nie nadaje się do bycia zwierzęciem jucznym. 
 
 ## Zwierzęta i bestie
 
@@ -30,7 +30,7 @@ Trudność oswajania/kontroli: krytyczna (dla Yardan trudna)
 
 ### Dzik
 
-Powszechne w lasach całego Aleoru, cenione za wybitne mięso i wytrzymałą skórę, szczególnie na północy. Zwykle trzymają się z dala od ludzi, ale w obliczu zagrożenia atakują niemal natychmiast. Choć pojedynczy dzik nie stanowi zagrożenia, w grupie potrafią być niebezpieczne. Niejeden Bohater spędził już przez nie noc na drzewie, chroniąc w konarach swoje cztery litery.
+Powszechne w lasach całego Aleoru, cenione za wybitne mięso i wytrzymałą skórę, szczególnie na północy. Zwykle trzymają się z dala od ludzi, ale w obliczu zagrożenia atakują niemal natychmiast. Choć pojedynczy dzik nie stanowi zagrożenia, w grupie potrafią być niebezpieczne. Niejeden Wędrowiec spędził już przez nie noc na drzewie, chroniąc w konarach swoje cztery litery.
 
 S: 14   KON: 11   ZR: 9   INT: 6
 

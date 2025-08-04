@@ -1,16 +1,16 @@
 # Wyposażenie
 
-Każdy Bohater potrzebuje solidnego wyposażenia, by móc mierzyć się z potworami. W tym rozdziale znajdziesz zasady opisujące zarządzanie miejscem w ekwipunku, walutą, a także listę dostępnych broni, pancerzy i zaklęć.
+Każdy Wędrowiec potrzebuje solidnego wyposażenia, by móc mierzyć się z potworami. W tym rozdziale znajdziesz zasady opisujące zarządzanie miejscem w ekwipunku, walutą, a także listę dostępnych broni, pancerzy i zaklęć.
 
 Dowiesz się także w jaki sposób zwiększać ilość przenoszonego bagażu, poznasz ryzyko z tym związane oraz do czego służy Domostwo.
 
 ## Ekwipunek podróżny
 
-Tobołek podróżny posiada ograniczoną ilość miejsca na ekwipunek, który Bohater może zabrać ze sobą na kolejną wyprawę. Im postać silniejsza, tym więcej może nieść, dlatego też ilość miejsca w ekwipunku oblicza się, dzieląc wartość Siły przez 2 i zaokrąglając w dół.
+Tobołek podróżny posiada ograniczoną ilość miejsca na ekwipunek, który Wędrowiec może zabrać ze sobą na kolejną wyprawę. Im postać silniejsza, tym więcej może nieść, dlatego też ilość miejsca w ekwipunku oblicza się, dzieląc wartość Siły przez 2 i zaokrąglając w dół.
 
 **Przykład:**
 
-Bohater posiada 15 pkt Siły - dzieląc tę wartość przez 2, otrzymamy wynik 7.5, co daje 7 miejsc w ekwipunku na duże przedmioty.
+Wędrowiec posiada 15 pkt Siły - dzieląc tę wartość przez 2, otrzymamy wynik 7.5, co daje 7 miejsc w ekwipunku na duże przedmioty.
 
 Niezbyt wiele, prawda? Cóż... człowiek to nie wóz kupiecki, nie udźwignie czterech zbroi płytowych, piętnastu par butów i dwóch dzików. 
 
@@ -28,7 +28,7 @@ Oczywiście nie zalecamy używania wierzchowca w walce z oczywistych względów 
 
 Udźwig wierzchowca oblicza się podobnie jak w przypadku ludzi, dzieląc wartość Siły przez 2. 
 
-Jeśli Bohater zechce dodatkowo jechać na obładowanym koniu, należy odjąć 3 punkty. W końcu swoje waży i zajmuje całkiem sporo miejsca.
+Jeśli Wędrowiec zechce dodatkowo jechać na obładowanym koniu, należy odjąć 3 punkty. W końcu swoje waży i zajmuje całkiem sporo miejsca.
 
 ## Sakiewka
 
@@ -46,7 +46,7 @@ Każdy ma miejsce, do którego wraca - bezpieczną przystań, gdzie choć na mom
 
 Jeśli nie chcesz, nie musisz sprzedawać od razu dodatkowego uzbrojenia. W domu możesz też gromadzić lśniące monety i klejnoty. Będą tam w pełni bezpieczne... o ile rzecz jasna nie zostawisz góry złotych monet na widoku.
 
-Dzięki temu sam zdecydujesz jaką broń oraz ile pieniędzy Twój Bohater potrzebuje na kolejną wyprawę.
+Dzięki temu sam zdecydujesz jaką broń oraz ile pieniędzy Twój Wędrowiec potrzebuje na kolejną wyprawę.
 
 ## Tabele wyposażenia
 
@@ -69,7 +69,7 @@ Poniżej znajdują się tabele uzbrojenia z podziałem na dystansową i służą
 
 Zwróć uwagę na Atrybuty wymagane do posługiwania się danym przedmiotem, ponieważ są one ściśle powiązane z używaną umiejętnością. Siła odpowiada za walkę w zwarciu, natomiast precyzyjne uderzenie wymaga Zręczności.
 
-Istotnym elementem jest również standardowy Stan, jaki powoduje krytyczne trafienie daną bronią / pociskiem. Oczywiście niekiedy strzał z łuku może również powalić przeciwnika. Mistrz Gry powinien rozpatrzyć okoliczności i podjąć decyzję.
+Istotnym elementem jest również standardowy Stan, jaki powoduje krytyczne trafienie daną bronią / pociskiem. Oczywiście niekiedy strzał z łuku może również powalić przeciwnika. Los powinien rozpatrzyć okoliczności i podjąć decyzję.
 
 ### Broń dystansowa
 
@@ -81,7 +81,7 @@ Istotnym elementem jest również standardowy Stan, jaki powoduje krytyczne traf
 |Kusza            |20 m	    |2      	|[ZR]  	|-   	    |30/15      |
 |Zwykły bełt   	  |-  	    |2	        |-   	|Krwawienie |2/1        |
 
-Po wygranej potyczce strzelec ma 1d4 szans (rzut Mistrza Gry) na odzyskanie pocisków z ciał poległych.
+Po wygranej potyczce strzelec ma 1d4 szans (rzut Losu) na odzyskanie pocisków z ciał poległych.
 
 ### Broń do walki wręcz
 
@@ -103,7 +103,7 @@ Niektóre rodzaje broni wymagają też konkretnego poziomu siły, by móc jej sw
 
 ## Pancerz
 
-Poza bronią dobrze jeszcze mieć zbroję lub tarczę, które przynajmniej częściowo uchronią Twojego Bohatera przed obrażeniami. Zwykła koszula, czy szata maga na nic się zdadzą wobec ostrza.
+Poza bronią dobrze jeszcze mieć zbroję lub tarczę, które przynajmniej częściowo uchronią Twojego Wędrowca przed obrażeniami. Zwykła koszula, czy szata maga na nic się zdadzą wobec ostrza.
 
 ### Rodzaje pancerza
 
@@ -119,7 +119,7 @@ Poza bronią dobrze jeszcze mieć zbroję lub tarczę, które przynajmniej czę�
 
 ## Inne przedmioty
 
-Broń i pancerze to nie wszystko - Bohaterowie mogą i powinni zabrać na każdą wyprawę nieco dodatkowego sprzętu, który może się przydać w podróży. Poniżej znajduje się lista najbardziej przydatnych przedmiotów oraz posiłków (w końcu Twój Bohater musi coś jeść).
+Broń i pancerze to nie wszystko - Bohaterowie mogą i powinni zabrać na każdą wyprawę nieco dodatkowego sprzętu, który może się przydać w podróży. Poniżej znajduje się lista najbardziej przydatnych przedmiotów oraz posiłków (w końcu Twój Wędrowiec musi coś jeść).
 
 ### Sakwy i pojemniki
 

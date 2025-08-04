@@ -1,12 +1,12 @@
 # Zasady walki
 
-Choć czasy wojen magów minęły, walka nadal jest powszechnym zjawiskiem w Aleorze. Świat pełen jest bestii, magicznych istot i bandyckich szajek, czyhających na zbłąkanych wędrowców. Jeśli chcesz zostać prawdziwym Bohaterem, musisz wiedzieć jak sobie radzić podczas potyczki.
+Choć czasy wojen magów minęły, walka nadal jest powszechnym zjawiskiem w Aleorze. Świat pełen jest bestii, magicznych istot i bandyckich szajek, czyhających na zbłąkanych wędrowców. Jeśli chcesz zostać prawdziwym bohaterem, musisz wiedzieć jak sobie radzić podczas potyczki.
 
-Na początku każdej walki należy ustalić kolejność, według której postaci będą atakować. Aby to zrobić, porównuje się wartość Determinacji wszystkich Bohaterów oraz przeciwników biorących udział w starciu. Postać z najwyższą liczbą punktów **[DET]** atakuje jako pierwsza, a postać z najniższą - ostatnia. W przypadku, gdy dwie lub więcej postaci posiada taką samą liczbę punktów **[DET]**, o kolejności między nimi decyduje dodatkowy rzut **3d6** - postać z wyższym wynikiem atakuje pierwsza. Co istotne, rzut ten nie wpływa w żaden sposób na ilość posiadanych przez Bohatera punktów Determinacji.
+Na początku każdej walki należy ustalić kolejność, według której postaci będą atakować. Aby to zrobić, porównuje się wartość Determinacji wszystkich Wędrowców oraz przeciwników biorących udział w starciu. Postać z najwyższą liczbą punktów **[DET]** atakuje jako pierwsza, a postać z najniższą - ostatnia. W przypadku, gdy dwie lub więcej postaci posiada taką samą liczbę punktów **[DET]**, o kolejności między nimi decyduje dodatkowy rzut **3d6** - postać z wyższym wynikiem atakuje pierwsza. Co istotne, rzut ten nie wpływa w żaden sposób na ilość posiadanych przez Wędrowca punktów Determinacji.
 
 Zdarzają się sytuacje, w których dochodzi do ataku z zaskoczenia. Ukryty w cieniu łotrzyk może zaatakować przeciwnika jeszcze przed rozpoczęciem walki i ustaleniem kolejności. W ramach przewagi, przysługuje mu także kość premiowa do ataku.
 
-W każdej turze Bohater może wykonać dwie dowolne akcje:
+W każdej turze Wędrowiec może wykonać dwie dowolne akcje:
 - ruch
 - atak
 - unik lub kontratak
@@ -16,12 +16,12 @@ Jeśli na początku tury wykona tylko jedną akcję, może podczas trwania rundy
 
 ## Atak
 
-Atak to nic innego jak test umiejętności określający, czy Bohaterowi udało się trafić przeciwnika. Zależnie od rodzaju ataku i posiadanego uzbrojenia, Bohater testuje Arkana, Precyzyjne uderzenie lub Walkę w zwarciu. Poziom sukcesu testu określa także dodatkowy skutek ataku:
+Atak to nic innego jak test umiejętności określający, czy Wędrowcowi udało się trafić przeciwnika. Zależnie od rodzaju ataku i posiadanego uzbrojenia, Wędrowiec testuje Arkana, Precyzyjne uderzenie lub Walkę w zwarciu. Poziom sukcesu testu określa także dodatkowy skutek ataku:
 
-- Zwykły sukces - Bohater przeprowadza normalny atak
+- Zwykły sukces - Wędrowiec przeprowadza normalny atak
 - Trudny sukces - Standardowe obrażenia + przeciwnik otrzymuje Stan odpowiedni dla broni/zaklęcia
 - Krytyczny sukces - Podwójne obrażenia + Permanentny stan (wymagający specjalisty do usunięcia)
-- Porażka - Bohater chybia
+- Porażka - Wędrowiec chybia
 - Krytyczna porażka - Próba ataku kończy się niepowodzeniem, a bohater musi zmierzyć się z dodatkowymi konsekwencjami (np. uszkadza broń, rani towarzysza lub siebie).
 
 Walka z użyciem dwóch broni wymaga oddzielnego rzutu na każdą rękę oraz odpowiedniego poziomu Kociej zwinności (powyżej 14 pkt) - w przeciwnym wypadku atak drugą ręką odbywa się z Kością Karną.
@@ -32,12 +32,12 @@ W przypadku ataków przeprowadzanych z użyciem broni dystansowej, należy pami�
 
 Zdarza się tak, że gracz w ramach jednego ataku chciałby zaatakować kilku przeciwników jednocześnie lub wyprowadzić serię ciosów. Umożliwia mu to łańcuch ataku, czyli sekwencja następujących po sobie uderzeń. Jak to wygląda w praktyce?
 
-Bohater wykonuje podstawowy test ataku. Jeśli zdał, może poświęcić **1 pkt [DET]** by wykonać drugi atak. Jeśli i ten zakończy się sukcesem, może kontynuować, płacąc każdorazowo wyższą cenę punktów determinacji.
+Wędrowiec wykonuje podstawowy test ataku. Jeśli zdał, może poświęcić **1 pkt [DET]** by wykonać drugi atak. Jeśli i ten zakończy się sukcesem, może kontynuować, płacąc każdorazowo wyższą cenę punktów determinacji.
 
 **Przykład:**
 Atak podstawowy >> Drugi atak - 1 pkt [DET] >> Trzeci atak - 2 pkt [DET] >> Czwarty atak - 3 pkt [DET] itd.
 
-Łańcuch może zostać zakończony dobrowolnie lub przez porażkę w teście. W tym drugim przypadku postać musi się liczyć z konsekwencjami, które rosną z każdym kolejnym atakiem - od wystawienia się na bezpośredni kontratak, przez uszkodzenie broni, aż po... cóż, zostawmy to decyzji Mistrza Gry.
+Łańcuch może zostać zakończony dobrowolnie lub przez porażkę w teście. W tym drugim przypadku postać musi się liczyć z konsekwencjami, które rosną z każdym kolejnym atakiem - od wystawienia się na bezpośredni kontratak, przez uszkodzenie broni, aż po... cóż, zostawmy to decyzji Losu.
 
 Testów podczas walki nie można forsować.
 
@@ -49,7 +49,7 @@ Podczas walki zarówno atakujący, jak i atakowany rozpatrują odpowiednie modyf
 
 ## Unik i kontratak
 
-Zaatakowana postać może próbować uniknąć ciosu lub wyprowadzić kontratak. Obie akcje to nic innego jak rzuty przeciwstawne, które dotyczą zarówno Bohaterów, jak i napotkanych przeciwników. By unik był skuteczny, poziom sukcesu Kociej zwinności musi być wyższy niż poziom sukcesu ataku. Analogicznie, w przypadku kontrataku porównuje się poziom sukcesu umiejętności bojowych obu postaci. 
+Zaatakowana postać może próbować uniknąć ciosu lub wyprowadzić kontratak. Obie akcje to nic innego jak rzuty przeciwstawne, które dotyczą zarówno Wędrowców, jak i napotkanych przeciwników. By unik był skuteczny, poziom sukcesu Kociej zwinności musi być wyższy niż poziom sukcesu ataku. Analogicznie, w przypadku kontrataku porównuje się poziom sukcesu umiejętności bojowych obu postaci. 
 
 Warto pamiętać, że standardowy unik z wykorzystaniem Kociej zwinności dotyczy jedynie obrażeń fizycznych. Precyzyjnych ataków magicznych nie sposób uniknąć, choć wyjątkowo silne umysły będą w stanie się im oprzeć. 
 
@@ -59,10 +59,10 @@ Kontratak w YARD przebiega bardzo prosto:
 
 ## Fortel
 
-Poza standardowymi akcjami, możliwa jest również improwizacja, określana mianem fortelu. Bohater może próbować ogłuszyć przeciwnika, zepchnąć go w przepaść lub wykonać w trakcie swojej tury inną, nietypową akcję. Ze względu na szeroki wachlarz możliwości, jaki daje ta akcja, Mistrz Gry powinien każdorazowo rozważyć warunki fortelu. Przykłady takich niestandardowych akcji znajdziesz w opisach niektórych umiejętności.
+Poza standardowymi akcjami, możliwa jest również improwizacja, określana mianem fortelu. Wędrowiec może próbować ogłuszyć przeciwnika, zepchnąć go w przepaść lub wykonać w trakcie swojej tury inną, nietypową akcję. Ze względu na szeroki wachlarz możliwości, jaki daje ta akcja, Los powinien każdorazowo rozważyć warunki fortelu. Przykłady takich niestandardowych akcji znajdziesz w opisach niektórych umiejętności.
 
 **Przykład**
-W trakcie walki, stojący na wyższym piętrze bohater chciałby zepchnąć na znajdujących się poniżej przeciwników, ciężką beczkę. Mistrz gry warunkuje powodzenie fortelu udanym testem Atletyki. Jeśli test się powiedzie, a wrogowie nie wykonają uniku, otrzymają 4 pkt obrażeń oraz Stan: Powalenie.
+W trakcie walki, stojący na wyższym piętrze bohater chciałby zepchnąć na znajdujących się poniżej przeciwników, ciężką beczkę. Los warunkuje powodzenie fortelu udanym testem Atletyki. Jeśli test się powiedzie, a wrogowie nie wykonają uniku, otrzymają 4 pkt obrażeń oraz Stan: Powalenie.
 
 Innymi słowy, fortel to skorzystanie z wybranej umiejętności w trakcie walki.
 
@@ -72,46 +72,46 @@ Jednym z możliwych do zastosowania forteli, jest ucieczka z pola bitwy. Niezbyt
 
 ## Używanie magii
 
-Rzucanie zaklęć odbywa się na zasadach bardzo podobnych do korzystania z broni. Bohater deklaruje, co chce zrobić, a następnie wykonuje test umiejętności Arkana. Każde zaklęcie, zarówno szamańskie, jak i to pochodzące z mocy kryształów, wymaga jednak odpowiedniej ilości Mistycznej Energii. 
+Rzucanie zaklęć odbywa się na zasadach bardzo podobnych do korzystania z broni. Wędrowiec deklaruje, co chce zrobić, a następnie wykonuje test umiejętności Arkana. Każde zaklęcie, zarówno szamańskie, jak i to pochodzące z mocy kryształów, wymaga jednak odpowiedniej ilości Mistycznej Energii. 
 
 Więcej informacji znajdziesz w rozdziale poświęconym magii.
 
 ## Stany
 
-Wędrując po yardańskich bezdrożach Bohater będzie narażony na rozmaite, negatywne efekty. Czy to spowodowane siłami natury, czy wynikające ze starcia z potężnym przeciwnikiem. Chociaż większość stanów mija wraz z upływem czasu (ok. 3 rund), niektóre z nich mogą mieć efekt trwały lub wymagać użycia konkretnego remedium. Poniżej znajdziesz opis każdego z efektów.
+Wędrując po yardańskich bezdrożach Wędrowiec będzie narażony na rozmaite, negatywne efekty. Czy to spowodowane siłami natury, czy wynikające ze starcia z potężnym przeciwnikiem. Chociaż większość stanów mija wraz z upływem czasu (ok. 3 rund), niektóre z nich mogą mieć efekt trwały lub wymagać użycia konkretnego remedium. Poniżej znajdziesz opis każdego z efektów.
 
 ### Powalenie
 
-Silny cios młotem lub inną bronią obuchową powalił na ziemię niejednego śmiałka. Bohater może spróbować wstać w trakcie trwania stanu, zdając Atletyki. Po upływie rund powalenia, postać wstaje automatycznie. W obu przypadkach należy jednak poświęcić jedną akcję z rundy. Jeżeli w wyniku powalenia Bohater został przygnieciony np. fragmentem skały lub ciężkimi meblami, niezbędny jest trudny test atletyki. W skrajnych przypadkach (np. przygniecenie nogi olbrzymim drzewem) Bohater będzie potrzebował pomocy towarzyszy lub czeka go krytyczny test. Ocena sytuacji należy do Mistrza Gry.
+Silny cios młotem lub inną bronią obuchową powalił na ziemię niejednego śmiałka. Wędrowiec może spróbować wstać w trakcie trwania stanu, zdając Atletyki. Po upływie rund powalenia, postać wstaje automatycznie. W obu przypadkach należy jednak poświęcić jedną akcję z rundy. Jeżeli w wyniku powalenia Wędrowiec został przygnieciony np. fragmentem skały lub ciężkimi meblami, niezbędny jest trudny test atletyki. W skrajnych przypadkach (np. przygniecenie nogi olbrzymim drzewem) Wędrowiec będzie potrzebował pomocy towarzyszy lub czeka go krytyczny test. Ocena sytuacji należy do Losu.
 
 ### Krwawienie
 
-Broń sieczna i kłuta może powodować krwawiące rany, które prowadzą do powolnej utraty punktów wytrzymałości, a niekiedy nawet do śmierci. W większości przypadków krwawiący Bohater traci 1 pkt wytrzymałości na rundę. Żeby zatrzymać ubytek krwi, ranę należy opatrzyć.
+Broń sieczna i kłuta może powodować krwawiące rany, które prowadzą do powolnej utraty punktów wytrzymałości, a niekiedy nawet do śmierci. W większości przypadków krwawiący Wędrowiec traci 1 pkt wytrzymałości na rundę. Żeby zatrzymać ubytek krwi, ranę należy opatrzyć.
 
-**Przykład:** Ork zadaje Bohaterowi 8 pkt. obrażeń, powodując jednocześnie krwawienie. Jeśli postaci gracza zostanie udzielona pomoc, ubytek krwi zakończy się przed upływem 3 rund. W przypadku wyjątkowo paskudnych ran krwawienie ma charakter ciągły i założenie opatrunku jest konieczne do jego zatrzymania.
+**Przykład:** Ork zadaje Wędrowcowi 8 pkt. obrażeń, powodując jednocześnie krwawienie. Jeśli postaci gracza zostanie udzielona pomoc, ubytek krwi zakończy się przed upływem 3 rund. W przypadku wyjątkowo paskudnych ran krwawienie ma charakter ciągły i założenie opatrunku jest konieczne do jego zatrzymania.
 
 ### Oślepienie
 
-Wyjątkowo paskudny stan, mogący prowadzić nawet do trwałej utraty wzroku. Osoba czasowo lub trwale niewidoma wszystkie testy wykonuje ze zwiększoną o jeden poziom trudnością lub dodatkową **[KK]**. Jeżeli, w przypadku krytycznego ataku lub innego testu, Bohater oślepnie całkowicie, przywrócenie wzroku będzie wymagało interwencji szamana lub wysokiego rangą maga.
+Wyjątkowo paskudny stan, mogący prowadzić nawet do trwałej utraty wzroku. Osoba czasowo lub trwale niewidoma wszystkie testy wykonuje ze zwiększoną o jeden poziom trudnością lub dodatkową **[KK]**. Jeżeli, w przypadku krytycznego ataku lub innego testu, Wędrowiec oślepnie całkowicie, przywrócenie wzroku będzie wymagało interwencji szamana lub wysokiego rangą maga.
  
 ### Unieruchomienie
 
-Rozmaite zaklęcia, pułapki, czy choćby dzikie pnącza potrafią ograniczyć swobodę ruchów Bohatera. Choć zwykle stan ten ogranicza się do spowolnienia postaci (redukcja zasięgu ruchu o połowę), w skrajnych przypadkach może prowadzić do czasowego lub trwałego unieruchomienia. Można się z nich wydostać wcześniej, zdając test Kociej zwinności.
+Rozmaite zaklęcia, pułapki, czy choćby dzikie pnącza potrafią ograniczyć swobodę ruchów Wędrowca. Choć zwykle stan ten ogranicza się do spowolnienia postaci (redukcja zasięgu ruchu o połowę), w skrajnych przypadkach może prowadzić do czasowego lub trwałego unieruchomienia. Można się z nich wydostać wcześniej, zdając test Kociej zwinności.
 
 ### Zatrucie
 
-Stan ten w swoim działaniu przypomina nieco krwawienie, jednak jego zniwelowanie wymaga użycia antidotum. Standardowa utrata punktów wytrzymałości wynosi 1 pkt na rundę, chyba że Mistrz Gry zdecyduje inaczej. Dodatkowo wpływa na testy oparte na Sile, dodając do Kość Karną,
+Stan ten w swoim działaniu przypomina nieco krwawienie, jednak jego zniwelowanie wymaga użycia antidotum. Standardowa utrata punktów wytrzymałości wynosi 1 pkt na rundę, chyba że Los zdecyduje inaczej. Dodatkowo wpływa na testy oparte na Sile, dodając do Kość Karną,
 
 ### Podpalenie
 
-Standardowe obrażenia od ognia powodują utratę 1 pkt wytrzymałości na rundę, chyba że podpalenie jest wynikiem wybuchu lub większego pożaru (2-3 / rundę). Mistrz Gry powinien każdorazowo rozpatrzyć obrażenia, w zależności od sytuacji.
+Standardowe obrażenia od ognia powodują utratę 1 pkt wytrzymałości na rundę, chyba że podpalenie jest wynikiem wybuchu lub większego pożaru (2-3 / rundę). Los powinien każdorazowo rozpatrzyć obrażenia, w zależności od sytuacji.
 
 ### Przemarznięcie
 
-Kiedy temperatura ciała spada, Bohater traci jeden dodatkowy punkt wytrzymałości co rundę. W skrajnych przypadkach (np. potężna śnieżyca, wpadnięcie do lodowatej wody) obrażenia od zimna w każdej rundzie mogą wynieść 1-3. Przemarznięcie wpływa negatywnie na testy oparte na Zręczności, dodając do nich Kość Karną.
+Kiedy temperatura ciała spada, Wędrowiec traci jeden dodatkowy punkt wytrzymałości co rundę. W skrajnych przypadkach (np. potężna śnieżyca, wpadnięcie do lodowatej wody) obrażenia od zimna w każdej rundzie mogą wynieść 1-3. Przemarznięcie wpływa negatywnie na testy oparte na Zręczności, dodając do nich Kość Karną.
 
 ### Porażenie
 
 Porażenie błyskawicą zadaje dodatkowy 1 pkt obrażeń w każdej rundzie (w wyjątkowych sytuacjach 2-3) i wpływa negatywnie na rzucanie czarów oraz inne umiejętności oparte na Inteligencji. Postać nie jest w stanie skoncentrować się wystarczająco, przez co każdy rzut wykonuje z Kością Karną.
 
-To oczywiście tylko przykładowe stany - nic nie stoi na przeszkodzie, by Mistrz Gry lub sami gracze, dodali własne.
+To oczywiście tylko przykładowe stany - nic nie stoi na przeszkodzie, by Los lub sami gracze, dodali własne.

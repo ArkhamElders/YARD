@@ -12,13 +12,13 @@ Krótka pauza pozwalająca złapać oddech na szlaku. Nie jest najlepszym z moż
 
 Kilka godzin wytchnienia lub po prostu przespana noc. Pozwala zregenerować połowę punktów wytrzymałości i tyle samo punktów mistycznej energii. Podczas długiego odpoczynku Bohaterowie odzyskują również całość determinacji.
 
-Mistrz Gry powinien wziąć jednak pod uwagę stan szczególnie wyczerpanych Bohaterów, znajdujących się na skraju śmierci. Ich pełna regeneracja może być nieco bardziej wymagająca. Należy też pamiętać, że utracone kończyny zwykle nie odrastają samoczynnie.
+Los powinien wziąć jednak pod uwagę stan szczególnie wyczerpanych Wędrowców, znajdujących się na skraju śmierci. Ich pełna regeneracja może być nieco bardziej wymagająca. Należy też pamiętać, że utracone kończyny zwykle nie odrastają samoczynnie.
 
 ## Udogodnienia
 
 Bez wątpienia nie tylko czas, ale i jakość odpoczynku ma znaczenie. Bohaterowie znacznie lepiej regenerują siły, kiedy śpią w ciepłej, pełnej wygód gospodzie, zamiast pod gołym niebem. Nie bez znaczenia jest też dobry, sycący posiłek.
 
-Zależnie od jakości udogodnień, Mistrz Gry może przyznać bohaterom 1-3 dodatkowych punktów regeneracji **[PW]** oraz **[ME]**.
+Zależnie od jakości udogodnień, Los może przyznać bohaterom 1-3 dodatkowych punktów regeneracji **[PW]** oraz **[ME]**.
 
 **Przykład:**
 
@@ -30,7 +30,7 @@ Oczywiście, nic nie stoi na przeszkodzie by dodatkowo skorzystali z mikstur lub
 
 Nocując w dziczy, Bohaterowie muszą liczyć się z tym, że ktoś lub coś przerwie ich odpoczynek. Schodząca z gór lawina lub szajka zwykłych bandytów, szukających okazji do łatwego wzbogacenia się - nigdy nie wiadomo, jakie niebezpieczeństwa czyhają na podróżnych.
 
-Każdy odpoczynek na łonie natury wiąże się z 25% ryzykiem przerwania. Mistrz Gry rzuca kością **1d4** - jeśli wynik będzie równy 1, Bohaterowie muszą stawić czoła zagrożeniu, które rozpatrywane jest jako atak z zaskoczenia.
+Każdy odpoczynek na łonie natury wiąże się z 25% ryzykiem przerwania. Los rzuca kością **1d4** - jeśli wynik będzie równy 1, Bohaterowie muszą stawić czoła zagrożeniu, które rozpatrywane jest jako atak z zaskoczenia.
 
 W takim przypadku nie regenerują punktów wytrzymałości, mistycznej energii i determinacji. Nic jednak nie stoi na przeszkodzie, by spróbowali odpocząć ponownie.
 

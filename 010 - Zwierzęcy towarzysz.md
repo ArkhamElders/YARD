@@ -6,7 +6,7 @@ Posiadanie psów, kotów, czy nawet sokołów jest w Aleorze dość powszechne. 
 
 Oczywiście pozostali mieszkańcy Aleoru również mogą oswajać zwierzęta, a nawet wykorzystywać je w walce, jeśli tylko posiadają odpowiedni poziom Rozumienia zwierząt (>14). Nie mają jednak pewności, czy dzikie zwierzę nie zechce ich zaatakować. Oswajanie wymaga zdania testu o konkretnej trudności.
 
-W danym momencie Bohater może posiadać wyłącznie jednego zwierzęcego towarzysza. Może podjąć próbę oswojenia innego zwierzęcia, dopiero po uwolnieniu poprzedniego.
+W danym momencie Wędrowiec może posiadać wyłącznie jednego zwierzęcego towarzysza. Może podjąć próbę oswojenia innego zwierzęcia, dopiero po uwolnieniu poprzedniego.
 
 ## Statystyki towarzysza
 
@@ -25,13 +25,13 @@ Każde zwierzę posiada określone umiejętności, z których może korzystać n
 
 Dodatkowo opis każdego z nich zawiera punkty wytrzymałości, zakres ruchu, siłę oraz modyfikator ataku, a także pancerz. Podczas walki stany, jak powalenie, czy krwawienie funkcjonują podobnie jak u ludzi.
 
-Karta Postaci Twojego Bohatera zawiera specjalną sekcję, dedykowaną statystykom towarzysza.
+Karta Postaci Twojego Wędrowca zawiera specjalną sekcję, dedykowaną statystykom towarzysza.
 
 ## Wykorzystanie w walce
 
 Oswojenie zwierzęcia wymaga jednorazowego zdania testu Rozumienia zwierząt, na poziomie wskazanym przez Bestiariusz. 
 
-To jednak dopiero połowa sukcesu - by zwierzę chciało dla Ciebie walczyć, potrzebna jest wyjątkowo silna więź. Innymi słowy, Twój Bohater musi posiadać więcej niż 14 pkt Rozumienia zwierząt.
+To jednak dopiero połowa sukcesu - by zwierzę chciało dla Ciebie walczyć, potrzebna jest wyjątkowo silna więź. Innymi słowy, Twój Wędrowiec musi posiadać więcej niż 14 pkt Rozumienia zwierząt.
 
 W momencie utworzenia więzi ze zwierzęciem, jego punkty **[DET]** zrównują się z punktami opiekuna. Dzieje się tak ponieważ zwierzęcy towarzysz wiernie wykonuje rozkazy swojego pana. Atakuje jak dodatkowy członek drużyny, bezpośrednio przed lub po Bohaterze - decyzję podejmuje gracz.
 
@@ -41,11 +41,11 @@ Towarzysze, podobnie jak Bohaterowie, nie mogą forsować rzutów w walce.
 
 ### Odpoczynek
 
-Towarzysze odzyskują wytrzymałość i determinację na podobnych zasadach jak Bohaterowie. Podczas krótkiego odpoczynku mogą przywrócić 3 punkty wytrzymałości, a w trakcie pełnego połowę wytrzymałości i pełnię determinacji. Dla zwierząt nie mają jednak zastosowania udogodnienia - wychowały się w dziczy i to ona jest ich domem. Podobnie jak w przypadku Bohaterów, skrajnie wyczerpane zwierzę, również może potrzebować nieco dłuższego odpoczynku, by w pełni wrócić do zdrowia.
+Towarzysze odzyskują wytrzymałość i determinację na podobnych zasadach jak Bohaterowie. Podczas krótkiego odpoczynku mogą przywrócić 3 punkty wytrzymałości, a w trakcie pełnego połowę wytrzymałości i pełnię determinacji. Dla zwierząt nie mają jednak zastosowania udogodnienia - wychowały się w dziczy i to ona jest ich domem. Podobnie jak w przypadku Wędrowców, skrajnie wyczerpane zwierzę, również może potrzebować nieco dłuższego odpoczynku, by w pełni wrócić do zdrowia.
 
 ### Rozwój
 
-Zwierzęta mają ograniczone zdolności nauki, dlatego też ich rozwój przebiega nieco inaczej i jest ściśle powiązany z pracą przewodnika. Towarzysz sam nie zdobywa doświadczenia, natomiast na każde 5 poziomów Bohatera może rozwinąć wybrany atrybut i jedną umiejętność o 1 punkt.
+Zwierzęta mają ograniczone zdolności nauki, dlatego też ich rozwój przebiega nieco inaczej i jest ściśle powiązany z pracą przewodnika. Towarzysz sam nie zdobywa doświadczenia, natomiast na każde 5 poziomów Wędrowca może rozwinąć wybrany atrybut i jedną umiejętność o 1 punkt.
 
 Przysługuje mu również zwiększenie punktów wytrzymałości, wedle posiadanej kondycji.
 

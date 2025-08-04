@@ -6,15 +6,15 @@ Pierwsza jest znacznie starsza i pochodzi od bogów, którzy obdarowali szamanó
 
 Magia katalizowana to dziedzina nauki odkryta przez ludzi, którzy mieli dość podporządkowania się woli bogów. Opracowali oni sposób, wykorzystujący kryształy ametystu do katalizowania energii świata w magiczną energię. Odkrycie to pozwoliło uniezależnić się od bogów i z czasem zaczęło wypierać szamanizm, przyspieszając jednocześnie rozwój cywilizacyjny w krainach. Kryształy jednak potrzebują energii, by działać i czerpią ją z sił witalnych czarodzieja.
 
-Każdy Bohater może posługiwać się wyłącznie jedną, wybraną przez siebie ścieżką magii. Tylko Yardanie nie mają wyboru - wilczy pakt wymusza na nich posłuszeństwo wobec Pani Urune. Ze wszystkich ludów jedynie elfy mogą władać dwoma rodzajami magii, ponieważ od czasu pokonania Madhrata są one strażnikami równowagi. Z tego tytułu zarówno na początku, jak i podczas awansów mogą wybrać po jednej domenie z każdego rodzaju.
+Każdy Wędrowiec może posługiwać się wyłącznie jedną, wybraną przez siebie ścieżką magii. Tylko Yardanie nie mają wyboru - wilczy pakt wymusza na nich posłuszeństwo wobec Pani Urune. Ze wszystkich ludów jedynie elfy mogą władać dwoma rodzajami magii, ponieważ od czasu pokonania Madhrata są one strażnikami równowagi. Z tego tytułu zarówno na początku, jak i podczas awansów mogą wybrać po jednej domenie z każdego rodzaju.
 
-Dla wszystkich ludów poza Yardanami możliwa jest rezygnacja z boskiej mocy lub... nawrócenie - przejście z szamanizmu na magię katalizowaną i odwrotnie. Bohater musi jedynie zrzec się całej swojej dotychczasowej magii i przetrwać boską próbę. Jaką? Niewiele o niej wiadomo poza jednym - nieliczni, którzy ją przetrwali, w większości postradali rozum i zdrowie.
+Dla wszystkich ludów poza Yardanami możliwa jest rezygnacja z boskiej mocy lub... nawrócenie - przejście z szamanizmu na magię katalizowaną i odwrotnie. Wędrowiec musi jedynie zrzec się całej swojej dotychczasowej magii i przetrwać boską próbę. Jaką? Niewiele o niej wiadomo poza jednym - nieliczni, którzy ją przetrwali, w większości postradali rozum i zdrowie.
 
 Mag lub szaman posiadający już wszystkie domeny w obrębie danego rodzaju magii nadal rośnie w siłę, choć nie odkrywa już nowych dziedzin. Jego zaklecią stają się bardziej efektywne - każdy wydany punkt **[ME]** (lub 2 pkt w przypadku zaklęć obszarowych) to 1 dodatkowy punkt obrażeń / leczenia / runda przyzwania.
 
 ## Koszt zaklęć
 
-Rzucanie zaklęć ofensywnych w YARD jest bardzo proste. Bohater deklaruje co chce zrobić i ile punktów mistycznej energii wydać. Dla pojedynczego celu każdy punkt obrażeń oznacza jeden wydany punkt **[ME]**. Dla ataków obszarowych to 2 pkt **[ME]** na każde 10 m. Podobnie jak w przypadku walki standardową bronią, stany nakładane są przy trudnym sukcesie. Tu także możliwe jest tworzenie łańcucha ataku.
+Rzucanie zaklęć ofensywnych w YARD jest bardzo proste. Wędrowiec deklaruje co chce zrobić i ile punktów mistycznej energii wydać. Dla pojedynczego celu każdy punkt obrażeń oznacza jeden wydany punkt **[ME]**. Dla ataków obszarowych to 2 pkt **[ME]** na każde 10 m. Podobnie jak w przypadku walki standardową bronią, stany nakładane są przy trudnym sukcesie. Tu także możliwe jest tworzenie łańcucha ataku.
 
 Bardzo podobnie wygląda rzucanie zaawansowanych zaklęć obronnych i leczniczych (znacznie bardziej efektywnych niż ziołolecznictwo i mikstury). Za 1 pkt **[ME]** rzucający może uleczyć 1 PW. Leczenie grupowe kosztuje go 2 punkty Mistycznej Energii.
 
@@ -32,9 +32,9 @@ W przypadku zaklęć poza walką, ocenę kosztu mistycznej energii zostawiamy Mi
 
 Stanowi manifestację boskiej mocy. Magia szamanów jest mniej stabilna i słabsza od tej, wykorzystującej kryształy. Pozwala jednak czerpać do woli z dobrodziejstw natury podczas regeneracji - wystarczy, że szaman posiada odpowiednie zioła. Nie ma potrzeby czasochłonnego przyrządzania specjalnych mikstur.
 
-Bohater chcący wybrać drogę szamana musi odprawić rytuał, w którym podporządkuje się woli bogów. Następnie może wybrać swój pierwszy żywioł. Co 5 poziomów będzie mógł wybrać kolejny.
+Wędrowiec chcący wybrać drogę szamana musi odprawić rytuał, w którym podporządkuje się woli bogów. Następnie może wybrać swój pierwszy żywioł. Co 5 poziomów będzie mógł wybrać kolejny.
 
-Rzucając szamańskie zaklęcia, Bohater musi liczyć się z karą w przypadku choćby najmniejszego niepowodzenia. Krytyczna porażka w teście dodatkowo spotęguje gniew bóstwa.
+Rzucając szamańskie zaklęcia, Wędrowiec musi liczyć się z karą w przypadku choćby najmniejszego niepowodzenia. Krytyczna porażka w teście dodatkowo spotęguje gniew bóstwa.
 
 ### Domeny magii szamanów:
 - Ogień - najstarsza dziedzina, dająca kontrolę nad płomieniami

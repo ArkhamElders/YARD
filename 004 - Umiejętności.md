@@ -1,44 +1,44 @@
 # Umiejętności
 
-Zdolności yardańskich Bohaterów zostały dobrane tak, by odzwierciedlać faktyczne umiejętności postaci. Jak już wspomniano na początku podręcznika, testy umiejętności rozpatruje się za pomocą rzutu **d20**. Aby wynik testu uznać za sukces, należy wyrzucić wartość równą lub niższą od aktualnego poziomu umiejętności. Jeśli wynik na kościach jest wyższy niż aktualne punkty umiejętności, test kończy się porażką. Wyróżniamy też trzy wyniki specjalne:
+Zdolności yardańskich Wędrowców zostały dobrane tak, by odzwierciedlać faktyczne umiejętności postaci. Jak już wspomniano na początku podręcznika, testy umiejętności rozpatruje się za pomocą rzutu **d20**. Aby wynik testu uznać za sukces, należy wyrzucić wartość równą lub niższą od aktualnego poziomu umiejętności. Jeśli wynik na kościach jest wyższy niż aktualne punkty umiejętności, test kończy się porażką. Wyróżniamy też trzy wyniki specjalne:
 
 - trudny sukces: połowa wartości umiejętności lub mniej, ale więcej niż 1
 - krytyczny sukces: wynik rzutu to 1
 - krytyczna porażka: 20 punktów
 
-Wyższy poziom sukcesu oznacza zwykle korzyści dla Bohaterów. W przypadku krytycznej porażki, muszą oni liczyć się z przykrymi konsekwencjami.
+Wyższy poziom sukcesu oznacza zwykle korzyści dla Wędrowców. W przypadku krytycznej porażki, muszą oni liczyć się z przykrymi konsekwencjami.
 
 Podczas wędrówek Bohaterowie spotkają wiele istot, których atrybuty i umiejętności będą przekraczały wartość 20 pkt. Nie trudno się domyślić, że w takim wypadku ciężko mówić o porażce. Bez względu jednak na tę wartość, występuje krytyczna porażka, określana przez wynik rzutu równy 20.
 
 ### Testy łączone
 
-W szczególnych sytuacjach, Mistrz Gry może poprosić gracza o wykonanie testu łączonego. Najprościej mówiąc, są to dwa, następujące po sobie testy umiejętności i wyłącznie zdanie obu gwarantuje udane przeprowadzenie zaplanowanej akcji. 
+W szczególnych sytuacjach, Los może poprosić gracza o wykonanie testu łączonego. Najprościej mówiąc, są to dwa, następujące po sobie testy umiejętności i wyłącznie zdanie obu gwarantuje udane przeprowadzenie zaplanowanej akcji. 
 
 ### Wsparcie w testach
 
 Bohaterowie mogą wesprzeć rzucającego w teście jego umiejętności, dając mu tym samą kość premowią. Muszą jednak sami posiadać testowaną umiejętność na odpowiednim poziomie, zbliżonym (niższym maksymalnie o 2 pkt) do poziomu rzucającego. Dodatkowo wspierający poświęcają też jeden punkt determinacji na każdy poziom trudności testu: 1 pkt - normalny, 2 pkt - trudny, 3 pkt - krytyczny. Wsparcie w testach umiejętności możliwe jest jedynie poza walką.
 
-**Przykład:** Jeden z Bohaterów próbuje rozpalić ognisko. Pozostali pomagają mu, znosząc drewno na opał lub osłaniając palenisko przed porywistym wiatrem.
+**Przykład:** Jeden z Wędrowców próbuje rozpalić ognisko. Pozostali pomagają mu, znosząc drewno na opał lub osłaniając palenisko przed porywistym wiatrem.
 
 ### Testy przeciwstawne
 
 Ten specyficzny rodzaj testów to nic innego jak porównanie umiejętności dwóch postaci. Przypomina swego rodzaju siłowanie na rękę, choć oczywiście, zależnie od sytuacji można testować w ten sposób odmienne umiejętności. W rzutach przeciwstawnych porównywane są poziomu sukcesu: krytyczny sukces wygrywa z trudnym, a trudny ze zwykłym. Podobnie sytuacja ma się w przypadku zwykłej i krytycznej porażki. W przypadku, gdy poziom sukcesu jest identyczny, wygrywa niższy wynik na kościach.
 
 **Przykład**
-Bohater próbuje ukryć się przed przeciwnikiem w zaroślach, korzystając z Kociej zwinności i w ten sposób uniknąć walki. Przeciwnik jest jednak doświadczonym łowcą, który próbuje wyśledzić ofiarę przy pomocy Tropienia. W wyniku testu umiejętności Bohater wyrzuca trudny sukces Kociej zwinności, a łowca jedynie zwykły na Tropienie. Bohaterowi udaje się schować przed zagrożeniem.
+Wędrowiec próbuje ukryć się przed przeciwnikiem w zaroślach, korzystając z Kociej zwinności i w ten sposób uniknąć walki. Przeciwnik jest jednak doświadczonym łowcą, który próbuje wyśledzić ofiarę przy pomocy Tropienia. W wyniku testu umiejętności Wędrowiec wyrzuca trudny sukces Kociej zwinności, a łowca jedynie zwykły na Tropienie. Wędrowcowi udaje się schować przed zagrożeniem.
 
 ## Forsowanie rzutu
 
-W przypadku nieudanej próby testu umiejętności, Bohater może forsować rzut, korzystając z punktów determinacji. Zależnie od trudności testu wydaje 1, 2 lub 3 pkt **[DET]**, by podjąć ponowną próbę odpowiednio dla zwykłego, trudnego i ekstremalnego (krytycznego) testu. Co istotne, nie można forsować rzutów podczas walki.
+W przypadku nieudanej próby testu umiejętności, Wędrowiec może forsować rzut, korzystając z punktów determinacji. Zależnie od trudności testu wydaje 1, 2 lub 3 pkt **[DET]**, by podjąć ponowną próbę odpowiednio dla zwykłego, trudnego i ekstremalnego (krytycznego) testu. Co istotne, nie można forsować rzutów podczas walki.
 
-W przypadku niepowodzenia, Bohater traci jeden dodatkowy punkt determinacji, bez względu na poziom trudności testu, a Mistrz Gry informuje go o negatywnych skutkach forsowania rzutu. Może to być przykładowo uszkodzenie cennego artefaktu lub rozgniewanie napotkanej osoby.
+W przypadku niepowodzenia, Wędrowiec traci jeden dodatkowy punkt determinacji, bez względu na poziom trudności testu, a Los informuje go o negatywnych skutkach forsowania rzutu. Może to być przykładowo uszkodzenie cennego artefaktu lub rozgniewanie napotkanej osoby.
 
 ## Lista umiejętności
 Umiejętności zostały podzielone wedle użyteczności na trzy odrębnę grupy. Pierwsza z nich dotyczy różnych sposobów walki. Kolejna odpowiada za umiejętności interpersonalne, a ostatnia stanowi zbiór ogólnych umiejętności, przydatnych podczas wędrówek po ziemiach Aleoru. 
 
-Podczas rozgrywki bohaterowie powinni przede wszystkim skupić się na opisaniu tego, co i w jaki sposób chcą zrobić. Dobór ewentualnego testu umiejętności winien być zawsze rozpatrywany przez Mistrza Gry - może się bowiem zdarzyć, że postać zechce uciec się do podstępu w rozmowie, choć nie jest typowym łotrem. Mistrz Gry może w takim wypadku poprosić o test Negocjacji, ewentualnie zwiększając poziom trudności testu. Innym razem, biorąc pod uwagę wysokie wyspecjalizowanie Bohatera w danej dziedzinie, może natomiast całkowicie zrezygnować z testu.
+Podczas rozgrywki bohaterowie powinni przede wszystkim skupić się na opisaniu tego, co i w jaki sposób chcą zrobić. Dobór ewentualnego testu umiejętności winien być zawsze rozpatrywany przez Los - może się bowiem zdarzyć, że postać zechce uciec się do podstępu w rozmowie, choć nie jest typowym łotrem. Los może w takim wypadku poprosić o test Negocjacji, ewentualnie zwiększając poziom trudności testu. Innym razem, biorąc pod uwagę wysokie wyspecjalizowanie Wędrowca w danej dziedzinie, może natomiast całkowicie zrezygnować z testu.
 
-Przy niektórych umiejętnościach znajdziesz dodatkowy zapis informujący o zastosowaniu podczas walki oraz konsekwencji, w przypadku niepowodzenia. Są to jedynie PRZYKŁADOWE AKCJE, obrazujące możliwości niestandardowego zastosowania umiejętności. To gracze decydują co chcą zrobić, a Mistrz Gry określa warunki. Podobnie sytuacja wygląda poza walką - jeśli Twoja postać specjalizuje się w magii ognia, nie musi rozpalać ogniska ręcznie - proste zaklęcie załatwi sprawę.
+Przy niektórych umiejętnościach znajdziesz dodatkowy zapis informujący o zastosowaniu podczas walki oraz konsekwencji, w przypadku niepowodzenia. Są to jedynie PRZYKŁADOWE AKCJE, obrazujące możliwości niestandardowego zastosowania umiejętności. To gracze decydują co chcą zrobić, a Los określa warunki. Podobnie sytuacja wygląda poza walką - jeśli Twoja postać specjalizuje się w magii ognia, nie musi rozpalać ogniska ręcznie - proste zaklęcie załatwi sprawę.
 
 ### Walka
 
@@ -69,7 +69,7 @@ Przy niektórych umiejętnościach znajdziesz dodatkowy zapis informujący o zas
 
 ## Walka
 
-Różne style walki wymagają odmiennych umiejętności. Przykładowo strzelanie z łuku, czy podstępne ciosy sztyletem, wymagają bystrego oka i nie lada zręczności. Walka z użyciem miecza czy młota bojowego opiera się głównie na sile uderzenia, magowie oraz szamani korzystają przede wszystkim ze zdobytej wiedzy. Tworząc swojego Bohatera weź pod uwagę jego cechy i na tej podstawie wybierz stosowne umiejętności. W końcu nie ma nic gorszego niż wojownik, któremu brakuje siły, by podnieść własny miecz.
+Różne style walki wymagają odmiennych umiejętności. Przykładowo strzelanie z łuku, czy podstępne ciosy sztyletem, wymagają bystrego oka i nie lada zręczności. Walka z użyciem miecza czy młota bojowego opiera się głównie na sile uderzenia, magowie oraz szamani korzystają przede wszystkim ze zdobytej wiedzy. Tworząc swojego Wędrowca weź pod uwagę jego cechy i na tej podstawie wybierz stosowne umiejętności. W końcu nie ma nic gorszego niż wojownik, któremu brakuje siły, by podnieść własny miecz.
 
 ### Arkana
 
@@ -91,7 +91,7 @@ Jak mawiają lokalni mistrzowie rzemiosła... *„Z młota ŁUP, goblin trup!”
 
 ## Wpływ
 
-Słowa niejednokrotnie bywają skuteczniejsze od stali, dlatego każdy Bohater powinien równie biegle władać językiem, co mieczem. Poniżej znajdują się trzy najważniejsze umiejętności wykorzystywane podczas komunikacji z napotkanymi istotami.
+Słowa niejednokrotnie bywają skuteczniejsze od stali, dlatego każdy Wędrowiec powinien równie biegle władać językiem, co mieczem. Poniżej znajdują się trzy najważniejsze umiejętności wykorzystywane podczas komunikacji z napotkanymi istotami.
 
 ### Łotrostwo
 
@@ -111,17 +111,17 @@ Sztuka dyplomacji uratowała niejednego śmiałka przed poważnymi konsekwencjam
 
 Ostatnią, szczególnie dla Yardan, istotną umiejętnością, jest rozumienie zwierząt. Stanowi swoiste połączenie empatii, jasnych komunikatów oraz zachowań pozwalających na budowanie więzi np. z wilkiem lub sokołem.
 
-**Podczas walki:** Bohater posiadający zwierzęcego towarzysza oraz wysoki poziom tej umiejętności (pow. 70%), może wykonać dodatkową akcję w rundzie, w ramach ruchów dostępnych dla danego zwierzęcia. 
+**Podczas walki:** Wędrowiec posiadający zwierzęcego towarzysza oraz wysoki poziom tej umiejętności (pow. 70%), może wykonać dodatkową akcję w rundzie, w ramach ruchów dostępnych dla danego zwierzęcia. 
 
 ## Ogólne
 
-Najszersza grupa określająca faktyczne umiejętności Bohatera, stosowane podczas wędrówek po Aleorze. Niektóre z nich posiadają dodatkowe opcje, dostępne również podczas walki. Ich użycie może niejednokrotnie przechylić szalę zwycięstwa na korzyść drużyny.
+Najszersza grupa określająca faktyczne umiejętności Wędrowca, stosowane podczas wędrówek po Aleorze. Niektóre z nich posiadają dodatkowe opcje, dostępne również podczas walki. Ich użycie może niejednokrotnie przechylić szalę zwycięstwa na korzyść drużyny.
 
 ### Atletyka
 
 **Cecha bazowa:** Siła **[S]**
 
-Stanowi praktyczne zastosowanie siły Bohatera. Pozwala przeciągać, podnosić i rzucać na znaczną odległość ciężkie przedmioty. Rozwinięta odpowiednio (pow. 14 pkt) stanowi kość premiową **[KP]** podczas korzystania z Furii.
+Stanowi praktyczne zastosowanie siły Wędrowca. Pozwala przeciągać, podnosić i rzucać na znaczną odległość ciężkie przedmioty. Rozwinięta odpowiednio (pow. 14 pkt) stanowi kość premiową **[KP]** podczas korzystania z Furii.
 
 **Podczas walki:** Prawdziwy atleta potrafi odpychać głazy, kawałki drewna i wszelką improwizowaną broń miotaną. Co więcej, równie dobrze potrafi z niej korzystać - wystarczy, że poświęci 1 pkt **[DET]** i zda test. Obrażenia zależą od użytego przedmiotu i zwykle określane są przez MG.
 
@@ -143,11 +143,11 @@ Umiejętność konstruowania pułapek, prowizorycznych narzędzi i innego rodzaj
 
 **Cecha bazowa:** Siła **[S]**
 
-Tam, gdzie nie wystarcza zwykła siła, pojawia się furia. Bohater, który wpada w szał, może zniszczyć każdą przeszkodę, jaka stanie mu na drodze. Przez krótki czas jest również w stanie biec dwukrotnie szybciej i dalej, by dopaść swojego wroga.
+Tam, gdzie nie wystarcza zwykła siła, pojawia się furia. Wędrowiec, który wpada w szał, może zniszczyć każdą przeszkodę, jaka stanie mu na drodze. Przez krótki czas jest również w stanie biec dwukrotnie szybciej i dalej, by dopaść swojego wroga.
 
-**Podczas walki:** Po otrzymaniu obrażeń, Bohater może wpaść w furię, by zaatakować przeciwnika ze zdwojoną mocą. Aby to zrobić, poświęca 1 pkt **[DET]** i deklaruje furię przed wyprowadzeniem ataku. Obrażenia mnożonone są x2 i dotyczą wyłącznie ataków fizycznych.
+**Podczas walki:** Po otrzymaniu obrażeń, Wędrowiec może wpaść w furię, by zaatakować przeciwnika ze zdwojoną mocą. Aby to zrobić, poświęca 1 pkt **[DET]** i deklaruje furię przed wyprowadzeniem ataku. Obrażenia mnożonone są x2 i dotyczą wyłącznie ataków fizycznych.
 
-*Niepowodzenie rzutu zarówno podczas walki, jak i poza nią, może skutkować zaatakowaniem postaci znajdującej się najbliżej Bohatera (nieparzysty wynik na kości).*
+*Niepowodzenie rzutu zarówno podczas walki, jak i poza nią, może skutkować zaatakowaniem postaci znajdującej się najbliżej Wędrowca (nieparzysty wynik na kości).*
 
 ### Kocia zwinność
 
@@ -155,7 +155,7 @@ Tam, gdzie nie wystarcza zwykła siła, pojawia się furia. Bohater, który wpad
 
 Zaglądanie do trudnodostępnych miejsc, skradanie i unikanie ciosów wymaga umiejętności. Kocia zwinność może niekiedy stanowić zastępstwo dla klasycznego łotrostwa, szczególnie gdy sakiewka napotkanego barona musi nagle zmienić właściciela. W razie kłopotów może również służyć do ratowania się ucieczką.
 
-**Podczas walki:** Zaatakowany gracz może zadeklarować unik. Bohater z umiejętnością rozwiniętą pow. 70% może automatycznie uniknąć ciosu, poświęcając liczbę punktów **[DET]**, równą poziomowi sukcesu atakującego. Zdany test Kociej zwinności przed walką działa jak atak z ukrycia i daje Bohaterowi kość premowią do ataku **[KP]**.
+**Podczas walki:** Zaatakowany gracz może zadeklarować unik. Wędrowiec z umiejętnością rozwiniętą pow. 70% może automatycznie uniknąć ciosu, poświęcając liczbę punktów **[DET]**, równą poziomowi sukcesu atakującego. Zdany test Kociej zwinności przed walką działa jak atak z ukrycia i daje Wędrowcowi kość premowią do ataku **[KP]**.
 
 *Niepowodzenie skutkuje utratą dodatkowego punktu determinacji.*
 
@@ -165,9 +165,9 @@ Zaglądanie do trudnodostępnych miejsc, skradanie i unikanie ciosów wymaga umi
 
 Pierwotny instynkt nakazujący chronić stado przed niebezpieczeństwem. Spadający głaz, zabłąkana strzała, czy płonące domostwo - obrońca nawet za cenę życia będzie starał się ocalić pobratymców. 
 
-**Podczas walki:** W dowolnym momencie starcia, obrońca może własnym ciałem zasłonić towarzysza. Aby podjąć próbę, gracz poświęca 1 pkt determinacji [DET]. Jeśli próba się powiedzie, Bohater gracza przyjmuje na siebie wszystkie obrażenia fizyczne, rozpatrując je zgodnie z posiadanym pancerzem. 
+**Podczas walki:** W dowolnym momencie starcia, obrońca może własnym ciałem zasłonić towarzysza. Aby podjąć próbę, gracz poświęca 1 pkt determinacji [DET]. Jeśli próba się powiedzie, Wędrowiec gracza przyjmuje na siebie wszystkie obrażenia fizyczne, rozpatrując je zgodnie z posiadanym pancerzem. 
 
-*Niepowodzenie w teście obrony podczas walki, Bohater traci dodatkowy punkt determinacji. Towarzysz, którego próbował ochronić dostaje normalne obrażenia.*
+*Niepowodzenie w teście obrony podczas walki, Wędrowiec traci dodatkowy punkt determinacji. Towarzysz, którego próbował ochronić dostaje normalne obrażenia.*
 
 ## Odparcie Magii
 
@@ -175,7 +175,7 @@ Pierwotny instynkt nakazujący chronić stado przed niebezpieczeństwem. Spadaj�
 
 Silny umysł potrafi nie tylko biegle władać pradawną magią, ale też skutecznie się jej opierać. Jeśli wierzyć podaniom, to dzięki tej umiejętności szamanka Kwentu przeszła kiedyś wszystkie próby Pani Urune, która w nagrodę za wysiłek pobłogosławiła ją nadnaturalnie długim życiem.
 
-**Podczas walki:** Za cenę punktów **[DET]**, równą poziomowi trudności sukcesu, Bohater może całkowicie zniwelować działanie magicznego ataku na swoją osobę lub towarzysza.
+**Podczas walki:** Za cenę punktów **[DET]**, równą poziomowi trudności sukcesu, Wędrowiec może całkowicie zniwelować działanie magicznego ataku na swoją osobę lub towarzysza.
 
 *Niezdany test odparcia ataku magicznego skutkuje utratą jednego dodatkowego punktu determinacji, bez względu na poziom zaklęcia.*
 
@@ -187,7 +187,7 @@ W odróżnieniu od magów, szamani nie muszą uczyć się zaklęć z ksiąg lub 
 
 **Podczas walki:** Szaman poświęca 2 punkty **[DET]**, następnie kreśli na ziemi magiczny krąg, w którym dzięki modlitwie kumuluje się pradawna energia. Jeśli rzut się powiedzie, bóstwo błogosławi szamana podwajając wynik obrażeń / leczenia.
 
-*Niepowodzenie rzutu zsyła na Bohatera gniew bóstwa. Otrzymuje on obrażenia równe bazowemu rzutowi i traci dodatkowy punkt determinacji.*
+*Niepowodzenie rzutu zsyła na Wędrowca gniew bóstwa. Otrzymuje on obrażenia równe bazowemu rzutowi i traci dodatkowy punkt determinacji.*
 
 ### Sztuka przetrwania
 
@@ -207,7 +207,7 @@ Prawdziwy łowca zachowuje czujność w każdej sytuacji. Z łatwością dostrze
 
 Któż z nas nie kocha karczmianych przyśpiewek i bohaterskich historii snutych przez złotoustych bardów? Umiejętność grania na instrumencie lub śpiewu może stanowić doskonały sposób na zarobek, szczególnie w obcym mieście. Odpowiednia melodia może też dodać otuchy, regenerując dodatkowe 2 pkt. determinacji. 
 
-**Podczas walki:** Podstawowa pieśń barda może zagrzewać towarzyszy do boju, dając im kość premiową. Może także skutecznie utrudniać koncentrację przeciwnikom drużyny (kość karna). Prawdziwy wirtuoz potrafi jednak znacznie więcej - wystarczy, że Bohater zadeklaruje konkretną pieśń i poświęci 1 pkt **[DET]**, aby wspomóc towarzyszy lub osłabić wroga.
+**Podczas walki:** Podstawowa pieśń barda może zagrzewać towarzyszy do boju, dając im kość premiową. Może także skutecznie utrudniać koncentrację przeciwnikom drużyny (kość karna). Prawdziwy wirtuoz potrafi jednak znacznie więcej - wystarczy, że Wędrowiec zadeklaruje konkretną pieśń i poświęci 1 pkt **[DET]**, aby wspomóc towarzyszy lub osłabić wroga.
 
 *Niepowodzenie w walce skutkuje utratą dodatkowego punktu determinacji, a pieśń przynosi efekt odwrotny do zamierzonego.*
 
@@ -219,4 +219,4 @@ Zdolność służy przede wszystkim uczeniu się magii ze zwojów, pojmowaniu st
 
 ## Więcej umiejętności
 
-Podręcznik zawiera jedynie najważniejsze umiejętności, pozwalające na swobodną, możliwie prostą rozgrywkę. Jeśli uznasz za konieczne dodanie nowych, bardziej wyspecjalizowanych zdolności, nic nie stoi na przeszkodzie. To Twoja gra i możesz ją prowadzić jak tylko zechcesz. Pamiętaj tylko, że nadmiar umiejętności wprowadza niekiedy zbędne zamieszanie, a prostota sprzyja kreatywności Bohaterów.
+Podręcznik zawiera jedynie najważniejsze umiejętności, pozwalające na swobodną, możliwie prostą rozgrywkę. Jeśli uznasz za konieczne dodanie nowych, bardziej wyspecjalizowanych zdolności, nic nie stoi na przeszkodzie. To Twoja gra i możesz ją prowadzić jak tylko zechcesz. Pamiętaj tylko, że nadmiar umiejętności wprowadza niekiedy zbędne zamieszanie, a prostota sprzyja kreatywności Wędrowców.

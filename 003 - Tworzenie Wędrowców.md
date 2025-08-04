@@ -136,46 +136,46 @@ Chociaż okrutny czas mają już za sobą, niekiedy wciąż można spotkać się
 
 **Modyfikacje:** Bestiaci mogą rozdysponować dodatkowe 2 punktów między dowolne atrybuty, odejmując jedynie 1 z innego wybranego.
 
-## Wytrzymałość
+## Witlaność
 
-Określa punkty życia Twojej postaci, czyli ilość obrażeń, jakie jest w stanie wytrzymać, nim jej przygoda się zakończy. Obliczanie wytrzymałości to nic innego jak dodanie do siebie wartości Siły i Kondycji oraz podzielenie wyniku przez dwa, zaokrąglając w dół.
+Określa punkty życia Twojej postaci, czyli ilość obrażeń, jakie jest w stanie wytrzymać, nim jej przygoda się zakończy. Obliczanie Punktów Witalności to nic innego jak dodanie do siebie wartości Siły i Kondycji oraz podzielenie wyniku przez dwa, zaokrąglając w dół.
 
-**Przykład:** Bohater posiada 14 punktów Siły oraz 15 punktów Kondycji, co daje łącznie 29 punktów. Dzieląc przez 2 otrzymujemy wartość 14.5, co po zaokrągleniu daje nam wytrzymałość równą 14 pkt.
+**Przykład:** Postać posiada 14 punktów Siły oraz 15 punktów Kondycji, co daje łącznie 29 punktów. Dzieląc przez 2 otrzymujemy wartość 14.5, co po zaokrągleniu daje nam Witalność równą 14 pkt.
 
-## Mistyczna energia
+## Mistyczna Energia
 
-Dobry szaman, czy mag powinien nie tylko znać zaklęcia, ale też mieć wystarczająco sprawny umysł i odpowiednie umiejętności, by móc się nimi posługiwać. Dlatego wartość punktów mistycznej energii stanowi suma wiedzy i inteligencji podzielona przez 2.
+Dobry szaman, czy mag powinien nie tylko znać zaklęcia, ale też mieć wystarczająco sprawny umysł i odpowiednie umiejętności, by móc się nimi posługiwać. Dlatego wartość Punktów Mistycznej Energii stanowi suma wiedzy i inteligencji podzielona przez 2.
 
-**Przykład:** Wiedza i inteligencja postaci wynoszą odpowiednio 16 oraz 12, łącznie 28. Dzieląc ten wynik przez 2, otrzymamy wartość mistycznej energii równą 14. W tym przypadku nie ma również potrzeby zaokrąglania wyniku.
+**Przykład:** Wiedza i inteligencja postaci wynoszą odpowiednio 16 oraz 12, łącznie 28. Dzieląc ten wynik przez 2, otrzymamy wartość Mistycznej Energii równą 14. W tym przypadku nie ma również potrzeby zaokrąglania wyniku.
 
 ## Ruch
 
-Jak łatwo się domyślić, określa maksymalną odległość, na jaką może się przemieścić Bohater w trakcie swojej rundy. Ruch wykorzystywany jest podczas walki/pościgu. Standardowa podróż, nie wymaga obliczania każdego metra. Zakres ruchu wylicza się analogicznie do wytrzymałości i mistycznej energii, z tym że wartościami bazowymi są kondycja i zręczność.
+Jak łatwo się domyślić, określa maksymalną odległość, na jaką może się przemieścić Wędrowiec w trakcie swojej rundy. Ruch wykorzystywany jest podczas walki/pościgu. Standardowa podróż, nie wymaga obliczania każdego metra. Zakres ruchu wylicza się analogicznie do wytrzymałości i mistycznej energii, z tym że wartościami bazowymi są kondycja i zręczność.
 
 
 ## Determinacja
 
-Określa silną wolę postaci, jej ambicję i upór w dążeniu do celu. Pozwala forsować nieudane rzuty oraz korzystać z dodatkowych akcji podczas walki. Więcej na temat szczegółowego wykorzystania determinacji znajdziesz w opisach umiejętności. Aby obliczyć początkową wartość determinacji [DET], wykonaj rzut **3d6**. Jeśli wyrzuciłeś 4, 4 i 5, to zaczynasz przygodę z 13 punktami. Determinacja stanowiąca motor napędowy Bohatera, jest niezwykle ważną cechą. Jeśli jej poziom spadnie do zera, postać wykonuje każdy test umiejętności z Pechową Kością [PK]. Stan ten utrzymuje się do momentu odzyskania przynajmniej jednego punktu determinacji. 
+Określa silną wolę postaci, jej ambicję i upór w dążeniu do celu. Pozwala forsować nieudane rzuty oraz korzystać z dodatkowych akcji podczas walki. Więcej na temat szczegółowego wykorzystania determinacji znajdziesz w opisach umiejętności. Aby obliczyć początkową wartość determinacji [DET], wykonaj rzut **3d6**. Jeśli wyrzuciłeś 4, 4 i 5, to zaczynasz przygodę z 13 punktami. Determinacja stanowiąca motor napędowy Wędrowca, jest niezwykle ważną cechą. Jeśli jej poziom spadnie do zera, postać wykonuje każdy test umiejętności z Pechową Kością [PK]. Stan ten utrzymuje się do momentu odzyskania przynajmniej jednego punktu determinacji. 
 
-Istnieje kilka sposobów przywracania punktów. Pierwszym z nich jest odpoczynek. Regeneracja możliwa jest również po wykonaniu ważnego zadania fabularnego, jak na przykład pokonanie lodowego trolla lub odnalezienie zaginionego kupca. W tym wypadku decyzja o ilości regenerowanych punktów należy do Mistrza Gry. Pozostałe sposoby to rozmaite zaklęcia, eliksiry i pieśni wędrownych bardów. Niektóre pozwalają nie tylko zregenerować punkty, ale też zwiększyć tymczasowo ich maksymalną ilość.
+Istnieje kilka sposobów przywracania punktów. Pierwszym z nich jest odpoczynek. Regeneracja możliwa jest również po wykonaniu ważnego zadania fabularnego, jak na przykład pokonanie lodowego trolla lub odnalezienie zaginionego kupca. W tym wypadku decyzja o ilości regenerowanych punktów należy do Losu. Pozostałe sposoby to rozmaite zaklęcia, eliksiry i pieśni wędrownych bardów. Niektóre pozwalają nie tylko zregenerować punkty, ale też zwiększyć tymczasowo ich maksymalną ilość.
 
-Ponieważ rozgrywka w YARD nastawiona jest na rozwój Bohaterów, istnieje możliwość zwiększania maksymalnej wartości punktów determinacji. Na każde pięć poziomów postaci, Bohaterowi przysługują dwa dodatkowe punkty. Pierwsze na poziomie piątym, kolejne na dziesiątym itd. Zanotuj na Karcie Bohatera wszystkie wartości atrybutów, wytrzymałości, mistycznej energii, ruchu oraz determinacji. Kartę znajdziesz na końcu tego podręcznika.
+Ponieważ rozgrywka w YARD nastawiona jest na rozwój Wędrowców, istnieje możliwość zwiększania maksymalnej wartości punktów determinacji. Na każde pięć poziomów, postaci przysługują dwa dodatkowe punkty. Pierwsze na poziomie piątym, kolejne na dziesiątym itd. Zanotuj na Karcie Wędrowca wszystkie wartości atrybutów, wytrzymałości, mistycznej energii, ruchu oraz determinacji. Kartę znajdziesz na końcu tego podręcznika.
 
 ## Pancerz, atak i modyfikator ataku
 
 ### Pancerz
 
-Pancerz to nic innego jak ilość obrażeń fizycznych, które zaatakowany Bohater może zignorować. Jego wartość określa się za pomocą sumy punktów obrony przypisanych do każdej zbroi, tarczy lub hełmu. Jeśli Bohater posiada zbroję dającą 2 pkt obrony i tarczę dającą 1 pkt, to łącznie posiada 3 pkt pancerza i o tyle zmniejszone zostają jego obrażenia.
+Pancerz to nic innego jak ilość obrażeń fizycznych, które zaatakowany Wędrowiec może zignorować. Jego wartość określa się za pomocą sumy punktów obrony przypisanych do każdej zbroi, tarczy lub hełmu. Jeśli Wędrowiec posiada zbroję dającą 2 pkt obrony i tarczę dającą 1 pkt, to łącznie posiada 3 pkt pancerza i o tyle zmniejszone zostają jego obrażenia.
 
 Co istotne, standardowy pancerz chroni jedynie przed obrażeniami fizycznymi. Tylko wyjątkowe przedmioty są w stanie zniwelować działanie magicznych ataków.
 
 ### Atak
 
-Każda nieuzbrojona postać, bez względu na wiek i pochodzenie posiada podstawowy atak fizyczny w postaci 1 punktu, odpowiadający walce na pięści. Jeśli Bohater wyposaży się w sztylet lub inną broń, jego atak będzie określany przez właściwości przemiotu. Przykładowo sztylet zadaje 1 punkt obrażeń, a miecz krótki 2. Bohater posiadający więcej niż 70 pkt Kociej zwinności, może dodatkowo walczy dwiema broniami.
+Każda nieuzbrojona postać, bez względu na wiek i pochodzenie posiada podstawowy atak fizyczny w postaci 1 punktu, odpowiadający walce na pięści. Jeśli Wędrowiec wyposaży się w sztylet lub inną broń, jego atak będzie określany przez właściwości przemiotu. Przykładowo sztylet zadaje 1 punkt obrażeń, a miecz krótki 2. Wędrowiec posiadający więcej niż 70 pkt Kociej zwinności, może dodatkowo walczy dwiema broniami.
 
 ### Modyfikator obrażeń
 
-Im silniejszy Bohater, tym większe obrażenia fizyczne zadaje, bez względu na to, jakiej broni używa.
+Im silniejszy Wędrowiec, tym większe obrażenia fizyczne zadaje, bez względu na to, jakiej broni używa.
 
 **Siła 1-2:** -3 do ataku (Skrajnie słaby, bardzo utrudnione zadawanie ciosów).
 
@@ -202,18 +202,18 @@ Im silniejszy Bohater, tym większe obrażenia fizyczne zadaje, bez względu na 
 Wartość modyfikatora dodaje się do wartości ataku, otrzymując w ten sposób finalny wynik zadawanych obrażeń. Jeśli postać walczy dwiema broniami, modyfikator ataku stosuje się tylko dla jednej, wiodącej ręki. Słabsza ręka wykonuje atak podstawowy.
 
 **Przykład:**
-Bohater atakuje trolla mieczem, zadającym 2 pkt obrażeń i dodatkowo posiada modyfikator ataku równy 2. Całkowita wartość jego ataku wynosi więc 4 i takie obrażenia otrzyma troll, jeśli nie posiada żadnego pancerza.
+Wędrowiec atakuje trolla mieczem, zadającym 2 pkt obrażeń i dodatkowo posiada modyfikator ataku równy 2. Całkowita wartość jego ataku wynosi więc 4 i takie obrażenia otrzyma troll, jeśli nie posiada żadnego pancerza.
 
 Kwestie związane z walką zostały szerzej omówione w dalszej części podręcznika.
 
 ## Punkty umiejętności
 
-Kiedy już określisz wiek i pochodzenie swojej postaci, możesz przejść do ustalenia wartości bazowych umiejętności oraz rozdzielania punktów. Ponieważ YARD stawia na wolność rozgrywki, nie znajdziesz tu narzuconych zawodów, czy klas postaci. Innymi słowy, to Ty określasz kim jest Twój Bohater i jak rozwinie się podczas wędrówek po Aleorze. 
+Kiedy już określisz wiek i pochodzenie swojej postaci, możesz przejść do ustalenia wartości bazowych umiejętności oraz rozdzielania punktów. Ponieważ YARD stawia na wolność rozgrywki, nie znajdziesz tu narzuconych zawodów, czy klas postaci. Innymi słowy, to Ty określasz kim jest Twój Wędrowiec i jak rozwinie się podczas wędrówek po Aleorze. 
 
 
 ### Wartości bazowe
 
-Zanim zaczniesz rozdzielać punkty umiejętności, musisz jeszcze ustalić ich wartości bazowe. Standardowo każdy Bohater ma cztery dowolne umiejętności podstawowe. Zależnie od wieku Twojej postaci, może dysponować jedną dodatkową, bazującą na określonym atrybucie. Ta zasada pozwala na odzwierciedlenie naturalnych predyspozycji oraz wrodzonych zdolności Bohaterów. 
+Zanim zaczniesz rozdzielać punkty umiejętności, musisz jeszcze ustalić ich wartości bazowe. Standardowo każdy Wędrowiec ma cztery dowolne umiejętności podstawowe. Zależnie od wieku Twojej postaci, może dysponować jedną dodatkową, bazującą na określonym atrybucie. Ta zasada pozwala na odzwierciedlenie naturalnych predyspozycji oraz wrodzonych zdolności Wędrowców. 
 
 Wartość podstawowej umiejętności jest równa połowie atrybutu, na którym bazuje (zaokrąglając w dół). Mówiąc prościej, jeśli jedna z podstawowych umiejętności oparta jest na sile, to jej wartość początkowa będzie równa połowie siły.
 
@@ -221,4 +221,4 @@ Wartość bazowa pozostałych umiejętności równa jest 1.
 
 ### Podział punktów
 
-Liczba punktów umiejętności, podobnie jak liczba punktów atrybutów, jest wartością stałą. **Każdy Bohater ma do dyspozycji 18 pkt**, które może przeznaczyć na dowolne umiejętności, dodając je do wartości bazowych. Stała wartość puli punktów zapewnia wszystkim graczom równe szanse na starcie, jednocześnie skłaniając ich do przemyślanego tworzenia postaci. Pamiętaj, że wartość umiejętności nie może przekroczyć 20 punktów.
+Liczba punktów umiejętności, podobnie jak liczba punktów atrybutów, jest wartością stałą. **Każdy Wędrowiec ma do dyspozycji 18 pkt**, które może przeznaczyć na dowolne umiejętności, dodając je do wartości bazowych. Stała wartość puli punktów zapewnia wszystkim graczom równe szanse na starcie, jednocześnie skłaniając ich do przemyślanego tworzenia postaci. Pamiętaj, że wartość umiejętności nie może przekroczyć 20 punktów.
