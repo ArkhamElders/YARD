@@ -1,11 +1,11 @@
-# Tworzenie Bohaterów
+# Tworzenie Wędrowców
 
 ## Atrybuty
 Tworzenie własnej postaci to dla wielu graczy jeden z najistotniejszych elementów rozgrywki. Nic w tym dziwnego, w końcu w tym tkwi spora część piękna RPG. Przejdźmy zatem do sedna.
 
-Bohaterów opisuje sześć głównych cech, opisywanych dalej jako Atrybuty. Każdy z nich wpływa bezpośrednio na umiejętności, zakres ruchu, a także rozwój punktów wytrzymałości oraz mistycznej energii podczas awansów.
+Wędrowców ów opisuje sześć głównych cech, znanych dalej jako Atrybuty. Każdy z nich wpływa bezpośrednio na umiejętności, zakres ruchu, a także rozwój Punktów Witalności oraz Mistycznej Energii podczas awansów.
 
-Określanie wartości atrybutów jest bardzo proste. Każdy z nich ustala się za pomocą dwóch rzutów **3d6**, wybierając wyższy wynik. Oczywiście Mistrz Gry może zezwolić na dodatkowe przerzucenie szczególnie niskich (poniżej 9) wyników, by zachować odpowiedni balans postaci w drużynie.
+Określanie wartości atrybutów jest bardzo proste. Każdy z nich ustala się za pomocą dwóch rzutów **3d6**, wybierając wyższy wynik. Oczywiście Los może zezwolić na dodatkowe przerzucenie szczególnie niskich (poniżej 9) wyników, by zachować odpowiedni balans postaci w drużynie.
 
 **Przykład:**
 Gracz losuje wartość Siły, wykonując dwie serie rzutów trzema kostkami d6:
@@ -23,17 +23,17 @@ S - 14, KON - 15, ZR - 7, INT - 10, WIE - 12, CHA - 6
 
 ### Siła [S]
 
-Reprezentuje tężyznę fizyczną Bohatera, zdolność do podnoszenia przedmiotów i broni. Przekłada się na zdolność zadawania wysokich obrażeń podczas walki wręcz oraz odpierania ataków. Stanowi podstawową cechę wszystkich wojowników.
+Reprezentuje tężyznę fizyczną Wędrowca, zdolność do podnoszenia przedmiotów i broni. Przekłada się na zdolność zadawania wysokich obrażeń podczas walki wręcz oraz odpierania ataków. Stanowi podstawową cechę wszystkich wojowników.
 
 ### Kondycja [KON]
 
-Odpowiada za sprawność i wytrzymałość Twojej postaci. Określa jak długo jest w stanie biec lub jak bardzo jest odporna na zadawane obrażenia. Przydaje się także niestrudzonym wędrowcom i tym, którzy wybrali życie w surowej dziczy.
+Odpowiada za sprawność i wytrzymałość Twojej postaci. Określa jak długo jest w stanie biec lub jak bardzo jest odporna na zadawane obrażenia. Przydaje się także niestrudzonym poszukiwaczom przygód i tym, którzy wybrali życie w surowej dziczy.
 
 ### Zręczność [ZR]
 Podstawowy atrybut złodziejskiego mistrza i prawdziwego łowcy. Zręczność wymagana jest wszędzie tam, gdzie w grę wchodzą szybkie, precyzyjne uderzenia. W razie kłopotów pomaga też szybko ewakuować się w bezpieczny sposób.
 
 ### Inteligencja [INT]
-Siła umysłu i zdolność dedukcji bywają nieocenione, zarówno podczas pertraktacji, jak i walki. Bystry Bohater z łatwością znajdzie wyjście z najtrudniejszej nawet sytuacji. To także główna cecha osób parających się magią.
+Siła umysłu i zdolność dedukcji bywają nieocenione, zarówno podczas pertraktacji, jak i walki. Bystry Wędrowiec z łatwością znajdzie wyjście z najtrudniejszej nawet sytuacji. To także główna cecha osób parających się magią.
 
 ### Wiedza [WIE]
 Mądrość wynikająca ze studiowania ksiąg, błogosławieństwa bóstw i doświadczenia pozwala sprawnie posługiwać się tym, co niezrozumiałe dla innych. Pozwala tworzyć eliksiry, naprawiać broń i zgłębiać nauki dawnych mistrzów.
@@ -43,7 +43,7 @@ Odrobina uroku osobistego bywa niezwykle przydatna. Pozwala wywierać wpływ na 
 
 ## Wiek postaci
 
-Mieszkańcy Aleoru starzeją się w różnym tempie. Wszystko zależy od pochodzenia Bohaterów. Najszybciej starość dosięga ludzi, natomiast Yardanie, dzięki błogosławieństwu Urune żyją niemal dwukrotnie dłużej. Kontynent pełen jest także innych, niezwykle długowiecznych ludów, dlatego wiek śmiałka określa się za pomocą jednego z trzech etapów: młodość, dojrzałość i starość. Każdy z nich ma odmienny wpływ na atrybuty postaci. Poniżej znajdziesz modyfikacje atrybutów oraz umiejętności bazowych wedle wieku - zapoznaj się z nimi.
+Mieszkańcy Aleoru starzeją się w różnym tempie. Wszystko zależy od pochodzenia Wędrowców. Najszybciej starość dosięga ludzi, natomiast Yardanie, dzięki błogosławieństwu Urune żyją niemal dwukrotnie dłużej. Kontynent pełen jest także innych, niezwykle długowiecznych ludów, dlatego wiek śmiałka określa się za pomocą jednego z trzech etapów: młodość, dojrzałość i starość. Każdy z nich ma odmienny wpływ na atrybuty postaci. Poniżej znajdziesz modyfikacje atrybutów oraz umiejętności bazowych wedle wieku - zapoznaj się z nimi.
 
 ### Młodość
 
@@ -60,11 +60,11 @@ Standardowa liczba umiejętności podstawowych.
 Dodatkowe 2 pkt do [WIE], - 1 pkt do [KON] oraz [S]
 Jedna dodatkowa umiejętność bazująca wiedzy.
 
-Zmodyfikuj statystyki na karcie wedle wybranego wieku swojego Bohatera. Pamiętaj, że wieku nie da się zmienić w trakcie rozgrywki. Zastanów się, jaki wiek będzie najlepiej pasował do Twojej postaci. Choć nic nie stoi na przeszkodzie, by zagrać młodym magiem, najpotężniejsi z nich swoją wiedzę zdobywali latami. Równie trudno wyobrazić sobie, by stary, choć doświadczony złodziej, mógł konkurować z młodym pod względem szybkości ruchów.
+Zmodyfikuj statystyki na karcie wedle wybranego wieku swojego Wędrowca. Pamiętaj, że wieku nie da się zmienić w trakcie rozgrywki. Zastanów się, jaki wiek będzie najlepiej pasował do Twojej postaci. Choć nic nie stoi na przeszkodzie, by zagrać młodym magiem, najpotężniejsi z nich swoją wiedzę zdobywali latami. Równie trudno wyobrazić sobie, by stary, choć doświadczony złodziej, mógł konkurować z młodym pod względem szybkości ruchów.
 
 ## Pochodzenie
 
-Co prawda w swoim zamyśle gra skupia się przede wszystkim na Yardanach, ale możesz wybrać inne, dowolne pochodzenie. Poniżej znajdziesz opisy sześciu najliczniejszych ludów Aleoru, wraz z modyfikacjami atrybutów. Choć różnice między poszczególnymi rasami nie są aż tak wielkie, każda z nich posiada swoje indywidualne korzyści, zwykle niedostępne dla pozostałych. Warto to uwzględnić, by stworzyć możliwie ciekawą postać.
+Co prawda w swoim zamyśle gra skupia się przede wszystkim na Yardanach, ale możesz wybrać inne, dowolne pochodzenie. Poniżej znajdziesz opisy sześciu najliczniejszych ludów Aleoru. Choć różnice między poszczególnymi rasami nie są aż tak wielkie, każda z nich posiada swoje indywidualne korzyści, zwykle niedostępne dla pozostałych. Warto to uwzględnić, by stworzyć możliwie ciekawą postać.
 
 ### Yardanie
 
@@ -72,7 +72,7 @@ Władcy wilków zamieszkujący północ Aleoru. Od pokoleń żyją w cieniu Wyj�
 
 Silniejsi i bardziej wytrzymali niż elfy, których są bliskimi krewnymi. Podobnie jak ich kuzyni posiadają długie szpiczaste uszy. Są jednak lepiej zbudowani i zaprawieni w boju, a z racji surowego klimatu panującego na północy, twarze yardańskich mężczyzn zwykle porasta długa i gęsta broda. Dzięki bliskim kontaktom z Tascalczykami, nie obca im cięższa broń oraz pancerze, choć najczęściej wybierają dyskretniejszy oręż.
 
-W odróżnieniu od elfów, polują chętnie, wykorzystując do tego przede wszystkim wilki, z którymi łączy je szczególna więź. Zwykło się mawiać, że kiedy Yardanin umiera, jego wilk odchodzi do Urune razem z nim. Jako jedyni całkowicie odrzucają nauki magiczne. Ich mistyczna energia bazuje wyłącznie na łasce pochodzącej od Pramatki. Yardanin, chcąc władać magią, może wybrać jedynie drogę szamana.
+W odróżnieniu od elfów, polują chętnie, wykorzystując do tego przede wszystkim wilki, z którymi łączy je szczególna więź. Zwykło się mawiać, że kiedy Yardanin umiera, jego wilk odchodzi do Urune razem z nim. Jako jedyni całkowicie odrzucają nauki magiczne. Ich Mistyczna Energia bazuje wyłącznie na łasce pochodzącej od Pramatki. Yardanin, chcąc władać magią, może wybrać jedynie drogę szamana.
 
 Kolejną rzeczą, która odróżnia Yardan od pozostałych mieszkańców Aleoru, jest ich relacja z wilkowatymi. Więcej informacji na ten temat znajdziesz w rozdziale Zwierzęcy towarzysz. 
 
@@ -82,9 +82,9 @@ Kolejną rzeczą, która odróżnia Yardan od pozostałych mieszkańców Aleoru,
 
 Jeden z najliczniejszych i jednocześnie najmłodszych ludów zamieszkujących Aleor. Ich miasta oraz mniejsze osady skupiają się przede wszystkim w centralnej części kontynentu. Mimo że nie posiadają żadnych wrodzonych predyspozycji, dość dobrze radzą sobie w większości zawodów.
 
-Co ciekawe, to właśnie ludzie jako pierwsi rozwinęli tajemniczą naukę, która z czasem zaczęła wypierać szamanizm. Nowa moc, znacznie różniła się od czarów znanych szamanom. Przede wszystkim magiczne zaklęcia nie wymagały już łaski kapryśnych bóstw. W swej pysze niektórzy z ludzkich magów obwoływali się nawet nowymi bogami. Nie trudno domyślić się jaki był ich koniec...
+Co ciekawe, to właśnie ludzie jako pierwsi rozwinęli tajemniczą naukę, która z czasem zaczęła wypierać szamanizm. Nowa moc, znacznie różniła się od dotychczas znanych czarów. Przede wszystkim magiczne zaklęcia nie wymagały już łaski kapryśnych bóstw. W swej pysze niektórzy z ludzkich magów obwoływali się nawet nowymi bogami. Nie trudno domyślić się jaki był ich koniec...
 
-Ludzka magia wniosła też wiele dobrego do Aleoru. Przyjęta ochoczo i rozwijana przez inne ludy, przyczyniła się do postępu technologicznego i poprawy jakości życia wielu mieszkańców. Na uwagę zasługuje fakt, że ludzie są w jakiś sposób odporniejsi na działanie kryształów, dzięki czemu podczas korzystania z magii tracą tylko połowę punktów wytrzymałości.
+Ludzka magia wniosła też wiele dobrego do Aleoru. Przyjęta ochoczo i rozwijana przez inne ludy, przyczyniła się do postępu technologicznego i poprawy jakości życia wielu mieszkańców. Na uwagę zasługuje fakt, że ludzie są w jakiś sposób odporniejsi na działanie kryształów, dzięki czemu podczas korzystania z magii tracą tylko połowę Punktów Witalności.
 
 **Modyfikacje:** Ludzie mogą dopisać sobie 1 punkt do dowolnego atrybutu. Muszą jednak odjąć tyle samo od innej, wybranej przez siebie cechy. 
 
