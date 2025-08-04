@@ -21,7 +21,7 @@ Towarzysz posiada następujące cechy:
 - Zręczność
 - Inteligencja 
 
-Każde zwierzę posiada określone umiejętności, z których może korzystać na identycznych zasadach jak Bohaterowie.
+Każde zwierzę posiada określone umiejętności, z których może korzystać na identycznych zasadach jak Wędrowcy.
 
 Dodatkowo opis każdego z nich zawiera punkty wytrzymałości, zakres ruchu, siłę oraz modyfikator ataku, a także pancerz. Podczas walki stany, jak powalenie, czy krwawienie funkcjonują podobnie jak u ludzi.
 
@@ -35,13 +35,13 @@ To jednak dopiero połowa sukcesu - by zwierzę chciało dla Ciebie walczyć, po
 
 W momencie utworzenia więzi ze zwierzęciem, jego punkty **[DET]** zrównują się z punktami opiekuna. Dzieje się tak ponieważ zwierzęcy towarzysz wiernie wykonuje rozkazy swojego pana. Atakuje jak dodatkowy członek drużyny, bezpośrednio przed lub po Bohaterze - decyzję podejmuje gracz.
 
-Towarzysze, podobnie jak Bohaterowie, nie mogą forsować rzutów w walce.
+Towarzysze, podobnie jak Wędrowcy, nie mogą forsować rzutów w walce.
 
 ## Regeneracja i awanse
 
 ### Odpoczynek
 
-Towarzysze odzyskują wytrzymałość i determinację na podobnych zasadach jak Bohaterowie. Podczas krótkiego odpoczynku mogą przywrócić 3 punkty wytrzymałości, a w trakcie pełnego połowę wytrzymałości i pełnię determinacji. Dla zwierząt nie mają jednak zastosowania udogodnienia - wychowały się w dziczy i to ona jest ich domem. Podobnie jak w przypadku Wędrowców, skrajnie wyczerpane zwierzę, również może potrzebować nieco dłuższego odpoczynku, by w pełni wrócić do zdrowia.
+Towarzysze odzyskują wytrzymałość i determinację na podobnych zasadach jak Wędrowcy. Podczas krótkiego odpoczynku mogą przywrócić 3 punkty wytrzymałości, a w trakcie pełnego połowę wytrzymałości i pełnię determinacji. Dla zwierząt nie mają jednak zastosowania udogodnienia - wychowały się w dziczy i to ona jest ich domem. Podobnie jak w przypadku Wędrowców, skrajnie wyczerpane zwierzę, również może potrzebować nieco dłuższego odpoczynku, by w pełni wrócić do zdrowia.
 
 ### Rozwój
 

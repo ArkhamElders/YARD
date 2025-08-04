@@ -8,7 +8,7 @@ Zdolności yardańskich Wędrowców zostały dobrane tak, by odzwierciedlać fak
 
 Wyższy poziom sukcesu oznacza zwykle korzyści dla Wędrowców. W przypadku krytycznej porażki, muszą oni liczyć się z przykrymi konsekwencjami.
 
-Podczas wędrówek Bohaterowie spotkają wiele istot, których atrybuty i umiejętności będą przekraczały wartość 20 pkt. Nie trudno się domyślić, że w takim wypadku ciężko mówić o porażce. Bez względu jednak na tę wartość, występuje krytyczna porażka, określana przez wynik rzutu równy 20.
+Podczas wędrówek Wędrowcy spotkają wiele istot, których atrybuty i umiejętności będą przekraczały wartość 20 pkt. Nie trudno się domyślić, że w takim wypadku ciężko mówić o porażce. Bez względu jednak na tę wartość, występuje krytyczna porażka, określana przez wynik rzutu równy 20.
 
 ### Testy łączone
 
@@ -16,7 +16,7 @@ W szczególnych sytuacjach, Los może poprosić gracza o wykonanie testu łączo
 
 ### Wsparcie w testach
 
-Bohaterowie mogą wesprzeć rzucającego w teście jego umiejętności, dając mu tym samą kość premowią. Muszą jednak sami posiadać testowaną umiejętność na odpowiednim poziomie, zbliżonym (niższym maksymalnie o 2 pkt) do poziomu rzucającego. Dodatkowo wspierający poświęcają też jeden punkt determinacji na każdy poziom trudności testu: 1 pkt - normalny, 2 pkt - trudny, 3 pkt - krytyczny. Wsparcie w testach umiejętności możliwe jest jedynie poza walką.
+Wędrowcy mogą wesprzeć rzucającego w teście jego umiejętności, dając mu tym samą kość premowią. Muszą jednak sami posiadać testowaną umiejętność na odpowiednim poziomie, zbliżonym (niższym maksymalnie o 2 pkt) do poziomu rzucającego. Dodatkowo wspierający poświęcają też jeden punkt determinacji na każdy poziom trudności testu: 1 pkt - normalny, 2 pkt - trudny, 3 pkt - krytyczny. Wsparcie w testach umiejętności możliwe jest jedynie poza walką.
 
 **Przykład:** Jeden z Wędrowców próbuje rozpalić ognisko. Pozostali pomagają mu, znosząc drewno na opał lub osłaniając palenisko przed porywistym wiatrem.
 

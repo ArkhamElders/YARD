@@ -22,7 +22,7 @@ Twoja postać posiada 7 dużych (14 małych) miejsc w ekwipunku. Ma przy sobie �
 
 ## Więcej bagażu
 
-Choć nie ma możliwości, by Bohaterowie nosili przy sobie więcej niż są w stanie udźwignąć, nic nie stoi na przeszkodzie by... zaopatrzyć się w jaka lub konia, który poniesie dodatkowy bagaż. 
+Choć nie ma możliwości, by Wędrowcy nosili przy sobie więcej niż są w stanie udźwignąć, nic nie stoi na przeszkodzie by... zaopatrzyć się w jaka lub konia, który poniesie dodatkowy bagaż. 
 
 Oczywiście nie zalecamy używania wierzchowca w walce z oczywistych względów - w przypadku jego śmierci nie będzie komu nieść wyposażenia. Dlatego też domyślnie wierzchowiec nie jest traktowany w YARD jako Zwierzęcy towarzysz, choć nic nie stoi na przeszkodzie by nim był.
 
@@ -119,7 +119,7 @@ Poza bronią dobrze jeszcze mieć zbroję lub tarczę, które przynajmniej czę�
 
 ## Inne przedmioty
 
-Broń i pancerze to nie wszystko - Bohaterowie mogą i powinni zabrać na każdą wyprawę nieco dodatkowego sprzętu, który może się przydać w podróży. Poniżej znajduje się lista najbardziej przydatnych przedmiotów oraz posiłków (w końcu Twój Wędrowiec musi coś jeść).
+Broń i pancerze to nie wszystko - Wędrowcy mogą i powinni zabrać na każdą wyprawę nieco dodatkowego sprzętu, który może się przydać w podróży. Poniżej znajduje się lista najbardziej przydatnych przedmiotów oraz posiłków (w końcu Twój Wędrowiec musi coś jeść).
 
 ### Sakwy i pojemniki
 

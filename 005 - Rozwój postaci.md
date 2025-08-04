@@ -33,7 +33,7 @@ Obok umiejętności na kartach postaci znajdują się kropki, służące do zazn
 **Przykład:**
 Postać posiadająca 12 pkt kondycji i 6 pkt wiedzy co poziom zdobywa 2 pkt wytrzymałości oraz 1 pkt mistycznej energii.
 
-Dodatkowo, każdy awans to szansa na poznanie nowego zaklęcia. Bohaterowie mają pełną dowolność wyboru, muszą jednak pamiętać, że na użycie niektórych zaklęć mogą być jeszcze zbyt słabi (niewystarczająca ilość punktów **[ME]**). 
+Dodatkowo, każdy awans to szansa na poznanie nowego zaklęcia. Wędrowcy mają pełną dowolność wyboru, muszą jednak pamiętać, że na użycie niektórych zaklęć mogą być jeszcze zbyt słabi (niewystarczająca ilość punktów **[ME]**). 
 
 Więcej na temat korzystania z magii i szamanizmu znajdziesz w dalszej części podręcznika.
 

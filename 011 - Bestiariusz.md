@@ -4,13 +4,13 @@ Aleor zamieszkany jest nie tylko przez zwykłe zwierzęta, ale też fantastyczne
 
 W dalszej części znajdziesz przykładowe istoty, wykorzystane przede wszystkim w pierwszym, wprowadzającym scenariuszu. Z oczywistych względów, nie ma tu statystyk ludzi, elfów i innych grywalnych ras - te postaci tworzy się analogicznie do Wędrowców.
 
-Statystyki zwierząt i potworów są jedynie wzorcem, rodzajem wskazówki. Los może je zmodyfikować na własne potrzeby, jeśli uzna to za stosowne. Niektóre bestie mają też zmodyfikowany udźwig. Wilk, czy dzik, choć silny, nie nadaje się do bycia zwierzęciem jucznym. 
+Statystyki zwierząt i potworów są jedynie wzorcem, rodzajem wskazówki. Prowadzący może je zmodyfikować na własne potrzeby, jeśli uzna to za stosowne. Niektóre bestie mają też zmodyfikowany udźwig. Wilk, czy dzik, choć silny, niezbyt nadają się do bycia zwierzęciem jucznym. 
 
 ## Zwierzęta i bestie
 
 ### Bargest
 
-Zwierzęta te były kiedyś wilkami. Podstępnie schwytane przez gobliny i zmuszone do posłuszeństwa, wkrótce upodobniły się do swoich panów, nie tylko charakterem, ale i wyglądem. Długie, szpiczaste i pozbawione futra uszy oraz krótszy, zadarty ku górze pysk sprawiają, że głowa bargesta przypomina bardziej ogromny łeb nietoperza. Wilcze, nieco zdeformowane lecz muskularne ciało pokryte jest długą, szorstką sierścią w kolorze skał.
+Zwierzęta te były kiedyś wilkami. Podstępnie schwytane przez gobliny i zmuszone do posłuszeństwa, wkrótce upodobniły się do swoich nowych panów, nie tylko charakterem, ale i wyglądem. Długie, szpiczaste i pozbawione futra uszy oraz krótszy, zadarty ku górze pysk sprawiają, że głowa bargesta przypomina bardziej ogromny łeb nietoperza. Wilcze, nieco zdeformowane lecz muskularne ciało pokryte jest długą, szorstką sierścią w kolorze skał.
 
 S: 16   KON: 14   ZR: 14   INT: 6
 RUCH: 14   DET: 4   PW: 15
@@ -193,7 +193,7 @@ S: 24   KON: 20  ZR: 12   INT: 9   WIE: 6   CHA: 4
 RUCH: 16   DET: 8   PW: 22
 ATK: Arkana (12), Walka wręcz (16)
 
-Zwykle korzystają z ogromnych maczug, zadających 6 obrażeń. Mogą też atakować potężnymi łapskami, zadając 2d4+2 obuchowych obrażeń. Ich ataki mają dodatkowo 25% szans na zadanie 2 pkt obrażeń od zimna.
+Zwykle korzystają z ogromnych maczug, zadających 6 obrażeń. Mogą też atakować potężnymi łapskami, zadając 4 pkt obuchowych obrażeń. Ich ataki mają dodatkowo 25% szans na zadanie 2 pkt obrażeń od zimna.
 
 MOD: 3   PANCERZ: 4 punkty lodowego pancerza
 

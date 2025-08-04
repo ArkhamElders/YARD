@@ -26,6 +26,8 @@ Nieco inaczej wygląda przywoływania i kontroli rozmaitych istot. Każda z nich
 
 Co istotne, rzucający musi być zaznajomiony z tym stworzeniem i choć raz pokonać je w walce lub przekonać żywe, by mu pomogło, bez użycia magii. Czarownik lub szaman może przywołać jednocześnie do 5 sojuszników, wydając na każdego z nich odpowiednią ilość energii. 
 
+Niemal identyczne zasady dotyczą bardowskich pieśni, choć te nie zużywają Mistycznej Energii. Ich efekt trwa tak długo, jak długo słuchać melodię. To poniekąd tłumaczy, dlaczego orkowie zwykli wybijać wrogich grajków zaraz po rozpoczęciu walki. Zajęty pieśnią bard nie może jednak wykonywać akcji innych niż ruch, chyba że zdecyduje się ją przerwać.
+
 W przypadku zaklęć poza walką, ocenę kosztu mistycznej energii zostawiamy Mistrzowi Gry. W końcu nie ma potrzeby rozliczania się z każdej podpalonej pochodni.
 
 ## Szamanizm
