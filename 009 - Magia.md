@@ -26,13 +26,13 @@ Nieco inaczej wygląda przywoływania i kontroli rozmaitych istot. Każda z nich
 
 Co istotne, rzucający musi być zaznajomiony z tym stworzeniem i choć raz pokonać je w walce lub przekonać żywe, by mu pomogło, bez użycia magii. Czarownik lub szaman może przywołać jednocześnie do 5 sojuszników, wydając na każdego z nich odpowiednią ilość energii. 
 
-Niemal identyczne zasady dotyczą bardowskich pieśni, choć te nie zużywają Mistycznej Energii. Ich efekt trwa tak długo, jak długo słuchać melodię. To poniekąd tłumaczy, dlaczego orkowie zwykli wybijać wrogich grajków zaraz po rozpoczęciu walki. Zajęty pieśnią bard nie może jednak wykonywać akcji innych niż ruch, chyba że zdecyduje się ją przerwać.
+Niemal identyczne zasady dotyczą bardowskich pieśni, choć te nie zużywają Mistycznej Energii. Ich efekt trwa tak długo, jak długo słychać melodię. To poniekąd tłumaczy, dlaczego orkowie zwykli wybijać wrogich grajków zaraz na początku walki. Zajęty pieśnią bard nie może wykonywać akcji innych niż ruch, chyba że zdecyduje się ją przerwać.
 
-W przypadku zaklęć poza walką, ocenę kosztu mistycznej energii zostawiamy Mistrzowi Gry. W końcu nie ma potrzeby rozliczania się z każdej podpalonej pochodni.
+W przypadku zaklęć poza walką, ocenę kosztu Mistycznej Energii zostawmy Losowi. W końcu nie ma potrzeby rozliczania się z każdej podpalonej pochodni.
 
 ## Szamanizm
 
-Stanowi manifestację boskiej mocy. Magia szamanów jest mniej stabilna i słabsza od tej, wykorzystującej kryształy. Pozwala jednak czerpać do woli z dobrodziejstw natury podczas regeneracji - wystarczy, że szaman posiada odpowiednie zioła. Nie ma potrzeby czasochłonnego przyrządzania specjalnych mikstur.
+Stanowi manifestację boskiej mocy. Magia szamanów jest mniej stabilna niż katalizowana. Pozwala jednak czerpać do woli z dobrodziejstw natury podczas regeneracji - wystarczy, że szaman posiada odpowiednie zioła. Nie ma potrzeby czasochłonnego przyrządzania specjalnych mikstur.
 
 Wędrowiec chcący wybrać drogę szamana musi odprawić rytuał, w którym podporządkuje się woli bogów. Następnie może wybrać swój pierwszy żywioł. Co 5 poziomów będzie mógł wybrać kolejny.
 
@@ -44,7 +44,7 @@ Rzucając szamańskie zaklęcia, Wędrowiec musi liczyć się z karą w przypadk
 - Ziemia - skały, roślinność i sama ziemia są do Twojej dyspozycji
 - Powietrze - od delikatnego podmuchu, po niszczycielskie cyklony
 - Lód - mówią, że śmierć przez zamarznięcie jest piękna, bo kiedy człowiek zamarza, to na moment robi mu się tak ciepło...
-- Przyzywanie bestii - moc kontrolowania zwierząt i bestii, by służyły szamanowi
+- Przyzywanie bestii - moc kontrolowania istot, by służyły szamanowi
 - Łaska bogów - swoisty rodzaj modlitwy, mogącej zapewnić zaawansowane leczenie ran i rozmaite odporności
 
 
@@ -52,9 +52,9 @@ Rzucając szamańskie zaklęcia, Wędrowiec musi liczyć się z karą w przypadk
 
 Jak już wspomniano, magia katalizowana działa w oparciu o kryształy, które dosłownie stają się integralną częścią noszącego. Kryształ wrasta w ciało maga, dając mu moc w zamian za energię życiową. Mag określa swoją pierwszą specjalizację, następnie może wybrać kolejną co 5 poziomów.
 
-Każdorazowe rzucenie zaklęcia kosztuje czarodzieja nie tylko odpowiednią liczbę punktów mistycznej energii, ale też zdrowie w postaci 2 PW na każde 5 poziomów rzucającego. Mag może jednak zignorować głód kryształu, poświęcając liczbę punktów determinacji, równą swojemu poziomowi.
+Każdorazowe rzucenie zaklęcia kosztuje czarodzieja nie tylko odpowiednią liczbę punktów Mistycznej Energii, ale też zdrowie w postaci 2 PW na każde 5 poziomów rzucającego. Mag może jednak zignorować głód kryształu, poświęcając liczbę punktów determinacji, równą swojemu poziomowi.
 
-W odróżnieniu od szamanów, czarodzieje muszą przyrządzić z ziół mikstury, by móc ich używać. Zajmuje to trochę czasu, ale ekstrakt jest mocniejszy i ma lepsze działanie (1h / miksturę). Muszą też sukcesywnie pogłębiać swoją wiedzę, studiując księgi i zwoje lub eksperymentując. Zbyt długa przerwa w nauce może bowiem doprowadzić do tego, że nie będą w stanie zwiększyć swojej mocy (brak modyfikatora obrażeń związanego z poziomem rzucającego).
+W odróżnieniu od szamanów, czarodzieje muszą przyrządzić z ziół mikstury, by móc ich używać. Zajmuje to trochę czasu, ale ekstrakt jest mocniejszy i ma lepsze działanie (1h / miksturę). 
 
 ### Specjalizacje magii kryształów:
 - Iluzje - manipulacja umysłami i zmiana postrzegania rzeczywistości 

@@ -68,7 +68,7 @@ Innymi słowy, fortel to skorzystanie z wybranej umiejętności w trakcie walki.
 
 ## Ucieczki i pościgi
 
-Jednym z możliwych do zastosowania forteli, jest ucieczka z pola bitwy. Niezbyt to chwalebny czyn, jednak lepszy tchórzliwy bohater, niźli martwy. Zarówno ucieczkę, jak i pościg rozpatruje się przy pomocy przeciwstawnego testu Kociej zwinności. Dodatkowo, jeśli różnica wartości ruchu między postaciami wynosi 3 lub więcej, posiadacz wyższej wartości rzuca z dodatkową kością premiową.
+Jednym z możliwych do zastosowania forteli, jest ucieczka z pola bitwy. Niezbyt to chwalebny czyn, jednak lepszy tchórzliwy bohater, niźli martwy. Zarówno ucieczkę, jak i pościg rozpatruje się przy pomocy przeciwstawnego testu Kociej zwinności. Dodatkowo, jeśli różnica wartości ruchu między postaciami wynosi 3 lub więcej, posiadacz wyższej wartości rzuca z dodatkową Kością Szansy.
 
 ## Używanie magii
 
