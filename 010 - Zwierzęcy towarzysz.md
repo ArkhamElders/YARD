@@ -18,8 +18,8 @@ Towarzysz posiada następujące cechy:
 
 - Siła
 - Kondycja
-- Zręczność
-- Inteligencja 
+- Zwinność
+- Intelekt 
 
 Każde zwierzę posiada określone umiejętności, z których może korzystać na identycznych zasadach jak Wędrowcy.
 

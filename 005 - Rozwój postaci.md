@@ -24,11 +24,11 @@ Wyróżniamy dwa rodzaje awansów - mały i duży. Małe awanse dotyczą standar
 
 ### Mały awans
 
-Obok umiejętności na kartach postaci znajdują się kropki, służące do zaznaczania sukcesu w teście. Podczas awansu na kolejny poziom, Wędrowiec może zwiększyć poziom jednej z tych umiejętności o **1 pkt**. Każdy awans to także wzrost punktów wytrzymałości i mistycznej energii. Zależnie od wartości atrybutów **[KON]** (dla wytrzymałości) i **[WIE]** (dla mistycznej energii), ich wartość zwiększa się następująco:
+Obok umiejętności na kartach postaci znajdują się kropki, służące do zaznaczania sukcesu w teście. Podczas awansu na kolejny poziom, Wędrowiec może zwiększyć poziom jednej z tych umiejętności o **1 pkt**. Każdy awans to także wzrost punktów wytrzymałości i mistycznej energii. Zależnie od wartości atrybutów **[KON]** (dla wytrzymałości) i **[MDR]** (dla mistycznej energii), ich wartość zwiększa się następująco:
 
-**[KON]** / **[WIE]** < 8 - +1 pkt
-**[KON]** / **[WIE]** 8-15 - +2 pkt
-**[KON]** / **[WIE]** > 15 - +3 pkt 
+**[KON]** / **[MDR]** < 8 - +1 pkt
+**[KON]** / **[MDR]** 8-15 - +2 pkt
+**[KON]** / **[MDR]** > 15 - +3 pkt 
 
 **Przykład:**
 Postać posiadająca 12 pkt kondycji i 6 pkt wiedzy co poziom zdobywa 2 pkt wytrzymałości oraz 1 pkt mistycznej energii.
@@ -39,7 +39,7 @@ Więcej na temat korzystania z magii i szamanizmu znajdziesz w dalszej części 
 
 ### Duży awans
 
-Co pięć poziomów Wędrowiec może rozwinąć jeden, wybrany przez siebie atrybut o **1 pkt** oraz zwiększyć całkowitą liczbę punktów determinacji o 2. Warto zauważyć, że rozwój atrybutów wpływa na bazowy poziom umiejętności podstawowych oraz, w przypadku Siły, na udźwig. Pozwala także korzystać z potężniejszych broni, które mają podstawowy wymagany poziom Siły / Zręczności / Inteligencji.
+Co pięć poziomów Wędrowiec może rozwinąć jeden, wybrany przez siebie atrybut o **1 pkt** oraz zwiększyć całkowitą liczbę punktów determinacji o 2. Warto zauważyć, że rozwój atrybutów wpływa na bazowy poziom umiejętności podstawowych oraz, w przypadku Siły, na udźwig. Pozwala także korzystać z potężniejszych broni, które mają podstawowy wymagany poziom Siły / Zwinności / Intelektu.
 
 Elfy, jeśli zdecydują się rozwijać jednocześnie magię szamańską i katalizowaną, wybierają podczas dużego awansu po jednej dodatkowej dziedzinie z każdego rodzaju. Przykładowo może to być dostępny dla szamana żywioł ognia oraz nekromancja, będąca domeną magii kryształów.
 

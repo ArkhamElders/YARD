@@ -18,8 +18,8 @@ Wyższym wynikiem jest 14 i taka też jest bazowa wartość jego siły.
 Bywa tak, że gracze chcą ręcznie dostosować wartości poszczególnych atrybutów, odejmując punkty od jednej cechy i dodając do drugiej, bardziej zgodnej z profilem postaci, którą chcą zagrać. Oczywiście jest to możliwe, o ile suma punktów wszystkich cech pozostanie niezmieniona. Istotne jest również, by minimalna wartość każdego atrybutu mieściła się w przedziale 3-18. Jest to podyktowane dalszymi modyfikacjami atrybutów, opierającymi się o wiek oraz pochodzenia bohatera.
 
 **Przykład:**
-S - 14, KON - 15, ZR - 7, INT - 10, WIE - 12, CHA - 6
-Łącznie 64 punkty. Gracz decyduje się odjąć 2 pkt od Wiedzy i dołożyć po jednym do Siły oraz Kondycji. Suma to nadal 64 pkt. więc taki zabieg jest dozwolony.
+S - 14, KON - 15, ZW - 7, INT - 10, MDR - 12, UR - 6
+Łącznie 64 punkty. Gracz decyduje się odjąć 2 pkt od Mądrości i dołożyć po jednym do Siły oraz Kondycji. Suma to nadal 64 pkt. więc taki zabieg jest dozwolony.
 
 ### Siła [S]
 
@@ -29,16 +29,16 @@ Reprezentuje tężyznę fizyczną Wędrowca, zdolność do podnoszenia przedmiot
 
 Odpowiada za sprawność i wytrzymałość Twojej postaci. Określa jak długo jest w stanie biec lub jak bardzo jest odporna na zadawane obrażenia. Przydaje się także niestrudzonym poszukiwaczom przygód i tym, którzy wybrali życie w surowej dziczy.
 
-### Zręczność [ZR]
-Podstawowy atrybut złodziejskiego mistrza i prawdziwego łowcy. Zręczność wymagana jest wszędzie tam, gdzie w grę wchodzą szybkie, precyzyjne uderzenia. W razie kłopotów pomaga też szybko ewakuować się w bezpieczny sposób.
+### Zwinność [ZW]
+Podstawowy atrybut złodziejskiego mistrza i prawdziwego łowcy. Zwinność wymagana jest wszędzie tam, gdzie w grę wchodzą szybkie, precyzyjne uderzenia. W razie kłopotów pomaga też szybko ewakuować się w bezpieczny sposób.
 
-### Inteligencja [INT]
+### Intelekt [INT]
 Siła umysłu i zdolność dedukcji bywają nieocenione, zarówno podczas pertraktacji, jak i walki. Bystry Wędrowiec z łatwością znajdzie wyjście z najtrudniejszej nawet sytuacji. To także główna cecha osób parających się magią.
 
-### Wiedza [WIE]
+### Mądrość [MDR]
 Mądrość wynikająca ze studiowania ksiąg, błogosławieństwa bóstw i doświadczenia pozwala sprawnie posługiwać się tym, co niezrozumiałe dla innych. Pozwala tworzyć eliksiry, naprawiać broń i zgłębiać nauki dawnych mistrzów.
 
-### Charyzma [CHA]
+### Urok [UR]
 Odrobina uroku osobistego bywa niezwykle przydatna. Pozwala wywierać wpływ na ludzi, napotkane bestie i zwierzęta. To właśnie dzięki charyzmie zdobędziesz nowych sojuszników i kupisz lepsze uzbrojenie za śmieszną cenę.
 
 ## Wiek postaci
@@ -47,17 +47,17 @@ Mieszkańcy Aleoru starzeją się w różnym tempie. Wszystko zależy od pochodz
 
 ### Młodość
 
-Dodatkowy 1 pkt do [KON] oraz [ZR], - 2 pkt do [WIE]
-Jedna dodatkowa umiejętność podstawowa oparta na zręczności lub charyzmie. 
+Dodatkowy 1 pkt do [KON] oraz [ZW], - 2 pkt do [MDR]
+Jedna dodatkowa umiejętność podstawowa oparta na zwinności lub charyzmie. 
 
 ### Dojrzałość
 
-Dodaj 1 pkt do [WIE] oraz [S]
+Dodaj 1 pkt do [MDR] oraz [S]
 Standardowa liczba umiejętności podstawowych.
 
 ### Starość
 
-Dodatkowe 2 pkt do [WIE], - 1 pkt do [KON] oraz [S]
+Dodatkowe 2 pkt do [MDR], - 1 pkt do [KON] oraz [S]
 Jedna dodatkowa umiejętność bazująca wiedzy.
 
 Zmodyfikuj statystyki na karcie wedle wybranego wieku swojego Wędrowca. Pamiętaj, że wieku nie da się zmienić w trakcie rozgrywki. Zastanów się, jaki wiek będzie najlepiej pasował do Twojej postaci. Choć nic nie stoi na przeszkodzie, by zagrać młodym magiem, najpotężniejsi z nich swoją wiedzę zdobywali latami. Równie trudno wyobrazić sobie, by stary, choć doświadczony złodziej, mógł konkurować z młodym pod względem szybkości ruchów.
@@ -76,7 +76,7 @@ W odróżnieniu od elfów, polują chętnie, wykorzystując do tego przede wszys
 
 Kolejną rzeczą, która odróżnia Yardan od pozostałych mieszkańców Aleoru, jest ich relacja z wilkowatymi. Więcej informacji na ten temat znajdziesz w rozdziale Zwierzęcy towarzysz. 
 
-**Modyfikacje:** Dodatkowy 1 punkt [CHA] oraz [ZR]. Wartość [INT] zmniejszona o 2.
+**Modyfikacje:** Dodatkowy 1 punkt [UR] oraz [ZW]. Wartość [INT] zmniejszona o 2.
 
 ### Ludzie
 
@@ -100,7 +100,7 @@ Ci krzepcy mistrzowie kowalstwa słyną także z mocnej głowy, dzięki czemu s�
 
 Dumne i mądre krasnoludy uważane są za jedną z najstarszych ras, zamieszkujących Aleor. Przynajmniej same tak twierdzą.
 
-**Modyfikacje:** Dodatkow 1 punkt [WIE] oraz [S]. Wartość [CHA] zmniejszona o 2.
+**Modyfikacje:** Dodatkow 1 punkt [MDR] oraz [S]. Wartość [UR] zmniejszona o 2.
 
 ### Elfy
 
@@ -110,7 +110,7 @@ Elfy, choć nie tak silne jak pozostali, dysponują ogromną wiedzą, przekazywa
 
 Ich wyjątkowe poszanowanie wszelkiego życia sprawia, że niechętnie polują, a do walki stają wyłącznie przyparte do muru. Co ciekawe, mieszkańcy Puszczy nie budują typowych miast, ponieważ cała knieja stanowi ich dom. Wchodząc do lasu, wędrowiec może być pewien, że jest obserwowany. Elfy żyją bowiem na drzewach i pośród krzewów, chroniąc swoje siedliska przed wzrokiem obcych.
 
-**Modyfikacje:** Dodatkowy 1 punkt [WIE] oraz [INT]. Wartość [S] zmniejszona o 2.
+**Modyfikacje:** Dodatkowy 1 punkt [MDR] oraz [INT]. Wartość [S] zmniejszona o 2.
 
 ### Niziołki
 
@@ -122,7 +122,7 @@ Ci mali mieszkańcy Aleoru nie słyną za to z wyjątkowej mądrości. Można pr
 
 Ze względu na swój wzrost posiadają też wrodzone predyspozycje do unikania zagrożenia, dzięki czemu każdą próbę ukrycia lub uniku wykonują z Kością Premiową.
 
-**Modyfikacje:** Dodatkowy 1 punktów do [ZR] oraz [INT]. Wartość [WIE] zmniejszona o 2 punktów.
+**Modyfikacje:** Dodatkowy 1 punktów do [ZW] oraz [INT]. Wartość [MDR] zmniejszona o 2 punktów.
 
 ### Bestiaci
 
@@ -146,11 +146,11 @@ Określa punkty życia Twojej postaci, czyli ilość obrażeń, jakie jest w sta
 
 Dobry szaman, czy mag powinien nie tylko znać zaklęcia, ale też mieć wystarczająco sprawny umysł i odpowiednie umiejętności, by móc się nimi posługiwać. Dlatego wartość Punktów Mistycznej Energii stanowi suma wiedzy i inteligencji podzielona przez 2.
 
-**Przykład:** Wiedza i inteligencja postaci wynoszą odpowiednio 16 oraz 12, łącznie 28. Dzieląc ten wynik przez 2, otrzymamy wartość Mistycznej Energii równą 14. W tym przypadku nie ma również potrzeby zaokrąglania wyniku.
+**Przykład:** Mądrość i inteligencja postaci wynoszą odpowiednio 16 oraz 12, łącznie 28. Dzieląc ten wynik przez 2, otrzymamy wartość Mistycznej Energii równą 14. W tym przypadku nie ma również potrzeby zaokrąglania wyniku.
 
 ## Ruch
 
-Jak łatwo się domyślić, określa maksymalną odległość, na jaką może się przemieścić Wędrowiec w trakcie swojej rundy. Ruch wykorzystywany jest podczas walki/pościgu. Standardowa podróż, nie wymaga obliczania każdego metra. Zakres ruchu wylicza się analogicznie do wytrzymałości i mistycznej energii, z tym że wartościami bazowymi są kondycja i zręczność.
+Jak łatwo się domyślić, określa maksymalną odległość, na jaką może się przemieścić Wędrowiec w trakcie swojej rundy. Ruch wykorzystywany jest podczas walki/pościgu. Standardowa podróż, nie wymaga obliczania każdego metra. Zakres ruchu wylicza się analogicznie do wytrzymałości i mistycznej energii, z tym że wartościami bazowymi są kondycja i zwinność.
 
 
 ## Determinacja

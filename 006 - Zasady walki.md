@@ -112,6 +112,6 @@ Kiedy temperatura ciała spada, Wędrowiec traci jeden dodatkowy punkt wytrzyma�
 
 ### Porażenie
 
-Porażenie błyskawicą zadaje dodatkowy 1 pkt obrażeń w każdej rundzie (w wyjątkowych sytuacjach 2-3) i wpływa negatywnie na rzucanie czarów oraz inne umiejętności oparte na Inteligencji. Postać nie jest w stanie skoncentrować się wystarczająco, przez co każdy rzut wykonuje z Kością Karną.
+Porażenie błyskawicą zadaje dodatkowy 1 pkt obrażeń w każdej rundzie (w wyjątkowych sytuacjach 2-3) i wpływa negatywnie na rzucanie czarów oraz inne umiejętności oparte na Intelekcie. Postać nie jest w stanie skoncentrować się wystarczająco, przez co każdy rzut wykonuje z Kością Karną.
 
 To oczywiście tylko przykładowe stany - nic nie stoi na przeszkodzie, by Los lub sami gracze, dodali własne.

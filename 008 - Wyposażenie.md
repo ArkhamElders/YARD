@@ -75,10 +75,10 @@ Istotnym elementem jest również standardowy Stan, jaki powoduje krytyczne traf
 
 |Nazwa            |Dystans  |Obrażenia  |Atrybut|Stan       |Cena K/S   |
 |---    	      |---	    |---	    |---	|---	    |---	    |
-|Krótki łuk       |40 m     |1  	    |[ZR] 	|-   	    |10/5     	|
+|Krótki łuk       |40 m     |1  	    |[ZW] 	|-   	    |10/5     	|
 |Długi łuk        |80 m	    |2      	|[S]  	|-   	    |30/15     	|
 |Zwykła strzała   |-  	    |2      	|-   	|Krwawienie	|2/1       	|
-|Kusza            |20 m	    |2      	|[ZR]  	|-   	    |30/15      |
+|Kusza            |20 m	    |2      	|[ZW]  	|-   	    |30/15      |
 |Zwykły bełt   	  |-  	    |2	        |-   	|Krwawienie |2/1        |
 
 Po wygranej potyczce strzelec ma 1d4 szans (rzut Losu) na odzyskanie pocisków z ciał poległych.
@@ -91,11 +91,11 @@ Niektóre rodzaje broni wymagają też konkretnego poziomu siły, by móc jej sw
 
 |Nazwa          |Dystans    |Obrażenia  |Atrybut|Stan       |Cena K/S   |
 |---        	|---	    |---	    |---    	|---	    |---	    |
-|Kij            |-  	    |2  	    |[ZR]	    |Powalenie  |4/2     	|
+|Kij            |-  	    |2  	    |[ZW]	    |Powalenie  |4/2     	|
 |Włócznia       |- / S      |3      	|[S] > 8	|Krwawienie |10/5     	|
 |Pałka*         |-  	    |2      	|[S]    	|Powalenie	|4/2      	|
-|Sztylet*       |- / ZR     |2      	|[ZR]   	|Krwawienie |10/5       |
-|Krótki miecz* 	|-  	    |3	        |[ZR] > 10  |Krwawienie |20/10      |
+|Sztylet*       |- / ZW     |2      	|[ZW]   	|Krwawienie |10/5       |
+|Krótki miecz* 	|-  	    |3	        |[ZW] > 10  |Krwawienie |20/10      |
 |Długi miecz   	|-  	    |4	        |[S] > 12	|Krwawienie |30/15      |
 |Młot bojowy   	|-  	    |4	        |[S] > 14	|Powalenie  |40/20      |
 
@@ -115,7 +115,7 @@ Poza bronią dobrze jeszcze mieć zbroję lub tarczę, które przynajmniej czę�
 |Kolczuga*          |4              |[S] > 14  	|100/50   	|
 |Zbroja płytowa*	|6  	        |[S] > 16   |600/300    |
 
-*Ciężkie zbroje i hełmy utrudniają skradanie i rzucanie zaklęć, dając kość karną do testów umiejętności, których podstawowym atrybutem jest Zręczność lub Inteligencja. 
+*Ciężkie zbroje i hełmy utrudniają skradanie i rzucanie zaklęć, dając kość karną do testów umiejętności, których podstawowym atrybutem jest Zwinność lub Intelekt. 
 
 ## Inne przedmioty
 

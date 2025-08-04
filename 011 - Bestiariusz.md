@@ -12,7 +12,7 @@ Statystyki zwierząt i potworów są jedynie wzorcem, rodzajem wskazówki. Prowa
 
 Zwierzęta te były kiedyś wilkami. Podstępnie schwytane przez gobliny i zmuszone do posłuszeństwa, wkrótce upodobniły się do swoich nowych panów, nie tylko charakterem, ale i wyglądem. Długie, szpiczaste i pozbawione futra uszy oraz krótszy, zadarty ku górze pysk sprawiają, że głowa bargesta przypomina bardziej ogromny łeb nietoperza. Wilcze, nieco zdeformowane lecz muskularne ciało pokryte jest długą, szorstką sierścią w kolorze skał.
 
-S: 16   KON: 14   ZR: 14   INT: 6
+S: 16   KON: 14   ZW: 14   INT: 6
 RUCH: 14   DET: 4   PW: 15
 
 ATAK: Walka w zwarciu (13) 
@@ -32,7 +32,7 @@ Trudność oswajania/kontroli: krytyczna (dla Yardan trudna)
 
 Powszechne w lasach całego Aleoru, cenione za wybitne mięso i wytrzymałą skórę, szczególnie na północy. Zwykle trzymają się z dala od ludzi, ale w obliczu zagrożenia atakują niemal natychmiast. Choć pojedynczy dzik nie stanowi zagrożenia, w grupie potrafią być niebezpieczne. Niejeden Wędrowiec spędził już przez nie noc na drzewie, chroniąc w konarach swoje cztery litery.
 
-S: 14   KON: 11   ZR: 9   INT: 6
+S: 14   KON: 11   ZW: 9   INT: 6
 
 RUCH: 10   DET: 6   PW: 12
 
@@ -54,7 +54,7 @@ Trudność oswajania/kontroli: trudna
 
 Piękne, dostojne stworzenia, będące symbolem pradawnej mądrości yardańskich przodków. Wiją gniazda w jaskiniach, wysoko wśród Wyjących Szczytów. Te wyjątkowe istoty, będące połączeniem orła i lwa doskonale rozumieją ludzką mowę, choć same nie potrafią się nią posługiwać. Zwykle nie atakują bez potrzeby, choć lepiej nie wchodzić im w drogę.
 
-S: 20   KON: 20   ZR: 18   INT: 16
+S: 20   KON: 20   ZW: 18   INT: 16
 
 RUCH: 19   DET: 10   PW: 20
 
@@ -76,7 +76,7 @@ Trudność oswajania/kontroli: krytyczna
 
 Choć w lasach północy wciąż jeszcze można spotkać dziko żyjące jaki, większość z nich została udomowiona, szczególnie przez tascalskie krasnoludy. Wielkie, owłosione woły zdolne do przenoszenia sporych ładunków, cenione nie tylko ze względu na swoją siłę, ale i wyborne mleko oraz pierwszorzędne futra.
 
-S: 16   KON: 12   ZR: 6   INT: 6
+S: 16   KON: 12   ZW: 6   INT: 6
 
 RUCH: 9   DET: 2   PW: 14
 
@@ -97,7 +97,7 @@ Trudność oswajania/kontroli: zwykła
 
 Ogromne sześcionożne stworzenia, przypominające białe niedźwiedzie. Ich legendarna odporność na mróz sprawia, że wśród mieszkańców północy krążą legendy, jakoby zbroja z ich skóry dawała odporność również na magię zimna. Zwykle poruszają się parami (samiec i samica), choć widywane też były w stadach liczących do 10 osobników. Te skrajnie niebezpieczne bestie atakują bez ostrzeżenia. 
 
-S: 20   KON: 14   ZR: 8   INT: 8
+S: 20   KON: 14   ZW: 8   INT: 8
 RUCH: 11   DET: 6   PW: 17
 
 ATAK: Walka w zwarciu (14) 
@@ -116,7 +116,7 @@ Trudność oswajania/kontroli: krytyczna
 
 Święte zwierzęta Yardan, występujące licznie w północnych lasach. Zwykle trzymają się na uboczu, choć w wyjątkowych sytuacjach podchodzą bliżej ludzi, zwykle starając się im coś przekazać. Raz oswojone, stają się wiernymi towarzyszami, niejednokrotnie stając w obronie swojego przewodnika.
 
-S: 12   KON: 12   ZR: 16   INT: 9
+S: 12   KON: 12   ZW: 16   INT: 9
 RUCH: 14   DET: 4   PW: 12
 
 ATAK: Precyzyjne uderzenie (14)
@@ -138,7 +138,7 @@ Trudność oswajania/kontroli: trudna (dla Yardan zwykła)
 
 Niosące śmierć zjawy, pojawiające się wraz z mgłą. Mówi się, że te bezcielesne upiory to dusze wędrowców, którzy zgubili drogę. Nie posiadają ciała, więc żaden fizyczny atak nie może ich zranić, choć zdają się unikać ognia.
 
-S: -   KON: -   ZR: 16   INT: 13   WIE: 12   CHA: 4
+S: -   KON: -   ZW: 16   INT: 13   MDR: 12   UR: 4
 RUCH: 6   DET: 2   PW: 10
 ATK: Arkana (15)
 
@@ -148,13 +148,13 @@ ATK: Arkana (15)
 MOD: -   PANCERZ: Brak cielesnej powłoki. Odporność na wszelkie fizyczne ataki.
 
 Umiejętności:
-Furia (13), Odparcie magii (10), Wiedza tajemna (14)
+Furia (13), Odparcie magii (10), Mądrość tajemna (14)
 
 ### Digder
 
 Opancerzone monstra wielkości konia, poruszające się na czterech grubych, pajęczych nogach. Zupełnie ślepe, lokalizują swoją ofiarę wykrywając drgania i źródło ciepła. Tuż przy głowie posiadają dodatkową parę silnych kończyn, służącą do drążenia tuneli i... zabijania swojej zdobyczy. Ich ciała zdają się być zrobione z mieszaniny skał i rudy - ponoć kiedyś pewien krasnolud wykuł z jednego Digdera niezwykle wytrzymałą zbroję.
 
-S: 22   KON: 20   ZR: 12   INT: 6   WIE: -   CHA: -
+S: 22   KON: 20   ZW: 12   INT: 6   MDR: -   UR: -
 RUCH: 16   DET: 4   PW: 21
 ATK: Walka wręcz (17)
 
@@ -172,7 +172,7 @@ Trudność kontroli: trudna
 
 Podstępne, zgarbione humanoidy o szarej skórze, nieco silniejsze od swoich pobratymców zamieszkujących niziny. Choć rozumne, niezbyt inteligentne, ale mogą znać podstawy szamańskiej magii. Zwykle kryją się w jaskiniach, gdzie gromadzą wątpliwej jakości skarby i z lubością torturują swoje ofiary. Walcząc z goblinem, zapomnij o uczciwym pojedynku - albo zastawiły gdzieś pułapkę, albo ich broń jest zatruta.
 
-S: 10   KON: 9   ZR: 12   INT: 9   WIE: 8   CHA: 5
+S: 10   KON: 9   ZW: 12   INT: 9   MDR: 8   UR: 5
 RUCH: 10   DET: 5   PW: 9
 ATK: Precyzyjne uderzenie (13)
 
@@ -189,7 +189,7 @@ Trudność kontroli: łatwa
 
 Mierzące niemal 3 metry stwory, znane ze swojej żarłoczności i okrucieństwa. Jeśli wierzyć legendom, dawniej byli Yrminami, którzy jednak sprzeciwili się swojemu ojcu, za co ten zesłał na nich karę, zamieniając nieposłusznych w lodowe szkarady, skazane na wieczne potępienie. Ich plecy i twarze pokryte są gęstym futrem, a żółte, wściekłe oczy świecą złowrogo w ciemnościach. Ze skóry wyrastają lodowe rogi i kolce, które stanowią dodatkową ochronę. Zjedzą wszystko, co zdołają pochwycić, nawet jeśli będzie to paskudny goblin. 
 
-S: 24   KON: 20  ZR: 12   INT: 9   WIE: 6   CHA: 4
+S: 24   KON: 20  ZW: 12   INT: 9   MDR: 6   UR: 4
 RUCH: 16   DET: 8   PW: 22
 ATK: Arkana (12), Walka wręcz (16)
 
@@ -206,7 +206,7 @@ Trudność kontroli: trudna
 
 Przypominające olbrzymie krety istoty, pokryte grubym futrem, z którego wyrasta łuskowaty pancerz. Żyją głęboko pod ziemią i zwykle nie wychodzą na powierzchnię, chyba że zwabione zapachem krwi. W odróżnieniu od swoich mniejszych kuzynów nie są ślepe - wręcz przeciwnie, widzą doskonale, również w nocy. Zarówno skóra, jak i łuski talpara nadają się do stworzenia wyjątkowych elementów pancerza.
 
-S: 18   KON: 14   ZR: 8   INT: 6   WIE: -   CHA: -
+S: 18   KON: 14   ZW: 8   INT: 6   MDR: -   UR: -
 RUCH: 11   DET: 4   PW: 16
 ATK: Walka wręcz (17)
 
@@ -224,7 +224,7 @@ Trudność kontroli: łatwa
 
 Ymirni, znani również jako lodowe olbrzymy to według legend dzieci samego Ymira - jednego z pierwszych bogów zrodzonych z Pramatki, będącego uosobieniem zimna bezkresnej północy. Choć okrutni, nie wtrącają się zwykle w sprawy mieszkańców Aleoru, żyjąc w niewielkich skupiskach, wysoko w górach.
 
-S: 20   KON: 18   ZR: 10   INT: 10   WIE: 12   CHA: 8
+S: 20   KON: 18   ZW: 10   INT: 10   MDR: 12   UR: 8
 RUCH: 14   DET: 7   PW: 19
 ATK: Walka wręcz (16)
 
@@ -233,6 +233,6 @@ Ymirni walczą używając młotów bojowych lub toporów, zadających 6 pkt obra
 MOD: 3   PANCERZ: 2 punkty skórzanego pancerza, niekiedy dodatkowe 2 za korzystanie z tarczy
 
 Umiejętności:
-Atletyka (17), Furia (14), Wiedza tajemna (9)
+Atletyka (17), Furia (14), Mądrość tajemna (9)
 
 Trudność kontroli: trudna

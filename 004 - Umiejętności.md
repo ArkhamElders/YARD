@@ -43,43 +43,43 @@ Przy niektórych umiejętnościach znajdziesz dodatkowy zapis informujący o zas
 ### Walka
 
 - Arkana [INT]
-- Precyzyjne uderzenie [ZR]
+- Precyzyjne uderzenie [ZW]
 - Walka bezpośrednia [S]
 
 ### Wpływ
 
-- Łotrostwo [ZR]
-- Negocjacje [CHA]
-- Rozumienie zwierząt [CHA]
+- Łotrostwo [ZW]
+- Negocjacje [UR]
+- Rozumienie zwierząt [UR]
 
 ### Umiejętności ogólne
 
 - Atletyka [S]
 - Byle do przodu [KON]
-- Coś z niczego [WIE]
+- Coś z niczego [MDR]
 - Furia [S]
-- Kocia zwinność [ZR]
+- Kocia zwinność [ZW]
 - Obrońca [KON]
 - Odparcie magii [INT]
-- Szamański krąg [WIE]
+- Szamański krąg [MDR]
 - Sztuka przetrwania [KON]
-- Tropiciel [ZR]
-- Wędrowny bard [CHA]
-- Wiedza tajemna [WIE]
+- Tropiciel [ZW]
+- Wędrowny bard [UR]
+- Mądrość tajemna [MDR]
 
 ## Walka
 
-Różne style walki wymagają odmiennych umiejętności. Przykładowo strzelanie z łuku, czy podstępne ciosy sztyletem, wymagają bystrego oka i nie lada zręczności. Walka z użyciem miecza czy młota bojowego opiera się głównie na sile uderzenia, magowie oraz szamani korzystają przede wszystkim ze zdobytej wiedzy. Tworząc swojego Wędrowca weź pod uwagę jego cechy i na tej podstawie wybierz stosowne umiejętności. W końcu nie ma nic gorszego niż wojownik, któremu brakuje siły, by podnieść własny miecz.
+Różne style walki wymagają odmiennych umiejętności. Przykładowo strzelanie z łuku, czy podstępne ciosy sztyletem, wymagają bystrego oka i nie lada zwinności. Walka z użyciem miecza czy młota bojowego opiera się głównie na sile uderzenia, magowie oraz szamani korzystają przede wszystkim ze zdobytej wiedzy. Tworząc swojego Wędrowca weź pod uwagę jego cechy i na tej podstawie wybierz stosowne umiejętności. W końcu nie ma nic gorszego niż wojownik, któremu brakuje siły, by podnieść własny miecz.
 
 ### Arkana
 
-**Cecha bazowa:** Inteligencja **[INT]**
+**Cecha bazowa:** Intelekt **[INT]**
 
 Sama znajomość zaklęć i rytuałów nikogo nie uczyni magiem. Można przestudiować wszystkie zwoje świata, a mimo to nadal mieć umysł zbyt wątły, by sprawnie posługiwać się czarami. Arkana to umiejętność kontroli wypowiadanych słów i płynącej z nich mocy. 
 
 ### Precyzyjne uderzenie
 
-**Cecha bazowa:** Zręczność **[ZR]**
+**Cecha bazowa:** Zwinność **[ZW]**
 
 To poniekąd umiejętność kończenia walki nim ta na dobre się zacznie. Celny strzał lub cios pod żebro potrafi wykluczyć z pojedynku nawet największego śmiałka. Choć większość ludzi uważa takie metody za domenę łotrów, yardańscy myśliwi mają zgoła odmienne zdanie. Zapewne ta właśnie umiejętność czyni ich najlepszymi łowcami w całych krainach.
 
@@ -95,19 +95,19 @@ Słowa niejednokrotnie bywają skuteczniejsze od stali, dlatego każdy Wędrowie
 
 ### Łotrostwo
 
-**Cecha bazowa:** Zręczność **[ZR]**
+**Cecha bazowa:** Zwinność **[ZW]**
 
 Dotyczy nie tylko kradzieży, czy fałszerstwa ale także blefowania. Nie każdy pochwala tego typu zachowanie, ale można dzięki niemu uniknąć wielu problemów... Przynajmniej dopóki nikt Cię nie złapie za rękę.
 
 ### Negocjacje
 
-**Cecha bazowa:** Charyzma **[CHA]**
+**Cecha bazowa:** Urok **[UR]**
 
 Sztuka dyplomacji uratowała niejednego śmiałka przed poważnymi konsekwencjami swoich czynów. Negocjatorzy to także urodzeni kupcy, potrafiący wytargować najlepsze towary za kilka marnych groszy. W odróżnieniu od Blefu, umiejętność ta polega na mówieniu prawdy i nie niesie ze sobą ryzyka rozgniewania rozmówcy.
 
 ### Rozumienie zwierząt
 
-**Cecha bazowa:** Charyzma **[CHA]**
+**Cecha bazowa:** Urok **[UR]**
 
 Ostatnią, szczególnie dla Yardan, istotną umiejętnością, jest rozumienie zwierząt. Stanowi swoiste połączenie empatii, jasnych komunikatów oraz zachowań pozwalających na budowanie więzi np. z wilkiem lub sokołem.
 
@@ -135,7 +135,7 @@ Wieloletnie treningi pod okiem wybitnych mistrzów pozwalają Bohaterom przeć n
 
 ### Coś z niczego
 
-**Cecha bazowa:** Wiedza **[WIE]**
+**Cecha bazowa:** Mądrość **[MDR]**
 
 Umiejętność konstruowania pułapek, prowizorycznych narzędzi i innego rodzaju sprzętu bywa nieoceniona, szczególnie w dziczy. Choć często wymaga zgromadzenia niezbędnych materiałów, najlepsi adepci tej nieco pogardzanej sztuki, potrafią dosłownie na poczekaniu zmajstrować coś, co może pomóc drużynie bardziej, niż się tego spodziewa.
 
@@ -151,7 +151,7 @@ Tam, gdzie nie wystarcza zwykła siła, pojawia się furia. Wędrowiec, który w
 
 ### Kocia zwinność
 
-**Cecha bazowa:** Zręczność **[ZR]**
+**Cecha bazowa:** Zwinność **[ZW]**
 
 Zaglądanie do trudnodostępnych miejsc, skradanie i unikanie ciosów wymaga umiejętności. Kocia zwinność może niekiedy stanowić zastępstwo dla klasycznego łotrostwa, szczególnie gdy sakiewka napotkanego barona musi nagle zmienić właściciela. W razie kłopotów może również służyć do ratowania się ucieczką.
 
@@ -171,7 +171,7 @@ Pierwotny instynkt nakazujący chronić stado przed niebezpieczeństwem. Spadaj�
 
 ## Odparcie Magii
 
-**Cecha bazowa:** Inteligencja **[INT]**
+**Cecha bazowa:** Intelekt **[INT]**
 
 Silny umysł potrafi nie tylko biegle władać pradawną magią, ale też skutecznie się jej opierać. Jeśli wierzyć podaniom, to dzięki tej umiejętności szamanka Kwentu przeszła kiedyś wszystkie próby Pani Urune, która w nagrodę za wysiłek pobłogosławiła ją nadnaturalnie długim życiem.
 
@@ -181,7 +181,7 @@ Silny umysł potrafi nie tylko biegle władać pradawną magią, ale też skutec
 
 ### Szamański krąg
 
-**Cecha bazowa:** Wiedza **[WIE]**
+**Cecha bazowa:** Mądrość **[MDR]**
 
 W odróżnieniu od magów, szamani nie muszą uczyć się zaklęć z ksiąg lub zwojów. Ich moc pochodzi bowiem od bóstwa, które czczą. Potrafią także przyrządzać lecznicze napary i trucizny, korzystając wyłącznie z roślin, które znajdą pod ręką.
 
@@ -197,13 +197,13 @@ Umiejętność radzenia sobie w dziczy bywa szczególnie przydatna podczas dług
 
 ### Tropiciel
 
-**Cecha bazowa:** Inteligencja **[INT]**
+**Cecha bazowa:** Intelekt **[INT]**
 
 Prawdziwy łowca zachowuje czujność w każdej sytuacji. Z łatwością dostrzega ukrytego wroga, słyszy delikatny szmer dobiegający zza drzewa i rozpoznaje ślady, które ktoś inny mógłby przeoczyć. Umiejętność ta pozwala także wykrywać pułapki, co niekiedy może uratować życie. 
 
 ### Wędrowny bard
 
-**Cecha bazowa:** Charyzma **[CHA]**
+**Cecha bazowa:** Urok **[UR]**
 
 Któż z nas nie kocha karczmianych przyśpiewek i bohaterskich historii snutych przez złotoustych bardów? Umiejętność grania na instrumencie lub śpiewu może stanowić doskonały sposób na zarobek, szczególnie w obcym mieście. Odpowiednia melodia może też dodać otuchy, regenerując dodatkowe 2 pkt. determinacji. 
 
@@ -211,9 +211,9 @@ Któż z nas nie kocha karczmianych przyśpiewek i bohaterskich historii snutych
 
 *Niepowodzenie w walce skutkuje utratą dodatkowego punktu determinacji, a pieśń przynosi efekt odwrotny do zamierzonego.*
 
-### Wiedza tajemna
+### Mądrość tajemna
 
-**Cecha bazowa:** Wiedza **[WIE]**
+**Cecha bazowa:** Mądrość **[MDR]**
 
 Zdolność służy przede wszystkim uczeniu się magii ze zwojów, pojmowaniu starych ksiąg oraz znajomości run. Umożliwia także, pod warunkiem posiadania odpowiednich składników, przyrządzanie eliksirów oraz specjalnych glifów, działających jak magiczne pułapki. Niekiedy pozwala również zrozumieć obcy, w szczególności stary język. Chcąc nauczyć się nowego zaklęcia, mag musi zdać test, podobnie wynalazca, chcący konstruować wymyślne pułapki.
 
