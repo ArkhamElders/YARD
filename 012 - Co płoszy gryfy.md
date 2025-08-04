@@ -34,4 +34,6 @@ Za oknami wiatr zawył, uderzając w ściany karczmy niewidzialną pięścią. P
 
 ## Początek przygody
 
-Kwentu powie wprost, że poszukuje czterech śmiałków, którzy wyruszą, by sprawdzić, co takiego dzieje się w górach. Zaoferuje też całkiem pokaźną sumę dla każdego kto się pomoże w rozwiązaniu problemu - 2 sztuki złota i "wszystko, co znajdziecie po drodze".
+Kwentu powie wprost, że poszukuje czterech śmiałków, którzy wyruszą, by sprawdzić, co takiego dzieje się w górach. Zaoferuje też całkiem pokaźną sumę dla każdego kto się pomoże w rozwiązaniu problemu - 2 sztuki złota i "wszystko, co znajdziecie po drodze". Kiedy Wędrowcy już się zbiorą, powinni mieć chwilę, by się przedstawić i nieco poznać. Mogą też wypytać mieszkańców o ewentualne wskazówki, by dowiedzieć się, że w górach ostatnio kręci się więcej goblinów niż zwykle. Niektórzy ponoć widzieli też lodowego trolla.
+
+Powinni zdecydować, czy chcą wyruszyć natychmiast, czy wolą poczekać do rana. W pobliżu samej karczmy mogą również kupić dodatkowe uzbrojenie i zapasy żywności, a także wynająć jaki, które poniosą ich bagaż i ewentualne zdobycze.

@@ -48,7 +48,7 @@ Atletyka (13), Furia (14)
 
 Ekwipunek: 2 dodatkowe miejsca
 
-Trudność oswajania/kontroli: trudna
+Trudność oswajania/kontroli: łatwa
 
 ### Gryf
 
@@ -150,6 +150,8 @@ MOD: -   PANCERZ: Brak cielesnej powłoki. Odporność na wszelkie fizyczne atak
 Umiejętności:
 Furia (13), Odparcie magii (10), Mądrość tajemna (14)
 
+Trudność kontroli: trudna
+
 ### Digder
 
 Opancerzone monstra wielkości konia, poruszające się na czterech grubych, pajęczych nogach. Zupełnie ślepe, lokalizują swoją ofiarę wykrywając drgania i źródło ciepła. Tuż przy głowie posiadają dodatkową parę silnych kończyn, służącą do drążenia tuneli i... zabijania swojej zdobyczy. Ich ciała zdają się być zrobione z mieszaniny skał i rudy - ponoć kiedyś pewien krasnolud wykuł z jednego Digdera niezwykle wytrzymałą zbroję.
@@ -165,7 +167,7 @@ MOD: -   PANCERZ: 6 pkt pancerza
 Umiejętności:
 Atletyka (16), Furia (13), Odparcie magii (8)
 
-Trudność kontroli: trudna
+Trudność kontroli: krytyczna
 
 
 ### Górski goblin
