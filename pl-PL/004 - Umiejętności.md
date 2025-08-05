@@ -65,7 +65,7 @@ Przy niektórych umiejętnościach znajdziesz dodatkowy zapis informujący o zas
 - Sztuka przetrwania [KON]
 - Tropiciel [ZW]
 - Wędrowny bard [UR]
-- Mądrość tajemna [MDR]
+- Wiedza tajemna [MDR]
 
 ## Walka
 
@@ -211,7 +211,7 @@ Któż z nas nie kocha karczmianych przyśpiewek i bohaterskich historii snutych
 
 *Niepowodzenie w walce skutkuje utratą dodatkowego punktu determinacji, a pieśń przynosi efekt odwrotny do zamierzonego.*
 
-### Mądrość tajemna
+### Wiedza tajemna
 
 **Cecha bazowa:** Mądrość **[MDR]**
 

@@ -14,10 +14,10 @@ Animals differ from humans, so their attributes look a bit different. Naturally,
 
 You’ll find detailed stats for each animal in the Bestiary chapter. Here, we’ll focus on the stat overview.
 
-A companion has the following traits:
+A companion has the following attributes:
 
 - Strength
-- Endurance
+- Constitution
 - Agility
 - Intellect
 
@@ -49,6 +49,6 @@ Animals have limited learning ability, so their growth is a bit different and cl
 
 It also gets a boost to endurance, based on its current Endurance:
 
-- **[END]** < 8 --> +1 point
-- **[END]** 8-15 --> +2 points
-- **[END]** > 15 --> +3 points
+- **[CON]** < 8 --> +1 point
+- **[CON]** 8-15 --> +2 points
+- **[CON]** > 15 --> +3 points

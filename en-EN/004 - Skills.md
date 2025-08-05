@@ -65,7 +65,7 @@ Some skills have extra notes about their use in combat and the consequences of f
 - Survival [CON]
 - Tracker [AGI]
 - Wandering Bard [CHA]
-- Secret Wisdom [WIS]
+- Secret Knowledge [WIS]
 
 ## Combat
 
@@ -194,7 +194,7 @@ Who doesn't love tavern songs and heroic tales spun by silver-tongued bards? Pla
 
 *Failure in combat means losing an extra point of determination, and the song has the opposite effect.*
 
-### Secret Wisdom
+### Secret Knowledge
 **Base Attribute:** Wisdom **[WIS]**
 
 This skill is mainly for learning magic from scrolls, understanding old tomes, and knowing runes. With the right ingredients, you can also make potions and special glyphs that work as magical traps. Sometimes it lets you understand foreign, especially ancient, languages. To learn a new spell, a mage must pass a test, as must an inventor wanting to build fancy traps.

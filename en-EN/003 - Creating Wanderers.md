@@ -203,4 +203,4 @@ A basic skill's value is half the attribute it relies on (rounded down). For exa
 All other skills start at 1.
 
 ### Point Distribution
-Skill points, like attribute points, are fixed. **Every Wanderer has 18 points** to spend on any skills, adding them to base values. This fixed pool gives all players equal chances and encourages thoughtful character creation. Remember, no skill can exceed 20 points.
+Skill points, like attribute points, are fixed. **Every Wanderer has 18 points** to spend on any skills, adding them to base values. This fixed pool gives all players equal chances and encourages thoughtful character creation. Keep in mind that a skill's value can't be higher than its base attribute, and its natural cap is 20 points. (Of course, there are ways to push past that—magic, potions, and artifacts.)

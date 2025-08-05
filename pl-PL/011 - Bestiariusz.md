@@ -22,7 +22,7 @@ ATAK: Walka w zwarciu (13)
 MOD: 2   PANCERZ: 1 pkt skóry i futra
 
 Umiejętności:
-Atletyka (11), Furia (8), Kocia zwinność (11), Tropiciel (14)
+Atletyka (10), Furia (12), Kocia zwinność (11), Tropiciel (6)
 
 Ekwipunek: 2 dodatkowe miejsca
 
@@ -44,7 +44,7 @@ ATK: Walka w zwarciu (11)
 MOD: 1   PANCERZ: 2 pkt grubej skóry
 
 Umiejętności:
-Atletyka (13), Furia (14)
+Atletyka (10), Furia (14)
 
 Ekwipunek: 2 dodatkowe miejsca
 
@@ -65,7 +65,7 @@ ATK: Walka w zwarciu (17)
 - 3 od upadku za każde 10 m kiedy łapie ofiarę i wznosi się z nią w powietrze (po zdanym teście Atletyki)
 
 Umiejętności:
-Atletyka (16), Furia (10), Kocia zwinność (9), Odparcie magii (14)
+Atletyka (16), Furia (12), Kocia zwinność (9), Odparcie magii (14)
 
 MOD: 3   PANCERZ: 2 punkty grubej skóry
 
@@ -87,7 +87,7 @@ ATK: Walka w zwarciu (10)
 MOD: 2   PANCERZ: 2 pkt grubej skóry
 
 Umiejętności:
-Atletyka (14)
+Atletyka (12)
 
 Ekwipunek: 8 dodatkowych miejsc
 
@@ -106,7 +106,7 @@ ATAK: Walka w zwarciu (14)
 MOD: 2   PANCERZ: 4 pkt grubej skóry i futra
 
 Umiejętności:
-Atletyka (15), Furia (14), Kocia zwinność (9), Tropiciel (12)
+Atletyka (14), Furia (16), Kocia zwinność (7), Tropiciel (7)
 
 Ekwipunek: 10 dodatkowych miejsc
 
@@ -116,7 +116,7 @@ Trudność oswajania/kontroli: krytyczna
 
 Święte zwierzęta Yardan, występujące licznie w północnych lasach. Zwykle trzymają się na uboczu, choć w wyjątkowych sytuacjach podchodzą bliżej ludzi, zwykle starając się im coś przekazać. Raz oswojone, stają się wiernymi towarzyszami, niejednokrotnie stając w obronie swojego przewodnika.
 
-S: 12   KON: 12   ZW: 16   INT: 9
+S: 12   KON: 12   ZW: 16   INT: 14
 RUCH: 14   DET: 4   PW: 12
 
 ATAK: Precyzyjne uderzenie (14)
@@ -126,7 +126,7 @@ ATAK: Precyzyjne uderzenie (14)
 MOD: 2   PANCERZ: 1 pkt skóry i futra
 
 Umiejętności:
-Atletyka (9), Furia (7), Kocia zwinność (16), Tropiciel (16)
+Atletyka (9), Furia (7), Kocia zwinność (16), Tropiciel (14)
 
 Ekwipunek: 1 dodatkowe miejsce
 
@@ -140,7 +140,7 @@ Niosące śmierć zjawy, pojawiające się wraz z mgłą. Mówi się, że te bez
 
 S: -   KON: -   ZW: 16   INT: 13   MDR: 12   UR: 4
 RUCH: 6   DET: 2   PW: 10
-ATK: Arkana (15)
+ATK: Arkana (13)
 
 - 3 lodowego oddechu
 - 4 atakując widmowymi szponami
@@ -148,7 +148,7 @@ ATK: Arkana (15)
 MOD: -   PANCERZ: Brak cielesnej powłoki. Odporność na wszelkie fizyczne ataki.
 
 Umiejętności:
-Furia (13), Odparcie magii (10), Mądrość tajemna (14)
+Furia (13), Odparcie magii (11), Mądrość tajemna (10)
 
 Trudność kontroli: trudna
 
@@ -165,7 +165,7 @@ ATK: Walka wręcz (17)
 MOD: -   PANCERZ: 6 pkt pancerza
 
 Umiejętności:
-Atletyka (16), Furia (13), Odparcie magii (8)
+Atletyka (16), Furia (13), Odparcie magii (6)
 
 Trudność kontroli: krytyczna
 
@@ -176,14 +176,14 @@ Podstępne, zgarbione humanoidy o szarej skórze, nieco silniejsze od swoich pob
 
 S: 10   KON: 9   ZW: 12   INT: 9   MDR: 8   UR: 5
 RUCH: 10   DET: 5   PW: 9
-ATK: Precyzyjne uderzenie (13)
+ATK: Precyzyjne uderzenie (12)
 
 Zwykle korzystają z krótkich mieczy, sztyletów, włóczni lub kuszy i w taki też sposób atakują. Dodatkowo istnieje 50% szans na to, że ich broń będzie zatruta.
 
 MOD: -   PANCERZ: 2 punkty pancerza za skórzaną zbroję
 
 Umiejętności:
-Atletyka (8), Coś z niczego (12), Kocia zwinność (13)
+Atletyka (8), Coś z niczego (7), Kocia zwinność (10)
 
 Trudność kontroli: łatwa
 
@@ -193,7 +193,7 @@ Mierzące niemal 3 metry stwory, znane ze swojej żarłoczności i okrucieństwa
 
 S: 24   KON: 20  ZW: 12   INT: 9   MDR: 6   UR: 4
 RUCH: 16   DET: 8   PW: 22
-ATK: Arkana (12), Walka wręcz (16)
+ATK: Arkana (7), Walka wręcz (15)
 
 Zwykle korzystają z ogromnych maczug, zadających 6 obrażeń. Mogą też atakować potężnymi łapskami, zadając 4 pkt obuchowych obrażeń. Ich ataki mają dodatkowo 25% szans na zadanie 2 pkt obrażeń od zimna.
 
@@ -218,7 +218,7 @@ ATK: Walka wręcz (17)
 MOD: 3   PANCERZ: 4 pkt pancerza
 
 Umiejętności:
-Atletyka (16), Furia (13), Odparcie magii (8)
+Atletyka (12), Furia (13), Odparcie magii (8)
 
 Trudność kontroli: łatwa
 
@@ -235,6 +235,6 @@ Ymirni walczą używając młotów bojowych lub toporów, zadających 6 pkt obra
 MOD: 3   PANCERZ: 2 punkty skórzanego pancerza, niekiedy dodatkowe 2 za korzystanie z tarczy
 
 Umiejętności:
-Atletyka (17), Furia (14), Mądrość tajemna (9)
+Atletyka (17), Furia (14), Wiedza tajemna (9)
 
 Trudność kontroli: trudna

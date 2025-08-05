@@ -221,4 +221,4 @@ Wartość bazowa pozostałych umiejętności równa jest 1.
 
 ### Podział punktów
 
-Liczba punktów umiejętności, podobnie jak liczba punktów atrybutów, jest wartością stałą. **Każdy Wędrowiec ma do dyspozycji 18 pkt**, które może przeznaczyć na dowolne umiejętności, dodając je do wartości bazowych. Stała wartość puli punktów zapewnia wszystkim graczom równe szanse na starcie, jednocześnie skłaniając ich do przemyślanego tworzenia postaci. Pamiętaj, że wartość umiejętności nie może przekroczyć 20 punktów.
+Liczba punktów umiejętności, podobnie jak liczba punktów atrybutów, jest wartością stałą. **Każdy Wędrowiec ma do dyspozycji 18 pkt**, które może przeznaczyć na dowolne umiejętności, dodając je do wartości bazowych. Stała wartość puli punktów zapewnia wszystkim graczom równe szanse na starcie, jednocześnie skłaniając ich do przemyślanego tworzenia postaci. Pamiętaj, że wartość umiejętności nie może przekroczyć wartości atrybutu, na którym bazuje, a jej naturalna górna granica wynosi 20 punktów (tak, są sposoby na nadnaturalne zwiększenie tychże - zaklęcia, mikstury, artefakty).
