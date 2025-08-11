@@ -5,7 +5,7 @@ Creating your own character is, for many players, one of the most important part
 
 Wanderers are described by six main traits, known as Attributes. Each one directly affects skills, movement range, and the development of Vitality Points and Mystic Energy as you level up.
 
-Determining attribute values is simple. For each, roll **3d6** twice and take the higher result. Of course, Fate may allow you to reroll especially low results (below 9) to keep the party balanced.
+Determining attribute values is simple. For each, roll **3d6** twice and take the higher result. Of course, Fate may allow you to reroll especially low results (below 5) to keep the party balanced.
 
 **Example:**
 A player rolls for Strength, making two sets of three d6 rolls:
@@ -15,7 +15,7 @@ A player rolls for Strength, making two sets of three d6 rolls:
 
 The higher result is 14, so that's the base Strength value.
 
-Sometimes players want to manually adjust their attribute values, subtracting points from one trait and adding them to another to better fit their character concept. That's fine, as long as the total points remain unchanged. Each attribute must also be between 3 and 18, to allow for further modifications based on age and origin.
+Sometimes players want to manually adjust the values of individual attributes. In such cases, an alternative method can be used, which involves rolling six sets of 3d6. The total sum creates a pool of points to be distributed among the attributes. It is important that the minimum value of each attribute remains within the range of 3-18. This is due to further attribute modifications based on the character’s age and origin.
 
 **Example:**
 STR - 14, CON - 15, AGI - 7, INT - 10, WIS - 12, CHA - 6

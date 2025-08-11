@@ -5,7 +5,7 @@ Tworzenie własnej postaci to dla wielu graczy jeden z najistotniejszych element
 
 Wędrowców ów opisuje sześć głównych cech, znanych dalej jako Atrybuty. Każdy z nich wpływa bezpośrednio na umiejętności, zakres ruchu, a także rozwój Punktów Witalności oraz Mistycznej Energii podczas awansów.
 
-Określanie wartości atrybutów jest bardzo proste. Każdy z nich ustala się za pomocą dwóch rzutów **3d6**, wybierając wyższy wynik. Oczywiście Los może zezwolić na dodatkowe przerzucenie szczególnie niskich (poniżej 9) wyników, by zachować odpowiedni balans postaci w drużynie.
+Określanie wartości atrybutów jest bardzo proste. Każdy z nich ustala się za pomocą dwóch rzutów **3d6**, wybierając wyższy wynik. Oczywiście Los może zezwolić na dodatkowe przerzucenie szczególnie niskich (poniżej 5) wyników, by zachować odpowiedni balans postaci w drużynie.
 
 **Przykład:**
 Gracz losuje wartość Siły, wykonując dwie serie rzutów trzema kostkami d6:
@@ -15,7 +15,7 @@ Gracz losuje wartość Siły, wykonując dwie serie rzutów trzema kostkami d6:
 
 Wyższym wynikiem jest 14 i taka też jest bazowa wartość jego siły. 
 
-Bywa tak, że gracze chcą ręcznie dostosować wartości poszczególnych atrybutów, odejmując punkty od jednej cechy i dodając do drugiej, bardziej zgodnej z profilem postaci, którą chcą zagrać. Oczywiście jest to możliwe, o ile suma punktów wszystkich cech pozostanie niezmieniona. Istotne jest również, by minimalna wartość każdego atrybutu mieściła się w przedziale 3-18. Jest to podyktowane dalszymi modyfikacjami atrybutów, opierającymi się o wiek oraz pochodzenia bohatera.
+Bywa tak, że gracze chcą ręcznie dostosować wartości poszczególnych atrybutów. W takim wypadku można użyć odmiennej metody polegającej na wykonaniu sześciu rzutów **3d6**. Ich suma utworzy pulę punktów do rozdzielenia między atrybuty. Istotne jest, by minimalna wartość każdego atrybutu mieściła się w przedziale 3-18. Jest to podyktowane dalszymi modyfikacjami atrybutów, opierającymi się o wiek oraz pochodzenia bohatera.
 
 **Przykład:**
 S - 14, KON - 15, ZW - 7, INT - 10, MDR - 12, UR - 6

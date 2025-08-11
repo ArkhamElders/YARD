@@ -44,7 +44,7 @@ Rzucając szamańskie zaklęcia, Wędrowiec musi liczyć się z karą w przypadk
 - Ziemia - skały, roślinność i sama ziemia są do Twojej dyspozycji
 - Powietrze - od delikatnego podmuchu, po niszczycielskie cyklony
 - Lód - mówią, że śmierć przez zamarznięcie jest piękna, bo kiedy człowiek zamarza, to na moment robi mu się tak ciepło...
-- Przyzywanie bestii - moc kontrolowania istot, by służyły szamanowi
+- Przyzwanie bestii - moc kontrolowania istot, by służyły szamanowi
 - Łaska bogów - swoisty rodzaj modlitwy, mogącej zapewnić zaawansowane leczenie ran i rozmaite odporności
 
 
