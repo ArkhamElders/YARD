@@ -1,6 +1,6 @@
 # Magia
 
-Magia w YARD jest czymś powszechnym i odgrywa bardzo ważną rolę w życiu ludów zamieszkujących Aleor. Dzieli się na dwa odmienne rodzaje: szamańską oraz katalizowaną. Obie w znaczący sposób różnią się od siebie, obie mają swoich zwolenników i obie... Z resztą, czytaj dalej.
+Magia w YARD jest czymś powszechnym i odgrywa bardzo ważną rolę w życiu ludów zamieszkujących Aleor. Choć nie każdy mieszkaniec kontynentu musi być potężnym szamanem lub magiem, większość z nich korzysta z drobnych modlitw i zaklęć, ułatwiając sobie codzienne życie. Dzieli się na dwa odmienne rodzaje: szamańską oraz katalizowaną. Obie w znaczący sposób różnią się od siebie, obie mają swoich zwolenników i obie kształtują losy tego świata, nawet jeśli jego mieszkańcy nie do końca zdają sobie z tego sprawę.
 
 Pierwsza jest znacznie starsza i pochodzi od bogów, którzy obdarowali szamanów częścią swojej mocy, w zamian za oddawanie im czci. Bogowie choć łaskawi, wymagają bezwzględnego posłuszeństwa i... bywają kapryśni. Niedokładna inkantacja zaklęcia pośpiech, czy nieszczere intencje nauczyły już wielu zaklinaczy, czym jest gniew boga. 
 
@@ -32,11 +32,11 @@ W przypadku zaklęć poza walką, ocenę kosztu Mistycznej Energii zostawmy Loso
 
 ## Szamanizm
 
-Stanowi manifestację boskiej mocy. Magia szamanów jest mniej stabilna niż katalizowana. Pozwala jednak czerpać do woli z dobrodziejstw natury podczas regeneracji - wystarczy, że szaman posiada odpowiednie zioła. Nie ma potrzeby czasochłonnego przyrządzania specjalnych mikstur.
+Stanowi manifestację boskiej mocy. Magia szamanów jest mniej stabilna niż katalizowana. Pozwala jednak czerpać do woli z dobrodziejstw natury podczas regeneracji - wystarczy, że szaman posiada odpowiednie zioła. Nie ma potrzeby czasochłonnego przyrządzania specjalnych mikstur. Dodatkowym atutem jest fakt, iż szaman nie musi się uczyć zaklęć. Jego bóstwo ześle mu je w formie daru po zdanym teście. W praktyce, oznacza to możliwość wymyślenia zaklęcia podczas walki.
 
 Wędrowiec chcący wybrać drogę szamana musi odprawić rytuał, w którym podporządkuje się woli bogów. Następnie może wybrać swój pierwszy żywioł. Co 5 poziomów będzie mógł wybrać kolejny.
 
-Rzucając szamańskie zaklęcia, Wędrowiec musi liczyć się z karą w przypadku choćby najmniejszego niepowodzenia. Krytyczna porażka w teście dodatkowo spotęguje gniew bóstwa.
+Rzucając szamańskie zaklęcia, Wędrowiec musi liczyć się z karą w przypadku choćby najmniejszego niepowodzenia. W przypadku nieudanej inkantacji, obrażone bóstwo może przykładowo unieruchomić Wędrowca, zesłać na niego chorobę lub odebrać część sił witalnych Krytyczna porażka w teście dodatkowo spotęguje gniew bóstwa.
 
 ### Domeny magii szamanów:
 - Ogień - najstarsza dziedzina, dająca kontrolę nad płomieniami
@@ -54,7 +54,7 @@ Jak już wspomniano, magia katalizowana działa w oparciu o kryształy, które d
 
 Każdorazowe rzucenie zaklęcia kosztuje czarodzieja nie tylko odpowiednią liczbę punktów Mistycznej Energii, ale też zdrowie w postaci 2 PW na każde 5 poziomów rzucającego. Mag może jednak zignorować głód kryształu, poświęcając liczbę punktów determinacji, równą swojemu poziomowi.
 
-W odróżnieniu od szamanów, czarodzieje muszą przyrządzić z ziół mikstury, by móc ich używać. Zajmuje to trochę czasu, ale ekstrakt jest mocniejszy i ma lepsze działanie (1h / miksturę). 
+W odróżnieniu od szamanów, czarodzieje muszą przyrządzić z ziół mikstury, by móc ich używać. Zajmuje to trochę czasu, ale ekstrakt jest mocniejszy i ma lepsze działanie (1h / miksturę). Podobnie sprawa ma się z samym tworzeniem zaklęć. Mag potrzebuje czasu, by opracować i przetestować czar, którego później będzie mógł używać. Zwykle odbywa się to podczas odpoczynku - by to zrobić, czarownik musi zdać test wiedzy tajemnej.
 
 ### Specjalizacje magii kryształów:
 - Iluzje - manipulacja umysłami i zmiana postrzegania rzeczywistości 
