@@ -73,13 +73,13 @@ Also note the standard Condition caused by a critical hit with each weapon/ammo.
 
 ### Ranged Weapons
 
-|Name            |Range  |Damage  |Attribute|Condition   |Price B/S   |
-|---             |---    |---     |---      |---         |---         |
-|Short Bow       |40 m   |1       |[AGI]    |-           |10/5        |
-|Long Bow        |80 m   |2       |[STR]    |-           |30/15       |
-|Standard Arrow  |-      |2       |-         |Bleeding    |2/1         |
-|Crossbow        |20 m   |2       |[AGI]    |-           |30/15       |
-|Standard Bolt   |-      |2       |-         |Bleeding    |2/1         |
+|Name            |Range  |Damage  |Attribute|Condition   |Price Buy/Sell    |
+|---             |---    |---     |---      |---         |---               |
+|Short Bow       |40 m   |1       |[AGI]    |-           |10/5              |
+|Long Bow        |80 m   |2       |[STR]    |-           |30/15             |
+|Standard Arrow  |-      |2       |-        |Bleeding    |2/1               |
+|Crossbow        |20 m   |2       |[AGI]    |-           |30/15             |
+|Standard Bolt   |-      |2       |-        |Bleeding    |2/1               |
 
 After a fight, the shooter has 1d4 chances (Fate's roll) to recover ammo from fallen bodies.
 
@@ -133,7 +133,7 @@ Weapons and armor aren't everything—Wanderers should bring extra gear for the 
 
 ### Potions and Herbs
 
-|Name                  |Effect                                                                  |Price B/S  |
+|Name                  |Effect                                                                   |Price B/S  |
 |---                   |---                                                                      |---        |
 |Vitality Potion       |Restores up to 8 [VP]                                                    |10/5       |
 |Mysticism Potion      |Restores up to 8 [ME]                                                    |10/5       |
@@ -163,5 +163,5 @@ Weapons and armor aren't everything—Wanderers should bring extra gear for the 
 |Torch [M]    |Lights up the dark, can also be used in combat for 2 damage +1 fire. Lasts about 4 hours.    |2/1        |
 |Lockpicks [M]|Help open locks and disarm traps, giving a Bonus Die to tests. Reusable.                     |10/5       |
 |Tent [L]     |Lets you rest without a Survival test when camping in the wild. Fits 3 people.               |20/10      |
-|Lute [L]     |Basic instrument for most bards.                                                            |20/10      |
+|Lute [L]     |Basic instrument for most bards.                                                             |20/10      |
 |Bandages [M] |5 pieces. Used to stop bleeding.                                                             |4/2        |

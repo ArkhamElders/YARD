@@ -67,19 +67,19 @@ Pociski, zioła, mikstury oraz zwoje wymagają specjalnego pojemnika lub sakwy d
 
 Poniżej znajdują się tabele uzbrojenia z podziałem na dystansową i służącą do walki wręcz. W przypadku broni dystansowej, opisane zostały także odpowiednia dla nich pociski i dystans. 
 
-Zwróć uwagę na Atrybuty wymagane do posługiwania się danym przedmiotem, ponieważ są one ściśle powiązane z używaną umiejętnością. Siła odpowiada za walkę w zwarciu, natomiast precyzyjne uderzenie wymaga Zręczności.
+Zwróć uwagę na Atrybuty wymagane do posługiwania się danym przedmiotem, ponieważ są one ściśle powiązane z używaną umiejętnością. Siła odpowiada za walkę w zwarciu, natomiast precyzyjne uderzenie wymaga Zwinności.
 
 Istotnym elementem jest również standardowy Stan, jaki powoduje krytyczne trafienie daną bronią / pociskiem. Oczywiście niekiedy strzał z łuku może również powalić przeciwnika. Los powinien rozpatrzyć okoliczności i podjąć decyzję.
 
 ### Broń dystansowa
 
-|Nazwa            |Dystans  |Obrażenia  |Atrybut|Stan       |Cena K/S   |
-|---    	      |---	    |---	    |---	|---	    |---	    |
-|Krótki łuk       |40 m     |1  	    |[ZW] 	|-   	    |10/5     	|
-|Długi łuk        |80 m	    |2      	|[S]  	|-   	    |30/15     	|
-|Zwykła strzała   |-  	    |2      	|-   	|Krwawienie	|2/1       	|
-|Kusza            |20 m	    |2      	|[ZW]  	|-   	    |30/15      |
-|Zwykły bełt   	  |-  	    |2	        |-   	|Krwawienie |2/1        |
+|Nazwa            |Dystans  |Obrażenia  |Atrybut|Stan       |Cena Kupna/Sprzedaży   |
+|---    	      |---	    |---	    |---	|---	    |---	                |
+|Krótki łuk       |40 m     |1  	    |[ZW] 	|-   	    |10/5     	            |
+|Długi łuk        |80 m	    |2      	|[S]  	|-   	    |30/15     	            |
+|Zwykła strzała   |-  	    |2      	|-   	|Krwawienie	|2/1       	            |
+|Kusza            |20 m	    |2      	|[ZW]  	|-   	    |30/15                  |
+|Zwykły bełt   	  |-  	    |2	        |-   	|Krwawienie |2/1                    |
 
 Po wygranej potyczce strzelec ma 1d4 szans (rzut Losu) na odzyskanie pocisków z ciał poległych.
 

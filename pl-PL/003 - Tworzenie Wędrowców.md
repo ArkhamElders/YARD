@@ -23,8 +23,8 @@ Wyższym wynikiem jest 14 i taka też jest bazowa wartość jego siły. Przy uż
 Bywa tak, że gracze chcą ręcznie dostosować wartości poszczególnych atrybutów. W takim wypadku można użyć odmiennej metody polegającej na wykonaniu sześciu rzutów **3d6**. Ich suma utworzy pulę punktów do rozdzielenia między atrybuty. Istotne jest, by minimalna wartość każdego atrybutu mieściła się w przedziale 3-18. Jest to podyktowane dalszymi modyfikacjami atrybutów, opierającymi się o wiek oraz pochodzenia bohatera.
 
 **Przykład:**
-S - 14, KON - 15, ZW - 7, INT - 10, MDR - 12, UR - 6
-Łącznie 64 punkty. Gracz decyduje się odjąć 2 pkt od Mądrości i dołożyć po jednym do Siły oraz Kondycji. Suma to nadal 64 pkt. więc taki zabieg jest dozwolony.
+S - 14, WYT - 15, ZW - 7, INT - 10, MDR - 12, UR - 6
+Łącznie 64 punkty. Gracz decyduje się odjąć 2 pkt od Mądrości i dołożyć po jednym do Siły oraz Wytrzymałości. Suma to nadal 64 pkt. więc taki zabieg jest dozwolony.
 
 ## Atrybuty
 
@@ -32,7 +32,7 @@ S - 14, KON - 15, ZW - 7, INT - 10, MDR - 12, UR - 6
 
 Reprezentuje tężyznę fizyczną Wędrowca, zdolność do podnoszenia przedmiotów i broni. Przekłada się na zdolność zadawania wysokich obrażeń podczas walki wręcz oraz odpierania ataków. Stanowi podstawową cechę wszystkich wojowników.
 
-### Kondycja [KON]
+### Wytrzymałość [WYT]
 
 Odpowiada za sprawność i wytrzymałość Twojej postaci. Określa jak długo jest w stanie biec lub jak bardzo jest odporna na zadawane obrażenia. Przydaje się także niestrudzonym poszukiwaczom przygód i tym, którzy wybrali życie w surowej dziczy.
 
@@ -54,7 +54,7 @@ Mieszkańcy Aleoru starzeją się w różnym tempie. Wszystko zależy od pochodz
 
 ### Młodość
 
-Dodatkowy 1 pkt do [KON] oraz [ZW], - 2 pkt do [MDR]
+Dodatkowy 1 pkt do [WYT] oraz [ZW], - 2 pkt do [MDR]
 Jedna dodatkowa umiejętność podstawowa oparta na zwinności lub charyzmie. 
 
 ### Dojrzałość
@@ -64,7 +64,7 @@ Standardowa liczba umiejętności podstawowych.
 
 ### Starość
 
-Dodatkowe 2 pkt do [MDR], - 1 pkt do [KON] oraz [S]
+Dodatkowe 2 pkt do [MDR], - 1 pkt do [WYT] oraz [S]
 Jedna dodatkowa umiejętność bazująca wiedzy.
 
 Zmodyfikuj statystyki na karcie wedle wybranego wieku swojego Wędrowca. Pamiętaj, że wieku nie da się zmienić w trakcie rozgrywki. Zastanów się, jaki wiek będzie najlepiej pasował do Twojej postaci. Choć nic nie stoi na przeszkodzie, by zagrać młodym magiem, najpotężniejsi z nich swoją wiedzę zdobywali latami. Równie trudno wyobrazić sobie, by stary, choć doświadczony złodziej, mógł konkurować z młodym pod względem szybkości ruchów.
@@ -145,9 +145,9 @@ Chociaż okrutny czas mają już za sobą, niekiedy wciąż można spotkać się
 
 ## Witalność
 
-Określa punkty życia Twojej postaci, czyli ilość obrażeń, jakie jest w stanie wytrzymać, nim jej przygoda się zakończy. Obliczanie Punktów Witalności to nic innego jak dodanie do siebie wartości Siły i Kondycji oraz podzielenie wyniku przez dwa, zaokrąglając w dół.
+Określa punkty życia Twojej postaci, czyli ilość obrażeń, jakie jest w stanie wytrzymać, nim jej przygoda się zakończy. Obliczanie Punktów Witalności to nic innego jak dodanie do siebie wartości Siły i Wytrzymałości oraz podzielenie wyniku przez dwa, zaokrąglając w dół.
 
-**Przykład:** Postać posiada 14 punktów Siły oraz 15 punktów Kondycji, co daje łącznie 29 punktów. Dzieląc przez 2 otrzymujemy wartość 14.5, co po zaokrągleniu daje nam Witalność równą 14 pkt.
+**Przykład:** Postać posiada 14 punktów Siły oraz 15 punktów Wytrzymałości, co daje łącznie 29 punktów. Dzieląc przez 2 otrzymujemy wartość 14.5, co po zaokrągleniu daje nam Witalność równą 14 pkt.
 
 ## Mistyczna Energia
 
@@ -157,7 +157,7 @@ Dobry szaman, czy mag powinien nie tylko znać zaklęcia, ale też mieć wystarc
 
 ## Ruch
 
-Jak łatwo się domyślić, określa maksymalną odległość, na jaką może się przemieścić Wędrowiec w trakcie swojej rundy. Ruch wykorzystywany jest podczas walki/pościgu. Standardowa podróż, nie wymaga obliczania każdego metra. Zakres ruchu wylicza się analogicznie do wytrzymałości i mistycznej energii, z tym że wartościami bazowymi są kondycja i zwinność.
+Jak łatwo się domyślić, określa maksymalną odległość, na jaką może się przemieścić Wędrowiec w trakcie swojej rundy. Ruch wykorzystywany jest podczas walki/pościgu. Standardowa podróż, nie wymaga obliczania każdego metra. Zakres ruchu wylicza się analogicznie do witalności i mistycznej energii, z tym że wartościami bazowymi są kondycja i zwinność.
 
 
 ## Determinacja

@@ -55,14 +55,14 @@ Przy niektórych umiejętnościach znajdziesz dodatkowy zapis informujący o zas
 ### Umiejętności ogólne
 
 - Atletyka [S]
-- Byle do przodu [KON]
+- Byle do przodu [WYT]
 - Coś z niczego [MDR]
 - Furia [S]
 - Kocia zwinność [ZW]
-- Obrońca [KON]
+- Obrońca [WYT]
 - Odparcie magii [INT]
 - Szamański krąg [MDR]
-- Sztuka przetrwania [KON]
+- Sztuka przetrwania [WYT]
 - Tropiciel [ZW]
 - Wędrowny bard [UR]
 - Wiedza tajemna [MDR]
@@ -129,7 +129,7 @@ Stanowi praktyczne zastosowanie siły Wędrowca. Pozwala przeciągać, podnosić
  
 ### Byle do przodu
 
-**Cecha bazowa:** Kondycja **[KON]**
+**Cecha bazowa:** Kondycja **[WYT]**
 
 Wieloletnie treningi pod okiem wybitnych mistrzów pozwalają Bohaterom przeć naprzód, bez oglądania się za siebie. Wszystko jedno, czy przyjdzie im się wspinać, skakać nad rozpadlinami, pokonywać wpław jeziora, czy jechać konno bez postoju. Rozwinięcie umiejętności pow. 70% pozwala także ignorować **1 pkt** obrażeń od żywiołów podczas wędrówki (nie w walce).
 
@@ -161,7 +161,7 @@ Zaglądanie do trudnodostępnych miejsc, skradanie i unikanie ciosów wymaga umi
 
 ### Obrońca
 
-**Cecha bazowa:** Kondycja **[KON]**
+**Cecha bazowa:** Kondycja **[WYT]**
 
 Pierwotny instynkt nakazujący chronić stado przed niebezpieczeństwem. Spadający głaz, zabłąkana strzała, czy płonące domostwo - obrońca nawet za cenę życia będzie starał się ocalić pobratymców. 
 
@@ -191,7 +191,7 @@ W odróżnieniu od magów, szamani nie muszą uczyć się zaklęć z ksiąg lub 
 
 ### Sztuka przetrwania
 
-**Cecha bazowa:** Kondycja **[KON]**
+**Cecha bazowa:** Kondycja **[WYT]**
 
 Umiejętność radzenia sobie w dziczy bywa szczególnie przydatna podczas długich wędrówek. Pozwala z łatwością rozbić obóz, bez potrzeby posiadania namiotu, a także rozpalić ognisko w mniej sprzyjających warunkach. W odróżnieniu od umiejętności Byle do przodu, nie ma tu wymaganego poziomu podczas redukcji obrażeń (1 pkt) pochodzących od skrajnej temperatury. Zakończony sukcesem test pozwala także na regenerację dodatkowych 3 punktów zdrowia poza walką.
 
