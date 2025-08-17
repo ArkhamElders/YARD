@@ -24,7 +24,7 @@ Wyróżniamy dwa rodzaje awansów - mały i duży. Małe awanse dotyczą standar
 
 ### Mały awans
 
-Obok umiejętności na kartach postaci znajdują się kropki, służące do zaznaczania sukcesu w teście. Podczas awansu na kolejny poziom, Wędrowiec może zwiększyć poziom jednej z tych umiejętności o **1 pkt**. Każdy awans to także wzrost punktów wytrzymałości i mistycznej energii. Zależnie od wartości atrybutów **[KON]** (dla wytrzymałości) i **[MDR]** (dla mistycznej energii), ich wartość zwiększa się następująco:
+Obok umiejętności na kartach postaci znajdują się kropki, służące do zaznaczania sukcesu w teście. Podczas awansu na kolejny poziom, Wędrowiec może zwiększyć poziom jednej z tych umiejętności o **1 pkt**. Każdy awans to także wzrost punktów witalności i mistycznej energii. Zależnie od wartości atrybutów **[KON]** (dla witalności) i **[MDR]** (dla mistycznej energii), ich wartość zwiększa się następująco:
 
 **[KON]** / **[MDR]** < 8 - +1 pkt
 **[KON]** / **[MDR]** 8-15 - +2 pkt

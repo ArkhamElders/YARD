@@ -2,7 +2,7 @@
 
 Choć czasy wojen magów minęły, walka nadal jest powszechnym zjawiskiem w Aleorze. Świat pełen jest bestii, magicznych istot i bandyckich szajek, czyhających na zbłąkanych wędrowców. Jeśli chcesz zostać prawdziwym bohaterem, musisz wiedzieć jak sobie radzić podczas potyczki.
 
-Na początku każdej walki należy ustalić kolejność, według której postaci będą atakować. Aby to zrobić, porównuje się wartość Determinacji wszystkich Wędrowców oraz przeciwników biorących udział w starciu. Postać z najwyższą liczbą punktów **[DET]** atakuje jako pierwsza, a postać z najniższą - ostatnia. W przypadku, gdy dwie lub więcej postaci posiada taką samą liczbę punktów **[DET]**, o kolejności między nimi decyduje dodatkowy rzut **3d6** - postać z wyższym wynikiem atakuje pierwsza. Co istotne, rzut ten nie wpływa w żaden sposób na ilość posiadanych przez Wędrowca punktów Determinacji.
+Na początku każdej tury walki należy ustalić kolejność, według której postaci będą atakować. Aby to zrobić, porównuje się wartość Determinacji wszystkich Wędrowców oraz przeciwników biorących udział w starciu. Postać z najwyższą liczbą punktów **[DET]** atakuje jako pierwsza, a postać z najniższą - ostatnia. W przypadku, gdy dwie lub więcej postaci posiada taką samą liczbę punktów **[DET]**, o kolejności między nimi decyduje dodatkowy rzut **3d6** - postać z wyższym wynikiem atakuje pierwsza. Co istotne, rzut ten nie wpływa w żaden sposób na ilość posiadanych przez Wędrowca punktów Determinacji.
 
 Zdarzają się sytuacje, w których dochodzi do ataku z zaskoczenia. Ukryty w cieniu łotrzyk może zaatakować przeciwnika jeszcze przed rozpoczęciem walki i ustaleniem kolejności. W ramach przewagi, przysługuje mu także kość premiowa do ataku.
 
@@ -92,7 +92,7 @@ Broń sieczna i kłuta może powodować krwawiące rany, które prowadzą do pow
 
 ### Oślepienie
 
-Wyjątkowo paskudny stan, mogący prowadzić nawet do trwałej utraty wzroku. Osoba czasowo lub trwale niewidoma wszystkie testy wykonuje ze zwiększoną o jeden poziom trudnością lub dodatkową **[KK]**. Jeżeli, w przypadku krytycznego ataku lub innego testu, Wędrowiec oślepnie całkowicie, przywrócenie wzroku będzie wymagało interwencji szamana lub wysokiego rangą maga.
+Wyjątkowo paskudny stan, mogący prowadzić nawet do trwałej utraty wzroku. Osoba czasowo lub trwale niewidoma wszystkie testy wykonuje ze zwiększoną o jeden poziom trudnością lub dodatkową **[PK]**. Jeżeli, w przypadku krytycznego ataku lub innego testu, Wędrowiec oślepnie całkowicie, przywrócenie wzroku będzie wymagało interwencji szamana lub wysokiego rangą maga.
  
 ### Unieruchomienie
 
@@ -100,7 +100,7 @@ Rozmaite zaklęcia, pułapki, czy choćby dzikie pnącza potrafią ograniczyć s
 
 ### Zatrucie
 
-Stan ten w swoim działaniu przypomina nieco krwawienie, jednak jego zniwelowanie wymaga użycia antidotum. Standardowa utrata punktów wytrzymałości wynosi 1 pkt na rundę, chyba że Los zdecyduje inaczej. Dodatkowo wpływa na testy oparte na Sile, dodając do Kość Karną,
+Stan ten w swoim działaniu przypomina nieco krwawienie, jednak jego zniwelowanie wymaga użycia antidotum. Standardowa utrata punktów wytrzymałości wynosi 1 pkt na rundę, chyba że Los zdecyduje inaczej. Dodatkowo wpływa na testy oparte na Sile, dodając do nich Pechową Kość.
 
 ### Podpalenie
 
@@ -108,10 +108,15 @@ Standardowe obrażenia od ognia powodują utratę 1 pkt wytrzymałości na rund�
 
 ### Przemarznięcie
 
-Kiedy temperatura ciała spada, Wędrowiec traci jeden dodatkowy punkt wytrzymałości co rundę. W skrajnych przypadkach (np. potężna śnieżyca, wpadnięcie do lodowatej wody) obrażenia od zimna w każdej rundzie mogą wynieść 1-3. Przemarznięcie wpływa negatywnie na testy oparte na Zręczności, dodając do nich Kość Karną.
+Kiedy temperatura ciała spada, Wędrowiec traci jeden dodatkowy punkt wytrzymałości co rundę. W skrajnych przypadkach (np. potężna śnieżyca, wpadnięcie do lodowatej wody) obrażenia od zimna w każdej rundzie mogą wynieść 1-3. Przemarznięcie wpływa negatywnie na testy oparte na Zręczności, dodając do nich Pechową Kość.
 
 ### Porażenie
 
-Porażenie błyskawicą zadaje dodatkowy 1 pkt obrażeń w każdej rundzie (w wyjątkowych sytuacjach 2-3) i wpływa negatywnie na rzucanie czarów oraz inne umiejętności oparte na Intelekcie. Postać nie jest w stanie skoncentrować się wystarczająco, przez co każdy rzut wykonuje z Kością Karną.
+Porażenie błyskawicą zadaje dodatkowy 1 pkt obrażeń w każdej rundzie (w wyjątkowych sytuacjach 2-3) i wpływa negatywnie na rzucanie czarów oraz inne umiejętności oparte na Intelekcie. Postać nie jest w stanie skoncentrować się wystarczająco, przez co każdy rzut wykonuje z Pechową Kością.
 
-To oczywiście tylko przykładowe stany - nic nie stoi na przeszkodzie, by Los lub sami gracze, dodali własne.
+### Śmierć
+Śmierć stanowi ryzyko wpisane w życie Wędrowca. Liczne walki, eksploracja nieznanych terenów i magiczne eksperymenty - za wszystko to można niekiedy zapłacić najwyższą cenę. Choć Los nie powinien karać Wędrowców natychmiastową śmiercią za przeoczenie prostej pułapki, czy zjedzenie zatrutych jagód, skok w przepaść może skończyć się tragicznie. Wędrowiec, którego witalność spadnie do zera, nie może wykonywać jakiejkolwiek akcji. 
+
+Może jednak poświęcić całą swoją determinację, by opóźnić śmierć o jedną (i tylko jedną) turę. To daje szansę pozostałym członkom drużyny na uleczenie go. Jeśli nikt tego nie zrobi lub Wędrowiec nie może zapłacić punktami **[DET]**, umiera.
+
+Gracz może oczywiście kontynuować rozgrywkę, tworząć nową postać, której ścieżkę Los skrzyżuje z drużyną, która z pewnością nie pogardzi dobytkiem trupa.

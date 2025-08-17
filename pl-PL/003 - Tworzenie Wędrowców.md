@@ -1,11 +1,14 @@
 # Tworzenie Wędrowców
 
-## Atrybuty
 Tworzenie własnej postaci to dla wielu graczy jeden z najistotniejszych elementów rozgrywki. Nic w tym dziwnego, w końcu w tym tkwi spora część piękna RPG. Przejdźmy zatem do sedna.
 
 Wędrowców ów opisuje sześć głównych cech, znanych dalej jako Atrybuty. Każdy z nich wpływa bezpośrednio na umiejętności, zakres ruchu, a także rozwój Punktów Witalności oraz Mistycznej Energii podczas awansów.
 
-Określanie wartości atrybutów jest bardzo proste. Każdy z nich ustala się za pomocą dwóch rzutów **3d6**, wybierając wyższy wynik. Oczywiście Los może zezwolić na dodatkowe przerzucenie szczególnie niskich (poniżej 5) wyników, by zachować odpowiedni balans postaci w drużynie.
+Określanie wartości atrybutów jest bardzo proste i można to zrobić na dwa sposoby. 
+
+### Metoda podwójnego rzutu
+
+Każdy atrybut ustala się za pomocą dwóch rzutów **3d6**, wybierając wyższy wynik. Oczywiście Los może zezwolić na dodatkowe przerzucenie szczególnie niskich (poniżej 5) wyników, by zachować odpowiedni balans postaci w drużynie.
 
 **Przykład:**
 Gracz losuje wartość Siły, wykonując dwie serie rzutów trzema kostkami d6:
@@ -13,13 +16,17 @@ Gracz losuje wartość Siły, wykonując dwie serie rzutów trzema kostkami d6:
 - Pierwsza seria: 1 + 5 + 2 = 8
 - Druga seria 3 + 5 + 6 = 14
 
-Wyższym wynikiem jest 14 i taka też jest bazowa wartość jego siły. 
+Wyższym wynikiem jest 14 i taka też jest bazowa wartość jego siły. Przy użyciu tej metody, nie ma możliwości ręcznego dostosowania wartości atrybutów - wynik rzutu jest wiążący.
+
+### Metoda puli punktów
 
 Bywa tak, że gracze chcą ręcznie dostosować wartości poszczególnych atrybutów. W takim wypadku można użyć odmiennej metody polegającej na wykonaniu sześciu rzutów **3d6**. Ich suma utworzy pulę punktów do rozdzielenia między atrybuty. Istotne jest, by minimalna wartość każdego atrybutu mieściła się w przedziale 3-18. Jest to podyktowane dalszymi modyfikacjami atrybutów, opierającymi się o wiek oraz pochodzenia bohatera.
 
 **Przykład:**
 S - 14, KON - 15, ZW - 7, INT - 10, MDR - 12, UR - 6
 Łącznie 64 punkty. Gracz decyduje się odjąć 2 pkt od Mądrości i dołożyć po jednym do Siły oraz Kondycji. Suma to nadal 64 pkt. więc taki zabieg jest dozwolony.
+
+## Atrybuty
 
 ### Siła [S]
 
@@ -136,7 +143,7 @@ Chociaż okrutny czas mają już za sobą, niekiedy wciąż można spotkać się
 
 **Modyfikacje:** Bestiaci mogą rozdysponować dodatkowe 2 punktów między dowolne atrybuty, odejmując jedynie 1 z innego wybranego.
 
-## Witlaność
+## Witalność
 
 Określa punkty życia Twojej postaci, czyli ilość obrażeń, jakie jest w stanie wytrzymać, nim jej przygoda się zakończy. Obliczanie Punktów Witalności to nic innego jak dodanie do siebie wartości Siły i Kondycji oraz podzielenie wyniku przez dwa, zaokrąglając w dół.
 

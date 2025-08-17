@@ -23,7 +23,7 @@ Towarzysz posiada następujące cechy:
 
 Każde zwierzę posiada określone umiejętności, z których może korzystać na identycznych zasadach jak Wędrowcy.
 
-Dodatkowo opis każdego z nich zawiera punkty wytrzymałości, zakres ruchu, siłę oraz modyfikator ataku, a także pancerz. Podczas walki stany, jak powalenie, czy krwawienie funkcjonują podobnie jak u ludzi.
+Dodatkowo opis każdego z nich zawiera punkty witalnośi, zakres ruchu, siłę oraz modyfikator ataku, a także pancerz. Podczas walki stany, jak powalenie, czy krwawienie funkcjonują podobnie jak u ludzi.
 
 Karta Postaci Twojego Wędrowca zawiera specjalną sekcję, dedykowaną statystykom towarzysza.
 
@@ -41,13 +41,13 @@ Towarzysze, podobnie jak Wędrowcy, nie mogą forsować rzutów w walce.
 
 ### Odpoczynek
 
-Towarzysze odzyskują wytrzymałość i determinację na podobnych zasadach jak Wędrowcy. Podczas krótkiego odpoczynku mogą przywrócić 3 punkty wytrzymałości, a w trakcie pełnego połowę wytrzymałości i pełnię determinacji. Dla zwierząt nie mają jednak zastosowania udogodnienia - wychowały się w dziczy i to ona jest ich domem. Podobnie jak w przypadku Wędrowców, skrajnie wyczerpane zwierzę, również może potrzebować nieco dłuższego odpoczynku, by w pełni wrócić do zdrowia.
+Towarzysze odzyskują witalność i determinację na podobnych zasadach jak Wędrowcy. Podczas krótkiego odpoczynku mogą przywrócić 3 punkty witalności, a w trakcie pełnego połowę zdrowia i pełnię determinacji. Dla zwierząt nie mają jednak zastosowania udogodnienia - wychowały się w dziczy i to ona jest ich domem. Podobnie jak w przypadku Wędrowców, skrajnie wyczerpane zwierzę, również może potrzebować nieco dłuższego odpoczynku, by w pełni wrócić do zdrowia.
 
 ### Rozwój
 
 Zwierzęta mają ograniczone zdolności nauki, dlatego też ich rozwój przebiega nieco inaczej i jest ściśle powiązany z pracą przewodnika. Towarzysz sam nie zdobywa doświadczenia, natomiast na każde 5 poziomów Wędrowca może rozwinąć wybrany atrybut i jedną umiejętność o 1 punkt.
 
-Przysługuje mu również zwiększenie punktów wytrzymałości, wedle posiadanej kondycji.
+Przysługuje mu również zwiększenie punktów witalności, wedle posiadanej kondycji.
 
 - **[KON]** < 8 --> +1 pkt 
 - **[KON]** 8-15 --> +2 pkt 

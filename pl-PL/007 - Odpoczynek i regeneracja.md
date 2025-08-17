@@ -6,11 +6,11 @@ Wyróżniamy dwa rodzaje odpoczynku:
 
 ### Krótki odpoczynek
 
-Krótka pauza pozwalająca złapać oddech na szlaku. Nie jest najlepszym z możliwych rozwiązań, ale... lepsze to niż nic. Podczas krótkiego odpoczynku Wędrowcy mogą zregenerować 3 punkty wytrzymałości.
+Krótka pauza pozwalająca złapać oddech na szlaku. Nie jest najlepszym z możliwych rozwiązań, ale... lepsze to niż nic. Podczas krótkiego odpoczynku Wędrowcy mogą zregenerować 3 punkty witalności.
 
 ### Pełny odpoczynek
 
-Kilka godzin wytchnienia lub po prostu przespana noc. Pozwala zregenerować połowę punktów wytrzymałości i tyle samo punktów mistycznej energii. Podczas długiego odpoczynku Wędrowcy odzyskują również całość determinacji.
+Kilka godzin wytchnienia lub po prostu przespana noc. Pozwala zregenerować połowę punktów witalności i tyle samo punktów mistycznej energii. Podczas długiego odpoczynku Wędrowcy odzyskują również całość determinacji.
 
 Los powinien wziąć jednak pod uwagę stan szczególnie wyczerpanych Wędrowców, znajdujących się na skraju śmierci. Ich pełna regeneracja może być nieco bardziej wymagająca. Należy też pamiętać, że utracone kończyny zwykle nie odrastają samoczynnie.
 
@@ -44,6 +44,6 @@ Wytrwali, najbardziej zawzięci Wędrowcy mogą jednak zignorować kości karne,
 
 **Przykład:**
 
-- 1 dzień bez odpoczynku - 1 kość karna / 1 pkt **[DET]**
+- 1 dzień bez odpoczynku - 1 Kość Pecha / 1 pkt **[DET]**
 - 2 dni - 2 kości karne / 2 pkt **[DET]**
 - 3 dni - 3 kości karne  / 3 pkt **[DET]**
