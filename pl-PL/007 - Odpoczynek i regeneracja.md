@@ -45,5 +45,5 @@ Wytrwali, najbardziej zawzięci Wędrowcy mogą jednak zignorować kości karne,
 **Przykład:**
 
 - 1 dzień bez odpoczynku - 1 Kość Pecha / 1 pkt **[DET]**
-- 2 dni - 2 kości karne / 2 pkt **[DET]**
-- 3 dni - 3 kości karne  / 3 pkt **[DET]**
+- 2 dni - 2 Kości Pecha / 2 pkt **[DET]**
+- 3 dni - 3 Kości Pecha  / 3 pkt **[DET]**

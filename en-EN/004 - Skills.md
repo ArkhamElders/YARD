@@ -105,7 +105,7 @@ The art of diplomacy has saved many adventurers from serious consequences. Negot
 
 The last, especially important for Yardans, is animal empathy. It's a mix of empathy, clear signals, and behaviors that build bonds with creatures like wolves or falcons.
 
-**In combat:** A Wanderer with an animal companion and a high level in this skill (over 70%) can take an extra action per round, using the moves available to their animal.
+**In combat:** A Wanderer with an animal companion and a high level in this skill (over 14 pts) can take an extra action per round, using the moves available to their animal.
 
 ## General
 
@@ -123,7 +123,7 @@ Practical use of a Wanderer's strength. Lets you drag, lift, and throw heavy obj
 ### Keep Moving
 **Base Attribute:** Constitution **[CON]**
 
-Years of training under master teachers let heroes keep going without looking back. Whether climbing, leaping chasms, swimming lakes, or riding nonstop, a skill over 70% lets you ignore **1 point** of elemental damage while traveling (not in combat).
+Years of training under master teachers let heroes keep going without looking back. Whether climbing, leaping chasms, swimming lakes, or riding nonstop, a skill over 14 pts lets you ignore **1 point** of elemental damage while traveling (not in combat).
 
 ### Something from Nothing
 **Base Attribute:** Wisdom **[WIS]**
@@ -144,7 +144,7 @@ Where ordinary strength fails, fury appears. A Wanderer in a rage can smash any 
 
 Getting into hard-to-reach places, sneaking, and dodging blows all require skill. Catlike Agility can sometimes substitute for classic Roguery, especially when a baron's purse needs a new owner. In trouble, it can also help you escape.
 
-**In combat:** When attacked, you can declare a dodge. With this skill over 70%, you can automatically dodge by spending **[DET]** equal to the attacker's success level. Passing a Catlike Agility test before combat works like a sneak attack and gives you a Bonus Die **[BD]** to attack.
+**In combat:** When attacked, you can declare a dodge. With this skill over 70%, you can automatically dodge by spending **[DET]** equal to the attacker's success level. Passing a Catlike Agility test before combat works like a sneak attack and gives you a Chance Die **[CD]** to attack.
 
 *Failure means losing an extra point of determination.*
 
@@ -153,7 +153,7 @@ Getting into hard-to-reach places, sneaking, and dodging blows all require skill
 
 The primal instinct to protect the pack from danger. Falling rocks, stray arrows, burning homes—a defender will try to save their companions, even at the cost of their own life.
 
-**In combat:** At any time, a defender can shield an ally with their own body. Spend 1 determination [DET]. If successful, you take all physical damage, using your armor to reduce it.
+**In combat:** At any time, a defender can shield an ally with their own body. Spend 1 determination **[DET]**. If successful, you take all physical damage, using your armor to reduce it.
 
 *Failure in a defense test during combat means losing an extra point of determination. The ally you tried to protect takes normal damage.*
 
@@ -169,7 +169,7 @@ A strong mind can not only wield ancient magic but also resist it. If legends ar
 ### Shamanic Circle
 **Base Attribute:** Wisdom **[WIS]**
 
-Unlike mages, shamans don't need to learn spells from books or scrolls. Their power comes from the deity they worship. They can also make healing brews and poisons using only plants they find.
+Unlike mages, shamans don't need to learn spells. Their power comes from the deity they worship. They can also make healing brews and poisons using only plants they find.
 
 **In combat:** The shaman spends 2 **[DET]**, then draws a magic circle on the ground, where ancient energy gathers through prayer. If successful, the deity blesses the shaman, doubling the result of damage/healing.
 
@@ -178,7 +178,7 @@ Unlike mages, shamans don't need to learn spells from books or scrolls. Their po
 ### Survival
 **Base Attribute:** Constitution **[CON]**
 
-Survival skills are especially useful on long journeys. They let you set up camp without a tent and light a fire in tough conditions. Unlike Keep Moving, there's no required skill level to reduce damage (1 point) from extreme temperatures. A successful test also lets you recover 3 extra health points outside combat.
+Survival skills are especially useful on long journeys. They let you set up camp without a tent and light a fire in tough conditions. Advancing the skill above 14 points allows you to ignore 1 point of damage from fire, cold, or poison. A successful test also lets you recover 3 extra health points outside combat.
 
 ### Tracker
 **Base Attribute:** Intelligence **[INT]**
@@ -190,7 +190,7 @@ A true hunter stays alert in every situation. Easily spots hidden enemies, hears
 
 Who doesn't love tavern songs and heroic tales spun by silver-tongued bards? Playing an instrument or singing can be a great way to earn money, especially in a strange city. The right tune can also lift spirits, restoring 2 extra determination points.
 
-**In combat:** A basic bard song can inspire allies, giving them a Bonus Die. It can also disrupt enemy concentration (Penalty Die). A true virtuoso can do much more—just declare a specific song and spend 1 **[DET]** to help allies or weaken foes.
+**In combat:** A basic bard song can inspire allies, giving them a Chance Die. It can also disrupt enemy concentration (Misfortune Die). A true virtuoso can do much more—just declare a specific song and spend 1 **[DET]** to help allies or weaken foes.
 
 *Failure in combat means losing an extra point of determination, and the song has the opposite effect.*
 

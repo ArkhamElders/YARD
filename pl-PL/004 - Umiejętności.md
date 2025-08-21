@@ -103,7 +103,7 @@ Dotyczy nie tylko kradzieży, czy fałszerstwa ale także blefowania. Nie każdy
 
 **Cecha bazowa:** Urok **[UR]**
 
-Sztuka dyplomacji uratowała niejednego śmiałka przed poważnymi konsekwencjami swoich czynów. Negocjatorzy to także urodzeni kupcy, potrafiący wytargować najlepsze towary za kilka marnych groszy. W odróżnieniu od Blefu, umiejętność ta polega na mówieniu prawdy i nie niesie ze sobą ryzyka rozgniewania rozmówcy.
+Sztuka dyplomacji uratowała niejednego śmiałka przed poważnymi konsekwencjami swoich czynów. Negocjatorzy to także urodzeni kupcy, potrafiący wytargować najlepsze towary za kilka marnych groszy. W odróżnieniu od łotrowskiego blefu, umiejętność ta polega na mówieniu prawdy i nie niesie ze sobą ryzyka rozgniewania rozmówcy.
 
 ### Rozumienie zwierząt
 
@@ -111,7 +111,7 @@ Sztuka dyplomacji uratowała niejednego śmiałka przed poważnymi konsekwencjam
 
 Ostatnią, szczególnie dla Yardan, istotną umiejętnością, jest rozumienie zwierząt. Stanowi swoiste połączenie empatii, jasnych komunikatów oraz zachowań pozwalających na budowanie więzi np. z wilkiem lub sokołem.
 
-**Podczas walki:** Wędrowiec posiadający zwierzęcego towarzysza oraz wysoki poziom tej umiejętności (pow. 70%), może wykonać dodatkową akcję w rundzie, w ramach ruchów dostępnych dla danego zwierzęcia. 
+**Podczas walki:** Wędrowiec posiadający zwierzęcego towarzysza oraz wysoki poziom tej umiejętności (pow. 14 pkt), może wykonać dodatkową akcję w rundzie, w ramach ruchów dostępnych dla danego zwierzęcia. 
 
 ## Ogólne
 
@@ -131,7 +131,7 @@ Stanowi praktyczne zastosowanie siły Wędrowca. Pozwala przeciągać, podnosić
 
 **Cecha bazowa:** Kondycja **[WYT]**
 
-Wieloletnie treningi pod okiem wybitnych mistrzów pozwalają Bohaterom przeć naprzód, bez oglądania się za siebie. Wszystko jedno, czy przyjdzie im się wspinać, skakać nad rozpadlinami, pokonywać wpław jeziora, czy jechać konno bez postoju. Rozwinięcie umiejętności pow. 70% pozwala także ignorować **1 pkt** obrażeń od żywiołów podczas wędrówki (nie w walce).
+Wieloletnie treningi pod okiem wybitnych mistrzów pozwalają Bohaterom przeć naprzód, bez oglądania się za siebie. Wszystko jedno, czy przyjdzie im się wspinać, skakać nad rozpadlinami, pokonywać wpław jeziora, czy jechać konno bez postoju. Rozwinięcie umiejętności pow. 14 pkt. pozwala także ignorować **1 pkt** obrażeń od żywiołów podczas wędrówki (nie w walce).
 
 ### Coś z niczego
 
@@ -155,7 +155,7 @@ Tam, gdzie nie wystarcza zwykła siła, pojawia się furia. Wędrowiec, który w
 
 Zaglądanie do trudnodostępnych miejsc, skradanie i unikanie ciosów wymaga umiejętności. Kocia zwinność może niekiedy stanowić zastępstwo dla klasycznego łotrostwa, szczególnie gdy sakiewka napotkanego barona musi nagle zmienić właściciela. W razie kłopotów może również służyć do ratowania się ucieczką.
 
-**Podczas walki:** Zaatakowany gracz może zadeklarować unik. Wędrowiec z umiejętnością rozwiniętą pow. 70% może automatycznie uniknąć ciosu, poświęcając liczbę punktów **[DET]**, równą poziomowi sukcesu atakującego. Zdany test Kociej zwinności przed walką działa jak atak z ukrycia i daje Wędrowcowi kość premowią do ataku **[KP]**.
+**Podczas walki:** Zaatakowany gracz może zadeklarować unik. Wędrowiec z umiejętnością rozwiniętą pow. 70% może automatycznie uniknąć ciosu, poświęcając liczbę punktów **[DET]**, równą poziomowi sukcesu atakującego. Zdany test Kociej zwinności przed walką działa jak atak z ukrycia i daje Wędrowcowi szczęśliwą kość do ataku **[KS]**.
 
 *Niepowodzenie skutkuje utratą dodatkowego punktu determinacji.*
 
@@ -165,7 +165,7 @@ Zaglądanie do trudnodostępnych miejsc, skradanie i unikanie ciosów wymaga umi
 
 Pierwotny instynkt nakazujący chronić stado przed niebezpieczeństwem. Spadający głaz, zabłąkana strzała, czy płonące domostwo - obrońca nawet za cenę życia będzie starał się ocalić pobratymców. 
 
-**Podczas walki:** W dowolnym momencie starcia, obrońca może własnym ciałem zasłonić towarzysza. Aby podjąć próbę, gracz poświęca 1 pkt determinacji [DET]. Jeśli próba się powiedzie, Wędrowiec gracza przyjmuje na siebie wszystkie obrażenia fizyczne, rozpatrując je zgodnie z posiadanym pancerzem. 
+**Podczas walki:** W dowolnym momencie starcia, obrońca może własnym ciałem zasłonić towarzysza. Aby podjąć próbę, gracz poświęca 1 pkt determinacji **[DET]**. Jeśli próba się powiedzie, Wędrowiec gracza przyjmuje na siebie wszystkie obrażenia fizyczne, rozpatrując je zgodnie z posiadanym pancerzem. 
 
 *Niepowodzenie w teście obrony podczas walki, Wędrowiec traci dodatkowy punkt determinacji. Towarzysz, którego próbował ochronić dostaje normalne obrażenia.*
 
@@ -183,7 +183,7 @@ Silny umysł potrafi nie tylko biegle władać pradawną magią, ale też skutec
 
 **Cecha bazowa:** Mądrość **[MDR]**
 
-W odróżnieniu od magów, szamani nie muszą uczyć się zaklęć z ksiąg lub zwojów. Ich moc pochodzi bowiem od bóstwa, które czczą. Potrafią także przyrządzać lecznicze napary i trucizny, korzystając wyłącznie z roślin, które znajdą pod ręką.
+W odróżnieniu od magów, szamani nie muszą uczyć się zaklęć. Ich moc pochodzi bowiem od bóstwa, które czczą. Potrafią także przyrządzać lecznicze napary i trucizny, korzystając wyłącznie z roślin, które znajdą pod ręką.
 
 **Podczas walki:** Szaman poświęca 2 punkty **[DET]**, następnie kreśli na ziemi magiczny krąg, w którym dzięki modlitwie kumuluje się pradawna energia. Jeśli rzut się powiedzie, bóstwo błogosławi szamana podwajając wynik obrażeń / leczenia.
 
@@ -193,7 +193,7 @@ W odróżnieniu od magów, szamani nie muszą uczyć się zaklęć z ksiąg lub 
 
 **Cecha bazowa:** Kondycja **[WYT]**
 
-Umiejętność radzenia sobie w dziczy bywa szczególnie przydatna podczas długich wędrówek. Pozwala z łatwością rozbić obóz, bez potrzeby posiadania namiotu, a także rozpalić ognisko w mniej sprzyjających warunkach. W odróżnieniu od umiejętności Byle do przodu, nie ma tu wymaganego poziomu podczas redukcji obrażeń (1 pkt) pochodzących od skrajnej temperatury. Zakończony sukcesem test pozwala także na regenerację dodatkowych 3 punktów zdrowia poza walką.
+Umiejętność radzenia sobie w dziczy bywa szczególnie przydatna podczas długich wędrówek. Pozwala z łatwością rozbić obóz, bez potrzeby posiadania namiotu, a także rozpalić ognisko w mniej sprzyjających warunkach. Rozwinięcie umiejętności pow. 14 pkt pozwala zignorować 1 pkt obrażeń od ognia, zimna lub trucizny. Zakończony sukcesem test pozwala także na regenerację dodatkowych 3 punktów zdrowia poza walką.
 
 ### Tropiciel
 
@@ -207,7 +207,7 @@ Prawdziwy łowca zachowuje czujność w każdej sytuacji. Z łatwością dostrze
 
 Któż z nas nie kocha karczmianych przyśpiewek i bohaterskich historii snutych przez złotoustych bardów? Umiejętność grania na instrumencie lub śpiewu może stanowić doskonały sposób na zarobek, szczególnie w obcym mieście. Odpowiednia melodia może też dodać otuchy, regenerując dodatkowe 2 pkt. determinacji. 
 
-**Podczas walki:** Podstawowa pieśń barda może zagrzewać towarzyszy do boju, dając im kość premiową. Może także skutecznie utrudniać koncentrację przeciwnikom drużyny (kość karna). Prawdziwy wirtuoz potrafi jednak znacznie więcej - wystarczy, że Wędrowiec zadeklaruje konkretną pieśń i poświęci 1 pkt **[DET]**, aby wspomóc towarzyszy lub osłabić wroga.
+**Podczas walki:** Podstawowa pieśń barda może zagrzewać towarzyszy do boju, dając im Szczęśliwą Kość. Może także skutecznie utrudniać koncentrację przeciwnikom drużyny (Kość Pecha). Prawdziwy wirtuoz potrafi jednak znacznie więcej - wystarczy, że Wędrowiec zadeklaruje konkretną pieśń i poświęci 1 pkt **[DET]**, aby wspomóc towarzyszy lub osłabić wroga.
 
 *Niepowodzenie w walce skutkuje utratą dodatkowego punktu determinacji, a pieśń przynosi efekt odwrotny do zamierzonego.*
 
