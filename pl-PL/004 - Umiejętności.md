@@ -44,7 +44,7 @@ Przy niektórych umiejętnościach znajdziesz dodatkowy zapis informujący o zas
 
 - Arkana [INT]
 - Precyzyjne uderzenie [ZW]
-- Walka bezpośrednia [S]
+- mocny cios [S]
 
 ### Wpływ
 
@@ -83,7 +83,7 @@ Sama znajomość zaklęć i rytuałów nikogo nie uczyni magiem. Można przestud
 
 To poniekąd umiejętność kończenia walki nim ta na dobre się zacznie. Celny strzał lub cios pod żebro potrafi wykluczyć z pojedynku nawet największego śmiałka. Choć większość ludzi uważa takie metody za domenę łotrów, yardańscy myśliwi mają zgoła odmienne zdanie. Zapewne ta właśnie umiejętność czyni ich najlepszymi łowcami w całych krainach.
 
-### Walka bezpośrednia
+### Mocny cios
 
 **Cecha bazowa:** Siła **[S]**
 

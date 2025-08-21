@@ -58,10 +58,10 @@ Besides standard items, there are also stronger, magic-infused versions and powe
 
 Next to each name, you'll find the item's size, helping you manage inventory space.
 
-[M] – Small item
+[S] – Small item
 [L] – Large item
 
-Ammo, herbs, potions, and scrolls need special containers or pouches, so they don't have their own size. Nobody sane carries arrows loose.
+It's usually best to keep bullets, herbs, potions, and scrolls in a special container or bag. Nobody sane carries arrows loose.
 
 ## Weapons
 
@@ -73,13 +73,13 @@ Also note the standard Condition caused by a critical hit with each weapon/ammo.
 
 ### Ranged Weapons
 
-|Name            |Range  |Damage  |Attribute|Condition   |Price Buy/Sell    |
-|---             |---    |---     |---      |---         |---               |
-|Short Bow       |40 m   |1       |[AGI]    |-           |10/5              |
-|Long Bow        |80 m   |2       |[STR]    |-           |30/15             |
-|Standard Arrow  |-      |2       |-        |Bleeding    |2/1               |
-|Crossbow        |20 m   |2       |[AGI]    |-           |30/15             |
-|Standard Bolt   |-      |2       |-        |Bleeding    |2/1               |
+|Name                   |Range  |Damage  |Attribute|Condition   |Price Buy/Sell    |
+|---                    |---    |---     |---      |---         |---               |
+|Short Bow [S]          |30 m   |1       |[AGI]    |-           |10/5              |
+|Long Bow [L]           |60 m   |2       |[STR]    |-           |30/15             |
+|Standard Arrow [S]     |-      |2       |-        |Bleeding    |2/1               |
+|Standard Crossbow [L]  |20 m   |2       |[AGI]    |-           |30/15             |
+|Standard Bolt [S]      |-      |2       |-        |Bleeding    |2/1               |
 
 After a fight, the shooter has 1d4 chances (Fate's roll) to recover ammo from fallen bodies.
 
@@ -89,15 +89,15 @@ The notation `- / STR` means the weapon can also be thrown at a range equal to S
 
 Some weapons require a specific Strength level to use effectively.
 
-|Name          |Range    |Damage  |Attribute|Condition   |Price B/S   |
-|---           |---      |---     |---      |---         |---         |
-|Club          |-        |2       |[AGI]    |Knocked Down|4/2         |
-|Spear         |- / STR  |3       |[STR]>8  |Bleeding    |10/5        |
-|Mace*         |-        |2       |[STR]    |Knocked Down|4/2         |
-|Dagger*       |- / AGI  |2       |[AGI]    |Bleeding    |10/5        |
-|Short Sword*  |-        |3       |[AGI]>10 |Bleeding    |20/10       |
-|Long Sword    |-        |4       |[STR]>12 |Bleeding    |30/15       |
-|Warhammer     |-        |4       |[STR]>14 |Knocked Down|40/20       |
+|Name             |Range    |Damage  |Attribute|Condition   |Price B/S   |
+|---              |---      |---     |---      |---         |---         |
+|Staff [L]        |-        |2       |[AGI]    |Knocked Down|4/2         |
+|Spear [L]        |- / STR  |3       |[STR]>8  |Bleeding    |10/5        |
+|Mace* [S]        |-        |2       |[STR]    |Knocked Down|4/2         |
+|Dagger* [S]      |- / AGI  |2       |[AGI]    |Bleeding    |10/5        |
+|Short Sword* [S] |-        |3       |[AGI]>10 |Bleeding    |20/10       |
+|Long Sword [L]   |-        |4       |[STR]>12 |Bleeding    |30/15       |
+|Warhammer [L]    |-        |4       |[STR]>14 |Knocked Down|40/20       |
 
 *Can be used for two-weapon fighting.
 
@@ -107,13 +107,13 @@ Besides weapons, it's wise to have armor or a shield to protect your Wanderer fr
 
 ### Types of Armor
 
-|Name              |Armor Points  |Min. Strength  |Price B/S   |
-|---               |---           |---            |---         |
-|Standard Helmet*  |1             |[STR]>8        |4/2         |
-|Wooden Shield     |2             |[STR]>10       |10/5        |
-|Leather Armor     |2             |[STR]>10       |20/10       |
-|Chainmail*        |4             |[STR]>14       |100/50      |
-|Plate Armor*      |6             |[STR]>16       |600/300     |
+|Name                 |Armor Points  |Min. Strength  |Price B/S   |
+|---                  |---           |---            |---         |
+|Standard Helmet* [S] |1             |[STR]>8        |4/2         |
+|Wooden Shield [L]    |2             |[STR]>10       |10/5        |
+|Leather Armor [L]    |2             |[STR]>10       |20/10       |
+|Chainmail* [L]       |4             |[STR]>14       |100/50      |
+|Plate Armor* [L]     |6             |[STR]>16       |600/300     |
 
 *Heavy armor and helmets make sneaking and spellcasting harder, giving a Penalty Die to skill tests based on Agility or Intelligence.
 
@@ -133,15 +133,15 @@ Weapons and armor aren't everything—Wanderers should bring extra gear for the 
 
 ### Potions and Herbs
 
-|Name                  |Effect                                                                   |Price B/S  |
-|---                   |---                                                                      |---        |
-|Vitality Potion       |Restores up to 8 [VP]                                                    |10/5       |
-|Mysticism Potion      |Restores up to 8 [ME]                                                    |10/5       |
-|Antidote              |Removes poison.                                                          |8/4        |
-|Leeches [M]           |Removes poison. Reusable. Can't be used in combat.                       |12/6       |
-|Healing Berries       |Restores 2 [VP]                                                          |4/2        |
-|Sage of the Seer      |Restores 2 [ME]                                                          |4/2        |
-|Wormwood              |Restores 2 [DET]                                                         |6/3        |
+|Name                  |Effect                                              |Price B/S  |
+|---                   |---                                                 |---        |
+|Vitality Potion       |Restores up to 8 [VP]                               |10/5       |
+|Mysticism Potion      |Restores up to 8 [ME]                               |10/5       |
+|Antidote              |Removes poison.                                     |8/4        |
+|Leeches [M]           |Removes poison. Reusable. Can't be used in combat.  |12/6       |
+|Healing Berries       |Restores 2 [VP]                                     |4/2        |
+|Sage of the Seer      |Restores 2 [ME]                                     |4/2        |
+|Wormwood              |Restores 2 [DET]                                    |6/3        |
 
 ### Food and Drink
 

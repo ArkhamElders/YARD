@@ -39,6 +39,8 @@ A Wanderer wishing to become a shaman must perform a ritual to submit to the god
 
 When casting shamanic spells, the Wanderer must be prepared for punishment in case of even the slightest failure. A critical failure in the test further intensifies the deity’s wrath.
 
+A shaman can also gain favor from a deity by praying to them at camp (while resting). This usually results in an automatic test pass, resistance to their first attack, or a temporary increase in resolve points, though one never quite knows what fate will bring. For every 5 levels, shaman automatically gains a 5% chance of favor (starting at 5th level). The favor test is up to Fate, who rolls a d20.
+
 ### Shamanic Magic Domains:
 - Fire – the oldest field, granting control over flames
 - Water – summon rain or... drain all water from an enemy’s body?
@@ -56,6 +58,8 @@ As mentioned, catalyzed magic works through crystals that literally become part 
 Each time a spell is cast, the mage pays not only the required amount of Mystic Energy, but also health—2 Vitality Points for every 5 caster levels. The mage may ignore the crystal’s hunger by sacrificing a number of determination points equal to their level.
 
 Unlike shamans, mages must brew potions from herbs to use them. This takes some time, but the extract is stronger and more effective (1 hour per potion).
+
+It sometimes happens that during their wanderings, a mage stumbles upon mysterious scrolls, imbued with ancient magic. The spells written on them are usually more powerful than standard ones. If the spell on the scroll belongs to a domain the mage knows, he can learn it. If not, he can cast the spell once or keep the scroll until he learn its domain. Regardless of whether the mage uses the spell or chooses to learn it, the scroll disintegrates after use.
 
 ### Crystal Magic Specializations:
 - Illusions – manipulate minds and alter perception of reality

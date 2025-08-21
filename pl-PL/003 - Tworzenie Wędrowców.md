@@ -151,7 +151,7 @@ Określa punkty życia Twojej postaci, czyli ilość obrażeń, jakie jest w sta
 
 ## Mistyczna Energia
 
-Dobry szaman, czy mag powinien nie tylko znać zaklęcia, ale też mieć wystarczająco sprawny umysł i odpowiednie umiejętności, by móc się nimi posługiwać. Dlatego wartość Punktów Mistycznej Energii stanowi suma wiedzy i inteligencji podzielona przez 2.
+Dobry szaman, czy mag powinien nie tylko znać zaklęcia, ale też mieć wystarczająco sprawny umysł i odpowiednie umiejętności, by móc się nimi posługiwać. Dlatego wartość Punktów Mistycznej Energii stanowi suma mądrości i intelektu podzielona przez 2.
 
 **Przykład:** Mądrość i inteligencja postaci wynoszą odpowiednio 16 oraz 12, łącznie 28. Dzieląc ten wynik przez 2, otrzymamy wartość Mistycznej Energii równą 14. W tym przypadku nie ma również potrzeby zaokrąglania wyniku.
 

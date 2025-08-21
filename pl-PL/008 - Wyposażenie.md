@@ -61,7 +61,7 @@ Obok nazw znajdziesz także informację dot. rozmiaru przedmiotu, która pozwoli
 [M] - Mały przedmiot
 [D] - Duży przedmiot
 
-Pociski, zioła, mikstury oraz zwoje wymagają specjalnego pojemnika lub sakwy do przechowywania, dlatego też nie posiadają własnego rozmiaru. W końcu nikt normalny nie nosi strzał luzem.
+Pociski, zioła, mikstury oraz zwoje zwykle lepiej trzymać w specjalnum pojemniku lub sakwie. W końcu nikt normalny nie nosi strzał luzem.
 
 ## Broń
 
@@ -73,13 +73,13 @@ Istotnym elementem jest również standardowy Stan, jaki powoduje krytyczne traf
 
 ### Broń dystansowa
 
-|Nazwa            |Dystans  |Obrażenia  |Atrybut|Stan       |Cena Kupna/Sprzedaży   |
-|---    	      |---	    |---	    |---	|---	    |---	                |
-|Krótki łuk       |40 m     |1  	    |[ZW] 	|-   	    |10/5     	            |
-|Długi łuk        |80 m	    |2      	|[S]  	|-   	    |30/15     	            |
-|Zwykła strzała   |-  	    |2      	|-   	|Krwawienie	|2/1       	            |
-|Kusza            |20 m	    |2      	|[ZW]  	|-   	    |30/15                  |
-|Zwykły bełt   	  |-  	    |2	        |-   	|Krwawienie |2/1                    |
+|Nazwa               |Dystans   |Obrażenia  |Atrybut|Stan       |Cena Kupna/Sprzedaży   |
+|---    	         |---	    |---	    |---	|---	    |---	                |
+|Krótki łuk [M]      |30 m      |1  	    |[ZW] 	|-   	    |10/5     	            |
+|Długi łuk [D]       |60 m	    |2      	|[S]  	|-   	    |30/15     	            |
+|Zwykła strzała [M]  |-  	    |2      	|-   	|Krwawienie	|2/1       	            |
+Standardowa Kusza [D]|20 m	    |2      	|[ZW]  	|-   	    |30/15                  |
+|Zwykły bełt [M]  	 |-  	    |2	        |-   	|Krwawienie |2/1                    |
 
 Po wygranej potyczce strzelec ma 1d4 szans (rzut Losu) na odzyskanie pocisków z ciał poległych.
 
@@ -89,15 +89,15 @@ Zapis `- / S` oznacza, że broń poza walką wręcz może również służyć ja
 
 Niektóre rodzaje broni wymagają też konkretnego poziomu siły, by móc jej swobodnie używać.
 
-|Nazwa          |Dystans    |Obrażenia  |Atrybut|Stan       |Cena K/S   |
-|---        	|---	    |---	    |---    	|---	    |---	    |
-|Kij            |-  	    |2  	    |[ZW]	    |Powalenie  |4/2     	|
-|Włócznia       |- / S      |3      	|[S] > 8	|Krwawienie |10/5     	|
-|Pałka*         |-  	    |2      	|[S]    	|Powalenie	|4/2      	|
-|Sztylet*       |- / ZW     |2      	|[ZW]   	|Krwawienie |10/5       |
-|Krótki miecz* 	|-  	    |3	        |[ZW] > 10  |Krwawienie |20/10      |
-|Długi miecz   	|-  	    |4	        |[S] > 12	|Krwawienie |30/15      |
-|Młot bojowy   	|-  	    |4	        |[S] > 14	|Powalenie  |40/20      |
+|Nazwa              |Dystans    |Obrażenia  |Atrybut    |Stan       |Cena K/S   |
+|---        	    |---	    |---	    |---    	|---	    |---	    |
+|Kij [D]            |-  	    |2  	    |[ZW]	    |Powalenie  |4/2     	|
+|Włócznia [D]       |- / S      |3      	|[S] > 8	|Krwawienie |10/5     	|
+|Pałka* [M]         |-  	    |2      	|[S]    	|Powalenie	|4/2      	|
+|Sztylet* [M]       |- / ZW     |2      	|[ZW]   	|Krwawienie |10/5       |
+|Krótki miecz* [M]	|-  	    |3	        |[ZW] > 10  |Krwawienie |20/10      |
+|Długi miecz [D]  	|-  	    |4	        |[S] > 12	|Krwawienie |30/15      |
+|Młot bojowy [D]  	|-  	    |4	        |[S] > 14	|Powalenie  |40/20      |
 
 *Możliwa walka z wykorzystaniem dwóch broni.
 
@@ -107,13 +107,13 @@ Poza bronią dobrze jeszcze mieć zbroję lub tarczę, które przynajmniej czę�
 
 ### Rodzaje pancerza
 
-|Nazwa              |Pkt. pancerza  |Min. Siła  |Cena K/S   |
-|---        	    |---	        |---	    |---	    |
-|Zwykły hełm*       |1  	        |[S] > 8    |4/2        |
-|Drewniana tarcza   |2              |[S] > 10  	|10/5	    |
-|Zbroja skórzana    |2  	        |[S] > 10   |20/10   	|
-|Kolczuga*          |4              |[S] > 14  	|100/50   	|
-|Zbroja płytowa*	|6  	        |[S] > 16   |600/300    |
+|Nazwa                 |Pkt. pancerza  |Min. Siła  |Cena K/S   |
+|---        	       |---	           |---	       |---	       |
+|Zwykły hełm* [M]      |1  	           |[S] > 8    |4/2        |
+|Drewniana tarcza [D]  |2              |[S] > 10   |10/5       |
+|Zbroja skórzana [D]   |2  	           |[S] > 10   |20/10      |
+|Kolczuga* [D]         |4              |[S] > 14   |100/50     |
+|Zbroja płytowa* [D]   |6  	           |[S] > 16   |600/300    |
 
 *Ciężkie zbroje i hełmy utrudniają skradanie i rzucanie zaklęć, dając kość karną do testów umiejętności, których podstawowym atrybutem jest Zwinność lub Intelekt. 
 
@@ -134,19 +134,19 @@ Broń i pancerze to nie wszystko - Wędrowcy mogą i powinni zabrać na każdą 
 ### Mikstury i zioła
 
 |Nazwa                  |Działanie                                                                  |Cena K/S  |
-|---            	    |---	                                                                    |---	   |
-|Mikstura wytrzymałości |Regeneruje maks. 8 [PW]                                                    |10/5      |
-|Mikstura mistycyzmu    |Regeneruje maks. 8 [ME]                                                    |10/5      |
-|Antidotum              |Usuwają truciznę.   	                                                    |8/4       |
-|Pijawki [M]            |Usuwają truciznę. Wielokrotnego użytku. Nie można korzystać podczas walki. |12/6      |
-|Lecznicze jagody	    |Regenerują 2 pkt [PW]  	                                                |4/2       |
-|Szałwia wieszcza       |Regenerują 2 pkt [ME]  	                                                |4/2       |
-|Piołun	                |Regenerują 2 pkt [DET]  	                                                |6/3       |
+|---            	        |---	                                                                    |---	   |
+|Mikstura wytrzymałości [M] |Regeneruje maks. 8 [PW]                                                    |10/5      |
+|Mikstura mistycyzmu [M]    |Regeneruje maks. 8 [ME]                                                    |10/5      |
+|Antidotum [M]              |Usuwają truciznę.   	                                                    |8/4       |
+|Pijawki [M]                |Usuwają truciznę. Wielokrotnego użytku. Nie można korzystać podczas walki. |12/6      |
+|Lecznicze jagody [M]	    |Regenerują 2 pkt [PW]  	                                                |4/2       |
+|Szałwia wieszcza [M]       |Regenerują 2 pkt [ME]  	                                                |4/2       |
+|Piołun [M]                 |Regenerują 2 pkt [DET]  	                                                |6/3       |
 
 ### Jedzenie i napoje
 
-|Nazwa                          |Działanie             |Cena K/S  |
-|---            	            |---	               |---	      |
+|Nazwa                          |Działanie                |Cena K/S  |
+|---            	            |---	                  |---	     |
 |Chleb [M]                      |Przywraca 2 pkt  [PW]    |2/1       |
 |Suszone mięso [M]              |Przywraca 4 pkt  [PW]    |6/3       |
 |Pieczona dziczyzna [M]         |Przywraca 6 pkt  [PW]    |10/5      |

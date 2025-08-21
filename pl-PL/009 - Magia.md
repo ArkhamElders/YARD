@@ -38,6 +38,8 @@ Wędrowiec chcący wybrać drogę szamana musi odprawić rytuał, w którym podp
 
 Rzucając szamańskie zaklęcia, Wędrowiec musi liczyć się z karą w przypadku choćby najmniejszego niepowodzenia. W przypadku nieudanej inkantacji, obrażone bóstwo może przykładowo unieruchomić Wędrowca, zesłać na niego chorobę lub odebrać część sił witalnych Krytyczna porażka w teście dodatkowo spotęguje gniew bóstwa.
 
+Szaman może dodatkowo uzyskać łaskę bóstwa, modląc się do niego w obozowisku (w trakcie odpoczynku). Zwykle jest to jeden automatycznie zdany test, odporność na pierwszy atak lub czasowe zwiększenie punktów determinacji, choć nigdy do końca nie wiadomo, co przyniesie Los. Na każde 5 poziomów, szaman zyskuje automatycznie 5% szans na łaskę (poczynając od piątego poziomu). Test łaski należy do Losu, który rzuca kością d20.
+
 ### Domeny magii szamanów:
 - Ogień - najstarsza dziedzina, dająca kontrolę nad płomieniami
 - Woda - a gdyby tak sprowadzić deszcz lub... wyssać całą wodę z ciała wroga?
@@ -55,6 +57,8 @@ Jak już wspomniano, magia katalizowana działa w oparciu o kryształy, które d
 Każdorazowe rzucenie zaklęcia kosztuje czarodzieja nie tylko odpowiednią liczbę punktów Mistycznej Energii, ale też zdrowie w postaci 2 PW na każde 5 poziomów rzucającego. Mag może jednak zignorować głód kryształu, poświęcając liczbę punktów determinacji, równą swojemu poziomowi.
 
 W odróżnieniu od szamanów, czarodzieje muszą przyrządzić z ziół mikstury, by móc ich używać. Zajmuje to trochę czasu, ale ekstrakt jest mocniejszy i ma lepsze działanie (1h / miksturę). Podobnie sprawa ma się z samym tworzeniem zaklęć. Mag potrzebuje czasu, by opracować i przetestować czar, którego później będzie mógł używać. Zwykle odbywa się to podczas odpoczynku - by to zrobić, czarownik musi zdać test wiedzy tajemnej.
+
+Bywa tak, że podczas wędrówki, mag natknie się na tajemnicze zwoje, przesączone starą magią. Zapisane na nich zaklęcia są zwykle potężniejsze, niż standardowe. Jeśli zaklęcie na zwoju pochodzi ze znanej magowi domeny, może się go nauczyć. Jeśli nie, może rzucić ten czar raz lub zachować zwój do momentu, aż pozna jego domenę. Bez względu na to, czy mag użyje zaklęcia, czy zdecyduje się go nauczyć, zwój rozpada się po użyciu.
 
 ### Specjalizacje magii kryształów:
 - Iluzje - manipulacja umysłami i zmiana postrzegania rzeczywistości 

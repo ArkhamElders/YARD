@@ -44,7 +44,7 @@ Some skills have extra notes about their use in combat and the consequences of f
 
 - Arcana [INT]
 - Precise Strike [AGI]
-- Melee Combat [STR]
+- Strong hit [STR]
 
 ### Influence
 
@@ -81,7 +81,7 @@ Knowing spells and rituals alone won't make you a mage. You can study every scro
 
 This is the art of ending a fight before it begins. A well-aimed shot or a stab to the ribs can take even the boldest foe out of the duel. Most people see these methods as the domain of rogues, but Yardish hunters have a different opinion. This skill is what makes them the best hunters in the land.
 
-### Melee Combat
+### Strong hit
 **Base Attribute:** Strength **[STR]**
 
 As local masters say... *"From the hammer—WHAM, goblin's done!"* There's a lot of truth in that. Melee combat is valued across the continent, and a good warrior can always expect a hefty reward. Sometimes it even helps in tough negotiations.
