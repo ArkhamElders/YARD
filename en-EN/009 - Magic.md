@@ -32,7 +32,6 @@ For spells outside of combat, let Fate decide the cost in Mystic Energy. After a
 
 ## Shamanism
 
-
 This is a manifestation of divine power. Shamanic magic is less stable than catalyzed magic. However, it allows unlimited use of nature’s gifts during recovery—as long as the shaman has the right herbs. There’s no need for time-consuming potion brewing.
 
 A Wanderer wishing to become a shaman must perform a ritual to submit to the gods’ will. Then, they may choose their first element. Every 5 levels, they may choose another.
@@ -51,7 +50,6 @@ A shaman can also gain favor from a deity by praying to them at camp (while rest
 - Divine Grace – a special kind of prayer, granting advanced healing and various resistances
 
 ## Catalyzed Magic
-
 
 As mentioned, catalyzed magic works through crystals that literally become part of the bearer. The crystal grows into the mage’s body, granting power in exchange for life energy. The mage chooses their first specialization, then may select another every 5 levels.
 

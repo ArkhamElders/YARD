@@ -49,7 +49,6 @@ Szaman może dodatkowo uzyskać łaskę bóstwa, modląc się do niego w obozowi
 - Przyzwanie bestii - moc kontrolowania istot, by służyły szamanowi
 - Łaska bogów - swoisty rodzaj modlitwy, mogącej zapewnić zaawansowane leczenie ran i rozmaite odporności
 
-
 ## Magia katalizowana
 
 Jak już wspomniano, magia katalizowana działa w oparciu o kryształy, które dosłownie stają się integralną częścią noszącego. Kryształ wrasta w ciało maga, dając mu moc w zamian za energię życiową. Mag określa swoją pierwszą specjalizację, następnie może wybrać kolejną co 5 poziomów.
