@@ -6,7 +6,7 @@ Na początku każdej tury walki należy ustalić kolejność, według której po
 
 Zdarzają się sytuacje, w których dochodzi do ataku z zaskoczenia. Ukryty w cieniu łotrzyk może zaatakować przeciwnika jeszcze przed rozpoczęciem walki i ustaleniem kolejności. W ramach przewagi, przysługuje mu także kość premiowa do ataku.
 
-W każdej turze Wędrowiec może wykonać dwie dowolne akcje:
+W każdej turze Wędrowiec może wykonać dwie dowolne akcje, ale tylko jedna z nich może być atakiem:
 - ruch
 - atak
 - unik lub kontratak
@@ -28,6 +28,8 @@ Walka z użyciem dwóch broni wymaga oddzielnego rzutu na każdą rękę oraz od
 
 W przypadku ataków przeprowadzanych z użyciem broni dystansowej, należy pamiętać, że broń dystansowa wymaga pocisków i sama z siebie stanowi jedynie modyfikator ataku. Lepszy łuk z pewnością pomoże, ale to strzały są nośnikiem obrażeń.
 
+Testów podczas walki nie można forsować.
+
 ### Łańcuch ataku
 
 Zdarza się tak, że gracz w ramach jednego ataku chciałby zaatakować kilku przeciwników jednocześnie lub wyprowadzić serię ciosów. Umożliwia mu to łańcuch ataku, czyli sekwencja następujących po sobie uderzeń. Jak to wygląda w praktyce?
@@ -39,7 +41,7 @@ Atak podstawowy >> Drugi atak - 1 pkt [DET] >> Trzeci atak - 2 pkt [DET] >> Czwa
 
 Łańcuch może zostać zakończony dobrowolnie lub przez porażkę w teście. W tym drugim przypadku postać musi się liczyć z konsekwencjami, które rosną z każdym kolejnym atakiem - od wystawienia się na bezpośredni kontratak, przez uszkodzenie broni, aż po... cóż, zostawmy to decyzji Losu.
 
-Testów podczas walki nie można forsować.
+Ze względu na długość inkantacji oraz możliwość tworzenia ataków obszarowych, magowie i szamani nie mogą korzystać z łańcucha ataków podczas rzucania zaklęć.
 
 ## Modyfikatory
 

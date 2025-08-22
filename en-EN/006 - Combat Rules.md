@@ -6,7 +6,7 @@ At the start of each combat round, determine the order in which characters will 
 
 Sometimes, a surprise attack occurs. A rogue hidden in the shadows may strike before combat begins and the order is set. As an advantage, they also gain a bonus die to their attack.
 
-Each turn, a Wanderer may perform two actions of their choice:
+Each turn, a Wanderer may perform two actions of their choice, but only one of them can be an attack:
 - move
 - attack
 - dodge or counterattack
@@ -28,6 +28,9 @@ Fighting with two weapons requires a separate roll for each hand and a sufficien
 
 For ranged attacks, remember that ranged weapons require ammunition and serve only as attack modifiers. A better bow helps, but it’s the arrows that deal damage.
 
+Tests during combat cannot be forced.
+
+
 ### Attack Chain
 
 Sometimes a player wishes to strike several opponents at once or unleash a flurry of blows in a single attack. This is possible with an attack chain—a sequence of consecutive strikes. How does it work?
@@ -39,7 +42,7 @@ Basic attack >> Second attack – 1 [DET] >> Third attack – 2 [DET] >> Fourth 
 
 The chain may end voluntarily or due to a failed test. In the latter case, the character faces consequences that grow with each attack—from exposure to a direct counterattack, to weapon damage, or... well, let Fate decide.
 
-Tests during combat cannot be forced.
+Due to the time needed for incantations and the ability to create area attacks, mages and shamans cannot use attack chains when casting spells.
 
 ## Modifiers
 

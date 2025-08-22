@@ -11,6 +11,8 @@ Chciałem też, by YARD nie był kolejną grą z podręcznikiem, mówiącym CO w
 
 Wreszcie... YARD, to coś więcej niż gra fantasy z motywem drogi o awanturniczym zabarwieniu. To świat, w którym tradycja i wiara ścierają się z nauką i nowoczesnością. Świat pełen konfliktów, uprzedzeń oraz intryg, sięgających wyżej niźli wpływy władców. Nic, co tu spotkasz, nie jest czarno-białe, a pojęcie dobra i zła jest względne. Przekonasz się o tym grając w dołączony scenariusz.
 
+To dość śmiertelna gra. Łatwo zginąć, szczególnie podczas pierwszych potyczek, kiedy Wędrowcy są równie słabi, co ich wyposażenie. Choć z czasem urosną w siłę na tyle, by zwykły goblin nie stanowił zagrożenia, muszą pamiętać, że za rogiem może czychać coś znacznie potężniejszego. To jedno z podstawowych założeń gry - nie ma łatwego trybu, a większa ryba zawsze się gdzieś znajdzie. Nie to żebym chciał się pastwić nad graczami... Po prostu lubię wymagającą rozgrywkę. Taką, w której trzeba myśleć i współpracować. Taką, w której bezpośrednia walka wcale nie musi być najlepszą opcją. Chciałem zastosować intuicyjne zasady i prostą mechanikę, by gracze mogli skupić się na wyzwaniach, czekających ich podczas eksploracji Aleoru.
+
 ## Garść pojęć
 
 Jak każda gra, tak i YARD posiada charakterystyczną dla siebie terminologię. Warto zapoznać się z nią już na samym początku, ponieważ ułatwi to dalsze czytanie.
@@ -29,7 +31,7 @@ Są to dodatkowe kości d20, mogące zmienić wynik rzutu na korzyść lub nieko
 
 ### Punkty Przełomu
 
-Punkty zdobywane za wykonywanie zadań fabularnych, zdobywanie wskazówek, walkę i wyjątkową kreatywność podczas sesji. Są bezpośrednim sposobem na uzyskanie awansu na kolejny poziom.
+Punkty zdobywane za wykonywanie zadań fabularnych, odkrywanie wskazówek, walkę i wyjątkową kreatywność podczas sesji. Są bezpośrednim sposobem na uzyskanie awansu na kolejny poziom.
 
 ### Determinacja
 

@@ -11,6 +11,8 @@ I also wanted YARD not to be just another game with a rulebook telling you WHAT 
 
 Finally... YARD is more than just a fantasy game with a road-trip, swashbuckling vibe. It's a world where tradition and faith clash with science and modernity. A world full of conflicts, prejudices, and intrigues that reach higher than the rulers' influence. Nothing you encounter here is black and white, and the idea of good and evil is always relative. You'll see for yourself when you play the included scenario.
 
+It is a rather deadly game. It’s easy to die, especially in those first encounters when Wanderers are as weak as their gear. While they’ll grow strong enough over time that a common goblin won’t be a big deal, they must always remember that something far more powerful could be lurking just around the corner. This is one of the game’s core principles—there’s no easy mode, and there’s always a bigger fish out there somewhere. It’s not that I enjoy tormenting players… I simply prefer a challenging adventures. One where you have to think and cooperate. One where direct combat isn’t always the best option. I wanted to use intuitive rules and a simple system, so players can focus on the challenges awaiting them as they explore Aleor.
+
 ## A Handful of Terms
 
 Like every game, YARD has its own unique terminology. It's worth getting familiar with it right from the start—it'll make reading much easier.
