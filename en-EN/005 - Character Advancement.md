@@ -33,10 +33,6 @@ Next to skills on the character sheet are dots used to mark success in a test. W
 **Example:**
 A character with 12 Endurance and 6 Wisdom gains 2 points of vitality and 1 point of mystic energy per level.
 
-Additionally, each advancement is a chance to learn a new spell. Wanderers have complete freedom of choice, but must remember that some spells may be too powerful to use yet (not enough **[ME]** points).
-
-More about using magic and shamanism can be found later in the handbook.
-
 ### Major Advancement
 
 Every five levels, a Wanderer may increase one chosen attribute by **1 point** and raise their total determination points by 2. Note that attribute growth affects the base level of basic skills and, in the case of Strength, carrying capacity. It also allows the use of more powerful weapons, which have minimum required levels of Strength / Agility / Intelligence.
@@ -46,3 +42,13 @@ Elves, if they choose to develop both shamanic and catalyzed magic simultaneousl
 Of course, during a major advancement, the standard character development from a minor advancement is also performed.
 
 Few Wanderers surpass the limits of human capability, but increasing attributes above 20 points is temporarily possible, both through spells and special mage potions.
+
+## Training Under the Masters
+
+Sometimes a Wanderer wishes to learn new skills he previously knew nothing about. In the cities of Aleor, one can find many masters willing to share a bit of their wisdom… But how does it work in practice?
+
+The duration of training equals the level of the skill being learned, and its cost is a thousand times the level, paid in silver.
+
+For example, to reach level 2 in Catlike Agility, a Wanderer must train under a master for two days and pay 2,000 silver coins. Advancing to level 3 will take another three days and cost an additional 3,000 silver. There is no way to jump directly from level 1 to level 3 or higher.
+
+In exceptional circumstances (usually dictated by the story), Fate may allow training to be cheaper or even free—perhaps as a reward for completing a quest. However, to avoid “buying stats,” training should only be possible up to level 5. Beyond that, Wanderers must learn on their own.

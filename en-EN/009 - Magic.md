@@ -10,7 +10,7 @@ Each Wanderer may use only one chosen path of magic. Only Yardans have no choice
 
 For all peoples except Yardans, it’s possible to renounce divine power or... convert—switching from shamanism to catalyzed magic and vice versa. The Wanderer must simply relinquish all their previous magic and survive a divine trial. What kind? Little is known, except that those who survive it often lose their mind and health.
 
-A mage or shaman who already possesses all domains within a type of magic continues to grow in power, though they no longer discover new fields. Their spells become more effective—each point of **[ME]** spent (or 2 points for area spells) grants 1 additional point of damage/healing/summoning per round.
+A mage or shaman who has mastered all domains within a type of magic continues to grow in power, though they no longer discover new fields. Their spells become more effective—each point of **[ME]** spent (or 2 points for area spells) grants 1 additional point of damage/healing/summoning per round.
 
 ## Spell Cost
 

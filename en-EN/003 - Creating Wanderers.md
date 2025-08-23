@@ -2,7 +2,7 @@
 
 Creating your own character is, for many players, one of the most important aspects of the game. It’s no wonder—this is where much of the magic of RPGs lies. So let’s get to the heart of it.
 
-Wanderers are defined by six main traits, known as Attributes. Each one directly affects skills, movement range, and the development of Vitality Points and Mystic Energy as your character advances.
+Wanderers are defined by six main traits, known as Attributes. Each one directly affects skills, movement range, and the development of Vitality Points and Mystic Energy as your character advances. When properly advanced (above 14 points), they also allow for an occasional special action (usually once per scenario)—you’ll find these described under each attribute.
 
 Determining attribute values is very simple and can be done in two ways.
 
@@ -32,21 +32,39 @@ Total: 64 points. The player decides to subtract 2 points from Wisdom and add 1 
 
 Represents the Wanderer’s physical prowess, ability to lift objects and wield weapons. It translates to dealing higher damage in melee combat and resisting attacks. It’s the primary trait of all warriors.
 
+**Special Action:**
+In a given turn, the Wanderer deals double damage. Outside of combat, they can destroy any object or barrier.
+
 ### Endurance [END]
 
 Determines your character’s stamina and resilience. It shows how long they can run or how resistant they are to damage. It’s invaluable for tireless adventurers and those who choose a life in the wild.
 
+**Special Action:**
+The Wanderer can ignore the effect of one condition or guarantee that their Vitality does not drop to zero in a given turn.
+
 ### Agility [AGI]
 The key attribute for master thieves and true hunters. Agility is needed wherever quick, precise strikes are required. In trouble, it also helps you escape to safety swiftly.
+
+**Special Action:**
+During combat, grants an additional attack in one turn or allows you to pass a Catlike Agility/Trickery test without rolling.
 
 ### Intelligence [INT]
 Mental strength and deductive ability are invaluable, both in negotiations and combat. A clever Wanderer will easily find a way out of even the toughest situation. It’s also the main trait for those who practice magic.
 
+**Special Action:**
+A single spell with a maximum cost equal to the caster’s current level does not consume Mystic Energy.
+
 ### Wisdom [WIS]
 Wisdom gained from studying tomes, divine blessings, and experience allows you to handle what others find incomprehensible. It lets you craft elixirs, repair weapons, and delve into the teachings of ancient masters.
 
+**Special Action:**
+Allows the Wanderer to receive an answer to any question asked of Fate or an encountered character.
+
 ### Charisma [CHA]
 A touch of personal charm can be extremely useful. It allows you to influence people, encountered beasts, and animals. Thanks to charisma, you’ll gain new allies and buy better gear for a bargain price.
+
+**Special Action:**
+Allows you to instantly and without a test change the attitude of any encountered character toward the Wanderer. Enemies become neutral, and indifferent beings start behaving in a friendly manner.
 
 ## Character Age
 

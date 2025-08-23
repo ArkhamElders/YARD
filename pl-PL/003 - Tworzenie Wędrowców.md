@@ -2,7 +2,7 @@
 
 Tworzenie własnej postaci to dla wielu graczy jeden z najistotniejszych elementów rozgrywki. Nic w tym dziwnego, w końcu w tym tkwi spora część piękna RPG. Przejdźmy zatem do sedna.
 
-Wędrowców ów opisuje sześć głównych cech, znanych dalej jako Atrybuty. Każdy z nich wpływa bezpośrednio na umiejętności, zakres ruchu, a także rozwój Punktów Witalności oraz Mistycznej Energii podczas awansów.
+Wędrowców opisuje sześć głównych cech, znanych dalej jako Atrybuty. Każdy z nich wpływa bezpośrednio na umiejętności, zakres ruchu, a także rozwój Punktów Witalności oraz Mistycznej Energii podczas awansów. Odpowiednio rozwinięte (pow. 14 pkt) pozwalają także na okazjonalne wykonanie akcji specjalnej (zwykle raz na scenariusz) - znajdziesz je w opisach samych atrybutów.
 
 Określanie wartości atrybutów jest bardzo proste i można to zrobić na dwa sposoby. 
 
@@ -32,21 +32,39 @@ S - 14, WYT - 15, ZW - 7, INT - 10, MDR - 12, UR - 6
 
 Reprezentuje tężyznę fizyczną Wędrowca, zdolność do podnoszenia przedmiotów i broni. Przekłada się na zdolność zadawania wysokich obrażeń podczas walki wręcz oraz odpierania ataków. Stanowi podstawową cechę wszystkich wojowników.
 
+**Akcja specjalna:**
+W danej turze Wędrowiec zadaje podwójne obrażenia. Poza walką może zniszczyć dowolny przedmiot lub blokadę.
+
 ### Wytrzymałość [WYT]
 
 Odpowiada za sprawność i wytrzymałość Twojej postaci. Określa jak długo jest w stanie biec lub jak bardzo jest odporna na zadawane obrażenia. Przydaje się także niestrudzonym poszukiwaczom przygód i tym, którzy wybrali życie w surowej dziczy.
 
+**Akcja specjalna:**
+Wędrowiec może zignorować działanie jednego stanu lub zagwarantować sobie, że w danej turze jego Witalność nie spadnie do zera.
+
 ### Zwinność [ZW]
 Podstawowy atrybut złodziejskiego mistrza i prawdziwego łowcy. Zwinność wymagana jest wszędzie tam, gdzie w grę wchodzą szybkie, precyzyjne uderzenia. W razie kłopotów pomaga też szybko ewakuować się w bezpieczny sposób.
+
+**Akcja specjalna:**
+Podczas walki zapewnia dodatkowy atak w jednej turze lub pozwala zdać test Kociej Zwinności/Łotrostwa bez rzutu.
 
 ### Intelekt [INT]
 Siła umysłu i zdolność dedukcji bywają nieocenione, zarówno podczas pertraktacji, jak i walki. Bystry Wędrowiec z łatwością znajdzie wyjście z najtrudniejszej nawet sytuacji. To także główna cecha osób parających się magią.
 
+**Akcja specjalna:**
+Pojedyncze zaklęcie o maksymalnym koszcie równym aktualnemu poziomowi rzucającego, nie zużywa Mistycznej Energii.  
+
 ### Mądrość [MDR]
 Mądrość wynikająca ze studiowania ksiąg, błogosławieństwa bóstw i doświadczenia pozwala sprawnie posługiwać się tym, co niezrozumiałe dla innych. Pozwala tworzyć eliksiry, naprawiać broń i zgłębiać nauki dawnych mistrzów.
 
+**Akcja specjalna:**
+Pozwala Wędrowcowi uzyskać odpowiedź na dowolne pytanie zadane Losowi lub napotkanej postaci.
+
 ### Urok [UR]
 Odrobina uroku osobistego bywa niezwykle przydatna. Pozwala wywierać wpływ na ludzi, napotkane bestie i zwierzęta. To właśnie dzięki charyzmie zdobędziesz nowych sojuszników i kupisz lepsze uzbrojenie za śmieszną cenę.
+
+**Akcja specjalna:**
+Pozwala natychmiast i bez testu zmienić nastawienie dowolnej napotkanej postaci względem Wędrowca. Wrogowie stają się neutralni, a obojętne istoty zaczynają zachowywać się przyjaźnie.
 
 ## Wiek postaci
 

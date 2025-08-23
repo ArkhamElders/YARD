@@ -10,7 +10,7 @@ Każdy Wędrowiec może posługiwać się wyłącznie jedną, wybraną przez sie
 
 Dla wszystkich ludów poza Yardanami możliwa jest rezygnacja z boskiej mocy lub... nawrócenie - przejście z szamanizmu na magię katalizowaną i odwrotnie. Wędrowiec musi jedynie zrzec się całej swojej dotychczasowej magii i przetrwać boską próbę. Jaką? Niewiele o niej wiadomo poza jednym - nieliczni, którzy ją przetrwali, w większości postradali rozum i zdrowie.
 
-Mag lub szaman posiadający już wszystkie domeny w obrębie danego rodzaju magii nadal rośnie w siłę, choć nie odkrywa już nowych dziedzin. Jego zaklecią stają się bardziej efektywne - każdy wydany punkt **[ME]** (lub 2 pkt w przypadku zaklęć obszarowych) to 1 dodatkowy punkt obrażeń / leczenia / runda przyzwania.
+Mag lub szaman, który całkowicie opanował wszystkie domeny w obrębie danego rodzaju magii nadal rośnie w siłę, choć nie odkrywa już nowych dziedzin. Jego zaklecią stają się bardziej efektywne - każdy wydany punkt **[ME]** (lub 2 pkt w przypadku zaklęć obszarowych) to 1 dodatkowy punkt obrażeń / leczenia / runda przyzwania.
 
 ## Koszt zaklęć
 

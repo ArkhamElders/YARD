@@ -33,10 +33,6 @@ Obok umiejętności na kartach postaci znajdują się kropki, służące do zazn
 **Przykład:**
 Postać posiadająca 12 pkt kondycji i 6 pkt wiedzy co poziom zdobywa 2 pkt wytrzymałości oraz 1 pkt mistycznej energii.
 
-Dodatkowo, każdy awans to szansa na poznanie nowego zaklęcia. Wędrowcy mają pełną dowolność wyboru, muszą jednak pamiętać, że na użycie niektórych zaklęć mogą być jeszcze zbyt słabi (niewystarczająca ilość punktów **[ME]**). 
-
-Więcej na temat korzystania z magii i szamanizmu znajdziesz w dalszej części podręcznika.
-
 ### Duży awans
 
 Co pięć poziomów Wędrowiec może rozwinąć jeden, wybrany przez siebie atrybut o **1 pkt** oraz zwiększyć całkowitą liczbę punktów determinacji o 2. Warto zauważyć, że rozwój atrybutów wpływa na bazowy poziom umiejętności podstawowych oraz, w przypadku Siły, na udźwig. Pozwala także korzystać z potężniejszych broni, które mają podstawowy wymagany poziom Siły / Zwinności / Intelektu.
@@ -46,3 +42,13 @@ Elfy, jeśli zdecydują się rozwijać jednocześnie magię szamańską i katali
 Oczywiście podczas dużego awansu wykonywane jest także standardowe rozwinięcie postaci z małego awansu.
 
 Niewielu Wędrowców przekracza granice ludzkich możliwości, niemniej zwiększenie atrybutów powyżej 20 pkt jest czasowo możliwe, zarówno poprzez zaklęcia, jak i specjalne mikstury magów. 
+
+## Szkolenie pod okiem mistrzów
+
+Bywa tak, że Wędrowiec chce poznać nowe umiejętności, o których do tej pory nie miał najmniejszego pojęcia. W miastach Aleoru można spotkać wielu mistrzów, gotowych podzielić się odrobiną swojej wiedzy... Jak to wygląda w praktyce? 
+
+Czas trwania szkolenia jest równy poziomowi zdobywanej umiejętności, a jego koszt stanowi tysiąckrotność poziomu, wyrażoną w srebrze.
+
+Przykładowo, chcąc zdobyć 2 poziom Kociej Zwinności, Wędrowiec musi zostać pod okiem mistrza przez dwa dni i zapłacić mu 2000 szt. srebra. Przejście na 3 poziom, zajmie kolejne trzy dni i będzie kosztowało dodatkowe 3000 szt. srebra. Nie ma możliwości bezpośredniego przeskoczenia z 1 na 3 lub wyższy poziom.
+
+W wyjątkowych okolicznościach (zwykle wynikających ze scenariusza) Los może sprawić, że szkolenie będzie tańsze lub nawet darmowe - np. w ramach nagrody za wykonane zadanie. By jednak uniknąć "kupowania statystyk", szkolenia powinny być możliwe maksymalnie do 5 poziomu. Reszty Wędrowcy muszą nauczyć się sami.
