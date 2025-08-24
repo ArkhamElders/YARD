@@ -16,7 +16,7 @@ Breakthrough Points are not divided among party members—regardless of the numb
 
 While combat is a good way to earn points, uncovering clues and completing assigned tasks is their most valuable source. Sometimes, a quest can be completed without drawing a weapon. Such solutions also deserve a reward. In this way, the GM can reward exceptional player creativity, while sparing everyone (especially themselves) the tedious calculation of experience points and unnecessary scaling in later stages of the game.
 
-## Advancement
+## Breakthroughs - Advancements
 
 As mentioned, each advancement requires five Breakthrough Points. That’s it.
 
@@ -52,3 +52,15 @@ The duration of training equals the level of the skill being learned, and its co
 For example, to reach level 2 in Catlike Agility, a Wanderer must train under a master for two days and pay 2,000 silver coins. Advancing to level 3 will take another three days and cost an additional 3,000 silver. There is no way to jump directly from level 1 to level 3 or higher.
 
 In exceptional circumstances (usually dictated by the story), Fate may allow training to be cheaper or even free—perhaps as a reward for completing a quest. However, to avoid “buying stats,” training should only be possible up to level 5. Beyond that, Wanderers must learn on their own.
+
+## Sparks
+
+A Wanderer with at least 15 points in a given attribute may attempt to gain one of the corresponding Sparks—passive abilities that grant a permanent bonus in the game. Each additional attribute point unlocks another Spark (15 points—one Spark, 16 points—two, 17 points—three, and so on, up to a maximum of 20 points).
+
+However, simply having the required attribute value is not enough to gain a passive ability. Sparks are, in a sense, a reward granted by Fate for exceptional achievements and engagement. Sometimes this might be a series of critical successes, other times a creative solution to a difficult situation, or executing a long chain of attacks.
+
+**Example:** 
+
+The party, deep in a cave, spots a large group of approaching goblins. Their numbers are overwhelming, and the Wanderers stand no chance in a direct fight. One of them, a shaman named Vayler, notices numerous stalactites hanging from the rocky ceiling. He decides to hurl an explosive fireball at them, hoping the falling rocks will neutralize at least some of the enemies.
+
+Vayler rolls for Arcana... the die shows 1—critical success. The goblins are crushed by the falling stalactites. A clever solution with a bit of luck deserves a reward. Vayler may choose which Intelligence Spark to unlock.

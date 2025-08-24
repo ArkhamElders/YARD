@@ -16,7 +16,7 @@ Punkty Przełomu nie są rozdzielane pomiędzy członków drużyny - bez względ
 
 Chociaż walka jest dobrym sposobem na zdobywanie punktów, to odkrywanie wskazówek oraz wykonywanie powierzonych zadań stanowi ich najcenniejsze źródło. Niekiedy może się bowiem okazać, że zadanie da się wykonać bez wyciągania broni. Takie rozwiązanie również zasługuje na nagrodę. W ten sposób MG może również nagradzać wyjątkową kreatywność graczy, jednocześnie oszczędzając wszystkim (przede wszystkim sobie) żmudnego przeliczania punktów doświadczenia i zbędnego skalowania w późniejszych etapach gry.
 
-## Awanse
+## Przełomy - Awanse
 
 Jak już wspomniano, każdy awans wymaga zdobycia pięciu Punktów Przełomu. Tyle.
 
@@ -52,3 +52,14 @@ Czas trwania szkolenia jest równy poziomowi zdobywanej umiejętności, a jego k
 Przykładowo, chcąc zdobyć 2 poziom Kociej Zwinności, Wędrowiec musi zostać pod okiem mistrza przez dwa dni i zapłacić mu 2000 szt. srebra. Przejście na 3 poziom, zajmie kolejne trzy dni i będzie kosztowało dodatkowe 3000 szt. srebra. Nie ma możliwości bezpośredniego przeskoczenia z 1 na 3 lub wyższy poziom.
 
 W wyjątkowych okolicznościach (zwykle wynikających ze scenariusza) Los może sprawić, że szkolenie będzie tańsze lub nawet darmowe - np. w ramach nagrody za wykonane zadanie. By jednak uniknąć "kupowania statystyk", szkolenia powinny być możliwe maksymalnie do 5 poziomu. Reszty Wędrowcy muszą nauczyć się sami.
+
+## Iskry
+
+Wędrowiec posiadający min. 15 pkt w danym atrybucie, może starać się zdobyć jedną z odpowiadających mu Iskier - pasywnych umiejętności, dających stały bonus w grze. Każdy kolejny punkt atrybutu, pozwala na odblokowanie następnej (15 pkt - jedna iskra, 16 pkt - dwie, 17 pkt - trzy itd. maksymalnie do 20 pkt).
+
+Aby zdobyć umiejętność pasywną, nie wystarczy jednak samo posiadanie odpowiedniej wartości atrybutu. Iskry to w pewnym sensie nagroda, przyznawana przez Los, za wyjątkowe osiągnięcia i zaangażowanie. Czasem może to być seria krytycznych sukcesów, innym razem kreatywne znalezienie wyjścia z trudnej sytuacji lub wykonanie długiego łańcucha ataku.
+
+**Przykład:**
+Drużyna znajdująca się w jaskini, dostrzega zbliżającą się znaczną grupę goblinów. Ich przewaga liczebna jest przytłaczająca, Wędrowcy nie mają szans w bezpośrednim starciu. Jeden z nich, szaman imieniem Vayler, dostrzega liczne, zwisające ze skalnego sufitu stalaktyty. Postanawia rzucić w nie wybuchającą kulę ognia, dzięki czemu spadną i być może unieszkodliwią przynajmniej część przeciwników.
+
+Vayler rzuca na Arkana... na kości wypada 1 - krytyk. Gobliny giną przygniecione skalnymi soplami. Pomysłowe rozwiązanie z odrobiną szczęścia zasługuje na nagrodę. Vayler może sobie wybrać, którą Iskrę Intelektu chce odblokować.
