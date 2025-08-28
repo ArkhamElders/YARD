@@ -63,3 +63,35 @@ Aby zdobyć umiejętność pasywną, nie wystarczy jednak samo posiadanie odpowi
 Drużyna znajdująca się w jaskini, dostrzega zbliżającą się znaczną grupę goblinów. Ich przewaga liczebna jest przytłaczająca, Wędrowcy nie mają szans w bezpośrednim starciu. Jeden z nich, szaman imieniem Vayler, dostrzega liczne, zwisające ze skalnego sufitu stalaktyty. Postanawia rzucić w nie wybuchającą kulę ognia, dzięki czemu spadną i być może unieszkodliwią przynajmniej część przeciwników.
 
 Vayler rzuca na Arkana... na kości wypada 1 - krytyk. Gobliny giną przygniecione skalnymi soplami. Pomysłowe rozwiązanie z odrobiną szczęścia zasługuje na nagrodę. Vayler może sobie wybrać, którą Iskrę Intelektu chce odblokować.
+
+### Iskry Siły
+
+### Iskry Wytrzymałości
+
+> **Nie umrę, nie dziś**
+>
+> Raz na pełnię księżyca (raz w miesiącu) Wędrowiec może zadeklarować, że korzysta z tej zdolności. Do końca bieżącej potyczki jego Punkty Witalności nigdy nie spadną poniżej 1 – niezależnie od tego, jak wielkie obrażenia otrzyma. Zdolność działa jak swoista tarcza: zamiast stracić przytomność lub zginąć, bohater zostaje przy życiu, choć może być na skraju wyczerpania.
+
+> **Jak po kaczce**
+>
+> Wędrowiec zyskuje częściową odporność na wybrany stan (np. Zatrucie, Podpalenie itp.). Od tego momentu wszelkie obrażenia lub kary wynikające z tego stanu są zmniejszone o 1 pkt. Wędrowiec wciąż może dostrzegać efekty stanu (np. nadpalona skóra), ale spływają one po nim… jak po kaczce. Wybranego stanu nie można zmienić w trakcie gry, podobnie jak nie można ponownie wybrać tej samej Iskry z odmiennym stanem.
+
+### Iskry Zwinności
+
+> **Szybszy od siebie samego**
+>
+> Ruchy Wędrowca zdają się wyprzedzać jego myśli, a przeciwnicy widzą jedynie tańczące między nimi ostrze. Raz na potyczkę Wędrowiec może uwolnić drzemiącą w nim pierwotną szybkość, by zyskać dodatkową akcję ataku w dowolnie wybranej przez siebie rundzie.  
+
+### Iskry Intelektu
+
+> **Na koszt Losu**
+>
+> Wybierając tę iskrę, szaman / mag przypisuje do niej jedno posiadane zaklęcie. W każdej potyczce może JEDEN RAZ rzucić je bez wydawania punktów Mistycznej Energii. W końcu rzucał je już tyle razy i zna tak dobrze, że słowa wypowiają się niemal same. Jak widać, czasem Los bywa łaskawy.
+
+### Iskry Mądrości
+
+> **Zapisane w gwiazdach**
+>
+> Raz w każdej fazie księżyca (czyli raz na tydzień) Wędrowiec może spojrzeć w niebo i odczytać z gwiazd odpowiedź na dowolne pytanie. Los musi odpowiedzieć szczerze, choć może to zrobić w nieoczywisty sposób. Pytanie może dotyczyć np. właściwej drogi, ukrytych zagrożeń albo prawdziwych intencji napotkanej postaci. Warunek: niebo musi być czyste i pełne gwiazd.
+
+### Iskry Uroku

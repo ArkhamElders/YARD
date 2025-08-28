@@ -44,6 +44,7 @@ Siła umysłu i zdolność dedukcji bywają nieocenione, zarówno podczas pertra
 
 ### Mądrość [MDR]
 Mądrość wynikająca ze studiowania ksiąg, błogosławieństwa bóstw i doświadczenia pozwala sprawnie posługiwać się tym, co niezrozumiałe dla innych. Pozwala tworzyć eliksiry, naprawiać broń i zgłębiać nauki dawnych mistrzów.
+
 ### Urok [UR]
 Odrobina uroku osobistego bywa niezwykle przydatna. Pozwala wywierać wpływ na ludzi, napotkane bestie i zwierzęta. To właśnie dzięki charyzmie zdobędziesz nowych sojuszników i kupisz lepsze uzbrojenie za śmieszną cenę.
 
