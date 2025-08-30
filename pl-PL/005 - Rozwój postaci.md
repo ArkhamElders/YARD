@@ -95,3 +95,7 @@ Vayler rzuca na Arkana... na kości wypada 1 - krytyk. Gobliny giną przygniecio
 > Raz w każdej fazie księżyca (czyli raz na tydzień) Wędrowiec może spojrzeć w niebo i odczytać z gwiazd odpowiedź na dowolne pytanie. Los musi odpowiedzieć szczerze, choć może to zrobić w nieoczywisty sposób. Pytanie może dotyczyć np. właściwej drogi, ukrytych zagrożeń albo prawdziwych intencji napotkanej postaci. Warunek: niebo musi być czyste i pełne gwiazd.
 
 ### Iskry Uroku
+
+> **Nazwa**
+>
+> Nieodparta charyzma i wdzięk Wędrowca pozwala mu raz na 3 dni wpłynąć na dowolną, humanoidalną postać, by zmienić jej nastawienie. Dzięki temu wróg staje się neutralny, a obojętny przywódca gildii nagle robi się przyjazny. Nie jest to jednak trwały stan i należy mieć na uwadze, że dalsze poczynania Wędrowca mogą ponownie pogorszyć relacje z napotkaną postacią. Iskra ta nie ma zastosowania wobec nieumarłych.
