@@ -66,6 +66,10 @@ Vayler rzuca na Arkana... na kości wypada 1 - krytyk. Gobliny giną przygniecio
 
 ### Iskry Siły
 
+> **Wilcza krew**
+>
+> Podczas pełni krew Wędrowca zaczyna szybciej krążyć, a ciało samo rwie się do walki. Choć jego naturalna siła nie zwiększa się, to jednak jest w stanie zadawać więcej obrażeń (+2 MOD). Wpływ księżyca jest tak duży, że Iskra działa również w pomieszczeniach i pod ziemią.
+
 ### Iskry Wytrzymałości
 
 > **Nie umrę, nie dziś**

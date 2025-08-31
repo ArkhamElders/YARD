@@ -44,7 +44,7 @@ Przy niektórych umiejętnościach znajdziesz dodatkowy zapis informujący o zas
 
 - Arkana [INT]
 - Precyzyjne uderzenie [ZW]
-- mocny cios [S]
+- Mocny cios [S]
 
 ### Wpływ
 
