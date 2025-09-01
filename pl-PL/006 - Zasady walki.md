@@ -61,7 +61,7 @@ Kontratak w YARD przebiega bardzo prosto:
 
 ## Fortel
 
-Poza standardowymi akcjami, możliwa jest również improwizacja, określana mianem fortelu. Wędrowiec może próbować ogłuszyć przeciwnika, zepchnąć go w przepaść lub wykonać w trakcie swojej tury inną, nietypową akcję. Ze względu na szeroki wachlarz możliwości, jaki daje ta akcja, Los powinien każdorazowo rozważyć warunki fortelu. Przykłady takich niestandardowych akcji znajdziesz w opisach niektórych umiejętności.
+Poza standardowymi akcjami, możliwa jest również improwizacja, określana mianem fortelu. Wędrowiec może próbować ogłuszyć przeciwnika, zepchnąć go w przepaść lub wykonać w trakcie swojej tury inną, nietypową akcję. Ze względu na szeroki wachlarz możliwości, jaki daje ta akcja, Los powinien każdorazowo rozważyć warunki fortelu.
 
 **Przykład**
 W trakcie walki, stojący na wyższym piętrze bohater chciałby zepchnąć na znajdujących się poniżej przeciwników, ciężką beczkę. Los warunkuje powodzenie fortelu udanym testem Atletyki. Jeśli test się powiedzie, a wrogowie nie wykonają uniku, otrzymają 4 pkt obrażeń oraz Stan: Powalenie.

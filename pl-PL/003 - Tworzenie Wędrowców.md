@@ -2,7 +2,7 @@
 
 Tworzenie własnej postaci to dla wielu graczy jeden z najistotniejszych elementów rozgrywki. Nic w tym dziwnego, w końcu w tym tkwi spora część piękna RPG. Przejdźmy zatem do sedna.
 
-Wędrowców opisuje sześć głównych cech, znanych dalej jako Atrybuty. Każdy z nich wpływa bezpośrednio na umiejętności, zakres ruchu, a także rozwój Punktów Witalności oraz Mistycznej Energii podczas awansów. Odpowiednio rozwinięte (począwszy od 15 pkt) pozwalają też na zdobywanie Iskier - pasywnych umiejętności, dających postaci stały bonus.
+Wędrowców opisuje sześć głównych cech, znanych dalej jako Atrybuty. Każdy z nich wpływa bezpośrednio na umiejętności, zakres ruchu, a także rozwój Punktów Witalności oraz Mistycznej Energii podczas awansów. Odpowiednio rozwinięte (począwszy od 15 pkt) pozwalają też na zdobywanie Iskier, o których przeczytasz w rozdziale dotyczącym rozwoju postaci.
 
 Określanie wartości atrybutów jest bardzo proste i można to zrobić na dwa sposoby. 
 

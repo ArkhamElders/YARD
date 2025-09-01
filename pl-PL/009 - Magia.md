@@ -63,7 +63,7 @@ Bywa tak, że podczas wędrówki, mag natknie się na tajemnicze zwoje, przesąc
 - Iluzje - manipulacja umysłami i zmiana postrzegania rzeczywistości 
 - Nekromancja - magia śmierci, pozwalająca kontrolować tych, którzy odeszli
 - Magia ognia - bliźniacza do tej znanej szamanom, jednak bardziej przewidywalna
-- Esencja - uwalnia prawdziwą moc kryształów, niektórzy twierdzą, że zbliżoną do błyskawic
+- Esencja - uwalnia prawdziwą moc kryształów, niektórzy twierdzą, że zbliżoną do boskiej
 - Mrok - podła dziedzina, przepełniona zgnilizną i strachem
 - Międzyświat - pozwala otwierać wrota do innych, niezbadanych wymiarów
 - Formowanie - daje moc konstruowania magicznych przedmiotów, budowli i istot

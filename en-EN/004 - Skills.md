@@ -1,204 +1,198 @@
 # Skills
 
-The abilities of Yardish Wanderers are chosen to reflect the actual skills of the characters. As mentioned at the start of the handbook, skill checks are resolved with a **d20** roll. To succeed, you must roll a value equal to or lower than your current skill level. If the roll is higher than your skill points, the test fails. There are also three special results:
+The abilities of Yardan Wanderers have been selected to reflect the actual skills of the characters. As mentioned at the beginning of the manual, skill tests are resolved using a **d20** roll. To succeed, you must roll a value equal to or lower than your current skill level. If the result is higher than your skill points, the test fails. There are also three special results:
 
-- hard success: half your skill value or less, but more than 1
+- hard success: half the skill value or less, but more than 1
 - critical success: a roll of 1
 - critical failure: a roll of 20
 
-A higher level of success usually means extra benefits for Wanderers. On a critical failure, expect unpleasant consequences.
+A higher level of success usually means benefits for Wanderers. In the case of a critical failure, they must expect unpleasant consequences.
 
-During their travels, Wanderers will meet many beings whose attributes and skills exceed 20 points. In such cases, failure is unlikely, but a roll of 20 is always a critical failure, no matter the skill value.
+During their journeys, Wanderers will encounter many beings whose attributes and skills exceed 20 points. In such cases, failure is unlikely. However, regardless of this value, a critical failure still occurs on a roll of 20.
 
 ### Combined Tests
 
-In special situations, Fate may ask a player to make a combined test. Simply put, these are two consecutive skill checks, and only passing both guarantees the planned action succeeds.
+In special situations, Fate may ask a player to perform a combined test. Simply put, these are two consecutive skill tests, and only passing both guarantees the planned action succeeds.
 
-### Assistance in Tests
+### Support in Tests
 
-Wanderers can assist the one making a skill check by giving them a Bonus Die. However, helpers must have the tested skill at a similar level (no more than 2 points lower than the main roller). Additionally, each helper spends one point of determination for every level of test difficulty: 1 point for normal, 2 for hard, 3 for critical. Assistance is only possible outside of combat.
+Wanderers can support the tester in their skill test by giving them the same bonus die. However, they must have the tested skill at an appropriate level, close (no more than 2 points lower) to the tester's level. Additionally, supporters spend one determination point for each difficulty level: 1 pt - normal, 2 pts - hard, 3 pts - critical. Support in skill tests is only possible outside of combat.
 
-**Example:** One Wanderer tries to light a campfire. Others help by gathering wood or shielding the fire from gusts of wind.
+**Example:** One Wanderer tries to light a campfire. Others help by gathering wood or shielding the fire from strong wind.
 
 ### Opposed Tests
 
-This special type of test is simply a comparison of two characters' skills. It's like arm wrestling, though you can test different skills depending on the situation. In opposed rolls, compare the level of success: critical beats hard, hard beats normal. The same applies to normal and critical failures. If the level of success is identical, the lower roll wins.
+This specific type of test is simply a comparison of the skills of two characters. It resembles an arm-wrestling match, though depending on the situation, different skills may be tested. In opposed rolls, levels of success are compared: critical beats hard, hard beats normal. The same applies to normal and critical failures. If the level of success is identical, the lower roll wins.
 
 **Example:**
-A Wanderer tries to hide in the bushes using Catlike Agility to avoid a fight. The opponent is an experienced hunter, tracking the prey with the Tracking skill. The Wanderer rolls a hard success on Catlike Agility, while the hunter gets only a normal success on Tracking. The Wanderer successfully hides from danger.
+A Wanderer tries to hide from an opponent in the bushes, using Catlike Agility to avoid combat. The opponent is an experienced hunter, trying to track the victim with Tracking. The Wanderer rolls a hard success on Catlike Agility, while the hunter only gets a normal success on Tracking. The Wanderer manages to hide from danger.
 
-## Pushing Your Luck
+## Pushing the Roll
 
-If a skill test fails, a Wanderer can push their luck by spending determination points. Depending on the test's difficulty, spend 1, 2, or 3 **[DET]** to try again—for normal, hard, and critical tests, respectively. Note: you can't push rolls during combat.
+If a skill test fails, a Wanderer can push the roll by spending determination points. Depending on the test's difficulty, they spend 1, 2, or 3 **[DET]** points to try again for normal, hard, and extreme (critical) tests, respectively. Importantly, rolls cannot be pushed during combat.
 
-If you fail again, you lose one extra point of determination, regardless of the test's difficulty, and Fate will inform you of the negative consequences. This could be damaging a valuable artifact or angering an NPC.
+If unsuccessful, the Wanderer loses one additional determination point, regardless of the test's difficulty, and Fate informs them of the negative consequences of pushing the roll. This could be, for example, damaging a valuable artifact or angering a person encountered.
 
 ## Skill List
-Skills are divided into three groups by usefulness. The first covers various combat styles. The next is for interpersonal skills, and the last is a set of general skills useful during travels in Aleor.
+Skills are divided by usefulness into three separate groups. The first concerns various combat methods. The next covers interpersonal skills, and the last is a collection of general skills useful during journeys across Aleor.
 
-During play, heroes should focus on describing what they want to do and how. The choice of skill test should always be decided by Fate—it may happen that a character tries trickery in conversation, even if they're not a typical rogue. Fate may then call for a Negotiation test, possibly increasing the difficulty. Other times, if a Wanderer is highly specialized, Fate may skip the test entirely.
+During gameplay, heroes should focus primarily on describing what and how they want to do. The choice of a possible skill test should always be decided by Fate—it may happen that a character wants to use trickery in conversation, even though they are not a typical rogue. Fate may then ask for a Negotiation test, possibly increasing the test's difficulty. At other times, considering the Wanderer's high specialization in a field, Fate may skip the test entirely.
 
-Some skills have extra notes about their use in combat and the consequences of failure. These are just EXAMPLES, showing possible creative uses. Players decide what they want to do, and Fate sets the conditions. The same applies outside combat—if your character specializes in fire magic, you don't need to light a campfire by hand—a simple spell will do.
+Most skills are also used in combat as tricks. Players decide what they want to do, and Fate sets the conditions. The same applies outside combat—if your character specializes in fire magic, they don't need to light a campfire manually—a simple spell will do the job.
 
 ### Combat
 
 - Arcana [INT]
 - Precise Strike [AGI]
-- Strong hit [STR]
+- Powerful Blow [STR]
 
 ### Influence
 
-- Roguery [AGI]
+- Threat [STR]
 - Negotiation [CHA]
-- Animal Empathy [CHA]
+- Animal Understanding [CHA]
 
 ### General Skills
 
 - Athletics [STR]
-- Keep Moving [CON]
+- Keep Moving [END]
 - Something from Nothing [WIS]
-- Fury [STR]
 - Catlike Agility [AGI]
-- Defender [CON]
+- Roguery [AGI]
+- Defense [END]
 - Magic Resistance [INT]
 - Shamanic Circle [WIS]
-- Survival [CON]
+- Survival [END]
 - Tracker [AGI]
 - Wandering Bard [CHA]
-- Secret Knowledge [WIS]
+- Arcane Knowledge [WIS]
 
 ## Combat
 
-Different fighting styles require different skills. Shooting a bow or sneaky dagger strikes need a keen eye and agility. Sword or warhammer fighting relies on raw strength, while mages and shamans use their knowledge. When creating your Wanderer, consider their traits and choose skills accordingly. After all, nothing's worse than a warrior too weak to lift his own sword.
+Different fighting styles require different skills. For example, shooting a bow or sneaky dagger strikes require a keen eye and agility. Fighting with a sword or warhammer relies mainly on strength, while mages and shamans use their acquired knowledge. When creating your Wanderer, consider their traits and choose appropriate skills. After all, nothing is worse than a warrior who lacks the strength to lift their own sword.
 
 ### Arcana
+
 **Base Attribute:** Intelligence **[INT]**
 
-Knowing spells and rituals alone won't make you a mage. You can study every scroll in the world, but still lack the mental strength to wield magic. Arcana is the skill of controlling spoken words and the power they unleash.
+Knowing spells and rituals alone does not make one a mage. You can study all the scrolls in the world, but still have a mind too weak to use magic effectively. Arcana is the skill of controlling spoken words and the power that flows from them.
 
 ### Precise Strike
+
 **Base Attribute:** Agility **[AGI]**
 
-This is the art of ending a fight before it begins. A well-aimed shot or a stab to the ribs can take even the boldest foe out of the duel. Most people see these methods as the domain of rogues, but Yardish hunters have a different opinion. This skill is what makes them the best hunters in the land.
+This is the skill of ending a fight before it truly begins. A well-aimed shot or a blow to the ribs can take even the bravest out of the duel. While most people see such methods as the domain of rogues, Yardan hunters have a different opinion. This skill makes them the best hunters in all the lands.
 
-### Strong hit
+### Powerful Blow
+
 **Base Attribute:** Strength **[STR]**
 
-As local masters say... *"From the hammer—WHAM, goblin's done!"* There's a lot of truth in that. Melee combat is valued across the continent, and a good warrior can always expect a hefty reward. Sometimes it even helps in tough negotiations.
+As local masters say... "From the hammer, WHAM, goblin dead!" There is much truth in this. Melee combat is valued across the continent, and a good warrior can always expect a generous reward. Sometimes it also helps in particularly tough negotiations.
 
 ## Influence
 
-Words are often more effective than steel, so every Wanderer should be as skilled with their tongue as with their sword. Here are the three most important skills for communicating with others.
+Words are often more effective than steel, so every Wanderer should be as skilled with language as with a sword. Below are the three most important skills used when communicating with encountered beings.
 
-### Roguery
-**Base Attribute:** Agility **[AGI]**
+### Threat
 
-Covers not just theft and forgery, but also bluffing. Not everyone approves, but it can help you avoid trouble... at least until someone catches you red-handed.
+**Base Attribute:** Strength **[STR]**
+
+As they say... if the strength of arguments fails, there's always the argument of strength. Intimidating encountered characters is usually not the best way to conduct dialogue, but it can be effective, especially with stubborn interlocutors.
 
 ### Negotiation
+
 **Base Attribute:** Charisma **[CHA]**
 
-The art of diplomacy has saved many adventurers from serious consequences. Negotiators are also born merchants, able to haggle for the best goods at rock-bottom prices. Unlike Bluff, this skill is about telling the truth and doesn't risk angering your conversation partner.
+The art of diplomacy has saved many adventurers from serious consequences. Negotiators are also born merchants, able to bargain for the best goods for a few coins. Oh... and one more thing—negotiations don't have to be fair, though unlike threats, they don't resort to force.
 
-### Animal Empathy
+### Animal Understanding
+
 **Base Attribute:** Charisma **[CHA]**
 
-The last, especially important for Yardans, is animal empathy. It's a mix of empathy, clear signals, and behaviors that build bonds with creatures like wolves or falcons.
+The last skill, especially important for Yardans, is animal understanding. It combines empathy, clear communication, and behaviors that build bonds, e.g., with a wolf or falcon.
 
-**In combat:** A Wanderer with an animal companion and a high level in this skill (over 14 pts) can take an extra action per round, using the moves available to their animal.
+**In combat:** A Wanderer with an animal companion and a high level of this skill (over 14 pts) can perform an additional action in a round, as part of the moves available to the animal.
 
 ## General
 
-The broadest group, covering the Wanderer's practical skills used during travels in Aleor. Some have extra options available in combat. Using them can often tip the scales in the party's favor.
+The broadest group, defining the actual skills of a Wanderer, used during journeys across Aleor. Some have additional options, also available in combat. Their use can often tip the scales of victory in the party's favor.
 
 ### Athletics
+
 **Base Attribute:** Strength **[STR]**
 
-Practical use of a Wanderer's strength. Lets you drag, lift, and throw heavy objects far. Well-developed (over 14 points) gives a Bonus Die **[BD]** when using Fury.
+Practical use of a Wanderer's strength. Allows dragging, lifting, and throwing heavy objects over long distances. Well-developed (over 14 pts) grants a bonus die **[BD]** when using Fury.
 
-**In combat:** A true athlete can push boulders, logs, and all kinds of improvised thrown weapons. They can also use them well—just spend 1 **[DET]** and pass a test. Damage depends on the item and is usually set by the GM.
+**In combat:** A true athlete can push rocks, logs, and any improvised thrown weapon. Moreover, they can use it well—just spend 1 **[DET]** point and pass the test. Damage depends on the item used and is usually determined by the GM.
 
-*Failure means losing an extra point of determination and taking normal damage.*
+*Failure results in losing an additional determination point and taking normal damage.*
 
 ### Keep Moving
-**Base Attribute:** Constitution **[CON]**
 
-Years of training under master teachers let heroes keep going without looking back. Whether climbing, leaping chasms, swimming lakes, or riding nonstop, a skill over 14 pts lets you ignore **1 point** of elemental damage while traveling (not in combat).
+**Base Attribute:** Endurance **[END]**
+
+Years of training under great masters allow Heroes to keep moving forward without looking back. Whether climbing, jumping over chasms, swimming across lakes, or riding without stopping. Well-developed (over 14 pts) also allows ignoring **1 pt** of elemental damage during travel (not in combat).
 
 ### Something from Nothing
+
 **Base Attribute:** Wisdom **[WIS]**
 
-The skill of making traps, improvised tools, and gear is invaluable, especially in the wild. Though it often requires gathering materials, the best practitioners can whip up something useful for the party on the spot.
-
-## Fury
-**Base Attribute:** Strength **[STR]**
-
-Where ordinary strength fails, fury appears. A Wanderer in a rage can smash any obstacle in their way. For a short time, they can also run twice as fast and far to catch their foe.
-
-**In combat:** After taking damage, a Wanderer can enter a fury to attack with double power. Spend 1 **[DET]** and declare fury before attacking. Damage is doubled and applies only to physical attacks.
-
-*Failure, in or out of combat, may cause you to attack the nearest character (odd roll result).* 
+The skill of constructing traps, makeshift tools, and other equipment is invaluable, especially in the wild. Although it often requires gathering necessary materials, the best adepts of this somewhat underrated art can quickly make something that helps the party more than expected.
 
 ### Catlike Agility
+
 **Base Attribute:** Agility **[AGI]**
 
-Getting into hard-to-reach places, sneaking, and dodging blows all require skill. Catlike Agility can sometimes substitute for classic Roguery, especially when a baron's purse needs a new owner. In trouble, it can also help you escape.
+Getting into hard-to-reach places, sneaking, and dodging blows requires skill. Catlike Agility can sometimes substitute for classic roguery, especially when a baron's purse needs a new owner. In trouble, it can also be used to escape.
 
-**In combat:** When attacked, you can declare a dodge. With this skill over 70%, you can automatically dodge by spending **[DET]** equal to the attacker's success level. Passing a Catlike Agility test before combat works like a sneak attack and gives you a Chance Die **[CD]** to attack.
+### Roguery
 
-*Failure means losing an extra point of determination.*
+**Base Attribute:** Agility **[AGI]**
 
-### Defender
-**Base Attribute:** Constitution **[CON]**
+Not a noble path, but well-paid. The powerful often use the services of rogues, thieves, and assassins to gain influence. A good rogue not only steals purses but also prepares the right poison. Traps? They hold no secrets for them.
 
-The primal instinct to protect the pack from danger. Falling rocks, stray arrows, burning homes—a defender will try to save their companions, even at the cost of their own life.
+### Defense
 
-**In combat:** At any time, a defender can shield an ally with their own body. Spend 1 determination **[DET]**. If successful, you take all physical damage, using your armor to reduce it.
+**Base Attribute:** Endurance **[END]**
 
-*Failure in a defense test during combat means losing an extra point of determination. The ally you tried to protect takes normal damage.*
+The primal instinct to protect the herd from danger. Falling rocks, stray arrows, or burning homes—a defender will try to save their kin, even at the cost of their own life. Of course, a Wanderer can also use this to block attacks aimed at themselves.
 
 ## Magic Resistance
+
 **Base Attribute:** Intelligence **[INT]**
 
-A strong mind can not only wield ancient magic but also resist it. If legends are true, shaman Kwentu passed all Lady Urune's trials thanks to this skill, earning a supernaturally long life.
-
-**In combat:** By spending **[DET]** equal to the difficulty level, a Wanderer can completely negate a magical attack on themselves or an ally.
-
-*Failed magic resistance means losing an extra point of determination, no matter the spell's level.*
+A strong mind can not only master ancient magic but also resist it. If legends are true, it was thanks to this skill that the shaman Kwentu passed all the trials of Lady Urune, who rewarded her with supernaturally long life.
 
 ### Shamanic Circle
+
 **Base Attribute:** Wisdom **[WIS]**
 
-Unlike mages, shamans don't need to learn spells. Their power comes from the deity they worship. They can also make healing brews and poisons using only plants they find.
-
-**In combat:** The shaman spends 2 **[DET]**, then draws a magic circle on the ground, where ancient energy gathers through prayer. If successful, the deity blesses the shaman, doubling the result of damage/healing.
-
-*Failure brings the deity's wrath. You take damage equal to the base roll and lose an extra point of determination.*
+Unlike mages, shamans do not need to learn spells. Their power comes from the deity they worship. They can also prepare healing brews and poisons using only plants at hand. Used for casting stronger healing spells in combat.
 
 ### Survival
-**Base Attribute:** Constitution **[CON]**
 
-Survival skills are especially useful on long journeys. They let you set up camp without a tent and light a fire in tough conditions. Advancing the skill above 14 points allows you to ignore 1 point of damage from fire, cold, or poison. A successful test also lets you recover 3 extra health points outside combat.
+**Base Attribute:** Endurance **[END]**
+
+The skill of surviving in the wild is especially useful during long journeys. Allows easy camp setup without a tent and lighting a fire in less favorable conditions. Well-developed (over 14 pts) allows ignoring 1 pt of damage from fire, cold, or poison. A successful test also allows regenerating 3 extra health points outside combat.
 
 ### Tracker
+
 **Base Attribute:** Intelligence **[INT]**
 
-A true hunter stays alert in every situation. Easily spots hidden enemies, hears faint sounds behind trees, and recognizes tracks others might miss. This skill also helps detect traps, which can save lives.
+A true hunter stays alert in every situation. Easily spots hidden enemies, hears faint sounds from behind a tree, and recognizes tracks others might miss. This skill also allows detecting traps, which can sometimes save lives.
 
 ### Wandering Bard
+
 **Base Attribute:** Charisma **[CHA]**
 
-Who doesn't love tavern songs and heroic tales spun by silver-tongued bards? Playing an instrument or singing can be a great way to earn money, especially in a strange city. The right tune can also lift spirits, restoring 2 extra determination points.
+Who doesn't love tavern songs and heroic tales told by silver-tongued bards? Playing an instrument or singing can be a great way to earn money, especially in a foreign city. The right melody can also boost morale, regenerating 2 extra determination points.
 
-**In combat:** A basic bard song can inspire allies, giving them a Chance Die. It can also disrupt enemy concentration (Misfortune Die). A true virtuoso can do much more—just declare a specific song and spend 1 **[DET]** to help allies or weaken foes.
+### Arcane Knowledge
 
-*Failure in combat means losing an extra point of determination, and the song has the opposite effect.*
-
-### Secret Knowledge
 **Base Attribute:** Wisdom **[WIS]**
 
-This skill is mainly for learning magic from scrolls, understanding old tomes, and knowing runes. With the right ingredients, you can also make potions and special glyphs that work as magical traps. Sometimes it lets you understand foreign, especially ancient, languages. To learn a new spell, a mage must pass a test, as must an inventor wanting to build fancy traps.
+This skill is mainly used for learning magic from scrolls, understanding old books, and knowing runes. It also allows, with the right ingredients, to prepare elixirs and special glyphs that work as magical traps. Sometimes it also helps understand foreign, especially ancient languages. To learn a new spell, a mage must pass a test, as must an inventor wanting to build elaborate traps.
 
 ## More Skills
 
-This handbook covers only the most important skills for free, simple gameplay. If you feel the need to add new, more specialized abilities, nothing stops you. It's your game—run it however you like. Just remember, too many skills can cause confusion, and simplicity encourages Wanderer creativity.
+The manual contains only the most important skills, allowing for free gameplay and simple mechanics. If you feel the need to add new, more specialized abilities, nothing stands in your way. It's your game, and you can run it as you wish. Just remember that too many skills can cause unnecessary confusion, and simplicity encourages Wanderers' creativity.

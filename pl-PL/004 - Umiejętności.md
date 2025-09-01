@@ -38,7 +38,7 @@ Umiejętności zostały podzielone wedle użyteczności na trzy odrębnę grupy.
 
 Podczas rozgrywki bohaterowie powinni przede wszystkim skupić się na opisaniu tego, co i w jaki sposób chcą zrobić. Dobór ewentualnego testu umiejętności winien być zawsze rozpatrywany przez Los - może się bowiem zdarzyć, że postać zechce uciec się do podstępu w rozmowie, choć nie jest typowym łotrem. Los może w takim wypadku poprosić o test Negocjacji, ewentualnie zwiększając poziom trudności testu. Innym razem, biorąc pod uwagę wysokie wyspecjalizowanie Wędrowca w danej dziedzinie, może natomiast całkowicie zrezygnować z testu.
 
-Przy niektórych umiejętnościach znajdziesz dodatkowy zapis informujący o zastosowaniu podczas walki oraz konsekwencji, w przypadku niepowodzenia. Są to jedynie PRZYKŁADOWE AKCJE, obrazujące możliwości niestandardowego zastosowania umiejętności. To gracze decydują co chcą zrobić, a Los określa warunki. Podobnie sytuacja wygląda poza walką - jeśli Twoja postać specjalizuje się w magii ognia, nie musi rozpalać ogniska ręcznie - proste zaklęcie załatwi sprawę.
+Większość umiejętności znajduje również zastosowanie podczas walki jako fortel. To gracze decydują co chcą zrobić, a Los określa warunki. Podobnie sytuacja wygląda poza walką - jeśli Twoja postać specjalizuje się w magii ognia, nie musi rozpalać ogniska ręcznie - proste zaklęcie załatwi sprawę.
 
 ### Walka
 
@@ -48,7 +48,7 @@ Przy niektórych umiejętnościach znajdziesz dodatkowy zapis informujący o zas
 
 ### Wpływ
 
-- Łotrostwo [ZW]
+- Groźba [ZW]
 - Negocjacje [UR]
 - Rozumienie zwierząt [UR]
 
@@ -57,9 +57,9 @@ Przy niektórych umiejętnościach znajdziesz dodatkowy zapis informujący o zas
 - Atletyka [S]
 - Byle do przodu [WYT]
 - Coś z niczego [MDR]
-- Furia [S]
 - Kocia zwinność [ZW]
-- Obrońca [WYT]
+- Łotrostwo [ZW]
+- Obrona [WYT]
 - Odparcie magii [INT]
 - Szamański krąg [MDR]
 - Sztuka przetrwania [WYT]
@@ -93,17 +93,17 @@ Jak mawiają lokalni mistrzowie rzemiosła... *„Z młota ŁUP, goblin trup!”
 
 Słowa niejednokrotnie bywają skuteczniejsze od stali, dlatego każdy Wędrowiec powinien równie biegle władać językiem, co mieczem. Poniżej znajdują się trzy najważniejsze umiejętności wykorzystywane podczas komunikacji z napotkanymi istotami.
 
-### Łotrostwo
+### Groźba
 
-**Cecha bazowa:** Zwinność **[ZW]**
+**Cecha bazowa:** Siła **[S]**
 
-Dotyczy nie tylko kradzieży, czy fałszerstwa ale także blefowania. Nie każdy pochwala tego typu zachowanie, ale można dzięki niemu uniknąć wielu problemów... Przynajmniej dopóki nikt Cię nie złapie za rękę.
+Jak to mówią... jeśli siła argumentów zawodzi, zawsze zostaje argument siły. Zastraszanie napotkanych postaci zwykle nie jest najlepszą opcją na prowadzenie dialogu, ale bywa skuteczne, szczególnie w przypadku wyjątkowo opornego rozmówcy.
 
 ### Negocjacje
 
 **Cecha bazowa:** Urok **[UR]**
 
-Sztuka dyplomacji uratowała niejednego śmiałka przed poważnymi konsekwencjami swoich czynów. Negocjatorzy to także urodzeni kupcy, potrafiący wytargować najlepsze towary za kilka marnych groszy. W odróżnieniu od łotrowskiego blefu, umiejętność ta polega na mówieniu prawdy i nie niesie ze sobą ryzyka rozgniewania rozmówcy.
+Sztuka dyplomacji uratowała niejednego śmiałka przed poważnymi konsekwencjami swoich czynów. Negocjatorzy to także urodzeni kupcy, potrafiący wytargować najlepsze towary za kilka marnych groszy. Ah... jeszcze jedno - negocjacje niekoniecznie muszą być uczciwe, choć w odróżnieniu od groźby, nie uciekają się do rozwiązań siłowych.
 
 ### Rozumienie zwierząt
 
@@ -139,35 +139,23 @@ Wieloletnie treningi pod okiem wybitnych mistrzów pozwalają Bohaterom przeć n
 
 Umiejętność konstruowania pułapek, prowizorycznych narzędzi i innego rodzaju sprzętu bywa nieoceniona, szczególnie w dziczy. Choć często wymaga zgromadzenia niezbędnych materiałów, najlepsi adepci tej nieco pogardzanej sztuki, potrafią dosłownie na poczekaniu zmajstrować coś, co może pomóc drużynie bardziej, niż się tego spodziewa.
 
-## Furia
-
-**Cecha bazowa:** Siła **[S]**
-
-Tam, gdzie nie wystarcza zwykła siła, pojawia się furia. Wędrowiec, który wpada w szał, może zniszczyć każdą przeszkodę, jaka stanie mu na drodze. Przez krótki czas jest również w stanie biec dwukrotnie szybciej i dalej, by dopaść swojego wroga.
-
-**Podczas walki:** Po otrzymaniu obrażeń, Wędrowiec może wpaść w furię, by zaatakować przeciwnika ze zdwojoną mocą. Aby to zrobić, poświęca 1 pkt **[DET]** i deklaruje furię przed wyprowadzeniem ataku. Obrażenia mnożonone są x2 i dotyczą wyłącznie ataków fizycznych.
-
-*Niepowodzenie rzutu zarówno podczas walki, jak i poza nią, może skutkować zaatakowaniem postaci znajdującej się najbliżej Wędrowca (nieparzysty wynik na kości).*
-
 ### Kocia zwinność
 
 **Cecha bazowa:** Zwinność **[ZW]**
 
 Zaglądanie do trudnodostępnych miejsc, skradanie i unikanie ciosów wymaga umiejętności. Kocia zwinność może niekiedy stanowić zastępstwo dla klasycznego łotrostwa, szczególnie gdy sakiewka napotkanego barona musi nagle zmienić właściciela. W razie kłopotów może również służyć do ratowania się ucieczką.
 
-**Podczas walki:** Zaatakowany gracz może zadeklarować unik. Wędrowiec z umiejętnością rozwiniętą pow. 70% może automatycznie uniknąć ciosu, poświęcając liczbę punktów **[DET]**, równą poziomowi sukcesu atakującego. Zdany test Kociej zwinności przed walką działa jak atak z ukrycia i daje Wędrowcowi szczęśliwą kość do ataku **[KS]**.
+### Łotrostwo
 
-*Niepowodzenie skutkuje utratą dodatkowego punktu determinacji.*
+**Cecha bazowa:** Zwinność **[ZW]**
 
-### Obrońca
+Mało to szlachetna ścieżka, choć dobrze opłacana. W końcu możni tego świata często korzystają z usług łotrów, złodziei i asasynów, by zdobywać wpływy. Dobry łotr nie tylko gwizdnie sakiewkę, ale też przygotuje odpowiednią truciznę. Pułapki? Te nie mają przed nim tajemnic.
+
+### Obrona
 
 **Cecha bazowa:** Kondycja **[WYT]**
 
-Pierwotny instynkt nakazujący chronić stado przed niebezpieczeństwem. Spadający głaz, zabłąkana strzała, czy płonące domostwo - obrońca nawet za cenę życia będzie starał się ocalić pobratymców. 
-
-**Podczas walki:** W dowolnym momencie starcia, obrońca może własnym ciałem zasłonić towarzysza. Aby podjąć próbę, gracz poświęca 1 pkt determinacji **[DET]**. Jeśli próba się powiedzie, Wędrowiec gracza przyjmuje na siebie wszystkie obrażenia fizyczne, rozpatrując je zgodnie z posiadanym pancerzem. 
-
-*Niepowodzenie w teście obrony podczas walki, Wędrowiec traci dodatkowy punkt determinacji. Towarzysz, którego próbował ochronić dostaje normalne obrażenia.*
+Pierwotny instynkt nakazujący chronić stado przed niebezpieczeństwem. Spadający głaz, zabłąkana strzała, czy płonące domostwo - obrońca nawet za cenę życia będzie starał się ocalić pobratymców. Oczywiście Wędrowiec może też odpierać w ten sposób ataki skierowane w jego stronę.
 
 ## Odparcie Magii
 
@@ -175,19 +163,11 @@ Pierwotny instynkt nakazujący chronić stado przed niebezpieczeństwem. Spadaj�
 
 Silny umysł potrafi nie tylko biegle władać pradawną magią, ale też skutecznie się jej opierać. Jeśli wierzyć podaniom, to dzięki tej umiejętności szamanka Kwentu przeszła kiedyś wszystkie próby Pani Urune, która w nagrodę za wysiłek pobłogosławiła ją nadnaturalnie długim życiem.
 
-**Podczas walki:** Za cenę punktów **[DET]**, równą poziomowi trudności sukcesu, Wędrowiec może całkowicie zniwelować działanie magicznego ataku na swoją osobę lub towarzysza.
-
-*Niezdany test odparcia ataku magicznego skutkuje utratą jednego dodatkowego punktu determinacji, bez względu na poziom zaklęcia.*
-
 ### Szamański krąg
 
 **Cecha bazowa:** Mądrość **[MDR]**
 
-W odróżnieniu od magów, szamani nie muszą uczyć się zaklęć. Ich moc pochodzi bowiem od bóstwa, które czczą. Potrafią także przyrządzać lecznicze napary i trucizny, korzystając wyłącznie z roślin, które znajdą pod ręką.
-
-**Podczas walki:** Szaman poświęca 2 punkty **[DET]**, następnie kreśli na ziemi magiczny krąg, w którym dzięki modlitwie kumuluje się pradawna energia. Jeśli rzut się powiedzie, bóstwo błogosławi szamana podwajając wynik obrażeń / leczenia.
-
-*Niepowodzenie rzutu zsyła na Wędrowca gniew bóstwa. Otrzymuje on obrażenia równe bazowemu rzutowi i traci dodatkowy punkt determinacji.*
+W odróżnieniu od magów, szamani nie muszą uczyć się zaklęć. Ich moc pochodzi bowiem od bóstwa, które czczą. Potrafią także przyrządzać lecznicze napary i trucizny, korzystając wyłącznie z roślin, które znajdą pod ręką. Służy też do rzucania silniejszych zaklęć leczniczych podczas walki.
 
 ### Sztuka przetrwania
 
@@ -207,10 +187,6 @@ Prawdziwy łowca zachowuje czujność w każdej sytuacji. Z łatwością dostrze
 
 Któż z nas nie kocha karczmianych przyśpiewek i bohaterskich historii snutych przez złotoustych bardów? Umiejętność grania na instrumencie lub śpiewu może stanowić doskonały sposób na zarobek, szczególnie w obcym mieście. Odpowiednia melodia może też dodać otuchy, regenerując dodatkowe 2 pkt. determinacji. 
 
-**Podczas walki:** Podstawowa pieśń barda może zagrzewać towarzyszy do boju, dając im Szczęśliwą Kość. Może także skutecznie utrudniać koncentrację przeciwnikom drużyny (Kość Pecha). Prawdziwy wirtuoz potrafi jednak znacznie więcej - wystarczy, że Wędrowiec zadeklaruje konkretną pieśń i poświęci 1 pkt **[DET]**, aby wspomóc towarzyszy lub osłabić wroga.
-
-*Niepowodzenie w walce skutkuje utratą dodatkowego punktu determinacji, a pieśń przynosi efekt odwrotny do zamierzonego.*
-
 ### Wiedza tajemna
 
 **Cecha bazowa:** Mądrość **[MDR]**
@@ -219,4 +195,4 @@ Zdolność służy przede wszystkim uczeniu się magii ze zwojów, pojmowaniu st
 
 ## Więcej umiejętności
 
-Podręcznik zawiera jedynie najważniejsze umiejętności, pozwalające na swobodną, możliwie prostą rozgrywkę. Jeśli uznasz za konieczne dodanie nowych, bardziej wyspecjalizowanych zdolności, nic nie stoi na przeszkodzie. To Twoja gra i możesz ją prowadzić jak tylko zechcesz. Pamiętaj tylko, że nadmiar umiejętności wprowadza niekiedy zbędne zamieszanie, a prostota sprzyja kreatywności Wędrowców.
+Podręcznik zawiera jedynie najważniejsze umiejętności, pozwalające na swobodną rozgrywkę i prostą mechanikę. Jeśli uznasz za konieczne dodanie nowych, bardziej wyspecjalizowanych zdolności, nic nie stoi na przeszkodzie. To Twoja gra i możesz ją prowadzić jak tylko zechcesz. Pamiętaj tylko, że nadmiar umiejętności wprowadza niekiedy zbędne zamieszanie, a prostota sprzyja kreatywności Wędrowców.

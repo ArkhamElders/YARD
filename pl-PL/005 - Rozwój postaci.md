@@ -55,9 +55,7 @@ W wyjątkowych okolicznościach (zwykle wynikających ze scenariusza) Los może 
 
 ## Iskry
 
-Wędrowiec posiadający min. 15 pkt w danym atrybucie, może starać się zdobyć jedną z odpowiadających mu Iskier - pasywnych umiejętności, dających stały bonus w grze. Każdy kolejny punkt atrybutu, pozwala na odblokowanie następnej (15 pkt - jedna iskra, 16 pkt - dwie, 17 pkt - trzy itd. maksymalnie do 20 pkt).
-
-Aby zdobyć umiejętność pasywną, nie wystarczy jednak samo posiadanie odpowiedniej wartości atrybutu. Iskry to w pewnym sensie nagroda, przyznawana przez Los, za wyjątkowe osiągnięcia i zaangażowanie. Czasem może to być seria krytycznych sukcesów, innym razem kreatywne znalezienie wyjścia z trudnej sytuacji lub wykonanie długiego łańcucha ataku.
+Wędrowiec posiadający min. 15 pkt w danym atrybucie, może starać się zdobyć jedną z odpowiadających mu Iskier - umiejętności, dających całkiem spory bonus w grze. Każdy kolejny punkt atrybutu, pozwala na odblokowanie następnej (15 pkt - jedna iskra, 16 pkt - dwie, 17 pkt - trzy itd. maksymalnie do 20 pkt).
 
 **Przykład:**
 Drużyna znajdująca się w jaskini, dostrzega zbliżającą się znaczną grupę goblinów. Ich przewaga liczebna jest przytłaczająca, Wędrowcy nie mają szans w bezpośrednim starciu. Jeden z nich, szaman imieniem Vayler, dostrzega liczne, zwisające ze skalnego sufitu stalaktyty. Postanawia rzucić w nie wybuchającą kulę ognia, dzięki czemu spadną i być może unieszkodliwią przynajmniej część przeciwników.
@@ -69,6 +67,12 @@ Vayler rzuca na Arkana... na kości wypada 1 - krytyk. Gobliny giną przygniecio
 > **Wilcza krew**
 >
 > Podczas pełni krew Wędrowca zaczyna szybciej krążyć, a ciało samo rwie się do walki. Choć jego naturalna siła nie zwiększa się, to jednak jest w stanie zadawać więcej obrażeń (+2 MOD). Wpływ księżyca jest tak duży, że Iskra działa również w pomieszczeniach i pod ziemią.
+
+> **Furia (I-III)**
+>
+> Tam, gdzie nie wystarcza zwykła siła, pojawia się furia. W jednej, wybranej rundzie potyczki Wędrowiec może zadać podwójne obrażenia. By to zrobić, deklaruje furię przed wyprowadzeniem ataku i poświęca 1 pkt **[DET]**. Działanie w gniewie ma jednak swoją cenę - nawet w przypadku sukcesu w teście, nieparzysty wynik na kości oznacza, że Wędrowiec zaatakował na oślep, raniąc najbliższego członka drużyny(w zasięgu max 4m).
+>
+> Furia jest Iskrą, którą można rozwijać, wybierając ją ponownie, gdy pojawi się taka możliwość. Pozwala to na wydłużenie szału o kolejną rundę (maksymalnie do trzech), za dodatkowy punkt Determinacji.
 
 ### Iskry Wytrzymałości
 
@@ -86,11 +90,19 @@ Vayler rzuca na Arkana... na kości wypada 1 - krytyk. Gobliny giną przygniecio
 >
 > Ruchy Wędrowca zdają się wyprzedzać jego myśli, a przeciwnicy widzą jedynie tańczące między nimi ostrze. Raz na potyczkę Wędrowiec może uwolnić drzemiącą w nim pierwotną szybkość, by zyskać dodatkową akcję ataku w dowolnie wybranej przez siebie rundzie.  
 
+> **Pudło!** 
+> 
+> Zaatakowany gracz może automatycznie uniknąć ciosu, poświęcając liczbę punktów **[DET]**, równą poziomowi sukcesu atakującego.
+
 ### Iskry Intelektu
 
 > **Na koszt Losu**
 >
 > Wybierając tę iskrę, szaman / mag przypisuje do niej jedno posiadane zaklęcie. W każdej potyczce może JEDEN RAZ rzucić je bez wydawania punktów Mistycznej Energii. W końcu rzucał je już tyle razy i zna tak dobrze, że słowa wypowiają się niemal same. Jak widać, czasem Los bywa łaskawy.
+
+> **Wchłonięcie czaru** 
+> 
+> Za cenę punktów **[DET]**, równą poziomowi sukcesu przeciwnika, Wędrowiec może całkowicie zniwelować działanie magicznego ataku, bez potrzeby wykonywania testu. Umiejętność tę można zastosować nie tylko wobec siebie, ale i członka drużyny.
 
 ### Iskry Mądrości
 
@@ -98,8 +110,20 @@ Vayler rzuca na Arkana... na kości wypada 1 - krytyk. Gobliny giną przygniecio
 >
 > Raz w każdej fazie księżyca (czyli raz na tydzień) Wędrowiec może spojrzeć w niebo i odczytać z gwiazd odpowiedź na dowolne pytanie. Los musi odpowiedzieć szczerze, choć może to zrobić w nieoczywisty sposób. Pytanie może dotyczyć np. właściwej drogi, ukrytych zagrożeń albo prawdziwych intencji napotkanej postaci. Warunek: niebo musi być czyste i pełne gwiazd.
 
+> **Boskie wspracie** 
+> 
+> Szaman poświęca 2 punkty **[DET]**, następnie kreśli na ziemi magiczny krąg, w którym dzięki modlitwie kumuluje się pradawna energia. Jeśli rzut się powiedzie, bóstwo błogosławi szamana podwajając wynik obrażeń / leczenia.
+> 
+> *Niepowodzenie rzutu zsyła na Wędrowca gniew bóstwa w formie połowy obrażeń bazowego rzutu.*
+
 ### Iskry Uroku
 
-> **Nazwa**
+> **Mój przyjacielu...**
 >
 > Nieodparta charyzma i wdzięk Wędrowca pozwala mu raz na 3 dni wpłynąć na dowolną, humanoidalną postać, by zmienić jej nastawienie. Dzięki temu wróg staje się neutralny, a obojętny przywódca gildii nagle robi się przyjazny. Nie jest to jednak trwały stan i należy mieć na uwadze, że dalsze poczynania Wędrowca mogą ponownie pogorszyć relacje z napotkaną postacią. Iskra ta nie ma zastosowania wobec nieumarłych.
+
+> **To ja coś zagram (I-III)**
+> 
+> Pieśń barda może zagrzewać towarzyszy do boju, dając im Szczęśliwą Kość. Może także skutecznie utrudniać koncentrację przeciwnikom drużyny (Kość Pecha). Wystarczy, że Wędrowiec zadeklaruje konkretną pieśń i poświęci 1 pkt **[DET]**, aby wspomóc towarzyszy lub osłabić wroga w jedne wybranej przez siebie turze każdej potyczki.
+>
+> Iskrę tę można rozwijać, by wydłużyć czas trwania pieśni (maksymalnie 3 tury), wykorzystując kolejne punkty determinacji.
